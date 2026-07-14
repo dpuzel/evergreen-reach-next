@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 /**
  * Materializes brand assets for builds.
- * Prefers local files if present; otherwise downloads from the live preview
- * (or override with ASSET_BASE_URL).
+ * Prefers local files if present; otherwise downloads from the live project URL
+ * (override with ASSET_BASE_URL).
  */
 const fs = require("fs");
 const path = require("path");
@@ -23,7 +23,12 @@ function download(url) {
     const lib = url.startsWith("https") ? https : http;
     lib
       .get(url, (res) => {
-        if (res.statusCode && res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        if (
+          res.statusCode &&
+          res.statusCode >= 300 &&
+          res.statusCode < 400 &&
+          res.headers.location
+        ) {
           download(res.headers.location).then(resolve, reject);
           return;
         }
@@ -54,11 +59,7 @@ async function main() {
       console.log("fetched", rel, buf.length, "bytes");
     } catch (err) {
       console.warn("warn: could not fetch", rel, String(err.message || err));
-      // Don't fail the build if assets already exist on Vercel from a prior deploy
-      if (!fs.existsSync(out)) {
-        // write a 1x1 transparent png placeholder so next/image doesn't crash hard
-        throw err;
-      }
+      if (!fs.existsSync(out)) throw err;
     }
   }
 }
