@@ -22,13 +22,17 @@ export function Navbar() {
     };
   }, [open]);
 
+  const navSolid = scrolled || open;
+
   return (
     <nav
-      className={`fixed top-0 left-0 right-0 z-50 border-b border-transparent transition-all duration-300 ${
-        scrolled ? "nav-scrolled" : ""
+      className={`fixed top-0 left-0 right-0 z-50 border-b transition-all duration-300 ${
+        navSolid
+          ? "border-sage/10 bg-[#07150F] shadow-[0_8px_32px_-8px_rgba(0,0,0,0.5)]"
+          : "border-transparent bg-transparent"
       }`}
     >
-      <div className="mx-auto max-w-6xl px-5 sm:px-6">
+      <div className="relative z-50 mx-auto max-w-6xl px-5 sm:px-6">
         <div className="flex h-[4.5rem] items-center justify-between">
           <a
             href="#"
@@ -84,33 +88,55 @@ export function Navbar() {
         </div>
       </div>
 
+      {/* Solid mobile drawer — no alpha, so page content never bleeds through */}
       <div
-        className={`fixed inset-0 top-[4.5rem] z-40 bg-forest-950/98 backdrop-blur-xl transition-all duration-300 lg:hidden ${
-          open
-            ? "visible opacity-100"
-            : "invisible opacity-0 pointer-events-none"
+        className={`fixed inset-0 z-40 lg:hidden ${
+          open ? "pointer-events-auto" : "pointer-events-none"
         }`}
-        role="dialog"
-        aria-modal="true"
+        aria-hidden={!open}
       >
-        <div className="flex flex-col gap-1 px-6 py-8">
-          {navLinks.map((link) => (
+        {/* Dim scrim behind the panel */}
+        <button
+          type="button"
+          className={`absolute inset-0 bg-black/55 transition-opacity duration-300 ${
+            open ? "opacity-100" : "opacity-0"
+          }`}
+          aria-label="Close menu"
+          tabIndex={open ? 0 : -1}
+          onClick={() => setOpen(false)}
+        />
+
+        {/* Full-height solid panel */}
+        <div
+          className={`absolute inset-y-0 right-0 flex w-full max-w-none flex-col border-l border-sage/10 bg-[#07150F] transition-transform duration-300 ease-out sm:max-w-sm ${
+            open ? "translate-x-0" : "translate-x-full"
+          }`}
+          role="dialog"
+          aria-modal="true"
+          aria-label="Mobile navigation"
+        >
+          {/* Spacer matching navbar height */}
+          <div className="h-[4.5rem] shrink-0 border-b border-sage/10" />
+
+          <div className="flex flex-1 flex-col gap-1 overflow-y-auto px-6 py-6">
+            {navLinks.map((link) => (
+              <a
+                key={link.href}
+                href={link.href}
+                className="border-b border-sage/10 py-3.5 text-lg font-medium text-cream-muted transition-colors hover:text-cream"
+                onClick={() => setOpen(false)}
+              >
+                {link.label}
+              </a>
+            ))}
             <a
-              key={link.href}
-              href={link.href}
-              className="border-b border-sage/10 py-3.5 text-lg font-medium text-cream-muted"
+              href="#contact"
+              className="btn-primary mt-8 w-full text-center"
               onClick={() => setOpen(false)}
             >
-              {link.label}
+              Let&apos;s Talk
             </a>
-          ))}
-          <a
-            href="#contact"
-            className="btn-primary mt-6 w-full text-center"
-            onClick={() => setOpen(false)}
-          >
-            Let&apos;s Talk
-          </a>
+          </div>
         </div>
       </div>
     </nav>
