@@ -35,8 +35,8 @@ export function Story() {
               them.
             </p>
             <p>
-              It&apos;s practical help from someone who actually gives a damn —
-              not just running ads and calling it a day.
+              It&apos;s practical help from people who show up — not just running
+              ads and calling it a day.
             </p>
             <p className="pt-2 font-medium text-sage">
               No complicated contracts. No over-promising. No ghosting.

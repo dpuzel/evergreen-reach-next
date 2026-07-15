@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     template: "%s • Evergreen Reach",
   },
   description:
-    "We're not another marketing agency. Evergreen Reach is the reliable digital caretaker for small and rural businesses — Google Business Profile, website care, and local visibility. Practical help from people who give a damn.",
+    "We're not another marketing agency. Evergreen Reach is the reliable digital caretaker for small and rural businesses — Google Business Profile, website care, and local visibility. Practical help from people who show up.",
   applicationName: "Evergreen Reach",
   authors: [{ name: "Evergreen Reach", url: "https://www.evergreen-reach.com" }],
   creator: "Evergreen Reach",

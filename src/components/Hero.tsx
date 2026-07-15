@@ -24,7 +24,7 @@ export function Hero() {
         <div className="max-w-3xl">
           <Reveal immediate>
             <p className="eyebrow mb-6">
-              For small &amp; rural businesses who actually give a damn
+              For small &amp; rural businesses who take pride in their craft
             </p>
           </Reveal>
 
