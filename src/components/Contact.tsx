@@ -43,17 +43,19 @@ export function Contact() {
           <Reveal>
             <p className="eyebrow mb-5">Let&apos;s talk</p>
             <h2 className="font-display mb-6 text-3xl font-semibold leading-[1.15] tracking-tight text-cream sm:text-4xl md:text-[2.75rem]">
-              Ready to get your online presence working for you?
+              Built something worth finding?
+              <br className="hidden sm:block" />
+              Let&apos;s make sure people can.
             </h2>
             <p className="mb-6 text-lg leading-relaxed text-cream-dim">
-              You&apos;ve built something worth being proud of. Now let&apos;s
-              make sure people can actually find it.
+              You&apos;ve put everything into the work. The least the internet
+              can do is not bury you. We&apos;re here to fix that — calmly,
+              honestly, month after month.
             </p>
             <p className="mb-8 leading-relaxed text-cream-dim">
-              We&apos;re not here to sell you a big package or lock you into
-              anything long-term. We just want to help good businesses show up
-              better online — month after month, with honest work and steady
-              results.
+              No big package pitch. No long lock-in. Just a real conversation
+              about your Google listing, your site, and whether we&apos;re the
+              right people to tend them.
             </p>
 
             <div className="mb-10 space-y-4">
@@ -87,15 +89,15 @@ export function Contact() {
             </div>
 
             <p className="text-sm text-sage/70">
-              No hard sell. No obligation. Just two people figuring out if we
-              can help each other.
+              No hard sell. No obligation. Just two people figuring out if this
+              is a fit.
             </p>
           </Reveal>
 
           <Reveal delay={1} className="glass-strong rounded-2xl p-7 sm:p-9">
             {status === "success" ? (
-              <div className="py-10 text-center">
-                <div className="mx-auto mb-5 flex h-14 w-14 items-center justify-center rounded-full border border-sage/25 bg-forest-800/80">
+              <div className="py-6 text-left sm:py-8">
+                <div className="mb-5 flex h-14 w-14 items-center justify-center rounded-full border border-sage/25 bg-forest-800/80">
                   <svg
                     className="h-7 w-7 text-sage"
                     fill="none"
@@ -111,16 +113,48 @@ export function Contact() {
                   </svg>
                 </div>
                 <h4 className="font-display mb-2 text-xl font-semibold text-cream">
-                  You&apos;re on the list.
+                  Got it — we&apos;re on it.
                 </h4>
-                <p className="mx-auto max-w-xs text-sm leading-relaxed text-cream-dim">
-                  We&apos;ll reach out within a few hours to schedule your free
-                  discovery chat. Looking forward to it.
+                <p className="mb-6 max-w-md text-sm leading-relaxed text-cream-dim">
+                  Thanks for reaching out. Here&apos;s exactly what happens
+                  next:
+                </p>
+                <ol className="mb-8 space-y-3 text-sm leading-relaxed text-cream-muted">
+                  <li className="flex gap-3">
+                    <span className="font-display text-base font-semibold text-sage">
+                      1
+                    </span>
+                    <span>
+                      We read your note (a real person — not a bot).
+                    </span>
+                  </li>
+                  <li className="flex gap-3">
+                    <span className="font-display text-base font-semibold text-sage">
+                      2
+                    </span>
+                    <span>
+                      Within a few business hours, we reply by email or text to
+                      set up a short discovery chat.
+                    </span>
+                  </li>
+                  <li className="flex gap-3">
+                    <span className="font-display text-base font-semibold text-sage">
+                      3
+                    </span>
+                    <span>
+                      We talk through your business, what&apos;s frustrating
+                      online, and whether we&apos;re a good fit. No pitch deck.
+                      No pressure.
+                    </span>
+                  </li>
+                </ol>
+                <p className="mb-6 text-sm text-sage">
+                  Looking forward to it.
                 </p>
                 <button
                   type="button"
                   onClick={() => setStatus("idle")}
-                  className="mt-6 text-sm font-medium text-sage underline underline-offset-4 transition-colors hover:text-cream"
+                  className="text-sm font-medium text-sage underline underline-offset-4 transition-colors hover:text-cream"
                 >
                   Submit another request
                 </button>
@@ -131,8 +165,9 @@ export function Contact() {
                   Book your free discovery chat
                 </h3>
                 <p className="mb-7 text-sm text-cream-dim">
-                  Tell us a little about your business. We&apos;ll reach out
-                  within a few hours to find a time that works.
+                  Two minutes. Tell us a bit about the business. We&apos;ll
+                  reach out within a few hours on business days — no spam, no
+                  script.
                 </p>
 
                 <form onSubmit={onSubmit} className="space-y-5">

@@ -24,27 +24,29 @@ export function Hero() {
         <div className="max-w-3xl">
           <Reveal immediate>
             <p className="eyebrow mb-6">
-              Digital care · Small &amp; rural businesses
+              For small &amp; rural businesses who actually give a damn
             </p>
           </Reveal>
 
           <Reveal immediate delay={1}>
             <h1 className="font-display mb-7 text-[2.5rem] font-semibold leading-[1.1] tracking-[-0.04em] text-cream sm:text-5xl md:text-[3.5rem] lg:text-[4rem]">
-              Not another marketing agency.
+              We&apos;re not another marketing agency.
               <br />
-              <span className="text-gradient">Your digital caretaker.</span>
+              <span className="text-gradient">
+                We&apos;re the digital caretaker who shows up.
+              </span>
             </h1>
           </Reveal>
 
           <Reveal immediate delay={2}>
             <p className="mb-4 max-w-xl text-lg leading-relaxed text-cream-dim sm:text-xl">
-              We handle the Google Business Profile, website upkeep, and local
-              visibility for businesses that don&apos;t have time — or know-how
-              — to do it themselves.
+              Google listing. Website upkeep. Getting more local eyes on your
+              business. We handle the online stuff so you can keep building what
+              you built.
             </p>
             <p className="mb-10 max-w-lg text-base leading-relaxed text-sage sm:text-[1.0625rem]">
-              Practical help from people who actually give a damn. Not ads and a
-              goodbye.
+              Practical help from real people who give a damn — not ads, jargon,
+              and a disappearing act.
             </p>
           </Reveal>
 
@@ -55,7 +57,7 @@ export function Hero() {
                 <IconArrowRight />
               </a>
               <a href="#services" className="btn-ghost">
-                See what we tend
+                See what we actually do
               </a>
             </div>
           </Reveal>

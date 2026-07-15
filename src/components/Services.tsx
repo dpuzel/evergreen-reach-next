@@ -16,8 +16,8 @@ export function Services() {
             Three things. Done right. Month after month.
           </h2>
           <p className="text-lg leading-relaxed text-cream-dim">
-            We don&apos;t sell you a bloated package. We tend what actually
-            moves the needle for local businesses.
+            No bloated packages. No mystery retainers. Just the online care that
+            helps good local businesses get found — and stay found.
           </p>
         </Reveal>
 

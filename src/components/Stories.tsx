@@ -9,12 +9,12 @@ export function Stories() {
         <Reveal className="mb-14 max-w-2xl">
           <p className="eyebrow mb-5">Early conversations</p>
           <h2 className="font-display mb-5 text-3xl font-semibold leading-[1.15] tracking-tight text-cream sm:text-4xl md:text-[2.75rem]">
-            What people are saying
+            What we&apos;re hearing
           </h2>
           <p className="text-lg leading-relaxed text-cream-dim">
-            We&apos;re still early — and we&apos;re building this the right way,
-            one real conversation at a time. When we have proper client results
-            to share, they&apos;ll live here.
+            We&apos;re still early. These are real chats with business owners —
+            not polished case studies. When we have hard results to share, they
+            go right here.
           </p>
         </Reveal>
 
