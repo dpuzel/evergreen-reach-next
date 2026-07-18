@@ -17,7 +17,7 @@ export function Services() {
           </h2>
           <p className="text-lg leading-relaxed text-cream-dim">
             No bloated packages. No mystery retainers. Just the online care that
-            helps good local businesses get found — and stay found.
+            helps good local businesses get found, and stay found.
           </p>
         </Reveal>
 
