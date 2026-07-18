@@ -49,7 +49,7 @@ export function Contact() {
             </h2>
             <p className="mb-6 text-lg leading-relaxed text-cream-dim">
               You&apos;ve put everything into the work. The least the internet
-              can do is not bury you. We&apos;re here to fix that — calmly,
+              can do is not bury you. We&apos;re here to fix that, calmly,
               honestly, month after month.
             </p>
             <p className="mb-8 leading-relaxed text-cream-dim">
@@ -125,7 +125,7 @@ export function Contact() {
                       1
                     </span>
                     <span>
-                      We read your note (a real person — not a bot).
+                      We read your note (a real person, not a bot).
                     </span>
                   </li>
                   <li className="flex gap-3">
@@ -166,7 +166,7 @@ export function Contact() {
                 </h3>
                 <p className="mb-7 text-sm text-cream-dim">
                   Two minutes. Tell us a bit about the business. We&apos;ll
-                  reach out within a few hours on business days — no spam, no
+                  reach out within a few hours on business days. No spam, no
                   script.
                 </p>
 
