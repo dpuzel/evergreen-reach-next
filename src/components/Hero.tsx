@@ -45,7 +45,7 @@ export function Hero() {
               you built.
             </p>
             <p className="mb-10 max-w-lg text-base leading-relaxed text-sage sm:text-[1.0625rem]">
-              Practical help from real people who give a damn — not ads, jargon,
+              Practical help from real people who give a damn. Not ads, jargon,
               and a disappearing act.
             </p>
           </Reveal>
