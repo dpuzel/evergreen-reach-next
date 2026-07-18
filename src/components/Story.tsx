@@ -23,7 +23,7 @@ export function Story() {
             <p>
               Too many good, hardworking small and rural businesses get
               overlooked online. You pour everything into your craft, your
-              customers, and your community — but the digital side often falls
+              customers, and your community, but the digital side often falls
               through the cracks.
             </p>
             <p className="border-l-2 border-forest-800 py-1 pl-5 text-lg leading-relaxed text-cream/90">
@@ -35,7 +35,7 @@ export function Story() {
               them.
             </p>
             <p>
-              It&apos;s practical help from people who show up — not just running
+              It&apos;s practical help from people who show up, not just running
               ads and calling it a day.
             </p>
             <p className="pt-2 font-medium text-sage">
