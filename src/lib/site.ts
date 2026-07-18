@@ -23,7 +23,7 @@ export const services = [
   {
     title: "Google Business Profile",
     description:
-      "When someone searches for what you do nearby, your Google listing is usually the first thing they see. We keep it sharp, honest, and working for you — not half-finished or forgotten.",
+      "When someone searches for what you do nearby, your Google listing is usually the first thing they see. We keep it sharp, honest, and working for you, not half-finished or forgotten.",
     items: [
       "Get your listing set up right and kept accurate",
       "Fresh posts and photos that help you show up",
@@ -35,7 +35,7 @@ export const services = [
   {
     title: "Website Care",
     description:
-      "Your website shouldn't be one more thing on your plate. We quietly keep it healthy, updated, and ready for customers — while you run the business.",
+      "Your website shouldn't be one more thing on your plate. We quietly keep it healthy, updated, and ready for customers, while you run the business.",
     items: [
       "Keep things secure, loading fast, and up to date",
       "Small text or design tweaks when you need them",
@@ -47,7 +47,7 @@ export const services = [
   {
     title: "Local Lead Gen",
     description:
-      "Getting found is nice. Getting chosen by the right people nearby is the goal. We help more of the right locals find you — and actually reach out.",
+      "Getting found is nice. Getting chosen by the right people nearby is the goal. We help more of the right locals find you, and actually reach out.",
     items: [
       "Help more local customers find you online",
       "Simple ideas for content that brings the right people",
@@ -62,7 +62,7 @@ export const steps = [
   {
     num: "01",
     title: "Discovery chat",
-    body: "A relaxed conversation — text, email, or call. We talk about your business, what's frustrating online, and what success looks like for you.",
+    body: "A relaxed conversation, text, email, or call. We talk about your business, what's frustrating online, and what success looks like for you.",
   },
   {
     num: "02",
@@ -72,7 +72,7 @@ export const steps = [
   {
     num: "03",
     title: "We handle the work",
-    body: "This is the monthly care part. Posts, updates, maintenance, optimizations — month after month, so you don't have to.",
+    body: "This is the monthly care part. Posts, updates, maintenance, optimizations, month after month, so you don't have to.",
   },
   {
     num: "04",
@@ -98,7 +98,7 @@ export const plans = [
   {
     name: "Standard Care",
     price: 169,
-    blurb: "The right balance — most businesses love this one.",
+    blurb: "The right balance. Most businesses love this one.",
     features: [
       "Everything in Basic",
       "Full GBP management + content",
@@ -127,7 +127,7 @@ export const plans = [
 
 export const quotes = [
   {
-    text: "I've talked to a couple agencies. Same pitch every time — pushy, full of buzzwords, and I leave more confused than when I started. This felt different. Like they actually get what it's like to run a small shop.",
+    text: "I've talked to a couple agencies. Same pitch every time: pushy, full of buzzwords, and I leave more confused than when I started. This felt different. Like they actually get what it's like to run a small shop.",
   },
   {
     text: "I don't need the moon. I need someone who shows up, tells me the truth, and handles the online stuff I keep putting off. That's all I'm looking for.",
