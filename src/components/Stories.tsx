@@ -12,7 +12,7 @@ export function Stories() {
             What we&apos;re hearing
           </h2>
           <p className="text-lg leading-relaxed text-cream-dim">
-            We&apos;re still early. These are real chats with business owners —
+            We&apos;re still early. These are real chats with business owners,
             not polished case studies. When we have hard results to share, they
             go right here.
           </p>
