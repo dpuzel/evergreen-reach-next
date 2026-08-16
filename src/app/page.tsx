@@ -1,17 +1,15 @@
-import { Navbar } from "@/components/Navbar";
-import { Hero } from "@/components/Hero";
-import { Story } from "@/components/Story";
-import { Services } from "@/components/Services";
-import { Process } from "@/components/Process";
-import { Plans } from "@/components/Plans";
-import { Stories } from "@/components/Stories";
 import { Contact } from "@/components/Contact";
-import { Footer } from "@/components/Footer";
+import { Hero } from "@/components/Hero";
+import { Plans } from "@/components/Plans";
+import { Process } from "@/components/Process";
+import { Services } from "@/components/Services";
+import { SiteShell } from "@/components/SiteShell";
+import { Stories } from "@/components/Stories";
+import { Story } from "@/components/Story";
 
 export default function Home() {
   return (
-    <>
-      <Navbar />
+    <SiteShell>
       <main>
         <Hero />
         <Story />
@@ -21,7 +19,6 @@ export default function Home() {
         <Stories />
         <Contact />
       </main>
-      <Footer />
-    </>
+    </SiteShell>
   );
 }

@@ -372,6 +372,97 @@ body::before {
   color: #a8b5a2;
 }
 
+/* ── Field Notes prose ── */
+.note-prose {
+  font-size: 1.125rem;
+  line-height: 1.75;
+  color: var(--color-cream-dim);
+}
+
+.note-prose > * + * {
+  margin-top: 1.25em;
+}
+
+.note-prose p {
+  max-width: 42rem;
+}
+
+.note-prose h2,
+.note-prose h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--color-cream);
+  line-height: 1.25;
+}
+
+.note-prose h2 {
+  margin-top: 2.25em;
+  font-size: 1.65rem;
+}
+
+.note-prose h3 {
+  margin-top: 1.75em;
+  font-size: 1.3rem;
+}
+
+.note-prose strong {
+  font-weight: 600;
+  color: var(--color-cream);
+}
+
+.note-prose em {
+  font-style: italic;
+}
+
+.note-prose a {
+  color: var(--color-sage-light);
+  text-decoration: underline;
+  text-decoration-color: rgba(168, 181, 162, 0.35);
+  text-underline-offset: 0.18em;
+}
+
+.note-prose a:hover {
+  color: var(--color-cream);
+}
+
+.note-prose ul,
+.note-prose ol {
+  padding-left: 1.25rem;
+}
+
+.note-prose ul {
+  list-style: disc;
+}
+
+.note-prose ol {
+  list-style: decimal;
+}
+
+.note-prose li + li {
+  margin-top: 0.45em;
+}
+
+.note-prose blockquote {
+  border-left: 2px solid var(--color-forest-800);
+  padding: 0.15em 0 0.15em 1.15em;
+  color: var(--color-cream);
+  font-size: 1.15rem;
+  line-height: 1.65;
+}
+
+.note-prose hr {
+  border: 0;
+  height: 1px;
+  margin: 2.25em 0;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(168, 181, 162, 0.2),
+    transparent
+  );
+}
+
 a:focus-visible,
 button:focus-visible,
 input:focus-visible,

@@ -1,12 +1,16 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { navLinks } from "@/lib/site";
 
 export function Navbar() {
+  const pathname = usePathname();
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
+  const onHome = pathname === "/";
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 24);
@@ -22,7 +26,7 @@ export function Navbar() {
     };
   }, [open]);
 
-  const navSolid = scrolled || open;
+  const navSolid = scrolled || open || !onHome;
 
   return (
     <nav
@@ -34,8 +38,8 @@ export function Navbar() {
     >
       <div className="relative z-50 mx-auto max-w-6xl px-5 sm:px-6">
         <div className="flex h-[4.5rem] items-center justify-between">
-          <a
-            href="#"
+          <Link
+            href="/"
             className="group flex items-center gap-3"
             aria-label="Evergreen Reach home"
             onClick={() => setOpen(false)}
@@ -48,24 +52,31 @@ export function Navbar() {
               className="h-11 w-auto object-contain drop-shadow-[0_0_20px_rgba(168,181,162,0.15)] transition-transform duration-300 group-hover:scale-[1.03] sm:h-12"
               priority
             />
-          </a>
+          </Link>
 
           <div className="hidden items-center gap-8 text-[0.875rem] font-medium text-cream-dim lg:flex">
-            {navLinks.map((link) => (
-              <a
-                key={link.href}
-                href={link.href}
-                className="transition-colors hover:text-cream"
-              >
-                {link.label}
-              </a>
-            ))}
-            <a
-              href="#contact"
+            {navLinks.map((link) => {
+              const current =
+                link.href === "/notes" && pathname.startsWith("/notes");
+              return (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className={`transition-colors hover:text-cream ${
+                    current ? "text-cream" : ""
+                  }`}
+                  aria-current={current ? "page" : undefined}
+                >
+                  {link.label}
+                </Link>
+              );
+            })}
+            <Link
+              href="/#contact"
               className="btn-primary !px-5 !py-2.5 !text-sm"
             >
               Let&apos;s Talk
-            </a>
+            </Link>
           </div>
 
           <button
@@ -119,23 +130,30 @@ export function Navbar() {
           <div className="h-[4.5rem] shrink-0 border-b border-sage/10" />
 
           <div className="flex flex-1 flex-col gap-1 overflow-y-auto px-6 py-6">
-            {navLinks.map((link) => (
-              <a
-                key={link.href}
-                href={link.href}
-                className="border-b border-sage/10 py-3.5 text-lg font-medium text-cream-muted transition-colors hover:text-cream"
-                onClick={() => setOpen(false)}
-              >
-                {link.label}
-              </a>
-            ))}
-            <a
-              href="#contact"
+            {navLinks.map((link) => {
+              const current =
+                link.href === "/notes" && pathname.startsWith("/notes");
+              return (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className={`border-b border-sage/10 py-3.5 text-lg font-medium transition-colors hover:text-cream ${
+                    current ? "text-cream" : "text-cream-muted"
+                  }`}
+                  aria-current={current ? "page" : undefined}
+                  onClick={() => setOpen(false)}
+                >
+                  {link.label}
+                </Link>
+              );
+            })}
+            <Link
+              href="/#contact"
               className="btn-primary mt-8 w-full text-center"
               onClick={() => setOpen(false)}
             >
               Let&apos;s Talk
-            </a>
+            </Link>
           </div>
         </div>
       </div>

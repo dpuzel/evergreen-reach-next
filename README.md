@@ -29,9 +29,27 @@ git push origin main
 | What | Where |
 |------|--------|
 | Pricing / services / contact | `src/lib/site.ts` |
+| Field Notes (add a `.md` file) | `src/content/notes/` |
 | Section layout | `src/components/*` |
 | Colors & UI chrome | `src/app/globals.css` |
 | SEO / fonts | `src/app/layout.tsx` |
+
+### Adding a Field Note
+
+Drop a markdown file in `src/content/notes/your-slug.md`:
+
+```md
+---
+title: "A clear, useful title"
+summary: "One-line hook for the index."
+date: "2026-08-15"
+topic: "Google listing"
+---
+
+Write in plain markdown. Headings, lists, quotes, and links all work.
+```
+
+Commit and push. The `/notes` index and sitemap pick it up automatically. Set `draft: true` in frontmatter to keep a note off the shelf.
 
 ## Commands
 

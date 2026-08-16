@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { site } from "@/lib/site";
 
 export function Footer() {
@@ -9,29 +10,34 @@ export function Footer() {
       <div className="mx-auto max-w-6xl px-5 sm:px-6">
         <div className="flex flex-col items-center justify-between gap-8 md:flex-row">
           <div className="flex flex-col items-center gap-3 md:items-start">
-            <Image
-              src="/assets/logo-dark.png"
-              alt="Evergreen Reach"
-              width={160}
-              height={56}
-              className="h-14 w-auto object-contain opacity-95"
-            />
+            <Link href="/" aria-label="Evergreen Reach home">
+              <Image
+                src="/assets/logo-dark.png"
+                alt="Evergreen Reach"
+                width={160}
+                height={56}
+                className="h-14 w-auto object-contain opacity-95"
+              />
+            </Link>
             <p className="text-sm text-sage/70">{site.tagline}</p>
           </div>
 
           <div className="flex flex-wrap justify-center gap-x-8 gap-y-2 text-sm text-cream-dim">
-            <a href="#story" className="transition-colors hover:text-cream">
+            <Link href="/#story" className="transition-colors hover:text-cream">
               Story
-            </a>
-            <a href="#services" className="transition-colors hover:text-cream">
+            </Link>
+            <Link href="/#services" className="transition-colors hover:text-cream">
               Services
-            </a>
-            <a href="#plans" className="transition-colors hover:text-cream">
+            </Link>
+            <Link href="/#plans" className="transition-colors hover:text-cream">
               Plans
-            </a>
-            <a href="#contact" className="transition-colors hover:text-cream">
+            </Link>
+            <Link href="/notes" className="transition-colors hover:text-cream">
+              Field Notes
+            </Link>
+            <Link href="/#contact" className="transition-colors hover:text-cream">
               Contact
-            </a>
+            </Link>
             <a
               href={`mailto:${site.email}`}
               className="transition-colors hover:text-cream"

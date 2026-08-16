@@ -13,11 +13,20 @@ export const site = {
 } as const;
 
 export const navLinks = [
-  { href: "#story", label: "Story" },
-  { href: "#services", label: "What We Do" },
-  { href: "#process", label: "How It Works" },
-  { href: "#plans", label: "Plans" },
+  { href: "/#story", label: "Story" },
+  { href: "/#services", label: "What We Do" },
+  { href: "/#process", label: "How It Works" },
+  { href: "/#plans", label: "Plans" },
+  { href: "/notes", label: "Field Notes" },
 ] as const;
+
+export const fieldNotes = {
+  path: "/notes",
+  title: "Field Notes",
+  eyebrow: "From the caretaker bench",
+  intro:
+    "Practical writing about Google listings, websites that quietly rot, and getting found by the right people nearby. No funnels. Just notes from the work.",
+} as const;
 
 export const services = [
   {
