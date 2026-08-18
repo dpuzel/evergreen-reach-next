@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import { NoteBody } from "@/components/NoteBody";
 import { SiteShell } from "@/components/SiteShell";
 import { fieldNotes, site } from "@/lib/site";
-import { formatNoteDate, getNote, getNotes } from "@/lib/notes";
+import { formatNoteDate, getNote, getNotes, getRelatedNotes } from "@/lib/notes";
 
 type NotePageProps = {
   params: Promise<{ slug: string }>;
@@ -28,7 +28,12 @@ export async function generateMetadata({
   return {
     title: note.title,
     description: note.summary,
-    alternates: { canonical: `${fieldNotes.path}/${note.slug}` },
+    alternates: {
+      canonical: `${fieldNotes.path}/${note.slug}`,
+      types: {
+        "application/rss+xml": `${fieldNotes.path}/rss.xml`,
+      },
+    },
     openGraph: {
       title: `${note.title} • Evergreen Reach`,
       description: note.summary,
@@ -44,24 +49,59 @@ export default async function NotePage({ params }: NotePageProps) {
   const note = getNote(slug);
   if (!note) notFound();
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: note.title,
-    description: note.summary,
-    datePublished: note.date,
-    author: {
-      "@type": "Organization",
-      name: site.name,
-      url: site.url,
+  const related = getRelatedNotes(note.slug, 2);
+  const noteUrl = `${site.url}${fieldNotes.path}/${note.slug}`;
+
+  const jsonLd = [
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      headline: note.title,
+      description: note.summary,
+      datePublished: note.date,
+      articleSection: note.topic,
+      author: {
+        "@type": "Organization",
+        name: site.name,
+        url: site.url,
+      },
+      publisher: {
+        "@type": "Organization",
+        name: site.name,
+        url: site.url,
+      },
+      mainEntityOfPage: noteUrl,
+      isPartOf: {
+        "@type": "CollectionPage",
+        name: "Field Notes",
+        url: `${site.url}${fieldNotes.path}`,
+      },
     },
-    publisher: {
-      "@type": "Organization",
-      name: site.name,
-      url: site.url,
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Home",
+          item: site.url,
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: "Field Notes",
+          item: `${site.url}${fieldNotes.path}`,
+        },
+        {
+          "@type": "ListItem",
+          position: 3,
+          name: note.title,
+          item: noteUrl,
+        },
+      ],
     },
-    mainEntityOfPage: `${site.url}${fieldNotes.path}/${note.slug}`,
-  };
+  ];
 
   return (
     <SiteShell>
@@ -100,6 +140,25 @@ export default async function NotePage({ params }: NotePageProps) {
         </article>
 
         <section className="relative mx-auto max-w-2xl px-5 pb-28 sm:px-6">
+          {related.length > 0 ? (
+            <div className="mb-12">
+              <div className="soft-divider mb-8" />
+              <p className="eyebrow mb-5">Also on the shelf</p>
+              <ul className="space-y-3">
+                {related.map((item) => (
+                  <li key={item.slug}>
+                    <Link
+                      href={`${fieldNotes.path}/${item.slug}`}
+                      className="text-[1.0625rem] text-cream transition-colors hover:text-sage-light"
+                    >
+                      {item.title}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : null}
+
           <div className="soft-divider mb-10" />
           <p className="mb-5 text-lg leading-relaxed text-cream-dim">
             If this is the kind of work you&apos;ve been putting off, we can

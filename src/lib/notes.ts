@@ -56,6 +56,21 @@ export function getNotes(): NoteMeta[] {
     }));
 }
 
+export function getRelatedNotes(slug: string, limit = 2): NoteMeta[] {
+  return getNotes()
+    .filter((note) => note.slug !== slug)
+    .slice(0, limit);
+}
+
+export function xmlEscape(value: string) {
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
 export function getNote(slug: string): Note | null {
   if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)) return null;
 

@@ -1,4 +1,5 @@
 import { Contact } from "@/components/Contact";
+import { FieldNotesTeaser } from "@/components/FieldNotesTeaser";
 import { Hero } from "@/components/Hero";
 import { Plans } from "@/components/Plans";
 import { Process } from "@/components/Process";
@@ -17,6 +18,7 @@ export default function Home() {
         <Process />
         <Plans />
         <Stories />
+        <FieldNotesTeaser />
         <Contact />
       </main>
     </SiteShell>

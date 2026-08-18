@@ -15,7 +15,7 @@ That is not a marketing problem. That is a leak.
 
 Spend one afternoon pretending you are a new customer.
 
-- Search your name and what you do.
+- Search your name and what you do. If the [Google listing looks forgotten](/notes/3-things-most-small-rural-businesses-get-wrong-on-google), start there.
 - Tap the call button on Google. Who picks up? How many rings?
 - Try the number on your website. Same number, or a leftover one?
 - Send a test message through the contact form. When does it arrive, and where?
@@ -70,6 +70,4 @@ Every week, not when you remember:
 
 That is the whole system. No dashboard required.
 
-When someone nearby is ready to hire a local shop, they usually try once. If that try dies in a voicemail or a form that goes nowhere, they move on. Closing that leak is some of the highest-value work you can do, and it does not require a bigger website.
-
-It requires someone to pick up, or to write back.
+When someone nearby is ready to hire a local shop, they usually try once. If that try dies in a voicemail or a form that goes nowhere, they move on. Closing that leak is some of the highest-value work you can do, and it does not require a bigger website. It requires [a presence that is easy to reach](/notes/what-a-clean-simple-online-presence-looks-like), then someone who picks up or writes back.

@@ -15,11 +15,11 @@ It is this: when someone nearby looks you up, they can tell what you do, where y
 
 A useful presence is usually three things working together.
 
-**Your Google listing.** Hours, phone, photos, category, a few reviews that got a real reply. This is the front porch. Most people never walk past it.
+**Your Google listing.** Hours, phone, photos, category, a few reviews that got a real reply. This is the front porch. Most people never walk past it. If yours looks abandoned, start with [the three misses we see most](/notes/3-things-most-small-rural-businesses-get-wrong-on-google).
 
 **A simple website.** One that loads. One that looks like you. One that says who you help and how to get in touch. It does not need ten pages. It needs to work on a phone.
 
-**A way to be reached.** A number that rings. A form that lands. A reply that comes.
+**A way to be reached.** A number that rings. A form that lands. A reply that comes. Getting found does not help if you [miss the call or the lead](/notes/how-to-stop-missing-local-calls-and-leads).
 
 If those three are solid, you are ahead of a lot of businesses with prettier brands and quieter phones.
 

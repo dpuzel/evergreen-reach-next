@@ -7,7 +7,12 @@ import { formatNoteDate, getNotes } from "@/lib/notes";
 export const metadata: Metadata = {
   title: "Field Notes",
   description: fieldNotes.intro,
-  alternates: { canonical: fieldNotes.path },
+  alternates: {
+    canonical: fieldNotes.path,
+    types: {
+      "application/rss+xml": `${fieldNotes.path}/rss.xml`,
+    },
+  },
   openGraph: {
     title: "Field Notes • Evergreen Reach",
     description: fieldNotes.intro,
@@ -19,8 +24,34 @@ export const metadata: Metadata = {
 export default function FieldNotesPage() {
   const notes = getNotes();
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "Field Notes",
+    description: fieldNotes.intro,
+    url: `${site.url}${fieldNotes.path}`,
+    isPartOf: {
+      "@type": "WebSite",
+      name: site.name,
+      url: site.url,
+    },
+    mainEntity: {
+      "@type": "ItemList",
+      itemListElement: notes.map((note, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        url: `${site.url}${fieldNotes.path}/${note.slug}`,
+        name: note.title,
+      })),
+    },
+  };
+
   return (
     <SiteShell>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <main className="relative overflow-hidden">
         <div className="pointer-events-none absolute inset-0" aria-hidden>
           <div className="blob top-[-8%] left-[-10%] h-[420px] w-[420px] bg-forest-800/35" />

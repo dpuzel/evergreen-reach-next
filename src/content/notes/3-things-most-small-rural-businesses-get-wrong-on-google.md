@@ -28,7 +28,7 @@ If you are not sure who owns the listing, that is the first job. You cannot take
 
 ## 2. The details went stale and nobody noticed
 
-Hours that say you close at 5 when you stay till 6. A phone number that rings a cell nobody carries anymore. Holiday hours that never got updated. A photo of a truck you sold last year.
+Hours that say you close at 5 when you stay till 6. A phone number that rings a cell nobody carries anymore. Holiday hours that never got updated. A photo of a truck you sold last year. If the number is wrong, they do not leave a review. They just leave. We wrote more about [how those missed calls actually leak](/notes/how-to-stop-missing-local-calls-and-leads).
 
 In a small town, people already know you. They still check Google before they drive over. If the listing says closed, they go somewhere else. If the number is wrong, they assume you are gone.
 
@@ -65,4 +65,4 @@ You do not need a campaign. You need a pass.
 
 If that already feels like one more job on a full plate, that is the whole point of monthly care. The listing should not depend on you remembering it on a Sunday night.
 
-The goal is simple. When someone nearby looks you up, the listing should look like a shop that is open, proud, and paying attention.
+The goal is simple. When someone nearby looks you up, the listing should look like a shop that is open, proud, and paying attention. That listing is only the front porch. [A clean, simple online presence](/notes/what-a-clean-simple-online-presence-looks-like) is the rest of the house matching it.

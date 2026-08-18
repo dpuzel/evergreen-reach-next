@@ -26,6 +26,8 @@ export const fieldNotes = {
   eyebrow: "From the caretaker bench",
   intro:
     "Practical writing about Google listings, websites that quietly rot, and getting found by the right people nearby. No funnels. Just notes from the work.",
+  teaser:
+    "We write down the useful stuff. A few short notes from the work, if you want to sit with them.",
 } as const;
 
 export const services = [

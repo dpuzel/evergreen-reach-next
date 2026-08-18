@@ -35,6 +35,8 @@ export const metadata: Metadata = {
     "rural business marketing",
     "small business digital care",
     "Evergreen Reach",
+    "Field Notes",
+    "Google Business Profile for rural businesses",
   ],
   alternates: {
     canonical: "/",
