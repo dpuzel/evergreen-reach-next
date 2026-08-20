@@ -471,6 +471,73 @@ textarea:focus-visible {
   outline-offset: 3px;
 }
 
+/* ── Front Porch Report ── */
+.porch-sheet {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(245, 240, 232, 0.035) 0%,
+      rgba(7, 21, 15, 0.2) 100%
+    ),
+    #0a1f16;
+  box-shadow:
+    0 24px 60px -24px rgba(0, 0, 0, 0.55),
+    inset 0 1px 0 rgba(245, 240, 232, 0.04);
+}
+
+.porch-ruled {
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent 0,
+    transparent 27px,
+    rgba(168, 181, 162, 0.045) 28px
+  );
+  mask-image: linear-gradient(to bottom, transparent, #000 8%, #000 94%, transparent);
+}
+
+@media print {
+  nav,
+  footer,
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: #f5f0e8 !important;
+    color: #0a1f16 !important;
+  }
+
+  body::before {
+    display: none !important;
+  }
+
+  .porch-sheet {
+    background: #f5f0e8 !important;
+    border-color: rgba(15, 76, 58, 0.2) !important;
+    box-shadow: none !important;
+    color: #0a1f16 !important;
+  }
+
+  .porch-sheet h1,
+  .porch-sheet h2,
+  .porch-sheet .font-display,
+  .porch-sheet p,
+  .porch-sheet span,
+  .porch-sheet a,
+  .porch-sheet time,
+  .porch-sheet li {
+    color: #0a1f16 !important;
+  }
+
+  .porch-ruled {
+    display: none !important;
+  }
+
+  a {
+    text-decoration: none !important;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .reveal {
     opacity: 1;

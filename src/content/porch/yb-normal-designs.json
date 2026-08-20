@@ -1,0 +1,49 @@
+{
+  "slug": "yb-normal-designs",
+  "business": "YB Normal Designs",
+  "town": "Lakeside, CA",
+  "website": "https://ybnormaldesigns.com/",
+  "phone": "(619) 749-7730",
+  "generated": "2026-08-20",
+  "prospectId": "1786387256841-1vlaspd",
+  "headline": "The shop has a pulse. Two numbers and two Saturday stories are dimming it.",
+  "summary": "This is a real Lakeside gift shop with a real site, a real address, and photos of the work. A neighbor still has to choose which phone to dial and whether you are open on Saturday. That hesitation is the whole problem.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for Lakeside gifts and makers. Yelp, the chamber, and the site all point at Woodside Ave.",
+      "next": "Make sure Google's category is gift shop / artisan, not something vague that buries you under bigger stores."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The site and Yelp use (619) 749-7730. Facebook has used (619) 249-7550. Two numbers means some calls never arrive.",
+      "next": "Pick one public number. Put it on the site, Google, Yelp, and Facebook. Retire the other from every listing."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The site lists Monday through Thursday 10 to 7, Friday 10 to 6, and Saturday hours. The chamber listing has said Saturday closed and Sunday 11 to 6. Those cannot both be the door.",
+      "next": "Write this week's real hours once. Copy them everywhere. If Saturday is seasonal, say so in one line."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "There are shop photos and Facebook walk-throughs. They help. They are not clearly the first thing a stranger sees on Google.",
+      "next": "Put four current photos on the Google listing: the suite door, the floor, a maker table, and a recent piece."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "ybnormaldesigns.com loads. Address, phone, and hours are on it. That already puts you ahead of most small shops.",
+      "next": "Keep the hours on the site in lockstep with Google. When one changes, change the other the same morning."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Address is consistent: 12346 Woodside Ave, Suite I. Name is consistent. Phone and Saturday hours are not.",
+      "next": "Fix the phone first, then Saturday. Name and address are already doing their job."
+    }
+  ]
+}

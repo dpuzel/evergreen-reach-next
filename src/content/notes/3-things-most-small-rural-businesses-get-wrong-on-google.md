@@ -65,4 +65,4 @@ You do not need a campaign. You need a pass.
 
 If that already feels like one more job on a full plate, that is the whole point of monthly care. The listing should not depend on you remembering it on a Sunday night.
 
-The goal is simple. When someone nearby looks you up, the listing should look like a shop that is open, proud, and paying attention. That listing is only the front porch. [A clean, simple online presence](/notes/what-a-clean-simple-online-presence-looks-like) is the rest of the house matching it.
+The goal is simple. When someone nearby looks you up, the listing should look like a shop that is open, proud, and paying attention. That listing is only the front porch. [A clean, simple online presence](/notes/what-a-clean-simple-online-presence-looks-like) is the rest of the house matching it. When we walk a shop, we write it down as a [Front Porch Report](/porch).

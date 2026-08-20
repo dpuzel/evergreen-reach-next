@@ -30,6 +30,7 @@ git push origin main
 |------|--------|
 | Pricing / services / contact | `src/lib/site.ts` |
 | Field Notes (add a `.md` file) | `src/content/notes/` |
+| Front Porch Report (JSON) | `src/content/porch/` |
 | Section layout | `src/components/*` |
 | Colors & UI chrome | `src/app/globals.css` |
 | SEO / fonts | `src/app/layout.tsx` |
@@ -50,6 +51,10 @@ Write in plain markdown. Headings, lists, quotes, and links all work.
 ```
 
 Commit and push. The `/notes` index, homepage teaser, sitemap, and `/notes/rss.xml` pick it up automatically. Set `draft: true` in frontmatter to keep a note off the shelf.
+
+### Front Porch Reports
+
+Drop a JSON file in `src/content/porch/your-slug.json`. Individual reports are shareable at `/porch/your-slug` and stay out of the sitemap (`noindex`). Draft and print from `/porch/new`.
 
 ## Commands
 

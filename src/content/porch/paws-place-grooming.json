@@ -1,0 +1,49 @@
+{
+  "slug": "paws-place-grooming",
+  "business": "Paws Place Grooming",
+  "town": "Lakeside, CA",
+  "website": "http://www.pawsplacegrooming.com",
+  "phone": "(619) 443-3647",
+  "generated": "2026-08-20",
+  "prospectId": "1786387259778-ksm0xha",
+  "headline": "The shop is real. The map is arguing with itself.",
+  "summary": "Stacey is easy to like in person. Online, a neighbor has to guess which address is yours, which hours are true, and whether the website even belongs to the shop. That guess is where calls go to die.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "dim",
+      "note": "You appear in local searches, but listings do not agree on where you are. Channel Road, Highway 8 Business, and Casa Grande all show up in the wild.",
+      "next": "Claim or clean the Google listing so there is one pin. Hide or mark the old addresses as moved."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The phone (619) 443-3647 is the one thing that stays consistent. That is the porch light that still works.",
+      "next": "Keep that number on every listing. If someone else has an old one posted, get it taken down."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Instagram says Tuesday through Saturday 9 to 4, Sunday 10 to 2 for DIY. Facebook says by appointment only. Both can be true. They do not read as true together.",
+      "next": "Write one sentence: when you take appointments, when DIY is open. Put that sentence in all three places."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Instagram has life in it. The public listings do not clearly show the new Channel Road shop the way a stranger would need.",
+      "next": "Shoot the storefront, the tubs, and two freshly done dogs this week. Put the same three photos on Google."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "The domain listed as the shop website does not load the shop. It currently shows unrelated pages. That is not a small rot. It is a broken front door.",
+      "next": "Take the old domain off Yelp and Google until you own a page that is actually yours. A simple one-pager beats a hijacked URL."
+    },
+    {
+      "id": "nap",
+      "lamp": "out",
+      "note": "Name is close. Phone is good. Address is a mess. Three locations in the public record is how people drive to the wrong lot.",
+      "next": "Pick 9838 Channel Road if that is home now. Make every listing say that, and only that."
+    }
+  ]
+}

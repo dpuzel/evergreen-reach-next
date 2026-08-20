@@ -35,6 +35,9 @@ export function Footer() {
             <Link href="/notes" className="transition-colors hover:text-cream">
               Field Notes
             </Link>
+            <Link href="/porch" className="transition-colors hover:text-cream">
+              Front Porch
+            </Link>
             <Link href="/#contact" className="transition-colors hover:text-cream">
               Contact
             </Link>

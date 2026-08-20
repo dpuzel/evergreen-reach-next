@@ -1,0 +1,49 @@
+{
+  "slug": "cat-and-doggie-works",
+  "business": "Cat & Doggie Works",
+  "town": "El Cajon, CA",
+  "website": "https://www.catdoggieworks.com/",
+  "phone": "(619) 449-3388",
+  "generated": "2026-08-20",
+  "prospectId": "1786387262768-xpimbk1",
+  "headline": "The shop is loved. The porch just needs one honest pass.",
+  "summary": "People can find you. The phone is real. Photos of the work are out there. What is costing you is the small stuff that drifted: hours that do not match from one listing to the next, and a site that works but still feels like a leftover template.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up. Yelp, maps, and the site all point at a real El Cajon grooming shop, not a ghost.",
+      "next": "Keep the category and service area tight so \"cat groomer near me\" still lands on you."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 449-3388 is the same on the site and the listings. That is rarer than it should be.",
+      "next": "Call it once a week from a phone that is not yours. Confirm a person still picks up during the hours you advertise."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The site says Monday through Saturday, 8:30 to 5. Older posts around town say 8 till done, or 8:30 till 3, and walk-in nail trims at two different windows. A neighbor checking tonight cannot tell which is true.",
+      "next": "Pick the hours you actually keep. Put that one version on Google, the site, and the door. Then leave it alone until it changes."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "There are plenty of pictures of real dogs and cats, not stock fluff. The work shows.",
+      "next": "Add three new photos this month from the actual shop floor so the listing does not freeze in last year."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "The site loads and tells people who you are. It still has leftover template chrome and reads a little like a brochure that never got a second pass.",
+      "next": "Keep the family story. Cut the clutter. Make the phone and hours the first thing a thumb can hit."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name and phone line up. Address looks right. Hours do not. That is enough to send someone to a closed door.",
+      "next": "Match hours everywhere first. That single fix does more than a redesign."
+    }
+  ]
+}
