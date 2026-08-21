@@ -18,6 +18,7 @@ export const navLinks = [
   { href: "/#process", label: "How It Works" },
   { href: "/#plans", label: "Plans" },
   { href: "/notes", label: "Field Notes" },
+  { href: "/porch", label: "Front Porch" },
 ] as const;
 
 export const fieldNotes = {

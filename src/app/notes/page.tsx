@@ -67,6 +67,17 @@ export default function FieldNotesPage() {
           <p className="max-w-xl text-lg leading-relaxed text-cream-dim">
             {fieldNotes.intro}
           </p>
+          <p className="mt-5 max-w-xl text-sm leading-relaxed text-sage/80">
+            For a shop-by-shop walk of listings, hours, and the website, that
+            lives on the{" "}
+            <Link
+              href="/porch"
+              className="text-sage transition-colors hover:text-cream"
+            >
+              Front Porch Report
+            </Link>
+            .
+          </p>
         </section>
 
         <section className="relative mx-auto max-w-3xl px-5 pb-28 sm:px-6">

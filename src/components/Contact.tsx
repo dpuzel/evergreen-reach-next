@@ -1,6 +1,7 @@
 "use client";
 
 import { FormEvent, useState } from "react";
+import Link from "next/link";
 import { Reveal } from "@/components/Reveal";
 import { IconArrowRight, IconMail, IconPhone } from "@/components/Icons";
 import { site } from "@/lib/site";
@@ -86,6 +87,21 @@ export function Contact() {
                   <span className="block text-sm text-sage/70">{site.hours}</span>
                 </span>
               </a>
+            </div>
+
+            <div className="mb-8 max-w-md">
+              <p className="leading-relaxed text-cream-dim">
+                Want a quiet look at your digital front porch?
+              </p>
+              <p className="mb-3 leading-relaxed text-cream-dim">
+                We can walk it with you and show you what we see.
+              </p>
+              <Link
+                href="/porch"
+                className="text-sm text-sage transition-colors hover:text-cream"
+              >
+                Front Porch Report →
+              </Link>
             </div>
 
             <p className="text-sm text-sage/70">

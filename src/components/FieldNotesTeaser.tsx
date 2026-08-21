@@ -45,12 +45,18 @@ export function FieldNotesTeaser() {
           ))}
         </ul>
 
-        <Reveal delay={3} className="mt-8">
+        <Reveal delay={3} className="mt-8 flex flex-wrap items-center gap-x-6 gap-y-2">
           <Link
             href={fieldNotes.path}
             className="text-sm text-sage transition-colors hover:text-cream"
           >
             The rest of the shelf →
+          </Link>
+          <Link
+            href="/porch"
+            className="text-sm text-sage/70 transition-colors hover:text-cream"
+          >
+            Front Porch Report →
           </Link>
         </Reveal>
       </div>

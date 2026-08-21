@@ -6,6 +6,12 @@ import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { navLinks } from "@/lib/site";
 
+function linkIsCurrent(href: string, pathname: string) {
+  if (href === "/notes") return pathname.startsWith("/notes");
+  if (href === "/porch") return pathname.startsWith("/porch");
+  return false;
+}
+
 export function Navbar() {
   const pathname = usePathname();
   const [scrolled, setScrolled] = useState(false);
@@ -54,10 +60,9 @@ export function Navbar() {
             />
           </Link>
 
-          <div className="hidden items-center gap-8 text-[0.875rem] font-medium text-cream-dim lg:flex">
+          <div className="hidden items-center gap-5 text-[0.875rem] font-medium text-cream-dim lg:flex xl:gap-8">
             {navLinks.map((link) => {
-              const current =
-                link.href === "/notes" && pathname.startsWith("/notes");
+              const current = linkIsCurrent(link.href, pathname);
               return (
                 <Link
                   key={link.href}
@@ -131,8 +136,7 @@ export function Navbar() {
 
           <div className="flex flex-1 flex-col gap-1 overflow-y-auto px-6 py-6">
             {navLinks.map((link) => {
-              const current =
-                link.href === "/notes" && pathname.startsWith("/notes");
+              const current = linkIsCurrent(link.href, pathname);
               return (
                 <Link
                   key={link.href}
