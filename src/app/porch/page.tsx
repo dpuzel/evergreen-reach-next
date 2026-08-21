@@ -69,14 +69,9 @@ export default function PorchLandingPage() {
             <li>Name, address, and phone that match</li>
           </ul>
 
-          <div className="flex flex-col gap-3 sm:flex-row">
-            <Link href="/porch/new" className="btn-primary">
-              Write a report
-            </Link>
-            <Link href="/#contact" className="btn-ghost">
-              Ask us to look
-            </Link>
-          </div>
+          <Link href="/#contact" className="btn-primary">
+            Ask us to look
+          </Link>
         </section>
 
         <section className="relative mx-auto max-w-3xl px-5 pb-28 sm:px-6">

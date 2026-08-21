@@ -54,7 +54,7 @@ Commit and push. The `/notes` index, homepage teaser, sitemap, and `/notes/rss.x
 
 ### Front Porch Reports
 
-Drop a JSON file in `src/content/porch/your-slug.json`. Individual reports are shareable at `/porch/your-slug` and stay out of the sitemap (`noindex`). Draft and print from `/porch/new`.
+Drop a JSON file in `src/content/porch/your-slug.json`. Individual reports are shareable at `/porch/your-slug` and stay out of the sitemap (`noindex`). Compose in HCC or by hand, then commit the file.
 
 ## Commands
 
