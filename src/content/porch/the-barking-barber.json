@@ -1,0 +1,49 @@
+{
+  "slug": "the-barking-barber",
+  "business": "The Barking Barber",
+  "town": "Lakeside, CA",
+  "website": "https://the-barking-barber.square.site/",
+  "phone": "(619) 889-9490",
+  "generated": "2026-08-26",
+  "prospectId": "1786387247885-7xw82ek",
+  "headline": "Lakeside already knows Kirsten. Google is still guessing.",
+  "summary": "The work is real. Neighbors book her, recommend her, and say their nervous dogs settle. Online, a stranger searching the name can land on a human barber, a groomer in Oregon, or two different Lakeside addresses. That confusion is the whole porch problem.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "dim",
+      "note": "Local Facebook groups know you. A stranger typing the shop name does not clearly get a Lakeside dog groomer. The name is easy to love and easy to mix up. There is even another Barking Barber doing pets in Oregon.",
+      "next": "Claim or clean one Google listing as a pet groomer in Lakeside. Category matters. Barber will hide you from the people with dogs."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 889-9490 is the one thing that stays consistent. Chamber, Facebook, and the intro posts all use it. Call or text actually reaches Kirsten.",
+      "next": "Keep that number on every listing, including Google and the Square site. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The chamber says by appointment. That is honest for a one-groomer shop. Public maps do not say it clearly, so people still wonder if they can walk in.",
+      "next": "One line everywhere: by appointment, call or text 889-9490, or book on the site. That is enough hours for how you actually work."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work lives on Instagram. Public listings do not clearly show the dogs, the table, or the door. A first-time owner cannot see the care before they text.",
+      "next": "Put four current photos on Google: the door, the table, a before-and-after, and a nervous dog who left happy."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "the-barking-barber.square.site exists and can take a booking. It is a thin Square page, not a shop front. It does the job if someone already has the link. It does not explain the shop to a stranger.",
+      "next": "Add three lines at the top: Lakeside dog grooming, by appointment, the phone. Then the book button. That is a complete site for now."
+    },
+    {
+      "id": "nap",
+      "lamp": "out",
+      "note": "Name is close. Phone is good. Address is not. Facebook and some maps say 10021 Maine Ave. The chamber says you are working out of Angelica's at 9838 Vine Street. Two doors is how a neighbor drives to the wrong lot.",
+      "next": "Pick the door you use this month. Put that address on Google, the chamber, and the Square site. Hide or mark the other as moved."
+    }
+  ]
+}
