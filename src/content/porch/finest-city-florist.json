@@ -1,0 +1,49 @@
+{
+  "slug": "finest-city-florist",
+  "business": "Finest City Florist",
+  "town": "Lakeside, CA",
+  "website": "https://www.finestcityflorist.com/",
+  "phone": "(619) 592-4744",
+  "generated": "2026-08-26",
+  "prospectId": "1786387253647-t3gskss",
+  "headline": "The flowers already speak for themselves. The hours still argue.",
+  "summary": "This is a real neighborhood florist with real reviews, real wedding work, and a real shop on Woodside. A neighbor still has to guess whether Sunday is open, closed for summer, or wrapping up at 3, 5, or 6. That guess is where a same-day bouquet goes somewhere else.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for florist in Lakeside. Yelp is 4.9 from a few dozen reviews, Google has a listing at 12160 Woodside, and Flower Shop Network has a pile of delivery notes. People looking for a local shop can find you.",
+      "next": "Keep the category florist, not event planner only. Everyday flowers and sympathy still need to land on this door."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number that belongs to you is (619) 592-4744. It is on the order site, Yelp, and the directories. The Wix site prints it with a space, 592-47 44. WeddingWire still lists (619) 647-7523. One of those will send a flower question into the void.",
+      "next": "Put 592-4744 everywhere public, with no space in the digits. Flag the 647 number on WeddingWire until it is gone."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "The shop site says Tuesday 9 to 3, Wednesday through Friday 9 to 5, Saturday 8 to 1, Sunday 8 to 12, plus closed Sundays in summer. Google-style directories say Tuesday 9 to 2, Wednesday through Friday 9 to 3, and Sunday 9 to 12. Flower Shop Network says Sunday closed. WeddingWire says Wednesday through Friday until 6. A neighbor planning a Sunday sympathy stop in August cannot tell if the door is open.",
+      "next": "Write one hour card, including the summer Sunday close. Copy it to Google, Yelp, WeddingWire, and both sites the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Instagram, the shop gallery, and wedding photos show what you actually make. People can see the flowers before they call.",
+      "next": "Drop a few of this month's arrangements onto Google, not only Instagram, so the listing keeps looking current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "finestcityflorist.com loads and tells the shop story. lakesidecaflorist.com is the order door. Both belong to you. The Wix page still has leftover template chrome, a phone number with a space, and hours buried under the about copy. A phone visitor has to hunt.",
+      "next": "Keep both doors if that is how you work. Put the real phone, the real hours, and the order button above the fold on a phone. Cut the leftover Wix bits."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name and 12160 Woodside Ave line up. Some listings add suite B, the sites often do not. Phone is mostly right. Hours are not. For a walk-in florist, wrong hours are as bad as a wrong address. They send people to a door that is locked.",
+      "next": "Fix hours first. Then the WeddingWire phone. Name and street are already doing their job."
+    }
+  ]
+}
