@@ -1,0 +1,49 @@
+{
+  "slug": "cake-by-sierra",
+  "business": "Cake by Sierra",
+  "town": "El Cajon, CA",
+  "website": "https://www.cakebysierra.com/",
+  "phone": "(858) 381-4208",
+  "generated": "2026-08-26",
+  "prospectId": "1786387244460-mu015qd",
+  "headline": "The cakes are the easy part. The hours tell three different stories.",
+  "summary": "This is a real custom cake shop with a real site, strong photos, and people who already love the work. A neighbor still has to guess whether they can walk in, call during listed hours, or only order online. That guess is where birthday plans go sideways.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for custom cakes in El Cajon. Yelp is claimed, 4.9 from a few dozen reviews, and the site is easy to find by name.",
+      "next": "Keep the category as custom cakes, not a walk-in bakery. That one word saves a lot of wasted trips."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number that belongs to you is (858) 381-4208. It is on the site and Facebook. A random directory still lists (858) 210-5959. Two numbers means some cake questions never arrive.",
+      "next": "Put 381-4208 everywhere public. Flag or ignore the 210 number until it disappears."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The site says appointment only, no walk-ins, no same-day pickup. Yelp and MapQuest show 9 to 5 most days. Facebook says Always open. One listing even says 24 hours. A parent planning a Saturday cake cannot tell which is true.",
+      "next": "Write one sentence and copy it everywhere: orders online, pickup and delivery by appointment, not a walk-in bakery. Then turn off 24 hours and Always open."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Yelp has well over a hundred cake photos. Instagram is alive. People can see what you actually make.",
+      "next": "Drop a few of this month's cakes onto Google, not only Instagram, so the listing keeps looking current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "cakebysierra.com loads, explains the kitchen, and has an order form. It still has leftover template chrome and a couple of typos. The real door is the inquiry form, and that door works.",
+      "next": "Keep the form. Put the phone, the appointment-only line, and the email above the fold on a phone. Cut the leftover Wix bits."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name and 1423 Cuyamaca St line up. Phone is mostly right. Hours do not. For an appointment-only kitchen, wrong hours are as bad as a wrong address. They send people to a door that is not staffed.",
+      "next": "Fix hours first. Name and address are already doing their job."
+    }
+  ]
+}
