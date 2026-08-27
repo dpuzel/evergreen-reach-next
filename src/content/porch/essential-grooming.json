@@ -1,0 +1,49 @@
+{
+  "slug": "essential-grooming",
+  "business": "Essential Grooming",
+  "town": "Santee, CA",
+  "website": "https://essentialgroomingsalon.com/",
+  "phone": "(619) 334-1070",
+  "generated": "2026-08-27",
+  "prospectId": "1787857877486-00wxt1s",
+  "headline": "Yelp already shows the work. The site still says San Carlos and 90271.",
+  "summary": "This is a real family salon in Carlton Oaks Plaza with a claimed Yelp page, a hundred-plus reviews, and a booking link that works. A neighbor still has to guess whether Monday is open, and the location page still types ZIP 90271. That is where a first appointment goes somewhere else.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for dog grooming in Santee. Yelp is claimed, 4.6 from about 160 reviews, and the salon sits in Carlton Oaks Plaza by the library. People looking for a local groomer can find you.",
+      "next": "Keep the category pet groomer in Santee. San Carlos in the page title should not steal the pin."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 334-1070 is consistent. Site, Yelp, and the directories all use it. Call or email bark@essentialgroomingsalon.com actually reaches Laurie.",
+      "next": "Keep that number on every listing. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Yelp and MapQuest say Monday 8 to 5:30, then the same hours through Saturday, Sunday closed. AllBiz, Unilocal, and the Santee Chamber say closed Monday, open Tuesday through Saturday. The location page only says Open today, with no week posted. A neighbor planning a Monday drop-off cannot tell if the door is staffed.",
+      "next": "Write one hour card, including Monday. Copy it to Yelp, Google, the chamber, and the location page the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Yelp has close to a hundred photos. People can see the salon and the dogs before they book.",
+      "next": "Drop a few of this week's grooms onto Google, not only Yelp, so the listing keeps looking current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "essentialgroomingsalon.com loads and belongs to you. The MoeGo book button works. The page title still says Santee - San Carlos. The location page types ZIP 90271. The footer has the right 92071. A stranger has two ZIPs and a city that is not yours.",
+      "next": "Fix the ZIP to 92071. Cut San Carlos from the title. Put the real hours and the book button above the fold on a phone."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street is 9225 Carlton Hills Blvd, Suite 22. Phone is good. The name is two names: Essential Grooming and Essential Grooming and Wellness. The location page ZIP is 90271. Santee is 92071. Wrong ZIP is as bad as a wrong street. It sends the map to the wrong county.",
+      "next": "Fix the ZIP first. Then pick one public name. Street and phone are already doing their job."
+    }
+  ]
+}
