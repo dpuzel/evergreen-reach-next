@@ -1,0 +1,49 @@
+{
+  "slug": "angelas-eccentric-kitchen",
+  "business": "Angela's Eccentric Kitchen",
+  "town": "Santee, CA",
+  "website": "https://www.angelaseccentrickitchen.com/",
+  "phone": "(619) 562-0762",
+  "generated": "2026-08-27",
+  "prospectId": "1787857879335-mwqgxa2",
+  "headline": "The sourdough already speaks for itself. The old name is still on the porch.",
+  "summary": "This is a real Santee bakery with a real storefront in the GTM center, a claimed Yelp page, and people who followed Angela from the farmers market. A neighbor searching Eccentric International Chefs still lands on the old Facebook page, and three inboxes mean some cake questions never arrive.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for bakery in Santee. Yelp is claimed as Angela's Eccentric Kitchen, about 4.4 from a couple hundred reviews, and there is a pin at 8925 Carlton Hills. People looking for bread and cake can find the building.",
+      "next": "Keep the category bakery. The old name should not be the first result a stranger gets."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (619) 562-0762 is consistent. The new Facebook uses info@angelaseccentrickitchen.com. The contact page uses AngelasEccentricKitchen@gmail.com. The old Eccentric International Chefs page still lists angelashomebakedkitchen@gmail.com. Three inboxes means some cake questions never arrive.",
+      "next": "Pick one public inbox. Put it on the site, the new Facebook, and Yelp. Take the other two off every listing."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The contact page and Yelp say Tuesday through Friday 6 to 3, Saturday 6 to 4, closed Sunday and Monday. WeddingWire and an old chamber listing still say 5 a.m. Chula Vista Farmers Market is Sundays 10 to 2 as Angela's Kitchen. A neighbor who trusts Yelp thinks Sunday is closed.",
+      "next": "Write one sentence: shop hours here, market Sundays in Chula Vista. Copy that to Google, Yelp, and the home page."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Yelp has well over two hundred photos. Instagram is @angelas.eccentric.kitchen. People can see the bread and the cakes before they call.",
+      "next": "Drop a few of this week's loaves onto Google, not only Instagram, so the listing keeps looking current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "angelaseccentrickitchen.com loads and belongs to you. There is a tasting form. Leftover Wix chrome is still public: top of page, bottom of page, and a specials page titled My Vxw Site Xptrsy. Mother's Day specials are still in the menu in August. Hours live only on the contact page.",
+      "next": "Put the name, Carlton Hills, the phone, and this week's hours above the fold. Cut the leftover Wix bits and the stale specials."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street is 8925 Carlton Hills Blvd. Phone is good. The name is two names: Angela's Eccentric Kitchen and Eccentric International Chefs. Facebook still has both pages. WeddingWire and the chamber still use the old one. Two names is how a birthday cake order goes to a shop that no longer answers.",
+      "next": "Pick Angela's Eccentric Kitchen as the public name. Rename or mark the old Facebook page as moved. Ask WeddingWire and the chamber to follow."
+    }
+  ]
+}
