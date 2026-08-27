@@ -1,0 +1,49 @@
+{
+  "slug": "lilac-heights-bakery",
+  "business": "Lilac Heights Bakery",
+  "town": "Ramona, CA",
+  "website": "https://lilacheightsbakery.com",
+  "phone": "(760) 653-8993",
+  "generated": "2026-08-27",
+  "prospectId": "1787870531551-gd6kynr",
+  "headline": "The cookies live on Facebook. Google is still looking for a different Lilac Bakery.",
+  "summary": "This is a licensed cottage kitchen, not a Main Street shop. Leslie takes orders by Facebook, text, or email, and the work is real. The home page is one sentence that sends you to Facebook. A stranger typing Lilac Bakery can land in Winnipeg or Lombard. Directories will invent hours for a door that is not a walk-in.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "dim",
+      "note": "Ramona people can find you on Facebook. A stranger typing Lilac Bakery does not clearly get a Ramona cottage kitchen. There is a Lilac Bakery in Winnipeg, one in Lombard, and a Lilac City Bakery in Spokane. The name is easy to love and easy to mix up.",
+      "next": "Keep Google as Lilac Heights Bakery in Ramona, cottage food, by order. The extra Heights word is doing work. Do not let a walk-in bakery in another state steal the pin."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (760) 653-8993 and leslieannedelaney@gmail.com are consistent. Facebook, the contact page, and the listings all use them. The contact page even asks people to put Bakery in the email subject, which is honest for a home inbox.",
+      "next": "Keep that pair everywhere. Do not add a second number."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The site has no hours. Facebook does not clearly post a week. Directories will invent open and closed for a kitchen that is not a walk-in shop. A neighbor who trusts Google can drive to La Plata Court expecting a counter.",
+      "next": "Write one line: licensed home bakery, by order, Facebook or text 653-8993, not a walk-in shop. Put that line on Google and the home page."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work lives on Facebook. The site says so. Public listings do not clearly show the cookies, the cakes, or the preserves. A first-time neighbor cannot see the care before they message.",
+      "next": "Put four current photos on Google: a cookie, a cake, a jam, and a decorated order. Facebook can keep the rest."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "lilacheightsbakery.com loads and belongs to you. The home page is one sentence: contact us, pictures are on Facebook. About and contact exist if someone hunts. Leftover WordPress.com chrome is still public. A phone visitor lands in an empty hallway.",
+      "next": "Three lines at the top: Ramona licensed home bakery, the phone, the order line. Then the Facebook link. That is a complete site for a cottage kitchen."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name is close. Phone is good. Address is a house on La Plata Court, which is true for a licensed kitchen. If Google treats it like a storefront, people drive to a door that is not staffed for walk-ins. The bigger leak is the other Lilac bakeries sharing the search.",
+      "next": "Keep the public name Lilac Heights Bakery, Ramona. Mark the listing as by appointment. Do not hide that it is a cottage kitchen. That honesty saves wasted trips."
+    }
+  ]
+}
