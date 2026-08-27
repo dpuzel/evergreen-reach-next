@@ -1,0 +1,49 @@
+{
+  "slug": "sun-valley-florist",
+  "business": "Sun Valley Florist",
+  "town": "Ramona, CA",
+  "website": "https://www.sunvalleyflorist.net/",
+  "phone": "(760) 789-3054",
+  "generated": "2026-08-27",
+  "prospectId": "1787870535706-e9059r4",
+  "headline": "Fifty years of flowers. The hours still tell three stories.",
+  "summary": "This is Ramona's first florist, now Frankie's shop on Main Street, inside Affordable Treasures. Yelp is claimed and full of photos. A neighbor still has to guess whether the door is open until 2, 5, or 8, and which number to call. That guess is where a same-day bouquet goes somewhere else.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for florist in Ramona. Yelp is claimed, the pin is 677 Main Street, and people already ask for Frankie by name. This is not a new shop. It is the first florist in town, under new care since 2011.",
+      "next": "Keep the category florist in Ramona. A 1-800 site should not steal the pin from a designer who has been doing this for fifty years."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number on Yelp and most listings is (760) 789-3054. The about page also shouts a new number, (760) 315-7525, for phone orders. Both can be true. Two public numbers means some flower questions never arrive.",
+      "next": "Pick one public phone for walk-ins and listings. If 315-7525 is the order line after hours, say that in one sentence next to it. Do not let both sit unlabeled."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "Yelp says Monday through Friday 9 to 8. BloomNation says 10 to 2. The about page has all three: a table that says 9 to 8, a note that the shop is 9 to 2 with pickup until 5, and a line that says 10 to 2. A neighbor driving at 6 cannot tell if the door is open or if only the phone is.",
+      "next": "Write one hour card: when the shop door is open, when pickup is possible inside Affordable Treasures, when the phone is answered. Copy that to Yelp, Google, BloomNation, and the about page the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Yelp has well over two hundred photos. People can see the flowers, the shop, and Frankie's hand before they call.",
+      "next": "Drop a few of this week's arrangements onto Google, not only Yelp, so the listing keeps looking current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "sunvalleyflorist.net loads, belongs to you, and takes an order. The about page is doing too many jobs at once: three hour blocks, a new phone in bold, and the real story of the shop. A phone visitor has to hunt for which hours are the door.",
+      "next": "Keep the order button. Put one hour card and one phone above the fold. The rest of the about page can stay the story."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street is 677 Main Street. Name is consistent. Phone is two numbers. AllBiz still lists Sandy Gillespie as owner. Frankie bought the shop from the Gillespie family in 2011. An old owner name on a directory is how a sympathy order goes to a number that does not ring the shop.",
+      "next": "Put Frankie as the public owner. Keep 677 Main Street. Then pick the one public phone. Name and street are already doing their job."
+    }
+  ]
+}
