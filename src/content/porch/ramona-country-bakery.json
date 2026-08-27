@@ -1,0 +1,49 @@
+{
+  "slug": "ramona-country-bakery",
+  "business": "Ramona Country Bakery",
+  "town": "Ramona, CA",
+  "website": "https://www.ramonabakery.com",
+  "phone": "(760) 686-0894",
+  "generated": "2026-08-27",
+  "prospectId": "1787870529538-mwfdedb",
+  "headline": "The jalapeño cheddar already has a following. Thursday still closes at two different times.",
+  "summary": "This is a real Ramona bakery with a real Main Street storefront and a wholesale route that already feeds grocery stores and wineries. Google is packed with five stars. A neighbor still has to guess whether Thursday is 5 or 7:30, and a chamber listing still prints 1306 Main Street. That is where a pizza night goes somewhere else.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for bakery in Ramona. Yelp is claimed, Google is full of five-star notes, and the shop sits on Main Street. People looking for sourdough, not a side hustle, can find you.",
+      "next": "Keep the category bakery in Ramona. The storefront and the wholesale loaves both belong on this pin."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (760) 686-0894 is consistent. Site, Yelp, Facebook, and the Gmail Ramonacountrybakery@gmail.com all point at Carrie. Call actually reaches the shop.",
+      "next": "Keep that number on every listing. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The site, Yelp, and Instagram say Thursday and Friday until 7:30 for pizza nights. Chamber.com, Apple Maps, and Tripadvisor flatten those days to 5. The Ramona Chamber member page says Thursday until 6. A neighbor planning a Friday pizza cannot tell if the door is still open.",
+      "next": "Write one hour card, including Thursday and Friday nights. Copy it to Google, Yelp, the chamber, and both pages of the site the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Yelp has well over a hundred photos. The loaves, the jalapeño cheddar, and the shop are easy to see before anyone walks in.",
+      "next": "Drop a few of this week's loaves onto Google, not only Instagram, so the listing keeps looking current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "ramonabakery.com loads and belongs to you. Address, phone, and hours are on the home page. Leftover Wix chrome is still public: top of page, bottom of page. The locations page lists Thursday until 7:30 and Friday until 730pm, missing a colon. A phone visitor has to hunt past the draft bits.",
+      "next": "Cut the leftover Wix bits. Put the same hour card on the home page and the locations page. That is enough site for now."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The shop is 733 Main Street, Suite B. Phone is good. The Ramona Chamber member listing still prints 1306 Main Street, which is the chamber office, plus an old 789 number. Yellow Pages has used 282 W Old Julian Hwy. Two Main Streets is how a neighbor drives to the wrong door.",
+      "next": "Put 733 Main Street, Suite B on the chamber listing. Hide or mark the 1306 address as the chamber, not the bakery."
+    }
+  ]
+}
