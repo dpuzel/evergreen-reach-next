@@ -1,0 +1,49 @@
+{
+  "slug": "alpine-artistic-florist",
+  "business": "Alpine Artistic Florist",
+  "town": "Alpine, CA",
+  "website": "https://alpineartisticflorist.com/",
+  "phone": "(619) 445-7974",
+  "generated": "2026-08-27",
+  "prospectId": "1787857881712-48o7pop",
+  "headline": "Thirty years in Alpine. Google still sends people to Suite 103.",
+  "summary": "This is a real local florist, not a 1-800 broker. Yelp is 4.9, BloomNation is full of delivery notes, and the phone actually reaches the shop. After the restaurant fire they moved down the hall to Suite 119. The site says so in a banner. Every public address, including the Google maps link, still says 103.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for florist in Alpine. Yelp is claimed, 4.9 from a few dozen reviews, and BloomNation has well over two hundred delivery notes. People looking for a real shop, not a broker, can find you by name.",
+      "next": "Keep the category florist in Alpine. A 1-800 site should not steal the pin from a shop that has been here for decades."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number that belongs to you is (619) 445-7974. It is on the site, Yelp, and BloomNation. Public inboxes split three ways: alpineartisticflorist@yahoo.com, support@alpineartisticflorist.com, and a Gmail on the site footer. Some directories also list extra 320 numbers. Two extra numbers and three inboxes means some flower questions never arrive.",
+      "next": "Keep 445-7974 as the only public phone. Pick one inbox. Put that pair on Google, Yelp, BloomNation, and the footer."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "BloomNation and AllBiz say Monday through Friday 10 to 5, Saturday 10 to 1. Yelp and the site FAQ say 11 to 4 on weekdays, Saturday 10 to 1. The site footer says Saturday by appointment only. A neighbor planning a Saturday pickup cannot tell if the door is staffed.",
+      "next": "Write one hour card, including Saturday. Copy it to Google, Yelp, BloomNation, and the site footer the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Yelp has well over a hundred photos. BloomNation reviews come with pictures of the actual deliveries. People can see the flowers before they call.",
+      "next": "Drop a few of this week's arrangements onto Google, not only BloomNation, so the listing keeps looking current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "alpineartisticflorist.com loads, belongs to you, and takes an order. The fire note is on the home page: temporarily in Suite 119. The header, the footer, and the Google maps link still say Suite 103. A stranger who skips the banner drives to the old door.",
+      "next": "Change the structured address to 119 until you move back. Keep the fire note so neighbors know why. Put hours and the phone above the fold."
+    },
+    {
+      "id": "nap",
+      "lamp": "out",
+      "note": "Name is consistent. Phone is good. The street is 1730 Alpine Blvd. The suite is not. Yelp, BloomNation, AllBiz, and Google still say 103. The shop is in 119 after the restaurant fire. Wrong suite is as bad as a wrong address. It sends people to a door that is dark.",
+      "next": "Put Suite 119 on Google, Yelp, BloomNation, and the maps link today. When you return to 103, change it the same morning."
+    }
+  ]
+}
