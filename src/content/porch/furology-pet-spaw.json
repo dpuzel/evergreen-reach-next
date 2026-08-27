@@ -1,0 +1,49 @@
+{
+  "slug": "furology-pet-spaw",
+  "business": "FURology Pet SPaw",
+  "town": "Santee, CA",
+  "website": "https://furologypetspaw.com/",
+  "phone": "(619) 334-6218",
+  "generated": "2026-08-27",
+  "prospectId": "1786387276428-bure9y4",
+  "headline": "Yelp already shows the work. The site still says Click to edit.",
+  "summary": "This is a real Santee grooming salon with a claimed Yelp page, a hundred-plus photos, and people who already send their dogs to Lindsey and the team. A neighbor still has to guess whether Wednesday is open, and the website still shows leftover builder chrome a stranger can tap. That is the whole porch problem.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for dog grooming in Santee. Yelp is claimed, 4.5 from about a hundred reviews, and Google has a listing at 9730 Cuyamaca. People looking for a local groomer can find you.",
+      "next": "Keep Google as a Santee pet groomer at Suite A. PURRology next door and a Myrtle Beach shop that also uses FURology should not steal the pin."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 334-6218 is the one thing that stays consistent. Site, Yelp, and the directories all use it. Call actually reaches the salon.",
+      "next": "Keep that number on every listing, including Giftly and Facebook. Do not add a second one. PURRology's number belongs on PURRology only."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The site and Yelp say Wednesday closed, then 8 to 5:30 the rest of the week, Saturday until 6, Sunday 8:30 to 4:30. Giftly and Facebook still show Wednesday 8 to 5:30. A neighbor who trusts the directory drives to a locked door.",
+      "next": "If Wednesday is closed, write that once and copy it to Facebook, Giftly, and Google the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Yelp has well over a hundred photos. People can see the salon, the grooms, and the dogs before they call.",
+      "next": "Drop a few of this week's grooms onto Google, not only Yelp, so the listing keeps looking current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "furologypetspaw.com loads and belongs to you. Hours, phone, and the address are on it. Leftover builder chrome is still public: Click to edit, Column, a contact form that says Invalid Form properties detected. A phone visitor has to hunt past the draft bits.",
+      "next": "Take the editor buttons off. Put the phone, Wednesday hours, and the book button above the fold on a phone. That is enough site for now."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Address is 9730 Cuyamaca, Suite A. Phone is good. The name is several names: FURology, Furology, Pet SPaw, Pet Spa, FURology Inc. PURRology SPaw and Retreat sits in Suite D, same building, different phone. Two sister doors is fine. Two Google pins that look like one shop is how a cat person lands in the dog salon.",
+      "next": "Pick FURology Pet SPaw as the public name. Put Suite A on every listing. Keep PURRology as its own listing at Suite D."
+    }
+  ]
+}
