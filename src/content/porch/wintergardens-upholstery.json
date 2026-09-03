@@ -1,0 +1,48 @@
+{
+  "slug": "wintergardens-upholstery",
+  "business": "Wintergardens Upholstery",
+  "town": "Lakeside, CA",
+  "phone": "(619) 561-5606",
+  "generated": "2026-09-03",
+  "prospectId": "1788465518822-41afzph",
+  "headline": "The reviews already know Carlos. The shop still has no door of its own online.",
+  "summary": "This is a real family upholstery shop on Winter Gardens Boulevard. Yelp is 4.5, and people already ask for Carlos by name. The phone is the door. There is no public website. Directories agree on weekday hours, then split on whether the shop started in 1975 or 1977. A neighbor looking for boat seats or a convertible top still has to find you on Yelp.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for auto upholstery in Lakeside. Yelp is claimed, 4.5 from about 22 reviews, and people already ask for Carlos by name. A neighbor looking for seats, boats, or a classic interior can find you.",
+      "next": "Keep the category auto upholstery in Lakeside. Marine and classics should stay in the listing, not only the about blurb."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 561-5606 is consistent across Yelp, Yahoo, MapQuest, and Unilocal. Call is how people actually book. That door works.",
+      "next": "Keep that number on every listing. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Yelp, Yahoo, MapQuest, Unilocal, and cityof.com all print Monday through Friday 8 to 4:30, Saturday closed, Sunday closed. That is cleaner than most shops. There is no shop-owned card to prove it. A neighbor still has to trust the directories.",
+      "next": "Write one hour card on Google and on a one-pager. Keep Saturday closed if that is the door. If Saturday ever opens, change it the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is in the reviews. Neighbors talk about G-Wagon seats, boat interiors, and factory-match fabric. Yelp has about 20 photos. Public listings do not clearly show this week's jobs the way a first-time owner would need.",
+      "next": "Put four current photos on Google: the shop door, a seat in progress, a finished boat, and a classic interior."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "There is no public website. Neighbors find the shop on Yelp. That works until someone wants hours, a photo of this week's work, and a number without opening an app. No site is a missing front door, not a small rot.",
+      "next": "A simple one-pager is enough: phone, 8940 Winter Gardens Boulevard, weekday hours, and three photos of the work. Yelp can stay. It should not be the only door."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name, street, and phone line up: 8940 Winter Gardens Blvd, Lakeside, CA 92040, (619) 561-5606. Unilocal and MapQuest say the family started in 1977. Manta still prints established 1975. Two founding years is a small leak, not a wrong pin, but it is how a listing starts to look unclaimed.",
+      "next": "Pick 1977 or 1975, whichever is true, and put that year on Google and the one-pager. Street and phone are already doing their job."
+    }
+  ]
+}

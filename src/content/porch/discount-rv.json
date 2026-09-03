@@ -1,0 +1,49 @@
+{
+  "slug": "discount-rv",
+  "business": "Discount RV Inc.",
+  "town": "Ramona, CA",
+  "website": "https://www.discountrvinc.com/",
+  "phone": "(619) 448-6242",
+  "generated": "2026-09-03",
+  "prospectId": "1788465516714-4kkojhp",
+  "headline": "The reviews already know Tori and Barney. Maps still send people to Lakeside.",
+  "summary": "This is a real family shop, on Main Street since 2021, with a 4.7 Yelp page. The phone and Tori's inbox are the door. The site says appointment only, no walk-ins, no mobile. Directories still print weekday hours like a walk-in lot, and leftover Lakeside pins still sit on Riverford Road. A neighbor can still drive to the old town, or roll up without a time, and find a door that is not set up that way.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for RV repair in Ramona. Yelp is claimed, 4.7 from about 50 reviews, and people already ask for Barney and Tori by name. A neighbor looking for collision work or a fifth-wheel diagnosis can find you.",
+      "next": "Keep the category RV repair in Ramona. Collision and insurance should stay in the listing, not only the about page."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 448-6242 is consistent. The contact page says email is best, Tori@discountrvinc.com, and that they check it after hours. Call or email is how people actually book. That door works.",
+      "next": "Keep that number and that inbox on every listing. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The contact page says office Monday through Friday 9 to 4, Saturday by appointment only, Sunday closed, and RV techs are not available for walk-ins. The home page says appointment only. Yelp, MapQuest in Ramona, and Loc8NearMe print Monday through Friday 9 to 4, Saturday and Sunday closed, like a walk-in shop. A leftover Lakeside MapQuest card still prints 8 to 5. cityof.com has used 4:30 closes and a Friday 9:30 open. A map that looks like walk-in is how a fifth-wheel waits in the lot.",
+      "next": "Write one hour card, including Saturday by appointment, and one line: appointment only, no walk-ins. Copy it to Google, Yelp, and the home page the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is in the reviews. Neighbors talk about collision appraisals, generators, and honest estimates. The site has service photos. Yelp has about 13. Public listings do not clearly show this week's shop floor the way a first-time owner would need.",
+      "next": "Put four current photos on Google: the Main Street door, the yard, a repair in progress, and a finished coach."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "discountrvinc.com loads and belongs to you. Services, about, and contact are there. The home page already says appointment only. Leftover IONOS chrome is still public on every page: Login, Edit page, Logout, Web View, and Mobile View. The header says Discount RV Center INC. The footer says Discount RV INC. Hours live on the contact page, not above the fold on home.",
+      "next": "Put the phone, the appointment line, and Saturday by appointment above the fold. Cut the leftover editor links. The brochure can stay. The book-now door is still call or email Tori."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The shop is 1939 Main Street, Ramona. Phone is good. The about page says you moved from Lakeside in 2021. Unilocal still lists 10197 Riverford Road Ste F. MapQuest still has a Lakeside card at Suite G with 8 to 5 hours. MechanicAdvisor points at the same Riverford street. Loc8NearMe is titled Lakeside with the Ramona address. Roadtrippers adds Ste G in Ramona. The site does not print a suite. Two towns is how a neighbor drives to a door that is not yours.",
+      "next": "Put 1939 Main Street, Ramona on Google, Yelp, and the directories. Hide or mark the Riverford pins as moved. Add the suite only if the door still uses one."
+    }
+  ]
+}
