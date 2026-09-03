@@ -1,0 +1,49 @@
+{
+  "slug": "calm-specialty-grooming",
+  "business": "Calm Specialty Grooming",
+  "town": "Alpine, CA",
+  "website": "https://www.csgalpine.com/",
+  "phone": "(619) 509-8333",
+  "generated": "2026-09-03",
+  "prospectId": "1788374531913-7c5rylt",
+  "headline": "The reviews already know Samuel. Sunday still looks like a walk-in.",
+  "summary": "This is a real mother-and-son shop for nervous dogs, kennel-free, with a 5.0 Yelp page. The phone is the door. Directories print Sunday 8 to 6 like a walk-in salon. The site never prints a week. A neighbor with an anxious dog can drive to Arnold Way on a day the chair is not staffed for drop-ins.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for dog grooming in Alpine. Yelp is 5.0 from about 14 reviews, and people already ask for Samuel by name. A neighbor looking for a quiet groomer can find you.",
+      "next": "Keep the category pet groomer in Alpine. Kennel-free and special-needs should stay in the listing, not just the about page."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 509-8333 is consistent. The contact page uses info@csgalpine.com. Call or text is how people actually book. That door works.",
+      "next": "Keep that number on every listing. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Yahoo and MapQuest print Tuesday through Sunday 8 to 6, Monday closed. Yelp has shown closed until 8 and open until 6. The site does not print a week. The FAQ says appointments preferred, walk-ins call ahead. A map that looks like Sunday walk-in is how a nervous dog waits at a locked door.",
+      "next": "Write one hour card, including Sunday, and one line: appointment preferred, call or text ahead. Copy it to Google, Yelp, and the contact page the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is in the reviews. Neighbors talk about rescue dogs, huskies, and a peaceful shop. The site photos help. Public listings do not clearly show this week's grooms the way a first-time owner would need.",
+      "next": "Put four current photos on Google: the suite door, the table, a nervous dog who left calm, and a finished groom."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "csgalpine.com loads and belongs to you. Services, about, and contact are there. Leftover Wix chrome is still public: top of page, bottom of page, and a 4k+ Happy Customers block on a shop registered in October 2024. There is no book button. Hours are missing. A phone visitor has to hunt for the number.",
+      "next": "Put the phone, the suite, and the appointment line above the fold. Cut the leftover counters. The brochure can stay. The book-now door is still call or text."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name and phone line up. The contact page says 2065 Arnold Way, STE #102. Yahoo, Nextdoor, and Yellow Pages often drop the suite. MapQuest has #102. Two doors in the same building is how a neighbor walks into the wrong unit.",
+      "next": "Put Suite 102 on Google, Yelp, and the directories. Street and phone are already doing their job."
+    }
+  ]
+}
