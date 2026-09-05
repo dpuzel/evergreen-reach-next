@@ -25,6 +25,8 @@ export type PorchReport = {
   phone?: string;
   generated: string;
   prospectId?: string;
+  /** Friend / flex sheet. Not a client send. Not a CRM prospect. */
+  demo?: boolean;
   headline: string;
   summary: string;
   signals: PorchSignal[];

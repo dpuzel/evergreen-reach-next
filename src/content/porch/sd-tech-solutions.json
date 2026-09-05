@@ -1,0 +1,48 @@
+{
+  "slug": "sd-tech-solutions",
+  "business": "SD Tech Solutions",
+  "town": "San Diego, CA",
+  "website": "https://sd-tech-solutions.com",
+  "generated": "2026-09-05",
+  "demo": true,
+  "headline": "The helpdesk is real. The map still thinks you have a storefront cousin.",
+  "summary": "This is a real San Diego IT partner, founded 2020, no storefront, with a site that already says the quiet part: monthly managed IT billed by the seat, serving the greater San Diego area. The line on LinkedIn is The IT Helpdesk for San Diego Businesses. The door is an inbox, not a pin. A neighbor typing the name can still land on San Diego Tech Solutions in 92154, SD Tech Services in Escondido, or SD Tech LLC in Poway. Those shops are not you. Thin review surface under this exact name is how the hallway stays crowded.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "dim",
+      "note": "sd-tech-solutions.com and the LinkedIn company page show up for the exact name. That is the real shop. Search still shares the hallway. Yelp has a claimed San Diego Tech Solutions in 92154 with walk-in hours and a different owner. Angi has SD Tech Services in Escondido. Chamber listings have SD Tech LLC in Poway. Under this exact name, public reviews are thin. A stranger can hire the wrong door.",
+      "next": "Keep the public name SD Tech Solutions, San Diego, IT partner, service area. The extra hyphen in the domain is doing work. Do not let a repair shop with a near-name steal the first look."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "There is no public phone, which is honest for a shop with no counter. The door is contact@SD-Tech-Solutions.com on the MSP page, and the footer uses the same inbox in lowercase. Helpdesk login and a remote session link are already on the site. That is a working shop, not a brochure.",
+      "next": "Keep that inbox on every listing. Do not let a directory invent a number."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "You do not print a week, because you do not have a walk-in door. That is the truth. The collision shops do. San Diego Tech Solutions in 92154 prints Monday through Friday 9 to 5 and Saturday 11 to 2. A neighbor who lands there thinks the helpdesk has a storefront clock.",
+      "next": "One line on the contact page, and on any listing you actually claim: serving the greater San Diego area, no storefront, email or helpdesk, not a walk-in shop. Directories that invent hours for a pin you do not have should be marked moved or removed."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The pendant logo is yours. The work is in the stack: Atera helpdesk, Splashtop remote, on-prem tools named in plain language. Some home images still carry generated filenames, and a couple still load from a StackStaging host. Public listings do not clearly show this week's work the way a first-time owner would need.",
+      "next": "Put four current photos on a listing you actually own: the logo, a real bench or home-lab rack, a helpdesk screen, and a finished network. Cut the staging hosts."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "sd-tech-solutions.com loads and belongs to you. Home, MSP, FAQ, contact, blog, files, helpdesk login, remote session. The MSP page already says monthly managed IT billed by the seat. The footer already says serving the greater San Diego area. That is the porch light. Leftover staging image hosts and generated-image filenames are still public. A few first-person lines (contact me, my blog) sit next to the company name.",
+      "next": "Keep the seat language and the service-area line above the fold. Swap the leftover image hosts. The brochure can stay. The book-now door is still the inbox."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name is SD Tech Solutions. Town is San Diego. There is no street, and there should not be. LinkedIn headquarters is city-only, which matches a service-area shop. The leak is the cousins with almost the same name and real pins. Inbox casing splits SD-Tech-Solutions and sd-tech-solutions. Same door. Two spellings on a listing start to look like two shops.",
+      "next": "Pick one public name, one inbox spelling, city plus service area, no street. Hide or mark any pin a directory invents. The missing address is the honest NAP, not a missing field."
+    }
+  ]
+}

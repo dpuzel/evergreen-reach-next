@@ -17,17 +17,28 @@ export function PorchSheet({
   actions?: ReactNode;
 }) {
   return (
-    <article className="porch-sheet relative overflow-hidden rounded-2xl border border-sage/15 px-5 py-8 sm:px-10 sm:py-12">
+    <article
+      className={`porch-sheet relative overflow-hidden rounded-2xl border px-5 py-8 sm:px-10 sm:py-12 ${
+        report.demo ? "border-huckleberry/30" : "border-sage/15"
+      }`}
+    >
       <div className="porch-ruled pointer-events-none absolute inset-0" aria-hidden />
 
       <header className="relative">
-        <p className="eyebrow mb-4">Front Porch Report</p>
+        <p className="eyebrow mb-4">
+          {report.demo
+            ? "Front Porch Report · friend demo"
+            : "Front Porch Report"}
+        </p>
         <h1 className="font-display mb-3 text-3xl font-semibold tracking-tight text-cream sm:text-4xl">
           {report.business || "Unnamed shop"}
         </h1>
         <p className="text-sm text-sage">
-          Generated for {report.business || "this business"}
-          {report.town ? ` · ${report.town}` : ""} on{" "}
+          {report.demo
+            ? "Demo sheet for a friend"
+            : `Generated for ${report.business || "this business"}`}
+          {report.town ? ` · ${report.town}` : ""}
+          {" · "}
           <time dateTime={report.generated}>
             {formatPorchDate(report.generated)}
           </time>
@@ -100,17 +111,24 @@ export function PorchSheet({
       </ol>
 
       <footer className="relative mt-12 border-t border-sage/10 pt-8">
-        <p className="mb-4 max-w-xl leading-relaxed text-cream-dim">
-          We put this together as a neighbor would. No contract attached. If you
-          want a hand tending the porch,{" "}
-          <a
-            href={`mailto:${site.email}`}
-            className="text-cream underline decoration-sage/40 underline-offset-4 hover:text-sage-light"
-          >
-            say hello
-          </a>
-          .
-        </p>
+        {report.demo ? (
+          <p className="mb-4 max-w-xl leading-relaxed text-cream-dim">
+            Same six lamps we use for a real shop. Made so a friend could see
+            the porch. Not a client send. Not a pitch. Not a listing.
+          </p>
+        ) : (
+          <p className="mb-4 max-w-xl leading-relaxed text-cream-dim">
+            We put this together as a neighbor would. No contract attached. If you
+            want a hand tending the porch,{" "}
+            <a
+              href={`mailto:${site.email}`}
+              className="text-cream underline decoration-sage/40 underline-offset-4 hover:text-sage-light"
+            >
+              say hello
+            </a>
+            .
+          </p>
+        )}
         <p className="text-xs tracking-wide text-sage/50">
           Evergreen Reach · Field notebook, not a pitch deck.
         </p>

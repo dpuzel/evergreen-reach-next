@@ -24,13 +24,17 @@ export async function generateMetadata({
   const report = getPorchReport(slug);
   if (!report) return { title: "Front Porch Report", robots: { index: false } };
 
+  const title = report.demo
+    ? `${report.business} · friend demo porch`
+    : `${report.business} · Front Porch Report`;
+
   return {
-    title: `${report.business} · Front Porch Report`,
+    title,
     description: report.headline,
     robots: { index: false, follow: false },
     alternates: { canonical: `/porch/${report.slug}` },
     openGraph: {
-      title: `${report.business} · Front Porch Report`,
+      title,
       description: report.headline,
       url: `${site.url}/porch/${report.slug}`,
       type: "article",
