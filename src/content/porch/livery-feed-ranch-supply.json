@@ -1,0 +1,49 @@
+{
+  "slug": "livery-feed-ranch-supply",
+  "business": "Livery Feed & Ranch Supply",
+  "town": "Ramona, CA",
+  "website": "https://www.facebook.com/365753316846200",
+  "phone": "(760) 789-5582",
+  "generated": "2026-09-09",
+  "prospectId": "1788461007898-5xnoqoq",
+  "headline": "The feed store is on Main Street. Two inboxes and three Sunday stories are the porch.",
+  "summary": "This is a real family tack and feed shop at 2537 Main Street, with 2025 Yelp notes and Instagram still posting chicks and hay this year. The phone is one number. Public mail is two: jackie@liveryranch.com on Facebook and Orange Book, steve_perry@livery.com on AllBiz as owner. Listings still print thelivery.net as the site. It did not load the shop this week. Instagram and Facebook say Monday through Saturday 9 to 5. Yahoo, Yelp, the chamber, and MapQuest close Sunday. AllBiz and Unilocal still print Sunday 10 to 4. Another card prints Sunday 9 to 5. A neighbor with a Sunday hay run cannot tell if the door is staffed.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for tack and feed in Ramona. Yelp is claimed, about 23 reviews, and people already treat the Livery as a go-to. Instagram is alive this year. A neighbor looking for hay, chicks, or a saddle can find you by name.",
+      "next": "Keep the category livestock feed and tack in Ramona. The chamber still files you under clothing store. That is the wrong hallway."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (760) 789-5582 is consistent. That door works. Public email does not. This week jackie@liveryranch.com is on Facebook-style listings and Orange Book. steve_perry@livery.com is on AllBiz as the owner inbox. A leftover fax still sits on AllBiz. Two inboxes is how a hay question never arrives.",
+      "next": "Keep 789-5582 as the only public phone. Pick one inbox, or keep both if both are live, and put the same pair on every listing. Do not leave a third door on a fax."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Shop-owned cards this year, Instagram and Facebook, say Monday through Saturday 9 to 5. Yelp, Yahoo, MapQuest, and the chamber match that and print Sunday closed. AllBiz still says Monday through Friday 8 to 6, Saturday 9 to 5, Sunday 10 to 4. Unilocal matches that Sunday. Worldorgs prints Sunday 9 to 5 and a Monday 10 to 4. Three Sunday stories is how a neighbor drives to a locked door, or never comes.",
+      "next": "Write one hour card, including Sunday. Copy it to Google, Yelp, and Facebook the same morning. If Sunday is closed, say closed."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is on Instagram. Chicks, hay, Ace Hi, consignment tack. Yelp has about 75 photos. A first-time neighbor can see the floor before they pull in.",
+      "next": "Keep this week's shelf on Instagram. Drop a few onto Google so the listing stays as current as the stories."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "AllBiz still lists thelivery.net as the website. It did not load the shop this week. Orange Book points at Facebook instead. Instagram and Facebook are the live doors. A listed domain that is not the shop is a broken front door, not a small rot.",
+      "next": "Take thelivery.net off the directories until it is yours again. Facebook can stay. A one-pager with hours, the phone, and both inboxes would be enough."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and phone line up: 2537 Main Street, Ramona, CA 92065, (760) 789-5582. Name is consistent. The leak is the rest. Two public emails. A leftover fax. A listed website that is not the shop. Chamber category clothing store. That is how a listing starts to look unclaimed even when the barn is busy.",
+      "next": "Put one name, one phone, one hour card, and the inboxes you actually read on Google and Yelp. Street is already doing its job."
+    }
+  ]
+}
