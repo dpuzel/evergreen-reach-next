@@ -1,0 +1,49 @@
+{
+  "slug": "san-diego-small-engine",
+  "business": "San Diego Small Engine",
+  "town": "El Cajon, CA",
+  "website": "https://www.sandiegosmallengine.com/",
+  "phone": "(619) 281-0455",
+  "generated": "2026-09-09",
+  "prospectId": "1788929928020-us1o9ep",
+  "headline": "The reviews already know Brian. Some maps still send people to El Cajon Blvd.",
+  "summary": "This is a real family shop, on Friendship Drive since the move, with Brian in the reviews since 1989. The home page already says the new door: 1937 Friendship Drive Suite A. Directories still print two hour cards, 8 to 5 and 8:30 to 5:30, and leftover listings still point at 4603 El Cajon Blvd. A neighbor with a dead mower can still drive to the old town.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for small engine repair in El Cajon. Yelp has about 37 reviews and people already ask for Brian by name. The chamber listing is a verified member. A neighbor looking for a mower, a generator, or a pressure washer can find you.",
+      "next": "Claim the Yelp page. Keep the category outdoor power equipment in El Cajon. Suite A should stay in the listing, not only the about page."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 281-0455 is consistent. Call is how people actually drop a machine. That door works. Old listings still print a fax. Do not let that become a second public number.",
+      "next": "Keep 281-0455 on every listing. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Yelp, MapQuest, the chamber, and GreenPal print Monday through Friday 8 to 5, Saturday and Sunday closed. AllBiz and leftover Yellow Pages still print 8:30 to 5:30. One old card prints 8 to 5:30. The site has a hours block, then Yext leftover text, and no week. A neighbor who trusts the 8:30 card can wait at a door that opened at 8, or the other way around.",
+      "next": "Write one hour card, including Saturday closed, and put it on the contact page. Copy it to Google, Yelp, and the chamber the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is in the reviews. Neighbors talk about reel mowers, welders, and Brian helping them pick a unit the same day. Yelp has about 9 photos. The site has shop photos. Public listings do not clearly show this week's Friendship Drive door the way a first-time owner would need.",
+      "next": "Put four current photos on Google: the Suite A door, the bay, a machine on the bench, and a finished mower."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "sandiegosmallengine.com loads and belongs to you. The home page already says now open at 1937 Friendship Drive Suite A. That is the porch light. Leftover Yext chrome is still public on every page: placeholder knowledge-tag copy that says it will not appear on the live site, and it does. The hours block is empty. The contact page has unlabeled buttons. Footer tokens are still showing. A phone visitor has to hunt for a week that is not there.",
+      "next": "Put the phone, Suite A, and one hour card above the fold. Cut the leftover editor text. The brochure can stay. The book-now door is still call."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The shop is 1937 Friendship Drive, Suite A, El Cajon, CA 92020. Phone is good. The site says that is the new location. WhereOrg, Yellow Pages, WhoDoYou, and YellowBot still list 4603 El Cajon Blvd, San Diego 92115. One leftover Yellow Pages card even points at a different website. iBegin still has the old street in the URL. Two towns is how a neighbor drives to a door that is not yours.",
+      "next": "Put 1937 Friendship Drive, Suite A, El Cajon on Google, Yelp, and the directories. Hide or mark the El Cajon Blvd pins as moved."
+    }
+  ]
+}
