@@ -1,0 +1,49 @@
+{
+  "slug": "mini-barn-market",
+  "business": "Mini Barn Market",
+  "town": "Ramona, CA",
+  "website": "https://minibarnmarket.com/",
+  "phone": "(760) 232-6999",
+  "generated": "2026-09-09",
+  "prospectId": "1788929937206-ldf58tu",
+  "headline": "The barn never closes. Some maps still send people down Handlebar Road.",
+  "summary": "This is a real honor-system farm stand at the top of Whirlwind Lane, family run, air conditioned, with Carissa posting what is on the shelf today. The contact page already says 24 hours, every day of the year, text 760-232-6999, minibarnmarket@gmail.com. Yelp is 4.9 and claimed. MapQuest still prints open until midnight. GPS still offers Handlebar Road, which is a private drive. A neighbor who trusts the pin can knock on the wrong door, or turn around thinking the barn is closed.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for a Ramona farm stand. Yelp is claimed, 4.9 from about 15 reviews, with well over a hundred photos. Instagram is where people check the shelf. The site says so. A neighbor looking for sourdough, eggs, or a midnight loaf can find you.",
+      "next": "Keep the public category farm stand in Ramona, honor system, 24 hours. Attraction farm is close. Farm stand is the door."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The contact page is clear. Text 760-232-6999. Email minibarnmarket@gmail.com. Text is faster, and they will send a photo back. That door works. A 2024 Union-Tribune note still lists a different number and a Farmstand.TV Gmail for the map project. Those are not this week's barn inbox.",
+      "next": "Keep 232-6999 and minibarnmarket@gmail.com on the listing. Do not add a second public number for the stand."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The shop-owned card is the true one: 24 hours a day, every day of the year, including Christmas, including 2 a.m. Yelp matches it. MapQuest still says open until 12 a.m. and prints 12 a.m. to 12 a.m. A map that looks like midnight close is how a night drive turns around at the gate.",
+      "next": "Write one line on Google and MapQuest: open 24 hours, honor system, no closing time. Copy it from the contact page the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Yelp has well over a hundred photos. Instagram is the daily shelf. Neighbors can see the sourdough, the eggs, and the barn before they drive over the hill.",
+      "next": "Keep this week's shelf on Instagram. Drop a few of those onto Google, not only the grid, so the listing stays as current as the stories."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "minibarnmarket.com loads and belongs to you. Address, hours, text, and the Gmail are on the contact page. The home page already says the barn is always open. Search still surfaces leftover Wix copy, top of page and bottom of page, from an older www. The live site is the porch. The indexed leftover is the dust.",
+      "next": "Keep the live site. Retire the leftover Wix URLs from search. Instagram can stay the stock list. The contact page is already doing its job."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The stand is 17111 Whirlwind Lane, Ramona, CA 92065. Phone is good. LocalHarvest still lists a Handlebar Road mailing address, and GPS has sent people that way to a private residence. Instagram already says do not come in on Handlebar. A review also warns that the LED gate code is for the ranch, not the barn. The barn sits outside the gate. Two roads and a code is how a first-time neighbor never makes it to the eggs.",
+      "next": "Put 17111 Whirlwind Lane, from Highland Valley Road, on Google and the directories. One line: not Handlebar Road, no code for the barn. Street and phone are already doing their job."
+    }
+  ]
+}
