@@ -1,0 +1,49 @@
+{
+  "slug": "masons-saw",
+  "business": "Mason's Saw & Lawnmower Service",
+  "town": "El Cajon, CA",
+  "website": "https://www.masonssaw.com/",
+  "phone": "(619) 442-9161",
+  "generated": "2026-09-10",
+  "prospectId": "1788929930036-89m2o9q",
+  "headline": "The location page says Saturday closed. Yelp still looks like a noon walk-in.",
+  "summary": "This is a real independent dealer, family owned since 1982, on Broadway in El Cajon with a second shop in Riverside. John and Georgia already show up in the reviews. The El Cajon location page prints Monday through Friday 8 to 5, Saturday closed. Yelp is unclaimed at 2.8 and still prints Saturday 8 to 12. AllBiz prints Saturday until 3. GreenPal matches the shop and closes Saturday. A neighbor with a dead mower on Saturday cannot tell if the bay is staffed.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for outdoor power equipment in El Cajon. The Exmark dealer page, the Mahindra lot, and the site all point at 1222 Broadway. Yelp is unclaimed at 2.8 from about 29 reviews. GreenPal is 4.6. Birdeye is pulling about 90 Google notes at 4.5. Riverside Yelp is claimed at 5.0. A neighbor can find you. They cannot tell which rating is yours.",
+      "next": "Claim the El Cajon Yelp page. Keep the category outdoor power equipment in El Cajon, not a generic hardware store."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The El Cajon number (619) 442-9161 is consistent. Facebook, the Exmark dealer page, and AllBiz all use sales@masonssaw.com. Riverside has its own number, (951) 784-8565, which is the other shop, not a second El Cajon door. That pair works. WhereOrg still prints a leftover 733 sales number. Do not let that become a third public line.",
+      "next": "Keep 442-9161 and sales@masonssaw.com on the El Cajon listing. Do not add a second El Cajon number."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The shop-owned El Cajon card is Monday through Friday 8 to 5, Saturday closed, Sunday closed. GreenPal matches it. Yelp and MapQuest still print Saturday 8 to 12. Birdeye does too. AllBiz prints Saturday 8 to 3. WhereOrg still has Saturday 7 to 3 and weekday hours that close at 5 a.m. Riverside prints a different weekday, 7 to 4. A Saturday map that looks open is how a mower waits at a locked bay.",
+      "next": "Write one El Cajon hour card, including Saturday closed. Copy it to Google and Yelp the same morning. Keep Riverside on its own card."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is on the lot. The site has a gallery. Riverside Yelp has about 56 photos. El Cajon Yelp has about 9. Public listings for Broadway do not clearly show this week's floor the way a first-time owner would need.",
+      "next": "Put four current photos on the El Cajon Google listing: the Broadway door, the lot, a mower on the bench, and a finished machine."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "masonssaw.com loads and belongs to you. Locations, brands, and a service request form are there. Hours live on the El Cajon location page, not above the fold on home. Leftover dealer-template bits are still public: an empty tel link, a Google Plus search URL, and staging image hosts. A phone visitor has to hunt for Saturday.",
+      "next": "Put the El Cajon phone, 1222 Broadway, and Saturday closed above the fold. Cut the leftover template links. The brochure can stay. The book-now door is still call."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The El Cajon shop is 1222 Broadway. Phone is good. WhereOrg still lists 1209 Broadway. Two shops is true: El Cajon and 1712 Container Circle in Riverside. Two Broadways is how a neighbor drives to the wrong door. Name splits Saw and Lawnmower vs Lawn Mower Services. That is small. The leftover street is not.",
+      "next": "Put 1222 Broadway, El Cajon on Google and Yelp. Hide or mark 1209 as moved. Keep Riverside as a second location, not a second El Cajon pin."
+    }
+  ]
+}
