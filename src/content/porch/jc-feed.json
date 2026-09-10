@@ -1,0 +1,48 @@
+{
+  "slug": "jc-feed",
+  "business": "JC Feed & Supply",
+  "town": "Lakeside, CA",
+  "phone": "(619) 561-4479",
+  "generated": "2026-09-10",
+  "prospectId": "1789062370291-q0mnzn2",
+  "headline": "The Yahoo door is Alpine. AllBiz says the Lakeside yard is closed.",
+  "summary": "This is a real family feed yard at 10027 Maine Avenue in Lakeside. Neighbors already name Marla, Jerod, Riley, and Travis. The phone is (619) 561-4479. MapQuest still prints Monday through Friday 9 to 5:30, Saturday 8:30 to 4, Sunday closed. AllBiz prints the same week, then marks the listing closed. Yahoo Local, still cited this week as JC Feed Lakeside, opens JC Tack and Supply at 2101 Alpine Boulevard, (619) 722-4222, Tuesday through Saturday 10 to 4. A neighbor with a hay run can drive to Alpine, or never come, for a yard that is still on Maine.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for feed and tack in Lakeside. MapQuest, Yellow Pages, and Unilocal all pin Maine Avenue. Unilocal has three notes, and people already ask for Travis. A neighbor who searches the name can find you. AllBiz this week says the shop is closed. Yahoo Local is the Alpine tack shop.",
+      "next": "Keep the category livestock feed in Lakeside, Maine Avenue. AllBiz should not say closed if the door is still staffed."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (619) 561-4479 is consistent on MapQuest, Yellow Pages, CMac, Unilocal, and AllBiz. That door works. AllBiz still prints (619) 561-8709 as a toll-free. Yahoo Local prints (619) 722-4222 for the Alpine tack shop. Two phones is how a hay question never arrives.",
+      "next": "Keep 561-4479 as the only public phone for Maine Avenue. Hide the leftover 561-8709. Yahoo should not ring Alpine for a Lakeside bag of feed."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "MapQuest and CMac print Monday through Friday 9 to 5:30, Saturday 8:30 to 4, Sunday closed. AllBiz prints the same week, then marks the listing closed. Unilocal has no hours this week. Yahoo prints Tuesday through Saturday 10 to 4, Monday closed, for Alpine. Three stories is how a neighbor drives to a locked door, or never comes.",
+      "next": "Write one hour card for Maine Avenue, including Sunday. Copy it to Google, Yahoo, and AllBiz the same morning. If the yard is open, AllBiz should not say closed."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is in the reviews. Neighbors talk about fly spray, hay, and Travis. MerchantCircle has no photos. Yellow Pages still says add photos. A first-time neighbor cannot see this week's yard before they pull in.",
+      "next": "Put four current photos on Google: the Maine Avenue door, the hay yard, a shelf, and the crew."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "There is no shop-owned website for Maine Avenue. AllBiz still points at j-c-feed-supply.business.site. It 404s this week. Yellow Pages still points at jctackandsupply.com, the Alpine tack domain. Fyple still points at jcfeedandsupply.com. A listed domain that is not the shop is a broken front door, not a small rot.",
+      "next": "Take the leftover domains off the directories. A one-pager with hours, 561-4479, and 10027 Maine Avenue would be enough."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and phone line up on MapQuest, Yellow Pages, and CMac: 10027 Maine Ave, Lakeside, CA 92040, (619) 561-4479. Yahoo Local sends people to 2101 Alpine Boulevard, Suite A. AllBiz names John Carter as owner and Marla Cooper as a second contact, then marks the listing closed. Yellow Pages still says 50 years. AllBiz says founded 1976 and also since 1992. Two addresses and a closed card is how a listing starts to look unclaimed even when the yard is busy.",
+      "next": "Put 10027 Maine Avenue and 561-4479 on Yahoo. Take the Alpine pin off the Lakeside card. If the door is open, unmark AllBiz closed."
+    }
+  ]
+}
