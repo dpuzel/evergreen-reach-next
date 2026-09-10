@@ -1,0 +1,49 @@
+{
+  "slug": "san-diego-saddlery",
+  "business": "San Diego Saddlery",
+  "town": "El Cajon, CA",
+  "website": "https://www.sdsaddlery.com/",
+  "phone": "(619) 441-2613",
+  "generated": "2026-09-10",
+  "prospectId": "1789063423499-7hxh24w",
+  "headline": "The homepage still says Memorial Day. Birdeye still closes the weekend.",
+  "summary": "This is a real tack shop at 1783 East Main Street in El Cajon, open since 2007, with a claimed Yelp page and a live shop. Denise already shows up as owner. The phone is (619) 441-2613. The Contact page this week prints contact@sdsaddlery.com. An older directory still prints sdsaddlery@att.net, leftover sandiegosaddlery.net, and ZIP 92120. Shop-owned hours are Monday through Friday 10 to 6, Saturday 10 to 5, Sunday noon to 4. Yelp, MapQuest, and Waze match that. Birdeye still prints Saturday and Sunday closed. The homepage this week still says closed Easter Sunday and open Memorial Day. A neighbor with a Sunday saddle run can trust the door, or never come.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for English and Western tack in El Cajon. Yelp is claimed, 4.5 from about 46 reviews. The shop, MapQuest, and Facebook all point at East Main Street. A neighbor looking for a used saddle or a bridle can find you. Localitybiz still files you under travel agency. That is the wrong hallway.",
+      "next": "Keep the category horse equipment and tack in El Cajon. Travel agency should come off the leftover cards."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (619) 441-2613 is consistent on the shop, Yelp, MapQuest, Waze, and Yellow Pages. That door works. The Contact page this week prints contact@sdsaddlery.com. Socalequine still prints sdsaddlery@att.net. Two inboxes is how a saddle trial never arrives.",
+      "next": "Keep 441-2613 as the only public phone. Put the inbox you actually read on the Contact page and on the leftover directory. Do not leave a second door on ATT if it is not read."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The shop, Yelp, MapQuest, and Waze all print Monday through Friday 10 to 6, Saturday 10 to 5, Sunday noon to 4. That is cleaner than most shops. Birdeye still prints Saturday closed and Sunday closed. The homepage this week still says closed Easter Sunday and open Memorial Day. A closed weekend card is how a neighbor drives past a door that is staffed.",
+      "next": "Write one hour card, including Sunday. Copy it to Google and Birdeye the same morning. Take Easter and Memorial Day off the homepage until those weeks are actually here."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. The shop shows saddles, fly gear, and apparel. Yelp has about 69 photos. A first-time neighbor can see the floor before they pull in.",
+      "next": "Keep this week's shelf on the shop. Drop a few onto Google so the listing stays as current as the cart."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "sdsaddlery.com loads and belongs to you. Hours, the street, the phone, and a Contact page are there. Easter closed and Memorial Day open are still on the homepage in September. Socalequine still points at sandiegosaddlery.net. That domain did not resolve this week. The brochure is alive. The leftover season and the leftover domain are not.",
+      "next": "Take Easter and Memorial Day off the homepage. Take sandiegosaddlery.net off the directories until it is yours again."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and phone line up on the shop, Yelp, and MapQuest: 1783 E Main St, El Cajon, CA 92021, (619) 441-2613. Socalequine keeps the street and prints ZIP 92120. Localitybiz keeps the street and files travel agency. Two ZIPs and the wrong category is how a listing starts to look unclaimed even when the shop is busy.",
+      "next": "Put 92021 and horse equipment on every leftover card. Hide ZIP 92120. Street and phone are already doing their job."
+    }
+  ]
+}
