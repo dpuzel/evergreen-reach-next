@@ -1,0 +1,49 @@
+{
+  "slug": "alpine-fence",
+  "business": "Alpine Fence Inc.",
+  "town": "Alpine, CA",
+  "website": "https://www.alpinefencecompany.com/",
+  "phone": "(619) 659-9320",
+  "generated": "2026-09-10",
+  "prospectId": "1788929933051-m5bmdg7",
+  "headline": "The jingle already knows Alpine. Angi still has an SBCGlobal inbox.",
+  "summary": "This is a real family fence shop on Alpine Boulevard, licensed 602530, on the lot since 1983, with a claimed Yelp page and a site that actually shows this year's work. The phone is (619) 659-9320. Angi still prints alpineinc@sbcglobal.net. Houzz still prints a second number, (619) 320-4161. Yellow Pages still closes the shop at 4:00 when everyone else prints 4:30. A neighbor who trusts the leftover door can call a number that is not the shop, or show up at 4:15 to a yard that already locked.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for fences and gates in Alpine. Yelp is claimed, about 261 reviews. The site, the license, and the boulevard pin all point at the same shop. A neighbor looking for vinyl, wood, iron, or chain link can find you.",
+      "next": "Keep the category fence contractor in Alpine. CSLB 602530 should stay on the listing."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (619) 659-9320 is consistent on Yelp, Yahoo, BBB, the chamber, and the vinyl page. That door works. Houzz still prints (619) 320-4161. Angi still prints alpineinc@sbcglobal.net. The live site uses a form, not that Gmail. Two phones and an old inbox is how a free estimate never arrives.",
+      "next": "Keep 659-9320 on every listing. Hide the Houzz number. If the SBCGlobal box is still read, say so. If it is not, take it off Angi."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Yelp, Yahoo, BBB, the chamber, and Birdeye all print Monday through Friday 7:30 to 4:30, Saturday and Sunday closed. That is cleaner than most shops. Yellow Pages still prints 7:30 to 4:00. The site has a contact form and no week. A 4:00 card is how a neighbor drives to Alpine Boulevard after the yard is locked.",
+      "next": "Write one hour card on the site and on Google. Keep Saturday closed if that is the door. Fix the Yellow Pages 4:00 close."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. The site gallery is this year's vinyl, wood, iron, and chain link. Yelp has well over two hundred photos. A first-time neighbor can see the fence before they call.",
+      "next": "Keep this year's jobs on the site. Drop a few onto Google so the listing stays as current as the gallery."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "alpinefencecompany.com loads and belongs to you. Gallery, services, Zone Zero, and a quote form are there. Hours are not. The contact path 404s. Yellow Pages still points at fencecompany.com. BBB still lists a leftover ethicalcommunity.org URL. The brochure is alive. The leftover doors are not.",
+      "next": "Put the phone, 2038 Alpine Boulevard, and one hour card above the fold. Fix the dead contact path. Take fencecompany.com off Yellow Pages."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and main phone line up: 2038 Alpine Blvd, Alpine, CA 91901, (619) 659-9320. Houzz drops the street and keeps the leftover number. Yellow Pages keeps the street and points at the wrong website. Two phones and two sites is how a listing starts to look unclaimed even when the yard is busy.",
+      "next": "Put 2038 Alpine Boulevard and 659-9320 on Houzz and Yellow Pages. Hide the leftover number and the leftover domain."
+    }
+  ]
+}
