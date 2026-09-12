@@ -1,0 +1,49 @@
+{
+  "slug": "water-wise-well-service",
+  "business": "Water Wise Well Service",
+  "town": "Ramona, CA",
+  "website": "https://www.waterwisewell.com/",
+  "phone": "(760) 789-7551",
+  "generated": "2026-09-12",
+  "prospectId": "1789228969057-utmba6n",
+  "headline": "Yahoo still pins Rancho Trail. BuildZoom still rings a second number.",
+  "summary": "This is a real Ramona well-service truck. Mike Louzek and Sara Allen already show up in the reviews. Yelp is claimed, 5.0 from about 21 notes, with neighbors writing this year. The license is 1037321. The door is (760) 789-7551 and waterwisewell@gmail.com, both on the shop and on WellOwner this week. BuildZoom still prints (858) 682-4848. Yahoo and MapQuest still pin 577 Rancho Trail. The chamber says they do not drill wells. Yelp still files well drilling. Yelp prints Saturday 7 to 2. MapQuest prints Saturday closed. The site has no week. A neighbor with a dry pump can drive to a house, or call a leftover number, for a truck that comes to the well.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for well service in Ramona. Yelp is claimed, 5.0 from about 21 reviews, with notes from 2025 and 2026. People already ask for Mike, Sara, and CJ by name. The license and the chamber both point at the same shop. Yelp still files well drilling. The chamber says you do not drill wells. That is the wrong hallway.",
+      "next": "Keep the category well pump service in Ramona, service area. Well drilling can come off if the door does not drill."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (760) 789-7551 is consistent on the shop, Yelp, Yahoo, the chamber, and WellOwner. The Get in Touch button this week is waterwisewell@gmail.com. That door works. BuildZoom and ZoomInfo still print (858) 682-4848. Two phones is how a dry-well call never arrives.",
+      "next": "Keep 789-7551 and the Gmail on every listing. Hide the leftover 682-4848 unless it is still read."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Yelp and Yahoo print Monday through Friday 7 to 5, Saturday 7 to 2, Sunday closed. MapQuest and BestPros print the same weekdays and Saturday closed. The site has no week. This is a truck, not a walk-in bay. A Saturday 7 to 2 card next to a Saturday closed card is how a neighbor waits on a dry pump, or never calls.",
+      "next": "Write one hour card, including Saturday. Put it on the site, Google, and Yelp the same morning. If Saturday is closed, say closed."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. The site gallery is tanks, boosters, and installs overlooking the Ramona Valley. Yelp has about 21 photos. A first-time neighbor can see the truck and the tank before they call.",
+      "next": "Keep this year's jobs on the site. Drop a few onto Google so the listing stays as current as the gallery."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "waterwisewell.com loads and belongs to you. The phone, the license, Mike and Sara, and the Gmail button are there. Hours are not. A street is not. The page title still says Tank. Submersible pump is spelled instillation. Leftover Wix chrome is still the brochure. A phone visitor has to hunt for a week that is not printed.",
+      "next": "Put the phone, the Gmail, Ramona serving San Diego County, and one hour card above the fold. Fix the title and the typo. The book-now door is still call."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name and main phone line up. The shop is a service-area truck based in Ramona. Chamber, BuildZoom, and WellOwner print PO Box 3514. Yelp stays city-only. Yahoo and MapQuest still pin 577 Rancho Trail, near Lilac Road. A house pin is how a neighbor drives to a door that is not staffed for drop-ins.",
+      "next": "Keep the public listing as Ramona, serving San Diego County, no storefront. Hide or mark 577 Rancho Trail as not a shop."
+    }
+  ]
+}
