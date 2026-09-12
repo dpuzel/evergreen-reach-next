@@ -1,0 +1,49 @@
+{
+  "slug": "baronet-upholstery",
+  "business": "Baronet Upholstery",
+  "town": "El Cajon, CA",
+  "website": "https://www.baronetupholstery.com/",
+  "phone": "(619) 469-3460",
+  "generated": "2026-09-12",
+  "prospectId": "1789228971512-eux1zk1",
+  "headline": "The shop says Monday by appointment. Yellow Pages still closes Saturday at 1.",
+  "summary": "This is a real family upholstery shop at 2235 Fletcher Parkway, open since 1960. Julian already shows up in the reviews. Yelp is claimed, 5.0 from about 62 notes. The phone is (619) 469-3460. The Contact page this week prints BaronetUpholstery@gmail.com and Tuesday through Saturday 8:30 to 4:30, Monday by appointment. Yelp prints Monday closed and Saturday 8:30 to 4:30. Unilocal and Yellow Pages print Monday 8:30 to 4:30 and Saturday 9 to 1. Birdeye prints Monday 9 to 6 and Saturday closed. A neighbor with a torn cushion can show up Monday to a locked door, or Saturday at 2:00 to a shop that is still staffed, or already locked.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for furniture reupholstery in El Cajon. Yelp is claimed, 5.0 from about 62 reviews. The shop, Nextdoor, and Fletcher Parkway all point at the same door. People already ask for Julian by name. A neighbor looking for a sofa, a chaise, or patio cushions can find you.",
+      "next": "Keep the category furniture reupholstery in El Cajon."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 469-3460 is consistent on the Contact page, Yelp, Unilocal, and Yellow Pages. Julian posted BaronetUpholstery@gmail.com on the Yelp Q and A, and the Contact page prints the same inbox this week. Call is how people actually book. That door works.",
+      "next": "Keep that number and that inbox on every listing. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The Contact page this week prints Tuesday through Saturday 8:30 to 4:30, Monday by appointment. Yelp prints Monday closed and Saturday 8:30 to 4:30. Unilocal and Yellow Pages print Monday 8:30 to 4:30 and Saturday 9 to 1. Birdeye prints weekdays 9 to 6 and Saturday closed. Three Saturday stories and three Monday stories is how a neighbor drives to Fletcher Parkway after the door is locked.",
+      "next": "Write one hour card, including Monday by appointment if that is the door. Copy it to Google, Yelp, and Yellow Pages the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. The site has a photos page. Yelp has about 60 photos. A first-time neighbor can see the sofa before they call.",
+      "next": "Keep this year's jobs on the site. Drop a few onto Google so the listing stays as current as the gallery."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "baronetupholstery.com loads and belongs to you. The Contact page has the street, the phone, the Gmail, and one hour card. The homepage still says Give Us A Call with no number and no week. About says over 40 years. The shop has been on Fletcher since 1960. The brochure is alive. The leftover bits are not.",
+      "next": "Put the phone, 2235 Fletcher Parkway, and the hour card above the fold. The book-now door is still call."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and phone line up on the Contact page, Yelp, Unilocal, and Yellow Pages: 2235 Fletcher Pkwy, El Cajon, CA 92020, (619) 469-3460. Yellow Pages still says 66 years and also over 45 years. The homepage still says over 40 years. Two founding stories is a small leak, not a wrong pin, but it is how a listing starts to look unclaimed even when the shop is busy.",
+      "next": "Put 1960 on Google and the homepage. Street and phone are already doing their job."
+    }
+  ]
+}
