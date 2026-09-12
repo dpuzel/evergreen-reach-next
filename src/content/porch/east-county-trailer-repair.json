@@ -1,0 +1,49 @@
+{
+  "slug": "east-county-trailer-repair",
+  "business": "East County Trailer Repair",
+  "town": "El Cajon, CA",
+  "website": "https://ectrailerrepair.com/",
+  "phone": "(619) 623-5715",
+  "generated": "2026-09-12",
+  "prospectId": "1789228966846-utrjgie",
+  "headline": "The shop is appointment drop-off on Coogan Way. Yellow Pages still pins Chase Lane.",
+  "summary": "This is a real family trailer shop at 340 Coogan Way in El Cajon. Dustin and Carrie already show up in the reviews. Yelp is claimed, updated this month, about 32 notes. The phone is (619) 623-5715. The shop this week prints ectrfab@gmail.com and drop-off by appointment only. Shop-owned hours and Yelp print Monday through Friday 8 to 4:30, Saturday closed. Giftly still prints 8 to 5. Birdeye still prints 9 to 6 on leftover 1657 Chase Lane. The hours widget this Saturday morning still reads open today. A neighbor with a bent axle can drive to Chase Lane, or roll up without a time, and find a door that is not set up that way.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for trailer repair in El Cajon. Yelp is claimed, 4.4 from about 32 reviews, updated this month. People already ask for Dustin and Carrie by name. A neighbor looking for brakes, axles, or a boat bunk can find you. Yelp still files the shop under boat repair. That is the wrong hallway for a trailer yard.",
+      "next": "Keep the category trailer repair in El Cajon. Boat repair can stay as a service. It should not be the only label."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 623-5715 is consistent on the shop, Yelp, MapQuest, and Yellow Pages. The Contact block this week prints ectrfab@gmail.com. Call is how people actually book a drop-off. That door works.",
+      "next": "Keep that number and that inbox on every listing. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The shop schema, Yelp, and MapQuest print Monday through Friday 8 to 4:30, Saturday and Sunday closed. Giftly still prints 8 to 5. Birdeye still prints 9 to 6. The hours widget this Saturday morning still reads open today 8 to 4:30. The shop also says drop-off by appointment only. A walk-in Saturday card is how a neighbor tows a trailer to a locked gate.",
+      "next": "Write one hour card: weekdays 8 to 4:30, Saturday closed, drop-off by appointment. Copy it to Google, Yelp, and Birdeye the same morning. Fix the open-today widget."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Yelp has about 160 photos. The shop gallery is full of axles, bunks, and finished trailers. A first-time neighbor can see the yard before they call.",
+      "next": "Keep this week's jobs on the shop. Drop a few onto Google so the listing stays as current as the gallery."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "ectrailerrepair.com loads and belongs to you. Street, phone, Gmail, and the appointment line are there. Hours are in a widget that still said open today on Saturday. The FAQ repeats the same trailer-light question several times. GoDaddy chrome is still at the bottom. The brochure is alive. The leftover bits are not.",
+      "next": "Put the appointment line and one hour card above the fold. Cut the repeated FAQ. The book-now door is still call."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and phone line up on the shop, Yelp, and MapQuest: 340 Coogan Way, El Cajon, CA 92020, (619) 623-5715. Yellow Pages and Birdeye still pin 1657 Chase Lane. That is a different street. A leftover house pin is how a neighbor tows a trailer to a door that is not the shop.",
+      "next": "Put 340 Coogan Way on Yellow Pages and Birdeye. Hide 1657 Chase Lane. Street on Coogan is already doing its job."
+    }
+  ]
+}
