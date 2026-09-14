@@ -1,0 +1,49 @@
+{
+  "slug": "black-mountain-farm",
+  "business": "Black Mountain Farm",
+  "town": "Ramona, CA",
+  "website": "https://blackmountainfarmca.com/",
+  "phone": "(858) 735-7794",
+  "generated": "2026-09-14",
+  "prospectId": "1789421746409-1wd6f61",
+  "headline": "The shop says daylight. LocalHarvest still says open 24/7.",
+  "summary": "This is a real self-serve farmstand at 680 Rancho Trail in Ramona. Michelle already shows up as the farmer. The phone is (858) 735-7794. The live shop this week prints info@farmblackmountain.com. blackmountainfarmca.com says open every day during daylight hours. The leftover farmblackmountain.com about page still prints 9 to 6, daylight hours. LocalHarvest still says the farm store is open 24/7. UCSD still prints 9 to 6, daylight hours. A neighbor with a cooler can drive up at dusk to a carport that is already dark, or never come, for eggs that are in the fridge.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for a self-serve farmstand in Ramona. The live shop, LocalHarvest, and the UCSD Good Food Finder all pin 680 Rancho Trail. Michelle is already named as the farmer. The review pile is thinner than most shops. A neighbor who searches the name can find you.",
+      "next": "Keep the category farmstand and pasture eggs in Ramona. Claim the leftover listings so the name stays yours."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (858) 735-7794 is consistent on the live shop, LocalHarvest, and UCSD. The live shop this week prints info@farmblackmountain.com. Call and email are how people actually ask about the fridge. That door works.",
+      "next": "Keep that number and that inbox on every listing. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The live shop prints open every day during daylight hours. The leftover farmblackmountain.com about page prints 9 to 6, daylight hours. LocalHarvest still prints 24/7. UCSD prints 9 to 6, daylight hours. A 24/7 card next to a daylight card is how a neighbor drives to the carport after dark.",
+      "next": "Write one hour card: self-serve, daylight, carport fridge. Copy it to Google, LocalHarvest, and both sites the same morning. If 24/7 is not the door, say daylight."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is the farm. The live shop shows the stand, the carport, and Farmer Michelle. Public listings do not clearly show this week's eggs and veg the way a first-time neighbor would need.",
+      "next": "Put four current photos on Google: the carport fridge, this week's eggs, a crate of veg, and the Rancho Trail pin."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "blackmountainfarmca.com loads and belongs to you. Street, phone, the inbox, and daylight hours are there. The page title still says Home new. farmblackmountain.com still loads as a second shop, with a 9 to 6 card. Two live domains is a split front door, not a small rot.",
+      "next": "Pick one URL. Put daylight hours, 680 Rancho Trail, and the inbox above the fold. Take the leftover domain off directories until it is the shop you want."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and phone line up: 680 Rancho Trl, Ramona, CA 92065, (858) 735-7794. The leak is the rest. Two websites. Three hour cards. LocalHarvest last updated January 2025. That is how a listing starts to look unclaimed even when the fridge is stocked.",
+      "next": "Put 680 Rancho Trail, 735-7794, and one hour card on Google and LocalHarvest. Street is already doing its job."
+    }
+  ]
+}
