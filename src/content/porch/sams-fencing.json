@@ -1,0 +1,49 @@
+{
+  "slug": "sams-fencing",
+  "business": "Sam's Fencing Inc.",
+  "town": "Santee, CA",
+  "website": "https://www.samsfence.net/",
+  "phone": "(619) 654-0789",
+  "generated": "2026-09-14",
+  "prospectId": "1789420763514-aralsx7",
+  "headline": "The footer says 654-0789. A few shop pages still say call 334-9771.",
+  "summary": "This is a real family fence shop at 10039 Prospect Avenue, Suite K, in Santee, licensed 946946, on the lot since 2003. Sam already shows up in the reviews. Yelp is claimed, about 41 notes, updated this month. The Contact block this week prints (619) 654-0789 and sam@samsfence.net. Shop-owned hours are Monday through Friday 7 to 3:30, Saturday and Sunday closed. Yelp matches that. BuildZoom still prints (619) 334-9771. So do the Fences, Gates, and Doors pages on the shop. A neighbor who trusts the leftover number can call a door that is not the mobile Sam answers.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for fences and gates in Santee. Yelp is claimed, 4.3 from about 41 reviews, updated this month. The license, the suite, and the site all point at the same shop. A neighbor looking for wood, iron, or chain link can find you.",
+      "next": "Keep the category fence contractor in Santee. CSLB 946946 should stay on the listing."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (619) 654-0789 is on the homepage, the Contact page, and Yelp. The inbox sam@samsfence.net is on the shop this week. That door works. BuildZoom still prints (619) 334-9771. The Fences page, the Gates page, and the Doors page still say call 334-9771. The leftover fax is (619) 334-9772. Two phones is how a free estimate never arrives.",
+      "next": "Keep 654-0789 as the only public phone. Take 334-9771 off BuildZoom and off the leftover shop pages. Hide the leftover fax if it is not read."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "The shop and Yelp both print Monday through Friday 7 to 3:30, Saturday and Sunday closed. That is cleaner than most shops. A neighbor can trust the week if the leftover number does not send them somewhere else.",
+      "next": "Keep that hour card on Google and on the leftover shop pages. If Saturday ever opens, change it the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. The site galleries are iron, wood, chain link, and gates. Yelp has about 59 photos. A first-time neighbor can see the fence before they call.",
+      "next": "Keep this year's jobs on the site. Drop a few onto Google so the listing stays as current as the gallery."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "samsfence.net loads and belongs to you. Street, license, hours, the inbox, and 654-0789 are there. The Fences, Gates, and Doors pages still print 334-9771 as the number to call. The brochure is alive. The leftover office number is not.",
+      "next": "Put 654-0789 on every shop page. Take 334-9771 off the leftover copy. The book-now door is still call."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and main phone line up on the homepage and Yelp: 10039 Prospect Ave, Ste K, Santee, CA 92071, (619) 654-0789. BuildZoom keeps the suite and prints the leftover 334-9771. Two phones on the same pin is how a listing starts to look unclaimed even when the yard is busy.",
+      "next": "Put 654-0789 on BuildZoom. Hide 334-9771. Street is already doing its job."
+    }
+  ]
+}
