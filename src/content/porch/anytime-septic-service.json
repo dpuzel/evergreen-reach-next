@@ -1,0 +1,49 @@
+{
+  "slug": "anytime-septic-service",
+  "business": "Anytime Septic Service",
+  "town": "Lakeside, CA",
+  "website": "https://anytimeseptic.com",
+  "phone": "(619) 443-2031",
+  "generated": "2026-09-14",
+  "prospectId": "1789421743870-6trtdp2",
+  "headline": "Yelp still pins Emerald Grove. Orange Book still pins Gardena Road.",
+  "summary": "This is a real third-generation septic truck out of Lakeside. Jake, Floyd, Dan, and Rachelle already show up in the story. Yelp is claimed, 4.9 from about 83 notes, updated this month. The phone is (619) 443-2031. Orange Book this week still prints dan@anytimesepticservice.com. The shop site uses a form, not that inbox. Yelp and MapQuest pin 9045 Emerald Grove. Orange Book, Loc8, and Nextdoor pin 8867 Gardena Road. Loc8 still prints a second number, (619) 332-2544. Yelp says open 24 hours. Orange Book prints weekdays 7:30 to 5, Saturday closed. MapQuest prints 8 to 5, Saturday closed. A neighbor with a backup can drive to the wrong street, or wait on a 24-hour card, for a truck that comes to the tank.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for septic pumping in Lakeside. Yelp is claimed, 4.9 from about 83 reviews, updated this month. People already ask for Dan by name. A neighbor with a backup in East County can find you.",
+      "next": "Keep the category septic pumping in Lakeside, service area. Emergency pumping can stay in the listing."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (619) 443-2031 is consistent on the shop, Yelp, Orange Book, and Nextdoor. Call is how people actually book. That door works. Loc8 still prints (619) 332-2544. Orange Book this week still prints dan@anytimesepticservice.com. The Contact page uses a form, not that inbox. Two phones and a leftover inbox is how an emergency call never arrives.",
+      "next": "Keep 443-2031 as the only public phone. Put the inbox you actually read on the Contact page. Hide the leftover 332-2544."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The site lists emergency services and does not print a week. Yelp prints open 24 hours every day. Orange Book prints Monday through Friday 7:30 to 5, Saturday and Sunday closed. MapQuest prints 8 to 5, Saturday closed. Reviews already talk about late-night calls. A 24-hour card next to a 5:00 close is how a neighbor waits on a backup, or never calls.",
+      "next": "Write one hour card: office weekdays, emergency after hours if that is the door. Copy it to Google, Yelp, and Orange Book the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is in the reviews. Neighbors talk about late-night pumps, locating a tank, and a clean job. Yelp has about 20 photos. Public listings do not clearly show this week's truck the way a first-time owner would need.",
+      "next": "Put four current photos on Google: the truck, a job in progress, a closed lid, and Dan or the crew."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "anytimeseptic.com loads and belongs to you. The phone is in the nav. Hours are not. A street is not. The inbox is not. Orange Book still points at anytimesepticserv.com. That leftover domain redirects here this week. The brochure is alive. The leftover door on the directory is not.",
+      "next": "Put the phone, the inbox, East County service area, and one hour card above the fold. Take anytimesepticserv.com off Orange Book until it is the shop URL you want."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name and main phone line up. The shop is a service-area truck based in Lakeside. Yelp and MapQuest pin 9045 Emerald Grove Drive. Orange Book, Loc8, and Nextdoor pin 8867 Gardena Road. Two streets is how a neighbor drives to a door that is not staffed for drop-ins.",
+      "next": "Keep the public listing as Lakeside, serving East County, no storefront. Hide or mark Emerald Grove and Gardena as a yard or a mailing address if they still have to exist."
+    }
+  ]
+}
