@@ -1,0 +1,49 @@
+{
+  "slug": "friendly-upholstery",
+  "business": "Friendly Upholstery Inc.",
+  "town": "El Cajon, CA",
+  "website": "http://friendlyupholsteryinc.com/",
+  "phone": "(619) 579-0551",
+  "generated": "2026-09-14",
+  "prospectId": "1789420761229-vefeiw6",
+  "headline": "The homepage says since 1983. The contact page still says 28 years.",
+  "summary": "This is a real shop at 815 West Main Street in El Cajon. Saul already shows up in the reviews as Mr. Friendly. The phone is (619) 579-0551. The Contact page this week prints info@friendlyupholsteryinc.com. The homepage says the shop has been servicing San Diego since 1983. The Contact page still says 28 years. There is no hour card on the site. Birdeye, MapQuest, and CMac print Monday through Friday 8 to 5, Saturday 8 to 1, Sunday closed. Yelp is unclaimed, 4.5 from about 25 notes, and prints no week. Unilocal has no hours this week. A neighbor with a torn headliner still has to guess if Saturday is staffed.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for auto, boat, and furniture upholstery in El Cajon. Yelp is 4.5 from about 25 reviews. People already ask for Saul by name. A neighbor looking for a headliner, a boat seat, or a patio cover can find you. The Yelp page is still unclaimed.",
+      "next": "Claim the Yelp page. Keep the category auto and furniture upholstery in El Cajon."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 579-0551 is consistent on the shop, Yelp, MapQuest, and Birdeye. The Contact page this week prints info@friendlyupholsteryinc.com. Call is how people actually book. That door works. The site still prints a leftover fax, (619) 593-4727.",
+      "next": "Keep 579-0551 and the inbox on every listing. Hide the leftover fax if it is not read."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The site has no week. Birdeye, MapQuest, and CMac print Monday through Friday 8 to 5, Saturday 8 to 1, Sunday closed. Yelp prints no hours. Unilocal has no hours this week. A Saturday 8 to 1 card that is not on the shop is how a neighbor drives to Main Street after the door is locked.",
+      "next": "Write one hour card, including Saturday. Put it on the site, Google, and Yelp the same morning. If Saturday is closed, say closed."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is on the auto page. Neighbors talk about a Jeep headliner, a Ranchero interior, and a patio cover. Yelp has about 6 photos. Public listings do not clearly show this week's jobs the way a first-time owner would need.",
+      "next": "Put four current photos on Google: the Main Street door, a seat in progress, a finished boat, and a classic interior."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "friendlyupholsteryinc.com loads and belongs to you. Street, phone, and the inbox are there. Hours are not. The homepage says since 1983. The Contact page still says 28 years. Copyright still says 2011. Turbify chrome is still at the bottom. The brochure is alive. The leftover year is not.",
+      "next": "Put the phone, 815 West Main Street, and one hour card above the fold. Change 28 years to since 1983. The book-now door is still call."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and phone line up on the shop, Yelp, and MapQuest: 815 W Main St, El Cajon, CA 92020, (619) 579-0551. The leftover leak is the year. Homepage 1983. Contact page 28 years. Copyright 2011. Two founding stories is how a listing starts to look unclaimed even when the shop is busy.",
+      "next": "Put 1983 on the Contact page and on Google. Street and phone are already doing their job."
+    }
+  ]
+}
