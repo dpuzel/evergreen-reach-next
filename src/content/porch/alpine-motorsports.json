@@ -1,0 +1,48 @@
+{
+  "slug": "alpine-motorsports",
+  "business": "Alpine Motorsports & Equipment Repair",
+  "town": "Alpine, CA",
+  "phone": "(619) 722-1707",
+  "generated": "2026-09-16",
+  "prospectId": "1789615681897-t790b3d",
+  "headline": "Yelp already has Suite C. Orange Book still drops the suite.",
+  "summary": "This is a real shop at 2435 Alpine Boulevard, Suite C. Becky and Chris already show up in the reviews. Yelp is claimed, 4.2 from about 28 notes, updated this month. The phone is (619) 722-1707. Orange Book this week still prints alpinemotorsportsandequipmentrepair@hotmail.com. There is no shop site. Yelp, Yahoo, and MapQuest print Monday through Saturday 8 to 6, Sunday closed, and keep Suite C. Orange Book keeps the boulevard and drops the suite. A leftover card still closes Monday and opens Sunday. A neighbor with a dead mower can miss the bay in the building, or trust an old Hotmail door that may not be read.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for small engines and dirt bikes in Alpine. Yelp is claimed, 4.2 from about 28 reviews, updated this month. People already ask for Becky and Chris by name. A neighbor looking for a mower, a generator, or a quad can find you.",
+      "next": "Keep the category small engine and motorcycle repair in Alpine. Lawn and farm iron should stay in the listing, not only the about blurb."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (619) 722-1707 is consistent on Yelp, Yahoo, MapQuest, and Orange Book. Call is how people actually book. That door works. Orange Book this week still prints alpinemotorsportsandequipmentrepair@hotmail.com. There is no shop site to confirm it. An old Hotmail box is how a quote never arrives.",
+      "next": "Keep 722-1707 as the only public phone. If the Hotmail box is still read, say so. If it is not, take it off Orange Book."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Yelp, Yahoo, MapQuest, and Orange Book all print Monday through Saturday 8 to 6, Sunday closed. That is cleaner than most shops. A leftover card still prints Monday closed and Sunday 8 to 6. There is no shop-owned card to prove the week. A Sunday card is how a neighbor drives to Alpine Boulevard to a bay that is locked.",
+      "next": "Write one hour card, including Sunday closed. Copy it to Google and Yelp the same morning. Fix the leftover Sunday open."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is in the reviews. Neighbors talk about generators, GSXRs, and lawn mowers. Yelp has about 6 photos. Public listings do not clearly show this week's bay the way a first-time owner would need.",
+      "next": "Put four current photos on Google: the Suite C door, a mower in progress, a dirt bike, and Becky or the crew."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "There is no shop site. Neighbors find the bay on Yelp. That works until someone wants Suite C, the week, and an inbox without opening an app. No site is a missing front door, not a small rot.",
+      "next": "A simple one-pager is enough: phone, 2435 Alpine Boulevard Suite C, weekday and Saturday hours, and three photos of the work. Yelp can stay. It should not be the only door."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Phone lines up: (619) 722-1707. Yelp, Yahoo, and MapQuest keep Suite C. Orange Book and some leftover cards drop the suite and pin the boulevard only. A missing suite is how a neighbor walks the wrong bay in the building.",
+      "next": "Put 2435 Alpine Boulevard, Suite C, on every leftover card. Street without the suite is not enough."
+    }
+  ]
+}

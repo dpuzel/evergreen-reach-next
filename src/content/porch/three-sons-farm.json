@@ -1,0 +1,49 @@
+{
+  "slug": "three-sons-farm",
+  "business": "Three Sons Farm",
+  "town": "Ramona, CA",
+  "website": "https://threesonsfarm.org/",
+  "phone": "(760) 685-4873",
+  "generated": "2026-09-16",
+  "prospectId": "1789615686988-wivf78j",
+  "headline": "The shop says call for a pickup. Yahoo still says open 24 hours.",
+  "summary": "This is a real family farm at 2148 Robertson Street in Ramona. Christopher, Michael, and Nicholas already show up in the story. Yelp is claimed, 5.0 from five notes, including May 22 2026. The phone is (760) 685-4873. The Delivery page this week prints jaquez@threesonsfarm.org, pickup by appointment, and Friday delivery 9 to 3. Yahoo, Yelp, and MapQuest still print open 24 hours. A neighbor looking for pasture eggs can drive to Robertson Street at midnight, or never call, for a farm that asks you to set a time.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for pasture eggs and poultry in Ramona. Yelp is claimed, 5.0 from five reviews. CAFF and the UCSD Good Food Finder both name the farm. A neighbor who searches the name can find you.",
+      "next": "Keep the category pasture poultry and eggs in Ramona, delivery and pickup. Farmers markets can stay in the listing."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (760) 685-4873 is consistent on the shop, Yelp, CAFF, and UCSD. The Delivery page this week prints jaquez@threesonsfarm.org. Call is how people actually book a pickup. That door works.",
+      "next": "Keep that number and that inbox on every listing. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The shop says pickup by appointment and Friday delivery 9 to 3. Cardiff market is Saturday 10 to 2. Leucadia market is Sunday 10 to 2. Yahoo, Yelp, and MapQuest still print open 24 hours. A 24-hour card is how a neighbor drives to a farm gate that is not a walk-in stand.",
+      "next": "Write one hour card: pickup by appointment, Friday delivery 9 to 3. Copy it to Google, Yelp, and Yahoo the same morning. If 24 hours is not the door, say appointment."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is the pasture. Yelp has about 10 photos. The site is a cart more than a gallery. A first-time neighbor cannot clearly see this week's eggs and birds the way a farmstand would need.",
+      "next": "Put four current photos on Google: the birds on pasture, a carton of eggs, a Friday delivery, and the Robertson Street pin."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "threesonsfarm.org loads and belongs to you. Delivery, pickup by appointment, the phone, and the inbox are there. Hours are not above the fold. The Our Farm page still says the sons joined 4-H 12 years ago on a farm established in 2013. The cart is alive. The leftover 24-hour listings are not.",
+      "next": "Put the phone, appointment pickup, Friday delivery, and 2148 Robertson Street above the fold. Take open 24 hours off Yelp and Yahoo."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and phone line up: 2148 Robertson St, Ramona, CA 92065, (760) 685-4873. The leak is the week. Directories keep the street and print 24 hours. That is how a listing starts to look like a walk-in even when the farm asks you to call first.",
+      "next": "Keep 2148 Robertson Street. Change the public week to appointment pickup. Street and phone are already doing their job."
+    }
+  ]
+}

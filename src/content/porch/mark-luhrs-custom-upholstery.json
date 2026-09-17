@@ -1,0 +1,49 @@
+{
+  "slug": "mark-luhrs-custom-upholstery",
+  "business": "Mark Luhr's Custom Upholstery",
+  "town": "El Cajon, CA",
+  "website": "https://customupholstery.net/home.html",
+  "phone": "(619) 449-9172",
+  "generated": "2026-09-16",
+  "prospectId": "1789615679418-mtqgia5",
+  "headline": "The shop number is 9172. Yellow Pages still leads with 9171.",
+  "summary": "This is a real shop at 1001 Vernon Way in El Cajon, 50 years in the directories, hot rods, boats, RVs, and aircraft. The live home page this week prints (619) 449-9172 and info@customupholstery.net. Yelp is claimed, updated this month, and prints Monday through Friday 7 to 5, Saturday closed. Yellow Pages and Superpages print 8 to 5 and keep 9171 as the main number. Nextdoor prints 8 to 5. Birdeye prints 9 to 6. The index page still titles a leftover 87 Porsche. A neighbor with a torn seat can call the leftover number, or show up at 7:15 to a door that is not open yet, or at 5:30 to a door that already locked.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for custom auto upholstery in El Cajon. Yelp is claimed and updated this month. Nextdoor already names Vernon Way. A neighbor looking for a hot rod interior, a boat, or an aircraft seat can find you. Yelp is still thin, 3.0 from two reviews.",
+      "next": "Keep the category auto and marine upholstery in El Cajon. Invite the work onto the Yelp page so the two-review card is not the whole story."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The live home page prints (619) 449-9172 and info@customupholstery.net. That door works. Yellow Pages still lists 9171 as the main number and 9172 as extra. Superpages does the same. Two phones is how a quote never arrives.",
+      "next": "Keep 9172 as the only public phone. Hide 9171 unless it is still read. Put the inbox on Yelp and Yellow Pages."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Yelp and cityof.com print Monday through Friday 7 to 5, Saturday closed. Yellow Pages, Superpages, and Nextdoor print 8 to 5. Birdeye prints 9 to 6. The site has no week. Three weekday stories is how a neighbor drives to Vernon Way after the door is locked, or before it opens.",
+      "next": "Write one hour card, including Saturday closed. Copy it to Google, Yelp, and Yellow Pages the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is the cars. The site still shows interiors. Yelp has no photo gallery this week. Public listings do not clearly show this year's hot rod, boat, or aircraft the way a first-time owner would need.",
+      "next": "Put four current photos on Google: the Vernon Way door, a seat in progress, a finished hot rod, and a boat or aircraft interior."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "customupholstery.net/home.html loads and belongs to you. Street, 9172, and the inbox are there. Hours are not. The index path still titles 87 Porshe and shows leftover Weebly chrome. Yellow Pages still points at index.html. Copyright still says 2014. The brochure is alive. The leftover index is not.",
+      "next": "Put the phone, 1001 Vernon Way, and one hour card above the fold. Point Yellow Pages at the live home page. Fix the leftover Porsche title."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street lines up: 1001 Vernon Way, El Cajon, CA 92020. The leak is the rest. Two phones. Three hour cards. A leftover index URL. That is how a listing starts to look unclaimed even when the shop is busy.",
+      "next": "Put 1001 Vernon Way and 9172 on every leftover card. Hide 9171. Street is already doing its job."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "amor-mi-vida-farm",
+  "business": "Amor Mi Vida Farm",
+  "town": "Ramona, CA",
+  "phone": "(760) 445-2673",
+  "generated": "2026-09-16",
+  "prospectId": "1789615684493-o2em7eh",
+  "headline": "Yelp says Friday through Sunday 10 to 6. The chamber still says Friday 2 to 6.",
+  "summary": "This is a real family farmstand at 18585 Oak Ridge Lane in Ramona. Chris already shows up as the farmer. Yelp is claimed, 5.0 from four notes, updated this month, with about 22 photos. The phone is (760) 445-2673. Facebook this week prints amormividafarm@gmail.com. There is no shop site that loads. Yelp prints Friday through Sunday 10 to 6. The Ramona Chamber prints Friday 2 to 6, Saturday and Sunday 9 to 2. Instagram has printed 10 to 5:30 and open till dark. A neighbor with a honey run can show up Friday at noon to a stand that is not open yet, or Saturday at 3:00 to a door that already closed.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for a farmstand in Ramona. Yelp is claimed, 5.0 from four reviews, with 22 photos. Facebook and Instagram are alive. A neighbor looking for honey, jam, or a hello to the alpacas can find you. Chamber listings still point at amormividafarm.net. That domain did not resolve this week.",
+      "next": "Keep the category farmstand in Ramona. Take the leftover .net off the chamber card."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (760) 445-2673 is consistent on Yelp, Facebook, and the chamber. Facebook this week prints amormividafarm@gmail.com. Call is how people actually ask if the stand is open. That door works.",
+      "next": "Keep that number and that inbox on every listing. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Yelp prints Friday through Sunday 10 to 6, Monday through Thursday closed. The Ramona Chamber prints Friday 2 to 6, Saturday and Sunday 9 to 2. Instagram has printed Friday through Sunday 10 to 5:30, and also open today 10 till dark. Another chamber card still prints Friday 12 to 4 and Saturday closed. Four Saturday stories is how a neighbor drives to Oak Ridge after the stand is locked.",
+      "next": "Write one hour card, including Friday open and Saturday close. Copy it to Google, Yelp, Instagram, and the chamber the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Yelp has about 22 photos. Instagram is the stand this week: jam, pickles, ice cream sandwiches, the animals. A first-time neighbor can see the fridge before they pull in.",
+      "next": "Keep this week's shelf on Instagram. Drop a few onto Google so the listing stays as current as the stories."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "There is no shop site that loads this week. Neighbors find the stand on Facebook, Instagram, and Yelp. Chamber listings still print amormividafarm.net. It did not resolve. No site is a missing front door, not a small rot.",
+      "next": "A simple one-pager is enough: phone, 18585 Oak Ridge Lane, weekend hours, and three photos of the stand. Instagram can stay. It should not be the only door."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and phone line up: 18585 Oak Ridge Ln, Ramona, CA 92065, (760) 445-2673. The leak is the rest. Four hour cards. A leftover website that is not the shop. That is how a listing starts to look unclaimed even when the stand is busy.",
+      "next": "Put 18585 Oak Ridge Lane, 445-2673, and one weekend card on Google and the chamber. Hide the leftover .net. Street and phone are already doing their job."
+    }
+  ]
+}
