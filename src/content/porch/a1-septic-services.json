@@ -1,0 +1,49 @@
+{
+  "slug": "a1-septic-services",
+  "business": "A1 Septic Services",
+  "town": "El Cajon, CA",
+  "website": "https://a1septic.net/",
+  "phone": "(619) 567-7224",
+  "generated": "2026-09-18",
+  "prospectId": "1789752689808-ofwcexo",
+  "headline": "The site says open 24/7. It also says after-hours rates apply.",
+  "summary": "This is a real septic truck out of 9787 Snow View Drive in El Cajon, Blossom Valley. Chris D. already shows up as the owner. Yelp is claimed, 5.0 from about 123 notes, updated this month, with about 38 photos. The phone is (619) 567-7224. Facebook this week prints chris@a1septic.net. The shop site uses a form, not that inbox. The Contact block prints Open 24/7, then says emergency and after-hours rates apply outside of regular operating hours. It never prints those regular hours. Yelp, MapQuest, and Orange Book copy open 24 hours. A neighbor with a backup can wait on a 24-hour card, or never call, for a truck that still has a weekday.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for septic pumping in El Cajon. Yelp is claimed, 5.0 from about 123 reviews, updated this month. People already ask for Chris by name. A neighbor with a backup in East County can find you.",
+      "next": "Keep the category septic pumping in El Cajon, East County service area. Do not mix this truck with Anytime Septic or All In Pumping."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (619) 567-7224 is consistent on the shop, Yelp, Facebook, and Orange Book. Call is how people actually book. That door works. Facebook this week prints chris@a1septic.net. The Contact page uses a form, not that inbox. A leftover form-only door is how an emergency quote never arrives.",
+      "next": "Keep 567-7224 as the only public phone. Put the inbox you actually read on the Contact page."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The shop prints Open 24/7, then says after-hours rates apply outside of regular operating hours. It does not print those regular hours. Yelp prints open 24 hours every day. MapQuest and Orange Book copy the same card. A 24-hour listing next to an after-hours rate is how a neighbor waits on a backup, or never calls.",
+      "next": "Write one hour card: office weekdays, emergency after hours if that is the door. Copy it to Google, Yelp, and the site the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Yelp has about 38 photos. The site gallery is trucks and lids. A first-time neighbor can see the truck before they call.",
+      "next": "Keep this year's jobs on Yelp. Drop a few onto Google so the listing stays as current as the gallery."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "a1septic.net loads and belongs to you. Street, phone, and the gallery are there. The inbox is not. Regular hours are not. The footer still says copyright 2018. CSLB 1080434 is on the page. The brochure is alive. The leftover 24/7 card without a weekday is not.",
+      "next": "Put the phone, the inbox you read, East County service area, and one hour card above the fold. Keep 1080434 on the listing."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Street and phone line up: 9787 Snow View Dr, El Cajon, CA 92021, (619) 567-7224. Yelp, Facebook, Orange Book, and the shop all keep Snow View. That pin is doing its job.",
+      "next": "Keep 9787 Snow View Drive. If the yard is not a drop-in, say service area, El Cajon."
+    }
+  ]
+}

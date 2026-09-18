@@ -1,0 +1,49 @@
+{
+  "slug": "eagle-fence",
+  "business": "Eagle Fence Co.",
+  "town": "Santee, CA",
+  "website": "https://www.protectyournest.net/",
+  "phone": "(619) 448-8568",
+  "generated": "2026-09-18",
+  "prospectId": "1789752692844-zr558ij",
+  "headline": "Yelp pins Prospect Avenue. The shop site does not print a street.",
+  "summary": "This is a real family fence shop since 1986. Dave already shows up in the reviews. Yelp is claimed, 4.6 from about 18 notes, updated this month, and pins 10447 Prospect Avenue in Santee. The live site this week prints (619) 448-8568, mobile (619) 647-6046, and prospectordave@cox.net. Shop-owned hours are Monday through Friday 8 to 6, Saturday and Sunday closed. Yelp matches that. The site says Serving San Diego County and does not print a street. BuildZoom still pins a Santee PO Box and a Bullhead City, AZ headquarters, and still prints license 623043 as expired. Yellow Pages still prints (619) 901-1396 on Prospect, and still hangs 448-8568 on 8064 Shantung Drive. A neighbor looking for a yard can drive to the wrong pin, or mail a leftover Cox box.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for fences and gates in Santee. Yelp is claimed, 4.6 from about 18 reviews, updated this month. People already ask for Dave by name. A neighbor looking for vinyl, wood, iron, or chain link can find you. This is not Sam's Fencing. This is not Alpine Fence. This is not the Yucca Valley Eagle Fence Company.",
+      "next": "Keep the category fence contractor in Santee. Put the live CSLB number on the listing once it is confirmed."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The shop this week prints (619) 448-8568 and mobile (619) 647-6046, with prospectordave@cox.net. Call is how people actually book. That door works. A Cox inbox is leftover-ISP, same caution as an old SBC box. Yellow Pages still prints (619) 901-1396 as the Prospect number. The big call button says text 647-6046 and still dials 448-8568. Two leftover phones is how a free estimate never arrives.",
+      "next": "Keep 448-8568 as the office door and 647-6046 as the mobile if both are read. Take 901-1396 off Yellow Pages. If the Cox box is still read, say so. If it is not, take it off the shop."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "The shop and Yelp both print Monday through Friday 8 to 6, Saturday and Sunday closed. That is cleaner than most shops. A neighbor can trust the week if the leftover pin does not send them somewhere else.",
+      "next": "Keep that hour card on Google and on leftover directories. If Saturday ever opens, change it the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is in the reviews. Neighbors talk about vinyl, gates, and Dave on the job. Yelp has about 13 photos. The site is mostly quotes, not this year's fence. A first-time neighbor cannot clearly see a finished yard the way an owner would need.",
+      "next": "Put four current photos on Google: a wood run, a vinyl gate, an iron job, and Dave or the crew."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "protectyournest.net loads and belongs to you. Both phones, the Cox inbox, and Monday through Friday 8 to 6 are there. A street is not. A license is not. The page still has leftover Button chrome. BuildZoom still prints license 623043 as expired as of April 2026. I could not confirm an active CSLB number on the shop this week. The brochure is alive. The leftover Arizona pin is not.",
+      "next": "Put the live CSLB number, one Santee pin, and both phones above the fold. Confirm the license on cslb.ca.gov before anyone treats this as a send."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Phone lines up on the shop: (619) 448-8568. Yelp and MapQuest pin 10447 Prospect Ave, Santee, CA 92071. The shop prints no street. BuildZoom pins P.O. Box 710628 and 1868 Hwy 95, Bullhead City, AZ. Yellow Pages still hangs 448-8568 on 8064 Shantung Drive. Four pins is how a neighbor drives to a house, a box, or Arizona.",
+      "next": "Pick one public pin, Prospect or a yard, and copy it everywhere. Hide Shantung, the PO Box, and Bullhead City unless they still have to exist as mail."
+    }
+  ]
+}

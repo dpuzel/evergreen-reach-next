@@ -1,0 +1,49 @@
+{
+  "slug": "awning-products-unlimited",
+  "business": "Awning Products Unlimited",
+  "town": "Santee, CA",
+  "website": "https://www.awningproductssd.com/",
+  "phone": "(619) 562-2805",
+  "generated": "2026-09-18",
+  "prospectId": "1789753217015-scj0ge4",
+  "headline": "The shop says close at 4:00. Yelp still says 5:00.",
+  "summary": "This is a real family awning shop at 8540 Ablette Road in Santee. Tom Baldwin already shows up as sales. Marion Bibbey already shows up on the filings. The live site this week prints office (619) 562-2805, sales (619) 990-9537, awningproductssd@gmail.com, and Tom@awningproductssd.com. Business hours on the shop are Monday through Friday 7 to 4. Yelp is unclaimed, 5.0 from one review, updated this month, and prints 7:30 to 5. Unilocal still prints 8 to 8 on weeknights and points at awningproductsunlimited.com, a domain that does not load. The Contact page still offers opt-out at awningproducts@sbcglobal.net. A neighbor with a patio cover can show up at 4:15 to a bay that already locked, or mail a leftover SBC box.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for custom awnings in Santee. The About page already names restaurants, the airport, Miramar, Sharp Grossmont, and residential work. Yelp is unclaimed and thin, one review. A neighbor looking for canvas, Sunbrella, or a storefront canopy can still find you.",
+      "next": "Keep the category custom awnings in Santee, commercial and residential. Claim the Yelp page so the one-review card is not the whole story."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "Office (619) 562-2805 and sales (619) 990-9537 are on the live home and Contact pages this week, with awningproductssd@gmail.com and Tom@awningproductssd.com. Those doors work. The same Contact page still points opt-out and accessibility mail at awningproducts@sbcglobal.net. The homepage still carries a leftover mailto for sales@awning-products.com. A leftover SBC box is how a quote never arrives.",
+      "next": "Keep the two shop inboxes you actually read. Take sbcglobal and sales@awning-products.com off the live pages."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The shop prints Monday through Friday 7 to 4. Yelp and MapQuest print 7:30 to 5, Saturday closed. Unilocal still prints 8 to 8 Monday through Thursday and 8 to 5 on Friday. Three weekday stories is how a neighbor drives to Ablette after the door is locked.",
+      "next": "Write one hour card, including Saturday closed. Copy it to Google, Yelp, and Unilocal the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is on the Gallery: Burger Lounge, Phil's BBQ, Island Prime, Don Chido. The homepage carousel still says Slide title and Write your caption here. Yelp has no photo gallery this week. A first-time neighbor cannot clearly see this year's residential patio the way a homeowner would need.",
+      "next": "Put four current photos on Google: the Ablette bay, a storefront this year, a residential patio, and a graphic you actually printed."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "awningproductssd.com loads and belongs to you. Street, both phones, both shop inboxes, and Monday through Friday 7 to 4 are there. Unilocal still points at awningproductsunlimited.com, which does not resolve this week. The live pages still carry leftover Duda chrome and a leftover SBC inbox. The brochure is alive. The leftover domain is not.",
+      "next": "Put Suite B, one hour card, and the two shop inboxes above the fold. Take awningproductsunlimited.com off Unilocal. Hide the leftover SBC line."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and office phone line up: 8540 Ablette Road, Santee, CA 92071, (619) 562-2805. Filings print Suite B. The Contact page and Yelp drop the suite. Unilocal keeps Ablette and a dead domain. A missing suite is how a neighbor walks the wrong bay on the lot.",
+      "next": "Put 8540 Ablette Road, Suite B, on Google, Yelp, and the Contact page. Hide the leftover domain."
+    }
+  ]
+}

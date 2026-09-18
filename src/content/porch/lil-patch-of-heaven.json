@@ -1,0 +1,49 @@
+{
+  "slug": "lil-patch-of-heaven",
+  "business": "Lil Patch of Heaven",
+  "town": "Ramona, CA",
+  "website": "https://lilpatchofheaven.org",
+  "phone": "(760) 814-4836",
+  "generated": "2026-09-18",
+  "prospectId": "1789754798391-ktkzex8",
+  "headline": "The listing says 2108 Orange. A Labor Day post still said 2053.",
+  "summary": "This is a real family homestead at 2108 Orange Avenue in Ramona. The Beene family already shows up in the story. Facebook this week prints cbeene32@gmail.com and (760) 814-4836. The live shop is lilpatchofheaven.org, a cart with this month's blog. Facebook, the chamber, and the directories still print every day 8 to 8. A Labor Day post this month still said we are at 2053 Orange Ave, open from 8 to 8. Facebook still lists beenefamilyfarm, a ThriveCart cart, and cbeene32.wixsite.com/lilpatchofheaven. That Wix page is a 404 this week. A neighbor with an honor-system run can pull up to the wrong Orange Avenue number, or land on a leftover Wix door that is gone.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for a Ramona homestead and farmstand. Facebook is alive this week. The chamber still has the farm. A neighbor looking for pasture eggs, meat, or the honor-system fridge can find you. Do not mix this stand with Three Sons, Amor, Black Mountain, Mini Barn, or Page's.",
+      "next": "Keep the category farmstand and homestead in Ramona, pickup and delivery. One Orange Avenue number on every listing."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (760) 814-4836 is consistent on Facebook, the chamber, and Nextdoor. Facebook this week prints cbeene32@gmail.com. Call and that inbox are how people actually ask if the stand is open. The Contact page on the shop is a form, not that inbox.",
+      "next": "Keep that number and that inbox on every listing. Put the inbox you actually read on the Contact page."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Facebook already says the honor-system stand is open every day 8 to 8. The chamber and the directories copy 8 to 8 every day. The live shop does not print a week. A neighbor who only opens the cart cannot tell if the fridge is a daily door or a weekend door.",
+      "next": "Write one hour card, including the honor-system week. Copy it to Google, Facebook, and the shop the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The work is the porch light. Facebook this week is the fridge, the stand, and the animals. Rumble is posting. A first-time neighbor can see the shelf before they pull in.",
+      "next": "Keep this week's fridge on Facebook. Drop a few onto Google so the listing stays as current as the stories."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "lilpatchofheaven.org loads and belongs to you. The cart and this month's blog are alive. Hours are not. A street is not. The inbox is not. Facebook still lists beenefamilyfarm, a ThriveCart leftover, and cbeene32.wixsite.com/lilpatchofheaven. That Wix page is a 404 this week. The chamber still points at the leftover Wix URL. The cart is alive. The leftover Wix door is not.",
+      "next": "Put the phone, 2108 Orange Avenue, the honor-system week, and the inbox above the fold. Take the leftover Wix URL off Facebook and the chamber."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Phone lines up: (760) 814-4836. Facebook, the chamber, and the listings print 2108 Orange Ave, Ramona, CA 92065. A Labor Day post this month still said 2053 Orange Ave. Two numbers on the same street is how a neighbor drives to a gate that is not the stand.",
+      "next": "Keep 2108 Orange Avenue on every public card. If 2053 was a one-weekend pin, take it off the leftover posts."
+    }
+  ]
+}
