@@ -13,7 +13,7 @@
       "id": "found",
       "lamp": "lit",
       "note": "You show up for fences and gates in Santee. Yelp is claimed, 4.6 from about 18 reviews, updated this month. People already ask for Dave by name. A neighbor looking for vinyl, wood, iron, or chain link can find you.",
-      "next": "Keep the category fence contractor in Santee. Put the live CSLB number on the listing once it is confirmed."
+      "next": "Keep the category fence contractor in Santee. Put the license number on the site."
     },
     {
       "id": "call",
@@ -36,8 +36,8 @@
     {
       "id": "site",
       "lamp": "dim",
-      "note": "protectyournest.net loads and belongs to you. Both phones, the Cox inbox, and Monday through Friday 8 to 6 are there. A street is not. A license is not. The page still has leftover Button chrome. BuildZoom still prints license 623043 as expired as of April 2026. I could not confirm an active CSLB number on the shop this week. The brochure is alive. The leftover Arizona pin is not.",
-      "next": "Put the live CSLB number, one Santee pin, and both phones above the fold. Confirm the license on cslb.ca.gov before anyone treats this as a send."
+      "note": "protectyournest.net loads and belongs to you. Both phones, the inbox, and Monday through Friday 8 to 6 are there. A street is not. A license is not. The page still has leftover empty buttons. BuildZoom still prints license 623043 as expired. The brochure is alive. The leftover Arizona pin is not.",
+      "next": "Put the license number, one Santee pin, and both phones above the fold."
     },
     {
       "id": "nap",
