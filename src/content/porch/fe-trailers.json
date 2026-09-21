@@ -1,0 +1,49 @@
+{
+  "slug": "fe-trailers",
+  "business": "FE Trailers",
+  "town": "Lakeside, CA",
+  "website": "https://www.fetrailers.com/",
+  "phone": "(619) 444-9932",
+  "generated": "2026-09-21",
+  "prospectId": "1790023829796-os4adzh",
+  "headline": "The shop is closed Mondays. A few map cards still open the door Monday morning.",
+  "summary": "This is a real trailer manufacture and repair shop at 11919 Woodside Ave in Lakeside. Vic, Chris, and Allie already show up in the reviews. Google Maps is live this week at 4.4 stars, closed Mondays, opens Tuesday at 7. The shop this week prints fetrailers@mac.com and (619) 444-9932. Shop-owned hours print Tuesday through Friday 7 to 5, Saturday and Sunday closed, which means Monday is closed too. Loc8NearMe matches that week. BusinessYab and a few other directories still print Monday 7 to 5:30. A neighbor with a bent axle can tow in on Monday and find a locked gate that the leftover card promised was open.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for trailer manufacture and repair in Lakeside. Google Maps is live this week at 4.4 stars. Reviews already name Vic, Chris, and Allie. A neighbor looking for axles, bunks, lights, or a custom boat trailer can find you.",
+      "next": "Keep the category trailer manufacture and repair in Lakeside. Stay on Woodside Ave so the yard and the listing match."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 444-9932 is consistent on the shop, Google Maps, and the directories. The footer this week prints fetrailers@mac.com. Call and that inbox are how people actually ask about a drop-off or a build.",
+      "next": "Keep that number and that inbox on every listing. Put the inbox you actually read above the fold if it is not already obvious."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The shop says Tuesday through Friday 7 to 5, closed Saturday and Sunday. Google Maps this Monday matched that and showed closed, opens Tuesday at 7. Loc8NearMe prints Monday closed. BusinessYab and a few leftover cards still print Monday 7 to 5:30. A Monday open card is how a neighbor tows a trailer to a locked gate.",
+      "next": "Write one hour card: Tuesday through Friday 7 to 5, Monday Saturday Sunday closed. Copy it to Google and every directory that still opens Monday."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Reviews talk about the yard and the crew. The shop site has a video block and an older thank-you note. Fresh photos of axles, bunks, and finished trailers are thin on the public cards a first-time neighbor opens first.",
+      "next": "Drop a few recent job photos onto Google and the shop homepage so the listing looks like the yard this month."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "fetrailers.com loads and belongs to you. Street, phone, mac.com inbox, and the Tuesday through Friday week are there. Afffordable still sits as a heading. The copy is older. The brochure is alive. The leftover spelling and thin photo porch are not keeping pace with the work.",
+      "next": "Fix Afffordable. Put the phone, Woodside Ave, the real week, and the inbox above the fold. Add a few current yard photos."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Street and phone line up on the shop and Google Maps: 11919 Woodside Ave, Lakeside, CA 92040, (619) 444-9932. The name flips between FE Trailers and F E Trailers on a few cards, but the pin is the same yard.",
+      "next": "Keep 11919 Woodside Ave and (619) 444-9932 on every public card. Use one spelling of the shop name everywhere you can."
+    }
+  ]
+}
