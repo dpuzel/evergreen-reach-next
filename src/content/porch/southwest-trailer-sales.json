@@ -1,1 +1,49 @@
-PLACEHOLDER
+{
+  "slug": "southwest-trailer-sales",
+  "business": "Southwest Trailer Sales",
+  "town": "Ramona, CA",
+  "website": "https://southwesttrailer.com/",
+  "phone": "(760) 788-8900",
+  "generated": "2026-09-22",
+  "prospectId": "1790094725043-wn3sg5z",
+  "headline": "The shop says Tuesday through Saturday 8:30 to 3. A leftover card still says 9 to 5.",
+  "summary": "This is a real trailer sales, parts, and service yard at 2430 Main Street in Ramona. Google Maps is live this week at 4.7 stars from about 104 reviews, open Tuesday through Saturday 8:30 to 3, closed Monday and Sunday. The shop this week prints info@southwesttrailer.com, (760) 788-8900, and the same Tuesday through Saturday week. Mechanic Advisor still prints Tuesday through Saturday 9 to 5. A neighbor planning a late-afternoon walk-in can trust the leftover card and find a locked gate after 3.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for trailer sales, parts, and service in Ramona. Google Maps is live this week at 4.7 stars from about 104 reviews. A neighbor looking for a horse trailer, cargo box, utility trailer, or a parts counter can find you.",
+      "next": "Keep the category trailer sales and service in Ramona. Stay on Main Street so the yard and the listing match."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (760) 788-8900 is consistent on the shop, Google Maps, and the directories. The homepage this week prints info@southwesttrailer.com. Call and that inbox are how people actually ask about a trailer or a service drop.",
+      "next": "Keep that number and that inbox on every listing. Put the inbox you actually read above the fold if it is not already obvious."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The shop says Tuesday through Saturday 8:30 to 3, Monday and Sunday closed. Google Maps this week matched that week. Mechanic Advisor still prints Tuesday through Saturday 9 to 5. A 9 to 5 leftover card is how a neighbor drives over after 3 and finds a locked gate.",
+      "next": "Write one hour card: Tuesday through Saturday 8:30 to 3, Monday Sunday closed. Copy it to every directory that still prints 9 to 5."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Reviews talk about the lot and the crew. The shop site has inventory photos. Fresh photos of this week's yard, parts counter, and finished service jobs are thin on the public cards a first-time neighbor opens first.",
+      "next": "Drop a few recent lot and service photos onto Google so the listing looks like the yard this month."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "southwesttrailer.com loads and belongs to you. Street, phone, inbox, and the Tuesday through Saturday week are there. The brochure is alive. Some pages still feel older than the busy Main Street yard a neighbor sees this week.",
+      "next": "Put the phone, 2430 Main Street, the real week, and the inbox above the fold on every key page. Refresh a few older inventory blocks so the site matches today's lot."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Street and phone line up on the shop and Google Maps: 2430 Main Street, Ramona, CA 92065, (760) 788-8900. The name stays Southwest Trailer Sales on the live cards. The pin is the same yard.",
+      "next": "Keep 2430 Main Street and (760) 788-8900 on every public card. One spelling of the shop name everywhere you can."
+    }
+  ]
+}
