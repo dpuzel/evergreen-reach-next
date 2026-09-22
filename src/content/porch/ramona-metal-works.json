@@ -1,1 +1,49 @@
-PLACEHOLDER
+{
+  "slug": "ramona-metal-works",
+  "business": "Ramona Metal Works",
+  "town": "Ramona, CA",
+  "website": "https://www.ramonametalworks.com/",
+  "phone": "(760) 975-9869",
+  "generated": "2026-09-22",
+  "prospectId": "1790094721615-6qjasue",
+  "headline": "The shop says Monday through Thursday 7:30 to 5:30. Google still opens Friday at 7.",
+  "summary": "This is a real fencing, ornamental metals, gates, and mobile welding shop at 607 Brazos Street, Suite A in Ramona. Kyle and Tayla already show up in the reviews. Google Maps is live this week at 5.0 stars from about 16 reviews, open Monday through Friday 7 to 5:30. The shop this week prints kyle@ramonametalworks.com, (760) 975-9869, and Monday through Thursday 7:30 to 5:30. Leftover directories still open the week at 7. A neighbor planning a Friday gate drop or a 7 a.m. walk-in can trust the leftover card and find a door that is not the shop week.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for ornamental iron, gates, and welding in Ramona. Google Maps is live this week at 5.0 stars from about 16 reviews. People already name Kyle and Tayla. A neighbor looking for a driveway gate, handrail, or mobile weld can find you.",
+      "next": "Keep the category ornamental iron, gates, and welding in Ramona. Stay on Brazos Street Suite A so the shop and the listing match."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (760) 975-9869 is consistent on the shop, Google Maps, and the directories. The Contact page this week prints kyle@ramonametalworks.com and info@. Call and that inbox are how people actually ask about a gate or a site weld.",
+      "next": "Keep that number and that inbox on every listing. Put the inbox you actually read above the fold if it is not already obvious."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The shop says Monday through Thursday 7:30 to 5:30. Google Maps this week prints Monday through Friday 7 to 5:30. A leftover directory still opens Monday through Thursday at 7. A Friday open card or a 7 a.m. leftover is how a neighbor plans a drop that does not match the shop week.",
+      "next": "Write one hour card: Monday through Thursday 7:30 to 5:30, Friday Saturday Sunday closed. Copy it to Google and every directory that still opens Friday or opens at 7."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Reviews talk about gates, stairs, and site work. The shop site has craft photos. Fresh photos of this month's gates and installs are thin on the public cards a first-time neighbor opens first.",
+      "next": "Drop a few recent gate and install photos onto Google so the listing looks like the shop this month."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "ramonametalworks.com loads and belongs to you. Street, phone, Kyle's inbox, license number, and the Monday through Thursday week are there. The brochure is alive. Hours and the street are not as loud above the fold as a first-time neighbor needs.",
+      "next": "Put the phone, 607 Brazos Street Suite A, the real week, and the inbox above the fold. Keep CSLB 1101990 where a neighbor can see it."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Street and phone line up on the shop and Google Maps: 607 Brazos Street Suite A, Ramona, CA 92065, (760) 975-9869. The name stays Ramona Metal Works on the live cards. The pin is the same shop.",
+      "next": "Keep 607 Brazos Street Suite A and (760) 975-9869 on every public card. One spelling of the shop name everywhere you can."
+    }
+  ]
+}
