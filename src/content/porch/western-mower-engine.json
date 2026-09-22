@@ -1,0 +1,49 @@
+{
+  "slug": "western-mower-engine",
+  "business": "Western Mower & Engine",
+  "town": "Poway, CA",
+  "website": "https://www.westernmower.com/",
+  "phone": "(858) 748-2292",
+  "generated": "2026-09-21",
+  "prospectId": "1790023832993-gzb6jp3",
+  "headline": "The shop says Saturday 7 to noon. Birdeye still says 8:30 to 2.",
+  "summary": "This is a real family outdoor power shop at 12823 Pomerado Road in Poway. Marty is the owner. Noah already shows up in the Saturday reviews. Google Maps is live this week at 4.7 stars from about 42 notes, open Monday through Friday 8:30 to 5. The shop this week prints (858) 748-2292 and Monday through Friday 8:30 to 5, Saturday 7 to noon, Sunday closed. Loc8-style cards and the live Maps pin match the weekday week. Birdeye still prints Saturday 8:30 to 2 and looks unclaimed. A neighbor with a dead mower can plan on a Saturday afternoon door that the leftover card promised was still open.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for outdoor power sales and repair in Poway. Google Maps is live this week at 4.7 stars from about 42 reviews. People already ask for Marty and Noah by name. A neighbor looking for a mower, a blower, or a Saturday part can find you.",
+      "next": "Keep the category outdoor power equipment and repair in Poway. Stay on Pomerado so the yard and the listing match."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (858) 748-2292 is consistent on the shop, Google Maps, and the directories. A Husqvarna dealer card this week still prints marty@westernmower.com. Call is how people actually ask about a drop-off or a Saturday part.",
+      "next": "Keep that number on every listing. Put the inbox you actually read on the Contact page so a neighbor does not have to hunt for it."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The shop says Monday through Friday 8:30 to 5, Saturday 7 to noon, Sunday closed. Google Maps this Monday matched the weekday week. Birdeye still prints Saturday 8:30 to 2 and looks unclaimed. A Saturday afternoon leftover card is how a neighbor drives to a locked gate after noon.",
+      "next": "Write one Saturday card: 7 to noon. Copy it to Google and Birdeye the same morning. Claim the Birdeye profile if it is still sitting open."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Reviews talk about the counter and the crew. The shop homepage still leads with 2022 battery and Toro banners. Fresh photos of the yard, the parts counter, and this week's jobs are thin on the public cards a first-time neighbor opens first.",
+      "next": "Drop a few recent counter and yard photos onto Google and the homepage so the listing looks like the shop this month, not 2022."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "westernmower.com loads and belongs to you. Street, phone, and the full week are there. Cloudflare sits in front of some doors. The homepage still leads with 2022 campaigns. The brochure is alive. The leftover year on the banners is not keeping pace with the work.",
+      "next": "Put the phone, Pomerado Road, the real week, and the inbox above the fold. Refresh the homepage so it is this year's shop, not last year's banners."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Street and phone line up on the shop and Google Maps: 12823 Pomerado Road, Poway, CA 92064, (858) 748-2292. The name stays Western Mower and Engine on the live cards. The pin is the same yard.",
+      "next": "Keep 12823 Pomerado Road and (858) 748-2292 on every public card. One spelling of the shop name everywhere you can."
+    }
+  ]
+}
