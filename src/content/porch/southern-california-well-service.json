@@ -1,0 +1,49 @@
+{
+  "slug": "southern-california-well-service",
+  "business": "Southern California Well Service",
+  "town": "Ramona, CA",
+  "website": "https://scwellservice.com/",
+  "phone": "(760) 440-8520",
+  "generated": "2026-09-23",
+  "prospectId": "1790181772525-huovfbr",
+  "headline": "MapQuest still lists Ransom Pump Open at 1077 Main Unit B.",
+  "summary": "This is a real well drilling and pump shop at 1077 Main Street Unit B in Ramona, with a second shop in Anza. Brighton and Travis already show up on the shop story. Google Maps is live this week at 4.7 stars from about 61 reviews, open Monday through Friday 7 to 5, weekends closed. The shop this week prints about 4.8 stars from about 94 Google notes, (760) 440-8520, info@scwellservice.com on Privacy and Terms, and the same weekday week plus emergency 24/7. MapQuest still lists Ransom Pump and Supply Open at that same Main Street Unit B. BuildZoom still rings (408) 318-1171. A neighbor looking up the old Ransom name can trust a leftover card and dial a number that is not the shop door.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for well drilling and pump repair in Ramona. Google Maps is live this week at 4.7 stars from about 61 reviews. The shop prints about 4.8 from about 94 Google notes. Brighton and Travis are on the story. A neighbor with a dry well or a dead pump can find you.",
+      "next": "Keep the category well drilling and pump service in Ramona. Stay on Main Street Unit B so the shop and the listing match."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (760) 440-8520 is consistent on the shop and Google Maps. Privacy and Terms this week print info@scwellservice.com. The homepage leans form first. Call is how people actually book. BuildZoom still prints (408) 318-1171. A leftover Bay Area number is how a no-water call never arrives.",
+      "next": "Keep 440-8520 as the only public voice line. Put the inbox you actually read above the fold next to the form. Hide the leftover 318-1171 unless it is still read."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "The shop says Monday through Friday 7 to 5, plus emergency 24/7. Google Maps this week matches weekdays 7 to 5 and weekends closed. The week the neighbor trusts is the same week the door keeps.",
+      "next": "Keep one hour card: Monday through Friday 7 to 5, weekend closed, emergency after hours if that is the door. Copy it to every directory that still drifts."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Reviews talk about same-day fixes and the crew. The shop site has job photos from Anza, Ramona, Aguanga, and Temecula. Fresh photos of this month's pulls and installs are thinner on the public Maps card a first-time neighbor opens first.",
+      "next": "Drop a few recent pump and well photos onto Google so the listing looks like the shop this month."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "scwellservice.com loads and belongs to you. Street, phone, text line, CSLB 1086994, two shops, and the weekday week are there. Privacy and Terms print info@scwellservice.com. The brochure is alive. The form still sits louder than the inbox on the homepage.",
+      "next": "Keep the phone, 1077 Main Street Unit B, the real week, and the inbox you read above the fold. Keep 1086994 where a neighbor can see it."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and main phone line up on the shop and Google Maps: 1077 Main Street Unit B, Ramona, CA 92065, (760) 440-8520. The live pin is Southern California Well Service. MapQuest still lists Ransom Pump and Supply Open at that same Unit B. An old name on the same door is how a neighbor calls the wrong shop.",
+      "next": "Keep Southern California Well Service, 1077 Main Street Unit B, and (760) 440-8520 on every public card. Claim or close leftover Ransom cards that still say Open at your shop."
+    }
+  ]
+}
