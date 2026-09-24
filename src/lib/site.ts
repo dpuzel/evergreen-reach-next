@@ -62,7 +62,7 @@ export const services = [
       "Getting found is nice. Getting chosen by the right people nearby is the goal. We help more of the right locals find you, and actually reach out.",
     items: [
       "Help more local customers find you online",
-      "Leftover listings cleaned up so a neighbor finds the real shop",
+      "Simple ideas that help the right neighbors find you",
       "Keep an eye on what similar businesses are doing",
       "Adjust based on what's actually working in your area",
     ],
@@ -99,7 +99,7 @@ export const plans = [
     price: 99,
     blurb: "A solid start with reliable monthly care.",
     features: [
-      "Google Business Profile optimization & management",
+      "Google listing kept accurate and tended",
       "Basic website health checks & updates",
       "Monthly progress report",
       "Email support",
@@ -113,7 +113,7 @@ export const plans = [
     blurb: "The right balance. Most businesses love this one.",
     features: [
       "Everything in Basic",
-      "Full GBP management + content",
+      "Full Google listing care (hours, photos, leftover pins)",
       "Regular website maintenance & improvements",
       "Help getting found nearby",
       "Priority email + chat support",
@@ -128,7 +128,7 @@ export const plans = [
     features: [
       "Everything in Standard",
       "Full website care + proactive improvements",
-      "Quarterly strategy calls (30 min)",
+      "Quarterly check-in call (30 min)",
       "More help getting found nearby",
       "Direct phone/text access",
     ],

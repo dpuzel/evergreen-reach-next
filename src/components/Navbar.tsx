@@ -80,7 +80,7 @@ export function Navbar() {
               href="/#contact"
               className="btn-primary !px-5 !py-2.5 !text-sm"
             >
-              Let&apos;s Talk
+              Request a report
             </Link>
           </div>
 
@@ -156,7 +156,7 @@ export function Navbar() {
               className="btn-primary mt-8 w-full text-center"
               onClick={() => setOpen(false)}
             >
-              Let&apos;s Talk
+              Request a report
             </Link>
           </div>
         </div>
