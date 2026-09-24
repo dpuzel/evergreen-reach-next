@@ -1,0 +1,49 @@
+{
+  "slug": "parkside-groomery",
+  "business": "Parkside Groomery",
+  "town": "Lakeside, CA",
+  "website": "https://www.parksidegroomery.com/",
+  "phone": "(619) 561-1341",
+  "generated": "2026-09-24",
+  "prospectId": "1790267339461-5624nci",
+  "headline": "MapQuest still describes the Vine Street shop as Angelica's Pet Grooming.",
+  "summary": "This is a real independent pet groomer at 9838 Vine Street in Lakeside. Destinie already shows up in the story and the reviews (some neighbors still spell Destiny). Google Maps is live this week at about 4.8 stars from about 26 reviews, open Monday through Saturday 9 to 5, Sunday closed. The shop this week prints ParksideGroomery@gmail.com and (619) 561-1341. MapQuest still describes the same Vine Street door as Angelica's Pet Grooming. A neighbor looking for Destinie can hit the leftover name and bounce.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for pet grooming in Lakeside. Google Maps is live this week at about 4.8 stars from about 26 reviews. Neighbors already name Destinie. A neighbor looking for a calm, independent groom can find you.",
+      "next": "Keep the category pet groomer in Lakeside. Stay on Vine Street so the salon and the listing match."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The shop number (619) 561-1341 is consistent on the homepage, footer, and MapQuest. ParksideGroomery@gmail.com sits on the live pages. The About page still prints a second Contact me number (+18542031403) next to Destinie's name. Two phones is how a neighbor dials the wrong door first.",
+      "next": "Keep (619) 561-1341 and ParksideGroomery@gmail.com on every listing. Take the leftover second number off About if that line is not the booking door."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "The shop this week prints Monday through Saturday 9 to 5, Sunday closed. MapQuest and Google-backed cards match that week. A neighbor can trust the open week on the live cards.",
+      "next": "Keep one hour card on Google, the site, and the directories. Copy any change the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Reviews talk about finished pups, bandanas, and long-term trust. MapQuest shows a few public photos. Fresh photos of this week's suite and finished grooms are thinner on the cards a first-time neighbor opens first.",
+      "next": "Drop a few recent suite and finished-groom photos onto Google so the listing looks like the salon this month."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "parksidegroomery.com loads and belongs to you. Street, phone, inbox, hours, services, and Destinie's story are there. Online booking sits on Moego. The brochure is alive.",
+      "next": "Keep the phone, 9838 Vine Street, the week, and the inbox above the fold. Keep booking pointed at the door you actually answer."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and primary phone line up on the shop and the live cards: 9838 Vine Street, Lakeside, CA 92040, (619) 561-1341. MapQuest still describes that same Vine Street shop as Angelica's Pet Grooming while the title says Parkside. A leftover prior-name blurb is how a neighbor trusts the wrong shop story.",
+      "next": "Keep Parkside Groomery on every public card. Ask MapQuest to replace the Angelica's description with your own Lakeside story."
+    }
+  ]
+}
