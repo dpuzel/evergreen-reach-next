@@ -1,4 +1,5 @@
 import type { ReactNode } from "react";
+import Link from "next/link";
 import { PorchLamps } from "@/components/PorchLamps";
 import { site } from "@/lib/site";
 import {
@@ -12,10 +13,14 @@ import {
 export function PorchSheet({
   report,
   actions,
+  embedded,
 }: {
   report: PorchReport;
   actions?: ReactNode;
+  embedded?: boolean;
 }) {
+  const TitleTag = embedded ? "h2" : "h1";
+
   return (
     <article
       className={`porch-sheet relative overflow-hidden rounded-2xl border px-5 py-8 sm:px-10 sm:py-12 ${
@@ -27,15 +32,15 @@ export function PorchSheet({
       <header className="relative">
         <p className="eyebrow mb-4">
           {report.demo
-            ? "Front Porch Report · friend demo"
+            ? "Front Porch Report · SAMPLE"
             : "Front Porch Report"}
         </p>
-        <h1 className="font-display mb-3 text-3xl font-semibold tracking-tight text-cream sm:text-4xl">
+        <TitleTag className="font-display mb-3 text-3xl font-semibold tracking-tight text-cream sm:text-4xl">
           {report.business || "Unnamed shop"}
-        </h1>
+        </TitleTag>
         <p className="text-sm text-sage">
           {report.demo
-            ? "Demo sheet for a friend"
+            ? "SAMPLE · not a real shop"
             : `Generated for ${report.business || "this business"}`}
           {report.town ? ` · ${report.town}` : ""}
           {" · "}
@@ -112,10 +117,15 @@ export function PorchSheet({
 
       <footer className="relative mt-12 border-t border-sage/10 pt-8">
         {report.demo ? (
-          <p className="mb-4 max-w-xl leading-relaxed text-cream-dim">
-            Same six lamps we use for a real shop. Made so a friend could see
-            the porch. Not a client send. Not a pitch. Not a listing.
-          </p>
+          <div className="mb-4 max-w-xl">
+            <p className="mb-5 leading-relaxed text-cream-dim">
+              Same six lamps we use for a real shop. This one is a SAMPLE. Not
+              a real listing. Not a client send.
+            </p>
+            <Link href="/#contact" className="btn-primary">
+              Request one for your shop
+            </Link>
+          </div>
         ) : (
           <p className="mb-4 max-w-xl leading-relaxed text-cream-dim">
             We put this together as a neighbor would. No contract attached. If you

@@ -25,7 +25,7 @@ export async function generateMetadata({
   if (!report) return { title: "Front Porch Report", robots: { index: false } };
 
   const title = report.demo
-    ? `${report.business} · friend demo porch`
+    ? `${report.business} · SAMPLE`
     : `${report.business} · Front Porch Report`;
 
   return {

@@ -1,0 +1,47 @@
+{
+  "slug": "cedar-gate-welding",
+  "business": "Cedar Gate Welding (SAMPLE)",
+  "town": "a small town",
+  "generated": "2026-09-23",
+  "demo": true,
+  "headline": "The shop says Friday closed. A directory still prints Friday open.",
+  "summary": "This is a SAMPLE. Not a real shop. Cedar Gate Welding is a made-up fence, gate, and mobile-weld yard we wrote so you can see the sheet. The leftover is one hour card: the shop prints Monday through Thursday 7:30 to 5, Friday closed. A directory still prints Friday open. Phone is consistent. The site is real. Public photos still look like two lots ago. A neighbor who trusts the leftover Friday can drive to a yard that is locked.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for fences, gates, and a mobile weld. A neighbor looking for a gate can find you.",
+      "next": "Keep the category fence and mobile weld."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The shop number is the same on the site and the listing. Call is how people book. That door works.",
+      "next": "Keep that number. Do not add a second one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The shop card is Monday through Thursday 7:30 to 5, Friday closed. A directory still prints Friday open. A leftover Friday is how a neighbor drives to a locked yard.",
+      "next": "Write one hour card, including Friday closed. Copy it to the listing the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The work is gates. Public photos still show the old lot. A first-time neighbor cannot tell this year's yard from two lots ago.",
+      "next": "Put four current photos on the listing: this year's yard, a gate in progress, a finished fence, and the truck."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "The shop site loads and belongs to you. Phone and the week are there. The leftover Friday sits on a directory, not on the site.",
+      "next": "Keep the site. Take Friday open off the leftover card."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Name and phone line up. The leftover is the week, not the pin.",
+      "next": "Keep the public pin. The hours card is the pass."
+    }
+  ]
+}

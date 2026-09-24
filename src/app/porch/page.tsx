@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import Link from "next/link";
-import { PorchLamps } from "@/components/PorchLamps";
+import { notFound } from "next/navigation";
+import { PorchSheet } from "@/components/PorchSheet";
 import { SiteShell } from "@/components/SiteShell";
-import type { PorchSignal } from "@/lib/porch-core";
+import { getPorchReport } from "@/lib/porch";
 import { site } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -19,16 +19,12 @@ export const metadata: Metadata = {
   },
 };
 
-const SAMPLE_LAMPS: PorchSignal[] = [
-  { id: "found", lamp: "lit", note: "", next: "" },
-  { id: "call", lamp: "lit", note: "", next: "" },
-  { id: "hours", lamp: "dim", note: "", next: "" },
-  { id: "photos", lamp: "dim", note: "", next: "" },
-  { id: "site", lamp: "out", note: "", next: "" },
-  { id: "nap", lamp: "dim", note: "", next: "" },
-];
+const SAMPLE_SLUG = "cedar-gate-welding";
 
 export default function PorchLandingPage() {
+  const sample = getPorchReport(SAMPLE_SLUG);
+  if (!sample?.demo) notFound();
+
   return (
     <SiteShell>
       <main className="relative overflow-hidden">
@@ -52,26 +48,10 @@ export default function PorchLandingPage() {
             No scores out of a hundred. No agency words. Something you can print,
             email, or set on the counter.
           </p>
+        </section>
 
-          <div className="my-12 rounded-2xl border border-sage/12 px-6 py-8">
-            <PorchLamps signals={SAMPLE_LAMPS} />
-            <p className="mt-6 text-center text-sm text-sage/70">
-              Lit · low · out. That is the whole system.
-            </p>
-          </div>
-
-          <ul className="mb-12 space-y-3 text-cream-dim">
-            <li>Found nearby</li>
-            <li>Call-ready</li>
-            <li>Hours honest</li>
-            <li>Photos alive</li>
-            <li>Site not rotting</li>
-            <li>Name, address, and phone that match</li>
-          </ul>
-
-          <Link href="/#contact" className="btn-primary">
-            Ask us to look
-          </Link>
+        <section className="relative mx-auto max-w-3xl px-5 pb-16 sm:px-6">
+          <PorchSheet report={sample} embedded />
         </section>
 
         <section className="relative mx-auto max-w-3xl px-5 pb-28 sm:px-6">
