@@ -49,13 +49,12 @@ export function Contact() {
             </h2>
             <p className="mb-6 text-lg leading-relaxed text-cream-dim">
               You&apos;ve put everything into the work. The least the internet
-              can do is not bury you. We&apos;re here to fix that, calmly,
+              can do is not bury you. We&apos;re here for that, calmly,
               honestly, month after month.
             </p>
             <p className="mb-8 leading-relaxed text-cream-dim">
-              No big package pitch. No long lock-in. Just a real conversation
-              about your Google listing, your site, and whether we&apos;re the
-              right people to tend them.
+              No big package pitch. No long lock-in. Tell us the shop. We walk
+              the porch, write what we see on a plain sheet, and hand it back.
             </p>
 
             <div className="mb-10 space-y-4">
@@ -89,8 +88,8 @@ export function Contact() {
             </div>
 
             <p className="text-sm text-sage/70">
-              No hard sell. No obligation. Just two people figuring out if this
-              is a fit.
+              No hard sell. No obligation. The report is the gift. Monthly care
+              is only if you want us to keep tending.
             </p>
           </Reveal>
 

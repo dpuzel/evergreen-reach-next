@@ -62,7 +62,7 @@ export const services = [
       "Getting found is nice. Getting chosen by the right people nearby is the goal. We help more of the right locals find you, and actually reach out.",
     items: [
       "Help more local customers find you online",
-      "Simple ideas for content that brings the right people",
+      "Leftover listings cleaned up so a neighbor finds the real shop",
       "Keep an eye on what similar businesses are doing",
       "Adjust based on what's actually working in your area",
     ],
@@ -84,7 +84,7 @@ export const steps = [
   {
     num: "03",
     title: "We handle the work",
-    body: "This is the monthly care part. Posts, updates, maintenance, optimizations, month after month, so you don't have to.",
+    body: "Monthly care on the listing, the site, leftover pins. Month after month, so you don't have to.",
   },
   {
     num: "04",
@@ -115,7 +115,7 @@ export const plans = [
       "Everything in Basic",
       "Full GBP management + content",
       "Regular website maintenance & improvements",
-      "Local lead generation support",
+      "Help getting found nearby",
       "Priority email + chat support",
     ],
     cta: "Choose Standard",
@@ -129,7 +129,7 @@ export const plans = [
       "Everything in Standard",
       "Full website care + proactive improvements",
       "Quarterly strategy calls (30 min)",
-      "Advanced lead generation focus",
+      "More help getting found nearby",
       "Direct phone/text access",
     ],
     cta: "Go Premium",
