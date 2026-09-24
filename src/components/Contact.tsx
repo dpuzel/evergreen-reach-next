@@ -1,7 +1,6 @@
 "use client";
 
 import { FormEvent, useState } from "react";
-import Link from "next/link";
 import { Reveal } from "@/components/Reveal";
 import { IconArrowRight, IconMail, IconPhone } from "@/components/Icons";
 import { site } from "@/lib/site";
@@ -89,21 +88,6 @@ export function Contact() {
               </a>
             </div>
 
-            <div className="mb-8 max-w-md">
-              <p className="leading-relaxed text-cream-dim">
-                Want a quiet look at your digital front porch?
-              </p>
-              <p className="mb-3 leading-relaxed text-cream-dim">
-                We can walk it with you and show you what we see.
-              </p>
-              <Link
-                href="/porch"
-                className="text-sm text-sage transition-colors hover:text-cream"
-              >
-                Front Porch Report →
-              </Link>
-            </div>
-
             <p className="text-sm text-sage/70">
               No hard sell. No obligation. Just two people figuring out if this
               is a fit.
@@ -149,8 +133,8 @@ export function Contact() {
                       2
                     </span>
                     <span>
-                      Within a few business hours, we reply by email or text to
-                      set up a short discovery chat.
+                      Within a few business hours, we reply by email or text
+                      and walk the porch.
                     </span>
                   </li>
                   <li className="flex gap-3">
@@ -178,12 +162,10 @@ export function Contact() {
             ) : (
               <>
                 <h3 className="font-display mb-2 text-xl font-semibold text-cream">
-                  Book your free discovery chat
+                  Request a Front Porch Report
                 </h3>
                 <p className="mb-7 text-sm text-cream-dim">
-                  Two minutes. Tell us a bit about the business. We&apos;ll
-                  reach out within a few hours on business days. No spam, no
-                  script.
+                  Tell us the shop. We walk the porch.
                 </p>
 
                 <form onSubmit={onSubmit} className="space-y-5">
@@ -303,7 +285,7 @@ export function Contact() {
                   >
                     {status === "sending"
                       ? "Sending…"
-                      : "Request my discovery chat"}
+                      : "Request a Front Porch Report"}
                     {status !== "sending" && <IconArrowRight />}
                   </button>
 

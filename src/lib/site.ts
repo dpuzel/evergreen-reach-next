@@ -38,7 +38,7 @@ export const services = [
       "When someone searches for what you do nearby, your Google listing is usually the first thing they see. We keep it sharp, honest, and working for you, not half-finished or forgotten.",
     items: [
       "Get your listing set up right and kept accurate",
-      "Fresh posts and photos that help you show up",
+      "Current photos, honest hours, leftover pins cleaned up",
       "We watch reviews and help you respond thoughtfully",
       "Simple check-ins on how you're showing up locally",
     ],
@@ -57,7 +57,7 @@ export const services = [
     icon: "desktop" as const,
   },
   {
-    title: "Local Lead Gen",
+    title: "Local eyes",
     description:
       "Getting found is nice. Getting chosen by the right people nearby is the goal. We help more of the right locals find you, and actually reach out.",
     items: [
@@ -73,13 +73,13 @@ export const services = [
 export const steps = [
   {
     num: "01",
-    title: "Discovery chat",
-    body: "A relaxed conversation, text, email, or call. We talk about your business, what's frustrating online, and what success looks like for you.",
+    title: "We walk your digital front porch",
+    body: "Listing, hours, photos, leftover pins. What we see goes on a plain sheet.",
   },
   {
     num: "02",
-    title: "Audit & roadmap",
-    body: "We look at your Google presence, website, and local visibility. Then we build a clear, no-jargon plan tailored to your business.",
+    title: "You get that sheet",
+    body: "No score out of a hundred. Just what we saw and one next move each.",
   },
   {
     num: "03",

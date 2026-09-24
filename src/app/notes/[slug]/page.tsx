@@ -165,7 +165,7 @@ export default async function NotePage({ params }: NotePageProps) {
             take it from here.
           </p>
           <Link href="/#contact" className="btn-primary">
-            Book a free discovery chat
+            Request a Front Porch Report
           </Link>
         </section>
       </main>

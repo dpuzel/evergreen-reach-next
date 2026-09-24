@@ -53,7 +53,7 @@ export function Hero() {
           <Reveal immediate delay={3}>
             <div className="flex flex-col gap-3.5 sm:flex-row">
               <a href="#contact" className="btn-primary">
-                Book a free discovery chat
+                Request a Front Porch Report
                 <IconArrowRight />
               </a>
               <a href="#services" className="btn-ghost">

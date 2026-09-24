@@ -65,7 +65,7 @@ export function Plans() {
 
         <Reveal>
           <p className="mt-10 text-center text-sm text-sage/80">
-            All plans include a free discovery chat. Add-ons available for
+            All plans start with a free Front Porch walk. Add-ons available for
             one-time projects.
           </p>
         </Reveal>
