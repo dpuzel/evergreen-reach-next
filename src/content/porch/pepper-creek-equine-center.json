@@ -1,0 +1,49 @@
+{
+  "slug": "pepper-creek-equine-center",
+  "business": "Pepper Creek Equine Center",
+  "town": "Ramona, CA",
+  "website": "https://peppercreekequine.com/",
+  "phone": "(760) 300-8296",
+  "generated": "2026-09-24",
+  "prospectId": "1790267343018-aiyyrwm",
+  "headline": "Contact hides the shop inbox. The 2026 prize list prints it clear.",
+  "summary": "This is a real family-owned dressage and boarding barn at 385 Creelman Lane in Ramona. Cheryl Bell and Jessie Harlan already show up on the live shop. Google Maps and MapQuest are live this week as Pepper Creek Equine Center, Open, with public reviews on the Creelman pin. The shop this week prints (760) 300-8296. The Contact page still hides peppercreekequine@gmail.com behind Cloudflare blank labels. The 2026 WDAA prize list prints that same inbox clear for incomplete entries. A neighbor trying to board or haul in can miss the door.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for horse boarding, dressage, and breeding in Ramona. MapQuest is Open this week on Creelman Lane. The 2026 show calendar is live. A neighbor looking for a quiet barn can find you.",
+      "next": "Keep the category horse boarding and dressage barn in Ramona. Stay on Creelman Lane so the pin and the gate match."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (760) 300-8296 is consistent on the shop, MapQuest, and the prize list. The prize list this week prints peppercreekequine@gmail.com for incomplete entries. Contact still hides that inbox behind a Cloudflare blank label. A neighbor who only opens Contact may never see the email you already publish on the show sheet.",
+      "next": "Keep (760) 300-8296 on every listing. Put peppercreekequine@gmail.com in clear text on Contact the same way the prize list already does."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "MapQuest frames the pin as Open. The live shop does not print a simple boarding week above the fold. A first-time neighbor cannot tell office hours from show days without calling.",
+      "next": "Write one quiet hour card for the office or barn tour window. Copy it to Google, MapQuest, and Contact."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The facility pages show arenas and barns. Public map cards do not clearly show this month's stalls, turnout, and ring the way a first-time boarder would need before they haul in.",
+      "next": "Drop a few recent barn, arena, and turnout photos onto Google so the listing looks like the ranch this month."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "peppercreekequine.com loads and belongs to you. Street, phone, Cheryl Bell, Jessie Harlan, and the 25-plus-year story are there. Contact still obfuscates the inbox. The brochure is alive. The email door is quieter than the prize list.",
+      "next": "Put the phone, 385 Creelman Lane, and peppercreekequine@gmail.com in clear text above the fold on Contact."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Street and phone line up on the shop and MapQuest: 385 Creelman Lane, Ramona, CA 92065, (760) 300-8296. The live shop and the 2026 prize list name Cheryl Bell. MapQuest still carries a review that names Cheryl Pierce. Leftover Pierce cards next to Bell on the barn is how a neighbor wonders if they have the right people.",
+      "next": "Keep Cheryl Bell and Jessie Harlan on every public card you control. One spelling of the barn name everywhere you can."
+    }
+  ]
+}
