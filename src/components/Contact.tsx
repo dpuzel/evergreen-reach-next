@@ -1,6 +1,7 @@
 "use client";
 
 import { FormEvent, useState } from "react";
+import Link from "next/link";
 import { Reveal } from "@/components/Reveal";
 import { IconArrowRight, IconMail, IconPhone } from "@/components/Icons";
 import { site } from "@/lib/site";
@@ -163,8 +164,16 @@ export function Contact() {
                 <h3 className="font-display mb-2 text-xl font-semibold text-cream">
                   Request a Front Porch Report
                 </h3>
-                <p className="mb-7 text-sm text-cream-dim">
+                <p className="mb-2 text-sm text-cream-dim">
                   Tell us the shop. We walk the porch.
+                </p>
+                <p className="mb-7 text-sm text-sage/70">
+                  <Link
+                    href="/porch"
+                    className="underline decoration-sage/30 underline-offset-4 transition-colors hover:text-cream"
+                  >
+                    Want to see what a sheet looks like first?
+                  </Link>
                 </p>
 
                 <form onSubmit={onSubmit} className="space-y-5">
