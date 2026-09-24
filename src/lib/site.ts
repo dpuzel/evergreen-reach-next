@@ -88,8 +88,8 @@ export const steps = [
   },
   {
     num: "04",
-    title: "Monthly reports",
-    body: "A simple report on what we worked on and how things are progressing. Call if you want, messages if you prefer.",
+    title: "Simple check-ins",
+    body: "A plain note on what we tended. Not a strategy deck. Call if you want, message if you prefer.",
   },
 ] as const;
 
