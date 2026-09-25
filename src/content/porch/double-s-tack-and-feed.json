@@ -1,0 +1,49 @@
+{
+  "slug": "double-s-tack-and-feed",
+  "business": "Double S Tack and Feed",
+  "town": "El Cajon, CA",
+  "website": "https://doublestackandfeed.com/",
+  "phone": "(619) 443-9211",
+  "generated": "2026-09-25",
+  "prospectId": "1790351714868-ua9s7g6",
+  "headline": "The Email button on every page points at doublesfeedandtack.com. That domain does not exist.",
+  "summary": "This is a real independent feed and tack store at 14335 Olde Highway 80 in El Cajon, right behind The Renegade Bar, with delivery 7 days a week across East County. Rita Gallant already shows up on the live site. Google Maps is live this week, Open, at about 4.7 stars from about 206 reviews, with Friday hours of 8 to 5:30. The shop prints (619) 443-9211, rita@doublestackandfeed.com in the top bar, and info@doublestackandfeed.com in the footer. The little Email button in the header and footer still opens a message to info@doublesfeedandtack.com (feed and tack, flipped). That domain does not exist, so a note sent from that button never arrives.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for feed and tack in El Cajon. Google Maps is live this week, Open, at about 4.7 stars from about 206 reviews. MapQuest shows Open, with 48 reviews pulled from Yelp, and neighbors talk about monthly feed delivery and a helpful yard crew. A neighbor looking for hay, feed, or tack can find you.",
+      "next": "Keep the category feed store in El Cajon. Keep answering reviews as the owner, the way you already do."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The number (619) 443-9211 is consistent on the site, Google, MapQuest, and Waze. rita@doublestackandfeed.com sits in clear text in the top bar and info@doublestackandfeed.com in the footer. The Email button in the header and footer opens info@doublesfeedandtack.com instead. That domain does not exist, so anyone who taps the button sends a note that bounces.",
+      "next": "Point the Email button at info@doublestackandfeed.com (or rita@) so it matches the addresses you already print."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "The shop prints Monday through Friday 8 to 5:30, Saturday 9 to 5, Sunday 9 to 3. Google shows Open today, Friday 8 to 5:30. MapQuest shows Open until 5:30. Waze prints the same full week. A neighbor can trust the week on the live cards.",
+      "next": "Keep one hour card on Google, the site, and the directories. Copy any holiday change the same morning."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Reviews talk about a full line of horse, poultry, and pet feed and a yard crew that helps load. The photos on the site date back to 2015 and 2016. A first-time neighbor cannot see this year's store and hay yard from the site.",
+      "next": "Swap in a few fresh photos of the store, the hay yard, and the delivery truck. Drop the same few onto Google."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "doublestackandfeed.com loads and belongs to you. Products, specials, delivery fees, directions, phone, and hours are all there. The footer on every page shows a Facebook box that reads Unable to display Facebook posts, Application has been deleted. The Email button goes to the flipped domain. The copyright still says 2019 and the Specials page carries a September 2024 date. The brochure is alive. A few small doors need a fresh coat.",
+      "next": "Remove or reconnect the Facebook box, fix the Email button, and refresh the Specials page and the copyright year."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Name, street, and phone line up on the site, Google, MapQuest, and Waze: Double S Tack and Feed, 14335 Olde Hwy 80, El Cajon, CA 92021, (619) 443-9211. The directions on Contact (behind The Renegade Bar, look for the white horse) are the kind of detail neighbors love.",
+      "next": "Keep 14335 Olde Highway 80 and (619) 443-9211 on every public card. Copy them the same morning if either ever changes."
+    }
+  ]
+}
