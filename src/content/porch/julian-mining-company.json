@@ -1,0 +1,49 @@
+{
+  "slug": "julian-mining-company",
+  "business": "Julian Mining Company",
+  "town": "Julian, CA",
+  "website": "https://www.julianminingcompany.com/",
+  "phone": "(760) 765-8680",
+  "generated": "2026-09-26",
+  "prospectId": "1790456594660-ui2jdl1",
+  "headline": "Google and your homepage say 10 to 4. The footer says Saturday 9 to 4. The FAQ says 10 to 5 and 12 to 5.",
+  "summary": "This is a real independent family spot at 4444 State Hwy 78 in Julian, on the creek where Fred Coleman discovered gold. Neighbors come for gold panning, gem sluicing, the axe and BB range, the pirate treasure pit, the ore cart, U-pick apples, and the miner's cabin. Google Maps is live, Open, at 4.7 stars from 108 reviews, and the owners answer reviews by name. Google and the homepage both show Saturday and Sunday 10 to 4. The footer on every page says Saturday 9 am to 4 pm, Sunday 10 am to 4 pm. The FAQ says 10:00 AM to 5:00 PM Saturday and 12 to 5 Sunday. A family planning the drive up the mountain can land on three different answers.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for gold panning and gem mining in Julian. Google Maps is live, Open, at 4.7 stars from 108 reviews, with 87 of them five stars. Neighbors mention gem stones, gold panning, feeding the blue jays, and friendly staff. The owners reply to reviews warmly and by name. A family looking for something fun to do in Julian can find you.",
+      "next": "Keep answering reviews the way you already do. It shows families the kind of welcome they will get."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The main number (760) 765-8680 sits in the footer of every page and matches Google. Two other numbers show up deeper in the site: 951-313-0166 on the Cabin Rental page, and 951-312-9940 on the Reservations and The Gold Rush pages. julianminingco@aol.com is on the Cabin Rental and Events at Your School pages. A first-time visitor can wonder which number rings the mining company.",
+      "next": "Pick one main number for the public and say what the others are for, for example cabin bookings or field trip reservations. Add the inbox to the footer next to the phone."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google shows Saturday and Sunday 10 to 4, closed Monday through Friday. The homepage says Sat. 10-4 Sun. 10-4, and the Gold and Gem Mining page says weekends 10-4. The footer on every page says Saturday 9 am-4 pm, Sunday 10 am-4 pm. The FAQ says 10:00 AM-5:00 PM Sat. and 12-5 Sun. That is three different weekends on one site.",
+      "next": "Choose the real weekend hours and put that one line in the footer, the homepage, and the FAQ. Keep Google the same."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Google shows 355+ photos from the property, and the site has its own Gallery page. This is a place that photographs well, and people clearly love sharing it.",
+      "next": "Add a few fresh shots each season, like apple picking and pumpkins in the fall, to both the Gallery and Google."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "julianminingcompany.com loads and belongs to you. Activities, prices, field trips, the cabin, U-pick, and reservations are all there, and the FAQ is full of helpful detail. A few page addresses still carry builder leftovers: the U-Pick page lives at /copy-of-the-civil-war-1, The Gold Rush at /copy-of-gold-mining, and Events at Your School at /copy-of-farm-life. The footer still says Copyright 2024.",
+      "next": "Rename those page addresses to match their titles (for example /u-pick) and bump the footer year. Small things, but they help the site look as cared for as the property."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Name, street, and main phone line up on the site and Google: Julian Mining Company, 4444 State Hwy 78, Julian, CA 92036, (760) 765-8680. The line about the creek where Fred Coleman discovered gold is the kind of detail visitors remember.",
+      "next": "Keep 4444 State Hwy 78 and (760) 765-8680 on every public card. Copy them the same day if either ever changes."
+    }
+  ]
+}
