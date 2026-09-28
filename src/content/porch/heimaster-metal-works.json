@@ -1,0 +1,49 @@
+{
+  "slug": "heimaster-metal-works",
+  "business": "Heimaster Metal Works",
+  "town": "Lakeside, CA",
+  "website": "https://heimastermetalworks.com/",
+  "phone": "(619) 390-1922",
+  "generated": "2026-09-28",
+  "prospectId": "1790611788795-hjo5bit",
+  "headline": "Google sends neighbors to heimastermetalworks.com. Birdeye still sends them to a hyphen address that does not open.",
+  "summary": "This is a real family-owned welding and fabrication shop at 15798 Miss Ellie Ln in Lakeside, with 16 years of structural welding, mobile welding and repair, custom fabrication, and marine work, serving Ramona and the rest of the county. Google Maps is live, Open, at 5.0 stars, category Welder, with Monday 7 AM to 4 PM and the right website. Birdeye shows 4.6 stars from 32 reviews, with customers naming Ryan, Josh, and Derek. The Birdeye page is unclaimed and still links www.heimaster-metal-works.com, with hyphens. That address does not open your site. CitySquares prints the same hyphen address. A neighbor who taps the website link on those cards hits a dead end.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for welding and fabrication in Lakeside. Google Maps is live, Open, at 5.0 stars, with your street, phone, and heimastermetalworks.com on the card. Birdeye shows 4.6 stars from 32 reviews, and customers there name Ryan, Josh, and Derek. A neighbor with a broken gate or a trailer to fix can find you.",
+      "next": "Keep asking happy customers for a Google review. A short thank you under each one goes a long way with neighbors."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 390-1922 is the same on every page of the site, Google, Birdeye, and CitySquares. sales@heimastermetalworks.com sits in clear text on the Contact page. One small leftover: the CitySquares About blurb still mentions (619) 430-4272.",
+      "next": "Keep (619) 390-1922 and sales@heimastermetalworks.com on every listing. Put the inbox in the footer next to the phone so it is on every page."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google shows Monday 7 AM to 4 PM. Birdeye and CitySquares print Monday through Friday 7 to 4, Saturday and Sunday closed. The site does not print a week anywhere. A neighbor who only opens the site cannot tell when the shop picks up.",
+      "next": "Put one small hour card (Monday through Friday 7 to 4, weekends closed) in the site footer next to the phone and address."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The home page has an Our Work gallery, and the marine page carries its own set of photos added in the summer of 2025. Steel and fab work looks great in pictures, and you have plenty to show.",
+      "next": "Add a few 2026 jobs to Our Work and to Google so both look like this season."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "heimastermetalworks.com loads and belongs to you. Services, a page for Ramona and many other towns, a Career page, the phone, the street, and a quote form are all there. A few builder leftovers: the Facebook, Twitter, and YouTube icons in the footer do not link anywhere, and the services block is titled Comprehensive Customization for Every Vehicle Type.",
+      "next": "Link the footer icons to your real pages, or take them off. Retitle the services block to something like Welding and Fabrication Services."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name, street, and phone line up on the site, Google, and Birdeye: Heimaster Metal Works, 15798 Miss Ellie Ln, Lakeside, CA 92040, (619) 390-1922. The website does not. Google links heimastermetalworks.com. Birdeye and CitySquares link www.heimaster-metal-works.com, which does not open your site. The Birdeye page also says it has not been claimed by the business.",
+      "next": "Claim the Birdeye page and change the website to heimastermetalworks.com. Ask CitySquares to update theirs too. If you still own the hyphen address, point it at the real site."
+    }
+  ]
+}
