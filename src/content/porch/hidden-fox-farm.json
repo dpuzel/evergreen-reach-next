@@ -1,0 +1,49 @@
+{
+  "slug": "hidden-fox-farm",
+  "business": "Hidden Fox Farm",
+  "town": "El Cajon, CA",
+  "website": "https://www.hiddenfoxfarm.com/",
+  "phone": "(619) 933-9543",
+  "generated": "2026-09-29",
+  "prospectId": "1790698264831-zlblzqd",
+  "headline": "Your 2026 fees are on the site. So are the 2021 fees, at hiddenfoxfarm.com/prices.",
+  "summary": "This is a real independent boarding and lesson barn at 3029 La Cresta Rd in El Cajon, run by Katy Boswell, who brings more than forty years of Hunter Seat Equitation teaching, with Mike Boswell keeping the farm built and running. Katy started Hidden Fox Farm in Lakeside in 1995, and the two rebuilt the La Cresta farm after the 2003 Cedar Fire. Google Maps is live, Open, category Horse riding school, with the right street, phone, and website. The menu sends riders to 2026 Services and Fees, effective 8/1/2026, with single lessons at $110 and corrals from $505. The older page at hiddenfoxfarm.com/prices is still live and still shows fees effective 5/1/2021, with single lessons at $85 and corrals from $410. A family pricing out lessons can land on the wrong year.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for riding lessons and boarding in El Cajon. Google Maps shows Hidden Fox Farm, Horse riding school, Open, at 3029 La Cresta Rd, with your website and phone on the card. A parent looking for a safe place for a first lesson can find you. One small thing: your Google profile still shows a Claim this business link, so it looks like nobody from the farm has claimed it yet.",
+      "next": "Claim your Google profile so the hours, photos, and details stay the way you want them. Once it is yours, a quick thank you under new reviews goes a long way with families."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 933-9543 and mikeandkatyboswell@gmail.com sit in the footer of every page and match Google. The FAQ even tells riders to call or text that number to check if lessons are rained out. One phone and one inbox is exactly right.",
+      "next": "Keep (619) 933-9543 and mikeandkatyboswell@gmail.com on every listing. Copy them the same morning if either ever changes."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The home page prints Farm Hours: Tuesday through Friday 9 to dusk, Saturday 8 to dusk, Sunday 8 to 1, closed Mondays and major holidays. The FAQ and Lesson Programs pages say lessons run every day except Mondays, from 9 until dusk. Google shows Tuesday 8 AM to 5 PM. Three pictures of the same week can leave a new rider guessing.",
+      "next": "Pick one week, including the Sunday cutoff, and put the same card on the home page, the FAQ, and Google."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The Photo Gallery has real barn history, horses, fun shows, and summer camp kids. Many of the captions still show camera file names, like IMG_3556, and several are dated 2004 and 2005. Families like to see the barn, the lesson horses, and the riders as they look now.",
+      "next": "Add a handful of current photos of the arena, the lesson horses, and a lesson in progress. Rename the captions with the horse or rider names you already use."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "hiddenfoxfarm.com loads and belongs to you, and it is full of useful detail: lessons, boarding, safety rules, the FAQ, forms, and the team story. A few builder leftovers: the 2026 fee page lives at /copy-of-services-and-fees and its browser tab reads 2026 Services and Fees | website. The older /prices page (2021 fees) and a 2022 fee page are still live. The Summer Camps page still says camps for 2024 will be scheduled by May 1st, and the FAQ points to a Summer Camps tab that is not in the menu. The home page spells instructors as intstuctors, and the footer says 2017.",
+      "next": "Move the 2026 fees to /prices and take down the older fee pages. Update or hide Summer Camps until the next dates are set, fix the typo, and bump the footer year."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Name, street, and phone line up on the site and Google: Hidden Fox Farm, 3029 La Cresta Rd, El Cajon, CA 92021, (619) 933-9543. Every page of the site carries the same footer.",
+      "next": "Keep 3029 La Cresta Rd and (619) 933-9543 on every public card. Copy them the same day if either ever changes."
+    }
+  ]
+}

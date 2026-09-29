@@ -1,0 +1,49 @@
+{
+  "slug": "murrays-garage-doors",
+  "business": "Murray's Garage Doors",
+  "town": "Alpine, CA",
+  "website": "https://www.alpinedoorguy.com/",
+  "phone": "(619) 977-2699",
+  "generated": "2026-09-29",
+  "prospectId": "1790698260493-tiy35ni",
+  "headline": "Google, your site, and the Alpine directory all ring (619) 977-2699. None of them say when to call.",
+  "summary": "This is a small family garage door shop in Alpine, run by Ross Murray, an Alpine resident who spent years installing doors for his dad's company before starting his own. The site covers new doors and motors, springs, cables, rollers, track alignment, panel replacement, keypads, and remotes, with free estimates on inspections. Google Maps has a live profile for Murray's garage doors, category Garage door supplier, with alpinedoorguy.com and (619) 977-2699 on the card. What is missing is a week: Google shows an Add hours prompt, and the site and the Loving Life Alpine directory card print no hours either. The directory card also lists the shop as Alpine Garage Doors. A neighbor with a stuck door can find the number but cannot tell when someone picks up.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for garage doors in Alpine. Google Maps has a live profile for Murray's garage doors, category Garage door supplier, with your website and phone on the card. The Loving Life Alpine directory has a card for you too, and your Facebook page is linked from the site. A neighbor with a broken spring can find you.",
+      "next": "Keep the Google profile. Ask a few happy customers to leave a short Google review so neighbors can hear from them."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 977-2699 is the same on the site, Google, the Loving Life Alpine card, and the logo at the top of the site. murray.amber327@gmail.com sits in clear text in the Contact section of the site and on the directory card. One phone and one inbox is exactly right.",
+      "next": "Keep (619) 977-2699 and murray.amber327@gmail.com on every listing. Copy them the same morning if either ever changes."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "No hours show anywhere. Google shows an Add hours prompt on your profile. The site and the Loving Life Alpine card do not print a week either. A neighbor whose door is stuck at 7 in the morning or on a weekend cannot tell if calling is welcome.",
+      "next": "Write one hour card, for example weekdays plus any weekend or emergency calls you take. Put it on Google, the site Contact section, and the directory card the same day."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The site has one garage door photo at the top and one customer review, from Tucker Davis. Google does not show photos on your profile yet. The round photo next to the review is a phone screenshot, with the status bar and app buttons still in the frame. Doors, springs, and new motors are easy work to show in pictures.",
+      "next": "Snap before and after photos on your next few jobs. Add them to Google and swap one in next to the review."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "alpinedoorguy.com loads and belongs to you, with your name, phone, inbox, services, and a 2026 footer. It is one short page, and the copy has a few rough spots: defintely for definitely, and he's dad's company for his dad's company. The top says family operated over 20 years, while About says Ross has worked for his dad's company for over 15 years.",
+      "next": "Fix the two typos and pick one experience line that fits the family story. Add the towns you cover and an hour card in Contact."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Phone and inbox line up everywhere. The name does not. The site, the logo, Facebook, and Google say Murray's Garage Doors. The Loving Life Alpine directory card is titled Alpine Garage Doors. Neither the site nor the directory prints a street, which is fine for a shop that comes to you, but the name is the one thing a neighbor has to go on.",
+      "next": "Ask Loving Life Alpine to retitle the card Murray's Garage Doors, and use one line everywhere, for example Murray's Garage Doors, serving Alpine."
+    }
+  ]
+}
