@@ -1,0 +1,49 @@
+{
+  "slug": "mpower-truck-diesel-repair",
+  "business": "MPower Truck & Diesel Repair",
+  "town": "Santee, CA",
+  "website": "https://www.mpowerdiesel.com/",
+  "phone": "(619) 448-2225",
+  "generated": "2026-09-30",
+  "prospectId": "1790783997752-xodaf4g",
+  "headline": "Your Services list still reads \"Write a description for this list item\" under Truck Repairs, Diesel Engines, and Service & Parts.",
+  "summary": "This is a locally owned diesel truck, trailer, and RV repair shop at 8500 Ablette Rd in Santee, doing the work since 1968. Customers name Tom as the owner and Dan as the head mechanic, and a fleet manager writes that the crew has kept his units on the road since 2021. Google Maps is live, category Truck repair shop, Open, with the right street, phone, and website, and it says the details were confirmed by the business. The Contact page, Google, and Birdeye all agree on 8 to 4:30 on weekdays. The one thing that stands out is on the home page: the List of Services still carries the sample text from the website builder under all three services, so a trucker or RV owner reading about your work gets placeholder words instead.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for truck, diesel, and RV repair in Santee. Google Maps shows MPower Truck & Diesel Repair, Truck repair shop, Open, at 8500 Ablette Rd, with mpowerdiesel.com and (619) 448-2225 on the card, and a note that the business confirmed the details. Birdeye and Yelp carry your reviews too, and customers name Tom and Dan by name. A driver with a sick Power Stroke or a Class A pusher can find you.",
+      "next": "Keep the Google profile fresh. The Birdeye page says it has not been claimed yet, so claiming it would let you answer reviews there too."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number 619-448-2225 sits in the banner at the top of every page, in the home page Contact section, and on the Contact page, and it matches Google and Birdeye. tom@mpowerdiesel.com is in clear text on the home page and the Contact page, and the fax line 619-448-0560 is on Contact too. One phone and one inbox is exactly right.",
+      "next": "Keep 619-448-2225 and tom@mpowerdiesel.com on every listing. Copy them the same morning if either ever changes."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "The Contact page prints Business Hours: Mon to Fri 8:00 am to 4:30 pm, Sat and Sun closed. Google shows 8 AM to 4:30 PM, and Birdeye prints the same week. Everything lines up.",
+      "next": "Add the same hour card to the home page Contact section, so a driver who never clicks Contact still knows when to roll in."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Google has shop photos, including big rigs in the bay. Trucks are only part of the story: the home page leads with RV Service & Parts, and you work on trailers too. RV owners like to see a coach like theirs in your shop before they call.",
+      "next": "Snap a few photos of RVs, trailers, and diesel pickups on the lift over the next few weeks. Add them to Google and to the home page slides."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "mpowerdiesel.com loads and belongs to you, with your street, phone, inbox, hours, the 10% new customer discount, and the parts and labor guarantee. The List of Services on the home page still shows the website builder's sample text under Truck Repairs, Diesel Engines, and Service & Parts: \"Write a description for this list item and include information that will interest site visitors.\" Each item also still carries a link labeled Item Link. The slides say Since 1968 and 40+ Years of Experience, which undersells you: 1968 was 58 years ago.",
+      "next": "Swap the sample text for one or two plain sentences per service (what you fix, what brands, trucks and RVs), point or remove the Item Link buttons, and update the years line."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Name, street, and phone line up on the site, Google, and Birdeye: MPower Truck & Diesel Repair, 8500 Ablette Rd, Santee, CA 92071, (619) 448-2225. Google and Birdeye both link back to mpowerdiesel.com.",
+      "next": "Keep 8500 Ablette Rd and (619) 448-2225 on every public card. Copy them the same day if either ever changes."
+    }
+  ]
+}

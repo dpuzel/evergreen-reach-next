@@ -1,0 +1,49 @@
+{
+  "slug": "poway-auto-upholstery",
+  "business": "Poway Auto Upholstery",
+  "town": "Poway, CA",
+  "website": "https://powayautoupholstery.com/",
+  "phone": "(858) 679-0921",
+  "generated": "2026-09-30",
+  "prospectId": "1790783918870-x47422h",
+  "headline": "Google knows where you are and when you are open. Your own site does not say.",
+  "summary": "This is a family upholstery shop at 13508 Pomerado Rd in Poway, doing auto interiors, convertible tops, motorcycles, boats and yachts, RVs, and furniture. Customers name Raul in their reviews for designing and sewing boat wraps, headliners, and matched diamond stitching, and one Corvette owner says the shop put a new soft top on his 1961. Google Maps is live, category Auto upholsterer, Open, with the right phone and website, and it says the details were confirmed by the business. Google shows the street and hours of 9 to 5. Your site shows the phone and inbox, but no street and no hours anywhere, so a boat owner who lands on the site first cannot tell where to drop off or when someone is in.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for upholstery in Poway. Google Maps shows Poway Auto Upholstery, Auto upholsterer, Open, at 13508 Pomerado Rd, with powayautoupholstery.com and (858) 679-0921 on the card, a classic red Corvette as the cover photo, and a note that the business confirmed the details. Yelp has a deep stack of reviews, and customers name Raul by name. Anyone with a torn seat or a faded boat cushion can find you.",
+      "next": "Keep asking happy customers for a Google review. A short thank you under each one goes a long way with neighbors."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (858) 679-0921 and powayautoupholstery@gmail.com sit in clear text at the bottom of the home page, and the phone matches Google and Yelp. On Yelp, you answered a customer's question with the same number. One phone and one inbox is exactly right.",
+      "next": "Keep (858) 679-0921 and powayautoupholstery@gmail.com on every listing. Copy them the same morning if either ever changes."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Your site does not print hours. Google shows 9 AM to 5 PM. Yelp prints Monday through Friday 9 to 5 and Saturday 9 to 4, while Waze and a few other directories print Saturday 9 to 3. A customer planning a Saturday drop-off gets two answers and nothing from you.",
+      "next": "Pick one week, including the Saturday cutoff. Put it on Google, Yelp, and the bottom of your home page next to the phone."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Upholstery sells itself in pictures, and you have them out there. Yelp shows 122 photos, and Google leads with a classic red Corvette. One boat owner on your own site says the pictures speak for the quality of the work.",
+      "next": "Add a few recent boat, RV, and furniture jobs to Google so it shows the full range, not only cars."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "powayautoupholstery.com loads and belongs to you, with a warm welcome, project types, real customer quotes, the phone, and the inbox. The home page is short, and a few spots need a second look. The Testimonials intro says \"We take great price in our craftmanship\" (pride and craftsmanship). The welcome lists \"auto, boat, motorcycle, RV, boat\" with boat twice. The first review runs straight into a different one about buying tables from Eric, which may belong to someone else. And there is no street or hours anywhere on the page.",
+      "next": "Fix the two typos, split or trim the review about tables from Eric, and add a small block at the bottom with 13508 Pomerado Rd, your hours, and a map link."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name and phone line up on the site, Google, and Yelp. The street does not show up on your own site at all. Google prints 13508 Pomerado Rd, Poway, CA 92064, and Yelp adds Ste A in one spot. A first-time customer has to leave your site to find the shop.",
+      "next": "Use one address line everywhere, for example 13508 Pomerado Rd, Ste A, Poway, CA 92064, if Ste A is right. Put it on the site and match Google and Yelp to it."
+    }
+  ]
+}
