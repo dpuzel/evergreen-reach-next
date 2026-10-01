@@ -1,0 +1,49 @@
+{
+  "slug": "jg-mobile-welding",
+  "business": "JG Mobile Welding LLC",
+  "town": "Lakeside, CA",
+  "website": "https://jgmobilewelding.com/",
+  "phone": "(619) 386-0026",
+  "generated": "2026-10-01",
+  "prospectId": "1790870778905-buhp2xq",
+  "headline": "Google lists you as Open 24 hours. Your site says 8 to 5, by appointment only.",
+  "summary": "This is a mobile welding and fabrication shop with an office at 12064 Woodside Ave, Ste 104, in Lakeside, doing structural steel to AWS D1.1, mobile repairs, and custom work like pool fencing, gates, and handrails, with MIG, TIG, Stick, aluminum, and stainless. The site shows CSLB License 1115622, C60 Welding. On Birdeye, customers name Joel again and again for same day visits, fair prices, and clean welds. Google Maps has a live profile for JG Mobile Welding LLC, category Welder, Open, at the right street with the right phone and website. The one thing that does not match is the week: Google lists the shop as Open 24 hours, while the site shows 8 to 5 and asks people to call first, and Birdeye prints Monday through Friday 8 to 5 with weekends closed.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for welding in Lakeside. Google Maps shows JG Mobile Welding LLC, Welder, at 12064 Woodside Ave Ste 104, with jgmobilewelding.com and (619) 386-0026 on the card. Birdeye carries 29 reviews, and customers write about a bent gate fixed like it never happened and a cracked Bronco frame fixed the same day. A neighbor with a broken gate can find you.",
+      "next": "Keep asking happy customers for a Google review. The Birdeye page says it has not been claimed yet, so claiming it would let you answer reviews there too."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (619) 386-0026 and Melanie@jgmobilewelding.com sit in clear text in the Contact Us section of the home page, next to the street, and the phone matches Google and Birdeye. One phone and one inbox is exactly right.",
+      "next": "Keep (619) 386-0026 and Melanie@jgmobilewelding.com on every listing. Copy them the same morning if either ever changes."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Three pictures of the same week. Google lists you as Open 24 hours. The site shows 08:00 am to 05:00 pm with the line \"By appointment only - Please call before visiting our office in person\". Birdeye prints Monday through Friday 8 to 5, Saturday and Sunday closed. A customer who trusts Google could drive to Woodside Ave at night or on a Sunday.",
+      "next": "Set Google to your real office week, for example Monday through Friday 8 to 5, and add a line in the Google description that office visits are by appointment."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Google has real job photos, including a welder at work in a JG Welding shirt. Gates, rails, and structural steel look great in pictures, and you have the work to show.",
+      "next": "Add a few 2026 jobs to Google every couple of months so it keeps looking like this season."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "jgmobilewelding.com loads and belongs to you, with your license, AWS certification, coverage up to $1 million, services, street, phone, and inbox. A few leftovers: one of the credential cards reads Valid October 2025 - October 2026, so it runs out in October 2026, and another reads Valid December 2025 - December 2026. The footer still says Copyright 2023. The home page says Greater San Diego, while Our Services says San Diego, Riverside, and Los Angeles counties.",
+      "next": "Update each credential card as the renewal comes in, bump the footer year, and pick one service area line for both pages."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Name, street, and phone line up on the site, Google, and Birdeye: JG Mobile Welding LLC, 12064 Woodside Ave, Ste 104, Lakeside, CA 92040, (619) 386-0026. Google and Birdeye both link back to jgmobilewelding.com.",
+      "next": "Keep 12064 Woodside Ave Ste 104 and (619) 386-0026 on every public card. Copy them the same day if either ever changes."
+    }
+  ]
+}

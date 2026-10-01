@@ -1,0 +1,49 @@
+{
+  "slug": "patino-landscape",
+  "business": "Patino Landscape",
+  "town": "Ramona, CA",
+  "website": "https://patinolandscape.com/",
+  "phone": "(760) 906-3443",
+  "generated": "2026-10-01",
+  "prospectId": "1790870764894-tayx2d2",
+  "headline": "Your Google profile is live and you are posting on it. It does not have a single review yet.",
+  "summary": "This is a locally owned landscaping company in Ramona, doing landscape construction, retaining walls, irrigation, concrete, hardscaping, lawn care, and design for homes and businesses. Public license records show a C27 landscaping license, active through 2027. Google Maps has a live profile for Patino Landscape, category Landscaper, Open, with patinolandscape.com and (760) 906-3443 on the card, a job photo of an irrigation valve box, and a fresh post from the owner about landscape construction in Ramona. The site and Google agree on the phone and on 9 to 6 hours. What the profile is missing is word of mouth: Google does not show any reviews yet, so a Ramona neighbor comparing landscapers has nothing from your customers to go on.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up for landscaping in Ramona. Google Maps shows Patino Landscape, Landscaper, Open, with your website and phone on the card and a From the owner post about landscape construction in Ramona. Google does not show any reviews for you yet.",
+      "next": "Ask three or four happy customers from recent jobs to leave a short Google review. A thank you under each one goes a long way with neighbors."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The number (760) 906-3443 and fpatinolm@gmail.com sit in the top bar, the contact block, and the footer of the site, and the phone matches Google. One phone and one inbox is exactly right.",
+      "next": "Keep (760) 906-3443 and fpatinolm@gmail.com on every listing. Copy them the same morning if either ever changes."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "The site prints Monday to Sunday 9AM to 6PM, both in the contact block and in the footer. Google shows 9 AM to 6 PM too. Everything lines up.",
+      "next": "If you ever take Sundays off, change the site and Google on the same day so they keep matching."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The Gallery says it shows completed projects across Ramona, but several of the pictures, like a glass office building, a large chalet style house, and a formal garden shot from the air, do not look like Ramona yards. Google already has a real job photo of an irrigation valve box. Before and after shots of your own walls, walks, and yards will say more than general pictures.",
+      "next": "Snap before and after photos on the next few jobs. Swap them into the Gallery and add them to Google."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "patinolandscape.com loads and belongs to you, with your services, phone, inbox, hours, and a 2026 footer. It is one long page, and most of the copy is general marketing words that could fit any landscaper. The only place line is Ramona, CA 92065, which is fine for a crew that comes to the customer, but there is nothing yet about you, your crew, or the towns around Ramona you cover.",
+      "next": "Add a short line about who you are and how long you have been doing this, plus the towns you serve, for example Ramona, San Diego Country Estates, and nearby."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name and phone line up on the site and Google. MapQuest also carries an older Patino Landscape card in Ramona that says Family owned and operated since 1989, with reviews pulled from Yelp. If that card is yours, it is a good story that your new site and Google do not tell yet. If it belongs to someone else, a neighbor could mix the two up.",
+      "next": "If the older card is yours, claim it and match the phone and hours to your site. If it is not, keep your name line the same everywhere so neighbors can tell you apart."
+    }
+  ]
+}
