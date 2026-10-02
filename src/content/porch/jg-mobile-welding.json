@@ -6,8 +6,8 @@
   "phone": "(619) 386-0026",
   "generated": "2026-10-01",
   "prospectId": "1790870778905-buhp2xq",
-  "headline": "Google lists you as Open 24 hours. Your site says 8 to 5, by appointment only.",
-  "summary": "This is a mobile welding and fabrication shop with an office at 12064 Woodside Ave, Ste 104, in Lakeside, doing structural steel to AWS D1.1, mobile repairs, and custom work like pool fencing, gates, and handrails, with MIG, TIG, Stick, aluminum, and stainless. The site shows CSLB License 1115622, C60 Welding. On Birdeye, customers name Joel again and again for same day visits, fair prices, and clean welds. Google Maps has a live profile for JG Mobile Welding LLC, category Welder, Open, at the right street with the right phone and website. The one thing that does not match is the week: Google lists the shop as Open 24 hours, while the site shows 8 to 5 and asks people to call first, and Birdeye prints Monday through Friday 8 to 5 with weekends closed.",
+  "headline": "Google shows Open 24 hours, 7 days a week. Your site lists Monday through Friday 8 to 5, Saturday by appointment, and Sunday closed.",
+  "summary": "This is a mobile welding and fabrication shop with an office at 12064 Woodside Ave, Ste 104, in Lakeside, doing structural steel to AWS D1.1, mobile repairs, and custom work like pool fencing, gates, and handrails, with MIG, TIG, Stick, aluminum, and stainless. The site shows CSLB License 1115622, C60 Welding. On Birdeye, customers name Joel again and again for same day visits, fair prices, and clean welds. Google Maps has a live profile for JG Mobile Welding LLC, category Welder, Open, at the right street with the right phone and website. The one thing that does not match is the week: Google shows Open 24 hours, 7 days a week, while your site lists Monday through Friday 8 to 5, Saturday by appointment, and Sunday closed.",
   "signals": [
     {
       "id": "found",
@@ -24,8 +24,8 @@
     {
       "id": "hours",
       "lamp": "dim",
-      "note": "Three pictures of the same week. Google lists you as Open 24 hours. The site shows 08:00 am to 05:00 pm with the line \"By appointment only - Please call before visiting our office in person\". Birdeye prints Monday through Friday 8 to 5, Saturday and Sunday closed. A customer who trusts Google could drive to Woodside Ave at night or on a Sunday.",
-      "next": "Set Google to your real office week, for example Monday through Friday 8 to 5, and add a line in the Google description that office visits are by appointment."
+      "note": "Two pictures of the same week. Google shows Open 24 hours, 7 days a week. Your site lists Monday through Friday 8 to 5, Saturday by appointment, and Sunday closed. A customer who trusts Google could show up after hours or on a Sunday expecting someone to be there.",
+      "next": "Set Google to the same week as your site: Monday through Friday 8 to 5, Sunday closed, and a note in the Google description that Saturdays are by appointment."
     },
     {
       "id": "photos",
