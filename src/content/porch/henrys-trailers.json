@@ -1,0 +1,49 @@
+{
+  "slug": "henrys-trailers",
+  "business": "Henry's Trailers",
+  "town": "El Cajon, CA",
+  "website": "https://henrystrailer.com/",
+  "phone": "(888) 587-2453",
+  "generated": "2026-10-02",
+  "prospectId": "1790956844591-2p6ey0a",
+  "headline": "Your Contact page says weekends are closed, then lists weekend hours right under your address.",
+  "summary": "Henry's Trailers has been family owned since 1987, working out of E Chase Ave in El Cajon on trailer repairs and maintenance, roadside assistance and towing, fleet service, and parts, tires, wheels, and trailers for sale. Google Maps has a strong card for Henry’s Trailers, category Trailer repair shop, at 1486 E Chase Ave with your website linked and photos on it. The site and Google agree on the name and address. The leftovers are small and mostly about hours and a few loose ends on the site, starting with the weekend line on the Contact page.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Henry’s Trailers, Trailer repair shop, 1486 E Chase Ave, El Cajon, with henrystrailer.com linked, photos, and customer reviews.",
+      "next": "Keep thanking reviewers. Neighbors read the replies as much as the reviews."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The site uses call tracking, so the main number changes by visit. We saw 619-324-0635 and 619-324-0638, and the plain page shows 888-587-2453. Google rings (619) 324-0648. The footer has a separate line that reads (619) 324-0645, but tapping it dials a different number than it shows. Inbox henrystrailers@yahoo.com is in the footer with a working email link.",
+      "next": "If the tracking numbers all ring the shop, you are fine. Fix the footer line so the number it shows is the number it dials."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The Contact page lists \"Sat-Sun: Closed\" under Hours, then \"Sat-Sun 10:00AM - 6:00PM\" under Our Address. The footer hours cut off at \"Monday: 8 AM–5 P\". The site says 8:00AM opening, and Google showed a 7 AM opening on the day we checked.",
+      "next": "Delete the stray weekend line, finish the cut off PM, and set Google and the site to the same opening time."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Google has photos on your card, and the home page carries its own pictures too.",
+      "next": "Add a fresh shop or finished trailer photo to Google now and then so the card stays current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "henrystrailer.com loads and covers every service. A few loose ends: the CONTACT US and LEARN ABOUT US buttons on the home page point to a henrystrailer-com.preview-domain.com address that does not load, and the Company Links item in the footer opens a page not found. The home page reads \"all things RV’s & Trailer’s\" and WHAT OUR CUSTOMER SAY, the About page has MEET YOUR YOUR, and the Trailers for sale card repeats the fleet text. About us says over 33 years of experience, while family owned since 1987 is 39 years.",
+      "next": "Point those buttons at your own Contact and About pages, then a quick spelling pass and an updated years line."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "The name and 1486 E Chase Ave, El Cajon, CA 92020 match on the site and Google, and Google links straight to henrystrailer.com.",
+      "next": "Keep the name and address exactly like this on every listing."
+    }
+  ]
+}

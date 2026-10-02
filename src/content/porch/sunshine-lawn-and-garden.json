@@ -1,0 +1,49 @@
+{
+  "slug": "sunshine-lawn-and-garden",
+  "business": "Sunshine Lawn and Garden Service",
+  "town": "Alpine, CA",
+  "website": "http://www.sunshinelawnandgarden.com/",
+  "phone": "(619) 445-7882",
+  "generated": "2026-10-02",
+  "prospectId": "1790956839920-5uofysj",
+  "headline": "Your Google card has your Star Ln address and your phone, but no link to your website yet.",
+  "summary": "Sunshine Lawn and Garden Service has been doing landscaping in Alpine since 1981: monthly maintenance, new landscape installation, irrigation installation and repair, clean ups, drainage, weed abatement, and consulting. Google Maps has a card for Sunshine Lawn & Garden Services, category Lawn care service, at 2049 Star Ln in Alpine with (619) 445-7882, and customers have left reviews there. The card is missing three things a neighbor looks for before calling: a link to your website, your hours, and any photos. Your site already has four photo galleries and a page of customer testimonials, so linking it from Google would do a lot of the work for you.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Sunshine Lawn & Garden Services, Lawn care service, at 2049 Star Ln, Alpine, with (619) 445-7882 on the card. Customers have already left reviews there.",
+      "next": "A short thank you under each review shows neighbors there is a real person behind the card."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The contact page lists the office phone (619)445-7882 and sunshinelawnandgarden@yahoo.com with a working email link. The phone matches Google. One phone and one inbox is exactly right.",
+      "next": "Keep (619) 445-7882 and the Yahoo address the same on every listing."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "The site does not list hours, and the Google card shows an empty Add hours spot. A neighbor cannot tell when the office picks up.",
+      "next": "Add your office hours to Google, and put the same line on the contact page."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The site has four galleries: maintenance, installation, water fall, and misc. The Google card has no photos yet and shows an Add photos spot.",
+      "next": "Copy a handful of your best gallery shots, like a finished install and a water feature, onto the Google card."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "sunshinelawnandgarden.com loads and tells your story: in business since 1981, What We Offer, galleries, and testimonials. The About us page still says With over 30 years of experience, which undersells you now that 1981 is 45 years back. The Facebook and LinkedIn icons open the plain Facebook and LinkedIn home pages rather than your own pages, and the Yahoo icon points to a web address made from your email, so it does not open your inbox. The footer still carries the Weebly promo line.",
+      "next": "Update the years line, point the icons at your own pages or remove them, and have the Yahoo icon open an email instead."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Google and the site agree on the phone. Google has no website on the card, so a neighbor who finds you there never reaches your galleries or testimonials. The site does not show a street address, and the name reads Sunshine Lawn and Garden Service on the site and Sunshine Lawn & Garden Services on Google.",
+      "next": "Add sunshinelawnandgarden.com to the Google card. While you are in there, settle on one spelling of the name."
+    }
+  ]
+}
