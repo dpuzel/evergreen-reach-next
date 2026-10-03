@@ -1,0 +1,49 @@
+{
+  "slug": "hazard-alpacas",
+  "business": "Hazard Alpacas (HazPaca)",
+  "town": "Jamul, CA",
+  "website": "https://www.hazardalpacas.com/",
+  "phone": "(619) 990-7305",
+  "generated": "2026-10-03",
+  "prospectId": "1791039562673-t4yys68",
+  "headline": "Your home page sends visitors to Facebook for details, but both Facebook icons on your site open a Page not found.",
+  "summary": "Hazard Alpacas is a small working alpaca ranch in Deerhorn Valley, Jamul, run by Rick and Patti Hazard. Visitors come for the free Open Ranch, held one day most months, with \"a herd of 30 alpacas, 1 llama, 2 goats and a bunch of chickens\" and a barn shop of handmade goods. The next Open Ranch on your site is October 17. Google Maps has your card as HazPaca Hazard Alpacas in San Diego, category Farm, with your address, website, number, and an alpaca photo. The home page tells people to check Facebook for address and details, and that is where the one real gap is: the two Facebook icons point at page names instead of your Facebook page, so both land on a Page not found on your own site.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as HazPaca Hazard Alpacas in San Diego, Farm, at 20781 Deerhorn Valley Rd, Jamul, with hazardalpacas.com linked and an alpaca photo on the card.",
+      "next": "Thank each reviewer with a line or two. Families planning a ranch visit read those replies."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "hazardalpacas@msn.com sits on the home page as a working email link, and the site marks 619 990 7305 as text only. Google shows the same number, and its card offers a Call button, so a few people will ring instead of texting. The Contact page also puts the number under a Call Us heading.",
+      "next": "Add a line to your Google description that the number is for texts, and rename the Call Us heading on the Contact page to Text Us."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The home page lists every 2026 Open Ranch date, with October 17 next, and \"10 am - 3 pm Sat\". The Google card has no hours at all and shows an Add hours spot, so a family checking Google cannot tell the ranch is only open on those days.",
+      "next": "Add each Open Ranch day to Google as special hours, or post the next date on the card a week or so ahead."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Google already has an alpaca photo on the card, and the site has a home page photo plus herd listings under My Animals.",
+      "next": "After the next Open Ranch, add a few shots of the herd and the barn shop to Google."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "hazardalpacas.com loads, with the 2026 Open Ranch dates, your herd, a Store, and a 2026 footer. The two Facebook icons link to the words HazPaca - Hazard Alpacas in San Diego and Alpacas in San Diego instead of a facebook.com address, so each one opens a Page not found on hazardalpacas.com. That matters here because the home page says \"Check Facebook - HazPaca\" and \"Visit Facebook: HazPaca - Alpacas in San Diego for address and details\".",
+      "next": "Paste the full facebook.com address of your page into both icon links in the site settings."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "The address 20781 Deerhorn Valley Rd, Jamul, CA 91935 and the number match on the site and Google, and Google links to hazardalpacas.com. The name reads Hazard Alpacas on the site and HazPaca Hazard Alpacas in San Diego on Google, which still reads as the same ranch.",
+      "next": "Keep the address and number exactly like this on every listing."
+    }
+  ]
+}
