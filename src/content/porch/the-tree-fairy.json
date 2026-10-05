@@ -1,0 +1,49 @@
+{
+  "slug": "the-tree-fairy",
+  "business": "The Tree Fairy",
+  "town": "Ramona, CA",
+  "website": "https://thetreefairyinc.com/",
+  "phone": "(760) 535-9216",
+  "generated": "2026-10-05",
+  "prospectId": "1791216528991-3wvxjj7",
+  "headline": "Your site lists 8:00am to 6:00pm every day. Google says Open 24 hours.",
+  "summary": "The Tree Fairy is a Ramona tree service run by Renee Roman, a certified arborist with decades of tree care, covering trimming, removal, fruit tree pruning, property clean up, and defensible space across East County and beyond. Google Maps has a live card for The tree fairy, category Tree service, with thetreefairyinc.com linked, (760) 535-9216, photos, and a fresh From the owner post. The site and Google agree on the phone. The leftover is hours: the site prints 8:00am to 6:00pm for every day, while Google shows Open 24 hours.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as The tree fairy, Tree service, with thetreefairyinc.com linked, (760) 535-9216, photos, and a From the owner post. The card also marks the business as women-owned.",
+      "next": "Keep thanking reviewers. Neighbors read the replies as much as the reviews."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "treefairyrenee@gmail.com sits in the We're Hiring banner at the top of the home page and again in the footer, with a working email link. The phone (760) 535-9216 matches Google, and the FAQ tells people to call or text that number.",
+      "next": "Keep (760) 535-9216 and treefairyrenee@gmail.com the same on every listing."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The site lists 8:00am to 6:00pm for every day of the week. Google shows Open 24 hours. A neighbor checking Google may expect a midnight call to reach the crew.",
+      "next": "If 8 to 6 is the real window, change Google to match. If emergency calls are welcome around the clock, say so in one line on the site."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Google has photos on the card, and the site has project showcases for San Diego Country Estates, Julian, and Palomar Mountain.",
+      "next": "Add a fresh job photo to Google after the next big trim or removal."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "thetreefairyinc.com loads with services, reviews, and showcases. The home page headline reads The Tree Fairy in Julian and Romona, CA, which misspells Ramona, and the page title brands Julian while the shop is Ramona-based. The service-area list also prints Palomor Mountain.",
+      "next": "Fix Romona to Ramona, settle the Julian vs Ramona lead line, and correct Palomor."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "The name and (760) 535-9216 match on the site and Google, and Google links straight to thetreefairyinc.com. Both are service-area style, with no street on the card.",
+      "next": "Keep the name and phone exactly like this on every listing."
+    }
+  ]
+}

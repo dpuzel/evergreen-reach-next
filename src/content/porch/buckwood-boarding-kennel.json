@@ -1,0 +1,49 @@
+{
+  "slug": "buckwood-boarding-kennel",
+  "business": "Buckwood Boarding Kennel",
+  "town": "Ramona, CA",
+  "website": "https://buckwoodkennel.com/",
+  "phone": "(760) 445-8561",
+  "generated": "2026-10-05",
+  "prospectId": "1791216522388-641b2nl",
+  "headline": "Google still rings (760) 789-0592, a number that does not appear on your site.",
+  "summary": "Buckwood Boarding Kennel is a family-owned dog and cat boarding facility in Ramona, established in 1977 by Bill and Susan Buck, with manager Mario taking reservations. The remodeled facility covers dog boarding (basic and climate-controlled), cat boarding, doggy daycare, grooming, and pick-up and delivery. Google Maps has your card as Buckwood Boarding Kennel, category Kennel, with buckwoodkennel.com linked and photos. The leftover that stands out is the phone on that card: Google shows (760) 789-0592, while your site points owners to (760) 789-4809 and reservations to Mario at (760) 445-8561.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Buckwood Boarding Kennel, Kennel, with buckwoodkennel.com linked and photos on the card.",
+      "next": "A short thank you under each review shows neighbors there is a real person behind the card."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "boardingkennel@aol.com sits on every page with a working email link, which is exactly right. The site lists Bill or Susan at (760) 789-4809 and Mario at (760) 445-8561 for reservations. Google rings a different number, (760) 789-0592, that does not appear on the site.",
+      "next": "Change the Google phone to Mario's (760) 445-8561, or to the owners line, and keep the same number on every listing."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "Neither the site nor the Google card lists hours. Google shows an empty Add hours spot. A neighbor cannot tell when the office picks up.",
+      "next": "Add your office hours to Google, and put the same line on the Contact page."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Google already has photos on the card, and the site shows the remodeled kennel interiors and exteriors.",
+      "next": "Add a fresh kennel or happy-guest photo to Google now and then so the card stays current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "buckwoodkennel.com loads with services, rates, and contact. An older page at /servicesoffered.html is still live: the title still says Horse Training and Horse Hauling, the copy says over 30 years, and the footer reads Copyright 1977-2014. The new site says established in 1977, while the shared footer reads Copyright 1974-2026.",
+      "next": "Take the old horse page offline or point it at the new Services page, and settle on one founding year in the footer."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The site prints PO Box 1740, Ramona, CA 92065. Google shows 1410 Ramona St #3243, Ramona, CA 92065. The phones do not match either, as noted above.",
+      "next": "Pick one public address and one public phone, then match Google to the site."
+    }
+  ]
+}
