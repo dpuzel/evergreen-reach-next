@@ -1,0 +1,49 @@
+{
+  "slug": "rv-revivals",
+  "business": "RV Revivals",
+  "town": "Alpine, CA",
+  "website": "https://rvrevivals.com/",
+  "phone": "(619) 808-6201",
+  "generated": "2026-10-06",
+  "prospectId": "1791302810855-h6mwz9d",
+  "headline": "Google shows you open until 6 PM, while your site says 8 to 5 and by appointment only.",
+  "summary": "RV Revivals is Jamie and Lindsey's RV and van repair, renovation, and upgrade shop, run from a rural workshop near Alpine, with mobile service and remote troubleshooting too. The site is full of real work: services, prices, projects, vintage trailers, solar, and partner pages. Google Maps has a strong card for RV Revivals, category RV repair shop, at 6304 Japatul Highlands Rd with rvrevivals.com, (619) 808-6201, photos, a Book button, and an owner post from August. The leftover is about when people can come by: Google shows you Open until 6 PM, while your site says weekday hours of 8 to 5 and that visits are by appointment only.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as RV Revivals, RV repair shop, 6304 Japatul Highlands Rd, Alpine, with rvrevivals.com linked, (619) 808-6201, photos, customer reviews, a Book button, and a From the owner post dated Aug 24, 2026.",
+      "next": "Keep posting a project now and then. It shows people the shop is busy and current."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "Google, the People page, and the footer list (619) 808-6201. The Services page asks people to call or text (619)784-4631, three times. The Services page lists RVrevivals@gmail.com, and the Contact page lists service@rvrevivals.com.",
+      "next": "If both numbers reach you, add a line saying which is for what. If not, put one number everywhere. The same goes for the two inboxes."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The Services FAQ says \"M-F 8am-5pm, Saturday by appointment\", and the Contact page says \"We are by appointment only\". Google showed Open, closes 6 PM, with 8 AM to 6 PM on the day we checked.",
+      "next": "Set Google to 8 to 5 and add a by-appointment note to the card, so nobody drives up the hill without a booking."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Google has photos on your card, and the site has a Projects page plus pages for vintage trailers, upholstery, flooring, and food service vehicles.",
+      "next": "Add a before and after from the next build to Google."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "rvrevivals.com is full and current, with services, posted rates, an FAQ, projects, and partners. A few small typos: the Contact page says \"You may loose cell service\" and spells Descanco and Japtul in the directions, and the People page has equiped and deisel.",
+      "next": "A quick spelling pass on the Contact and People pages."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Google links straight to rvrevivals.com, and the Contact page directions lead to Japatul Highlands Road, which matches the address on the card.",
+      "next": "Keep the name and address exactly like this on every listing."
+    }
+  ]
+}

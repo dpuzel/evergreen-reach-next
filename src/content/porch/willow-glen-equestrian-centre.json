@@ -1,0 +1,49 @@
+{
+  "slug": "willow-glen-equestrian-centre",
+  "business": "Willow Glen Equestrian Centre",
+  "town": "El Cajon, CA",
+  "website": "https://www.willowglenequestriancentre.com/",
+  "phone": "(619) 447-6077",
+  "generated": "2026-10-06",
+  "prospectId": "1791302802329-ojwu88o",
+  "headline": "Your Google card has your address, phone, and photos, but no link to your website.",
+  "summary": "Willow Glen Equestrian Centre has offered horse boarding and lessons on a 17-acre facility in Rancho San Diego since 1981, now run by Chris and Penny DeFrance. The site lists four arenas, three turnouts, and two wash areas, lessons in Dressage, Western, and English, day riding, and posted boarding prices. Google Maps has a card for Willow Glen Equestrian Center, category Stable, at 2017 Willow Glen Dr with (619) 447-6077 and photos. What the card is missing is your website, so a rider who finds you on Google never reaches your boarding prices, rules, or Day Use form.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Willow Glen Equestrian Center, Stable, at 2017 Willow Glen Dr, El Cajon, with (619) 447-6077, photos, and customer reviews.",
+      "next": "A short thank you under each review shows riders there is a real person behind the card."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "619-447-6077 and WillowGlenEquestrianCentre@gmail.com sit in the header, the footer, and the Contact page, with a working email link. The phone matches Google. One phone and one inbox is exactly right.",
+      "next": "Keep the phone and the Gmail address the same on every listing."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The Rules & Regulations page says Willow Glen is open 7 days a week, from 7 am to 8 pm. Google showed 6 AM to 10 PM on the day we checked.",
+      "next": "Set Google to the same 7 to 8 window as your rules, so nobody pulls up to a closed gate."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Google already has photos on your card.",
+      "next": "Add a few fresh shots of the arenas and turnouts to Google so riders can picture the place."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "willowglenequestriancentre.com loads with your story, boarding prices, rules, and a Day Use form. The home page says \"With two experienced trainers on-site\", but the Meet our Trainer section below it names nobody and says you are \"currently looking for dedicated trainers\". The boarding list also runs two lines together (12x12 Box Stall $650 w/ Run), and the footer still reads © 2035, a leftover from the Wix template.",
+      "next": "Pick one trainer story for both spots, put each stall price on its own line, and change the footer year."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Address and phone match on the site and Google. Google has no website on the card and shows an Add website spot. The name reads Centre on the site and Center on Google.",
+      "next": "Add willowglenequestriancentre.com to the Google card. While you are in there, settle on one spelling of the name."
+    }
+  ]
+}
