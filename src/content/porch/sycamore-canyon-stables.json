@@ -1,0 +1,49 @@
+{
+  "slug": "sycamore-canyon-stables",
+  "business": "Sycamore Canyon Stables",
+  "town": "Poway, CA",
+  "website": "https://sycamorecanyonstables.com/",
+  "phone": "(858) 602-6160",
+  "generated": "2026-10-07",
+  "prospectId": "1791389124502-yevb1v6",
+  "headline": "The email link in your footer goes to a misspelled address on four of your five pages.",
+  "summary": "Sycamore Canyon Stables is Dwight and Cindi Greene's boarding barn in a quiet valley in Poway, and as the Contact page puts it, \"our home as well as our business.\" The site lays out two large arenas, a dressage arena, a round pen, every boarding option with its monthly rate, trailer parking, blanketing, bed checks, and two trainers. Google Maps has the right address, hours, phone, and website. The leftover is small but costly: on the Facilities, Services, Trainers, and Contact pages, the email in the footer looks right but the link behind it is spelled syscamorecanyonstables@msn.com, with an extra s.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "dim",
+      "note": "You show up on Google Maps as Sycamore Canyon Stables, Stable, 15972 Sycamore Canyon Rd, Poway, with your website, (858) 602-6160, hours, photos, and reviews. The card still shows a Claim this business link, so it looks like nobody has claimed it yet.",
+      "next": "Claim the card so you can answer reviews, add photos, and fix details yourself."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "858-602-6160 and sycamorecanyonstables@msn.com are on every page. The email link on the home page and the Ranch Owners link on the Contact page are correct. The footer email on the Facilities, Services, Trainers, and Contact pages shows the right address, but clicking it starts a message to syscamorecanyonstables@msn.com.",
+      "next": "Fix the one extra s in the footer link on those four pages."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "The Contact page says the stables are \"open 365 days a year from 7 AM to 9 PM.\" Google showed 7 AM to 9 PM on the day we checked. They match.",
+      "next": "Keep Google in step if hours ever change for holidays."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The Facilities and Services pages show the main arena, dressage arena, back arena, round pen, barn, and pens, and Google has photos on your card.",
+      "next": "Add a few of those arena shots to Google once the card is claimed."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "sycamorecanyonstables.com is plain but complete: arena sizes and footing, monthly board rates from $500 to $735, trailer parking at $45 a month, blanketing, feeding, vet clinics, bed checks, and two trainers with their contact details. One small typo on the Services page: \"quite Valley\".",
+      "next": "Put a line about the boarding rates on the home page, so visitors know they are a click away."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Name, ranch address, and phone match on the site and Google, and Google links to your website. The P.O. Box is clearly labeled as the mailing address.",
+      "next": "Keep the ranch address and phone exactly like this everywhere."
+    }
+  ]
+}

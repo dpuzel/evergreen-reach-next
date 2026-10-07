@@ -1,0 +1,49 @@
+{
+  "slug": "vip-grooming-santee",
+  "business": "Very Important Pet (VIP) Grooming",
+  "town": "Santee, CA",
+  "website": "https://www.vipgroomingsantee.com/",
+  "phone": "(619) 749-0200",
+  "generated": "2026-10-07",
+  "prospectId": "1791389130609-1um4wgd",
+  "headline": "Your home page title just says Pet Grooming, and two page titles still carry the Wix placeholder name My Vxw Site 07zl2g 2.",
+  "summary": "Very Important Pet (VIP) Grooming Salon & Boutique grooms dogs and cats at 10769 Woodside Ave in Santee, with walk-in nail, ear, and gland services and a little retail shop up front. Google Maps has a solid card with the full name, address, phone, website, matching hours, and photos. The leftover is on the website itself: the home page title, the name that shows in a browser tab and often in search results, is just Pet Grooming, and the Services and About pages are still titled with the Wix starter name, My Vxw Site 07zl2g 2.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Very Important Pet (VIP) Grooming Salon & Boutique, Pet groomer, 10769 Woodside Ave #109, Santee, CA 92071, with your website, (619) 749-0200, hours, photos, and reviews.",
+      "next": "A short thank you under new reviews keeps the card feeling lived in."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "(619) 749-0200 and VIP.SANTEE@YAHOO.COM are on the home page, the email opens a message, and the phone matches Google. There is a Book Online button too.",
+      "next": "Keep the phone and inbox the same on every listing."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "The site lists 8:00am to 4:00pm on open days, with walk-ins from 9:00am to 2:00pm. Google showed 8 AM to 4 PM on the day we checked. They match.",
+      "next": "Add the walk-in window to the Google description so people know they can just stop by."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Google has photos on your card, and the site links to your Instagram, which a reviewer on the home page calls entertaining.",
+      "next": "Post a few recent grooms to the Google card now and then."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "The site has services, hours, policies, booking, and a Meet the Staff page. The home page title reads Pet Grooming, the Dog Grooming Services and About page titles end with My Vxw Site 07zl2g 2, and the Landon card appears twice on Meet the Staff.",
+      "next": "Rename the site and home page title to Very Important Pet (VIP) Grooming in Santee, and remove the extra Landon card."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Phone and street match Google. The site's address line ends \"Santee, CA 920\", with the rest of the ZIP cut off. Google has 92071.",
+      "next": "Finish the ZIP so the address reads Santee, CA 92071."
+    }
+  ]
+}
