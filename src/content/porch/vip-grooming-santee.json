@@ -42,8 +42,8 @@
     {
       "id": "nap",
       "lamp": "dim",
-      "note": "Phone and street match Google. The site's address line ends \"Santee, CA 920\", with the rest of the ZIP cut off. Google has 92071.",
-      "next": "Finish the ZIP so the address reads Santee, CA 92071."
+      "note": "Phone and street match Google. The home page's address line ends \"Santee, CA 920\", with the rest of the ZIP cut off. The Book Online page and Google both have 92071.",
+      "next": "Finish the ZIP on the home page so the address reads Santee, CA 92071."
     }
   ]
 }
