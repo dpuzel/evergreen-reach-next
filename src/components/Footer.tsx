@@ -30,6 +30,9 @@ export function Footer() {
               Services
             </Link>
             <Link href="/#plans" className="transition-colors hover:text-cream">
+              Monthly care
+            </Link>
+            <Link href="/plans" className="transition-colors hover:text-cream">
               Plans
             </Link>
             <Link href="/notes" className="transition-colors hover:text-cream">

@@ -16,7 +16,7 @@ export const navLinks = [
   { href: "/#story", label: "Story" },
   { href: "/#services", label: "What We Do" },
   { href: "/#process", label: "How It Works" },
-  { href: "/#plans", label: "Plans" },
+  { href: "/plans", label: "Plans" },
   { href: "/notes", label: "Field Notes" },
   { href: "/porch", label: "Front Porch" },
 ] as const;
@@ -93,47 +93,103 @@ export const steps = [
   },
 ] as const;
 
+export const plansPath = "/plans";
+
+export const plansHome = {
+  heading: "Plans",
+  intro:
+    "Start with a free Front Porch walk. If you'd like us to keep things tended after that, there are three ways to do it.",
+  more: "See what each month looks like",
+} as const;
+
+export const plansPage = {
+  heading: "What each month looks like",
+  intro:
+    "Every plan starts with a free Front Porch walk. We take a slow look at how your shop shows up online and write down what a neighbor would notice. If you'd like us to keep it tended after that, here's what we do each month.",
+  underCards:
+    "Start with a free Front Porch walk. If you want us to keep tending after that, your $149 setup counts toward your first month.",
+  addOnsHeading: "Add-ons",
+  addOnsIntro: "One-time help, no plan needed.",
+  addOnsUnder:
+    "Other listings, like Apple Maps, Bing, or Yelp, out of date? Ask us. We'll sort them out with you, and tell you what's involved before we start.",
+} as const;
+
 export const plans = [
   {
     name: "Basic Care",
+    slug: "basic-care",
     price: 99,
-    blurb: "A solid start with reliable monthly care.",
+    blurb:
+      "For a shop that already has a website and wants its Google card kept honest.",
     features: [
-      "Google listing kept accurate and tended",
-      "Basic website health checks & updates",
-      "Monthly progress report",
-      "Email support",
+      "We keep your hours, phone, and address right on Google.",
+      "We add new photos and a post when something real happens, whether you tell us or we spot it.",
+      "Each month you get a short note, in plain words, on what we checked and what we changed.",
     ],
-    cta: "Start with Basic",
-    popular: false,
   },
   {
     name: "Standard Care",
+    slug: "standard-care",
     price: 169,
-    blurb: "The right balance. Most businesses love this one.",
+    blurb: "For a shop whose website is starting to go stale.",
     features: [
-      "Everything in Basic",
-      "Full Google listing care (hours, photos, leftover pins)",
-      "Regular website maintenance & improvements",
-      "Help getting found nearby",
-      "Priority email + chat support",
+      "Everything in Basic Care.",
+      "Every month we walk your site: links, hours, phone, and anything that's stopped being true, plus how it looks on a phone.",
+      "Then we make one fix or small improvement you can see, like a refreshed page, a new photo, an updated services list, or a clearer contact page.",
     ],
-    cta: "Choose Standard",
-    popular: true,
   },
   {
     name: "Premium Care",
+    slug: "premium-care",
     price: 249,
-    blurb: "Full support for businesses ready to shine locally.",
+    blurb: "For a shop that wants a person they can text.",
     features: [
-      "Everything in Standard",
-      "Full website care + proactive improvements",
-      "Quarterly check-in call (30 min)",
-      "More help getting found nearby",
-      "Direct phone/text access",
+      "Everything in Standard Care.",
+      "Text our line anytime, and we'll reply the same business day.",
+      "Once a quarter, we take a real look at what's working. Your pick: a half-hour call, or a one-page sheet you can read on a break. We'll send you a copy.",
+      "Each month, we tell you about one thing we caught before you did, and what we did about it, like a stranger's edit that changed your hours on Google, a second listing for your shop that shouldn't be there, or a new review worth a reply.",
     ],
-    cta: "Go Premium",
-    popular: false,
+  },
+] as const;
+
+export const addOns = [
+  {
+    name: "First cleanup",
+    priceFrom: 149,
+    blurb: "One afternoon spent getting the basics right.",
+    features: [
+      "We fix your hours, phone, and address on Google, and help you claim your listing if it isn't yet.",
+      "We clear up the obvious leftovers from your Front Porch walk.",
+      "We take down wrong or dated photos you've posted, and flag the rest to Google.",
+    ],
+    after:
+      "Bigger messes get quoted before we start. If you start a plan, the $149 counts toward your first month, so nobody pays twice.",
+  },
+  {
+    name: "Photo tune-up",
+    priceFrom: 79,
+    blurb:
+      "Send us the pictures you've got. We pick the good ones, clean them up, and put them where people actually look.",
+    features: [
+      "We go through what you send, keep the sharp ones, and set aside anything blurry or out of date.",
+      "Light touch-ups: straightened, cropped, brightened, and sized right for Google and your site.",
+      "Each one goes where it does some work: the outside so people can find your door, the inside, your crew, and the real work. On your site, they replace stale or stock shots.",
+      "We take down old, duplicate, or wrong photos you've posted and flag the rest to Google. Each new one gets a short plain description so Google and screen readers can tell what's in it.",
+    ],
+    after:
+      "Up to about 20 photos. If you have more, we'll quote it before we start. No good photos yet? We'll send a short list of what to snap on your phone. Send good pictures, we take care of the rest.",
+  },
+  {
+    name: "Seasonal pass",
+    priceFrom: 49,
+    blurb:
+      "For the stretches when your week changes, like holidays, fire season, or harvest.",
+    features: [
+      "We write one post about what's different, in plain words.",
+      "We check that your hours on Google and your site match the season.",
+    ],
+    after:
+      "It's for shops not on a plan, or for anyone who wants one more post than their plan covers. It's a one-time pass, not another subscription.",
   },
 ] as const;
 

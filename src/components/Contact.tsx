@@ -71,7 +71,7 @@ export function Contact() {
                     {site.email}
                   </span>
                   <span className="block text-sm text-sage/70">
-                    We usually reply within a few hours
+                    We&apos;ll get back to you the same business day.
                   </span>
                 </span>
               </a>
@@ -133,8 +133,8 @@ export function Contact() {
                       2
                     </span>
                     <span>
-                      Within a few business hours, we reply by email or text
-                      and walk the porch.
+                      The same business day, we reply by email or text and
+                      walk the porch.
                     </span>
                   </li>
                   <li className="flex gap-3">
@@ -298,8 +298,8 @@ export function Contact() {
                   </button>
 
                   <p className="text-center text-xs text-sage/60">
-                    We&apos;ll get back to you within a few hours on business
-                    days. No spam, ever.
+                    We&apos;ll get back to you the same business day. No spam,
+                    ever.
                   </p>
                 </form>
               </>

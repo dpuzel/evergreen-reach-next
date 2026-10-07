@@ -9,6 +9,7 @@ import { navLinks } from "@/lib/site";
 function linkIsCurrent(href: string, pathname: string) {
   if (href === "/notes") return pathname.startsWith("/notes");
   if (href === "/porch") return pathname.startsWith("/porch");
+  if (href === "/plans") return pathname === "/plans";
   return false;
 }
 
