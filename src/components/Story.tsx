@@ -1,6 +1,7 @@
+import Link from "next/link";
 import { Reveal } from "@/components/Reveal";
-import { valueIcon } from "@/components/Icons";
-import { values } from "@/lib/site";
+import { IconArrowRight, valueIcon } from "@/components/Icons";
+import { behind, values } from "@/lib/site";
 
 export function Story() {
   return (
@@ -43,6 +44,15 @@ export function Story() {
               <br />
               Just reliable monthly care from people who treat your business
               like it&apos;s our own neighbor&apos;s.
+            </p>
+            <p className="pt-1">
+              <Link
+                href={behind.path}
+                className="inline-flex items-center gap-2 text-sm font-medium text-sage underline decoration-sage/30 underline-offset-4 transition-colors hover:text-cream"
+              >
+                {behind.heading}
+                <IconArrowRight />
+              </Link>
             </p>
           </Reveal>
         </div>

@@ -21,6 +21,16 @@ export const navLinks = [
   { href: "/porch", label: "Front Porch" },
 ] as const;
 
+export const behind = {
+  path: "/behind",
+  heading: "Who's behind this",
+  paragraphs: [
+    "I'm Daniel, and I'm based in Lakeside. I look after the online side of small East County shops, keeping Google listings, hours, phone numbers, and websites straight so neighbors find the right door at the right time.",
+    "Everything's online now, whether we like it or not, and not every owner has the time or know-how to keep up with it. Helping with that matters to me, and honestly, digging into how a shop shows up online is fun.",
+    "Anything you share about your shop stays private, and I won't pass it along without asking you first.",
+  ],
+} as const;
+
 export const fieldNotes = {
   path: "/notes",
   title: "Field Notes",

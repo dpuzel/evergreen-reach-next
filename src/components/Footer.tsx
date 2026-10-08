@@ -26,6 +26,9 @@ export function Footer() {
             <Link href="/#story" className="transition-colors hover:text-cream">
               Story
             </Link>
+            <Link href="/behind" className="transition-colors hover:text-cream">
+              Behind this
+            </Link>
             <Link href="/#services" className="transition-colors hover:text-cream">
               Services
             </Link>
