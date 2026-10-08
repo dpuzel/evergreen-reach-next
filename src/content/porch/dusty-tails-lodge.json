@@ -1,0 +1,49 @@
+{
+  "slug": "dusty-tails-lodge",
+  "business": "Pet Adventures Inc / Dusty Tails Lodge",
+  "town": "Ramona, CA",
+  "website": "https://sandiegodogcare.com/",
+  "phone": "(760) 828-0961",
+  "generated": "2026-10-08",
+  "prospectId": "1791476667634-ehj2s0g",
+  "headline": "Google shows set opening hours and showed you Closed, while your site says you are by appointment only.",
+  "summary": "Pet Adventures Inc, doing business as Dusty Tails Lodge, is Marlie and Justin's home-style dog boarding, playcare, and training on 9 acres at 283 Ramona Real in Ramona. Google Maps has a good card with the address, phone, website, photos, and an owner post from April. The leftover is about hours: Google lists opening hours and showed you Closed when we checked, with the next opening several days out, while your site asks people to call first and lists \"Monday - Sunday\" as \"Appointments only.\"",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Pet Adventures Inc / Dusty Tails Lodge, Pet boarding service, 283 Ramona Real, Ramona, with sandiegodogcare.com, (760) 828-0961, photos, reviews, and a From the owner post dated Apr 23, 2026.",
+      "next": "Keep posting happy pups now and then. It shows the card is cared for."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "760-828-0961 and info@sandiegodogcare.com are in the footer of every page and on the Contact page, and the phone matches Google. One phone and one inbox is exactly right.",
+      "next": "Keep the phone and inbox the same on every listing."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The site says \"Always call first to set up an appointment\" and lists \"Monday - Sunday\" as \"Appointments only.\" Google showed Closed when we checked, opening at 9 AM several days later.",
+      "next": "Mark Google as by appointment, or set hours that match how you book, so nobody skips you on a closed day."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Google has photos on your card, and the site has a Photo Gallery page.",
+      "next": "Add a few fresh playcare shots to Google with your next post."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "The site explains how to become a client, the meet and greet, and the practice overnight, with booking online. The Available Animals page still says \"New baby lops due March 31, 2026, check back for photos!\"",
+      "next": "Swap in photos of the new lops or a current note."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Address and phone match on the site and Google. Google names you Pet Adventures Inc / Dusty Tails Lodge. The site's page titles and footer say Pet Adventures Inc, the web address is sandiegodogcare.com, and Dusty Tails Lodge only appears in the About story.",
+      "next": "Pick the name you want people to remember and use it the same way on the site and Google."
+    }
+  ]
+}

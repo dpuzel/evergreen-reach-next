@@ -1,0 +1,49 @@
+{
+  "slug": "jareds-real-food",
+  "business": "Jared's Real Food",
+  "town": "Lakeside, CA",
+  "website": "https://www.jaredsrealfood.com/",
+  "phone": "(619) 403-4639",
+  "generated": "2026-10-08",
+  "prospectId": "1791476660522-6rguf1c",
+  "headline": "Three of your page titles still carry Squarespace starter names: General 6 on the drive-thru and About pages, and Contact 1 on Contact.",
+  "summary": "Jared's Real Food is a regenerative, no-till farm in Lakeside, established in 2011, with a drive-thru farm stand at 11106 Moreno Ave and CSA boxes delivered around East County. The site posts a fresh produce list every week, and Google Maps has a solid card with the address, phone, website, an opening time, and photos. The leftover is in the page titles, the names that show on a browser tab and often in search results: the drive-thru and About pages are titled General 6, and the Contact page is titled Contact 1.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Jared's Real Food, Farm, 11106 Moreno Ave, Lakeside, with jaredsrealfood.com, (619) 403-4639, an opening time of 2:30 PM, photos, and reviews.",
+      "next": "A short thank you under new reviews keeps the card feeling lived in."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "jaredsrealfoodsd@gmail.com is linked on every page, and the Contact page has a message form. The site does not print a phone number. Google lists (619) 403-4639.",
+      "next": "Add the phone number to the Contact page so it matches Google."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google shows an opening time of 2:30 PM for the stand. The drive-thru page says when the stand is back open but does not print a time.",
+      "next": "Add the stand's open window to the drive-thru page, the same as on Google."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Google has photos on your card, and the site has a Gallery page.",
+      "next": "Add a couple of stand photos to Google when the season turns."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "The site is current, with a weekly produce list and prices, CSA info, and a newsletter signup. The drive-thru and About page titles read General 6, the Contact page title reads Contact 1, and the YouTube icon opens a YouTube search results page instead of a channel.",
+      "next": "Rename those three page titles, and point the YouTube icon at your channel or remove it."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "The address on the Location and Contact pages matches Google, and Google links straight to jaredsrealfood.com.",
+      "next": "Keep the name and address exactly like this on every listing."
+    }
+  ]
+}
