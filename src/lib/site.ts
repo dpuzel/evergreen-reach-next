@@ -57,7 +57,7 @@ export const services = [
       "Every month we check links, hours, phone, and anything that's stopped being true.",
       "We look at it on a phone, the way a lot of your customers will.",
       "Then we make one fix or small improvement you can see.",
-      "Like a refreshed page, a new photo, an updated services list, or a clearer contact page.",
+      "That might be a refreshed page, a new photo, an updated services list, or a clearer contact page.",
     ],
     icon: "desktop" as const,
   },
