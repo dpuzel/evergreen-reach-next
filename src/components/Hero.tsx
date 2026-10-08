@@ -40,9 +40,8 @@ export function Hero() {
 
           <Reveal immediate delay={2}>
             <p className="mb-4 max-w-xl text-lg leading-relaxed text-cream-dim sm:text-xl">
-              Google listing. Website upkeep. Getting more local eyes on your
-              business. We handle the online stuff so you can keep building what
-              you built.
+              Google listing. Website upkeep. Someone keeping watch. We handle
+              the online stuff so you can keep building what you built.
             </p>
             <p className="mb-10 max-w-lg text-base leading-relaxed text-sage sm:text-[1.0625rem]">
               Practical help from real people who give a damn. Not ads, jargon,

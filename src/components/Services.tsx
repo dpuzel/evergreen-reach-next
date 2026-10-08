@@ -1,6 +1,6 @@
 import { Reveal } from "@/components/Reveal";
 import { serviceIcon } from "@/components/Icons";
-import { services } from "@/lib/site";
+import { services, servicesIntro } from "@/lib/site";
 
 export function Services() {
   return (
@@ -16,8 +16,7 @@ export function Services() {
             Three things. Done right. Month after month.
           </h2>
           <p className="text-lg leading-relaxed text-cream-dim">
-            No bloated packages. No mystery retainers. Just the online care that
-            helps good local businesses get found, and stay found.
+            {servicesIntro}
           </p>
         </Reveal>
 
@@ -34,6 +33,9 @@ export function Services() {
                 <div className="icon-pill mb-6">
                   <Icon />
                 </div>
+                <p className="mb-2 text-xs font-medium text-sage">
+                  {service.tag}
+                </p>
                 <h3 className="font-display mb-3 text-xl font-semibold text-cream sm:text-2xl">
                   {service.title}
                 </h3>

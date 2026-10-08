@@ -31,40 +31,44 @@ export const fieldNotes = {
     "We write down the useful stuff. A few short notes from the work, if you want to sit with them.",
 } as const;
 
+export const servicesIntro =
+  "No bloated packages. No mystery retainers. Just steady online care, so a good local shop shows up honestly and stays that way.";
+
 export const services = [
   {
     title: "Google Business Profile",
+    tag: "Every plan",
     description:
-      "When someone searches for what you do nearby, your Google listing is usually the first thing they see. We keep it sharp, honest, and working for you, not half-finished or forgotten.",
+      "When someone searches for what you do nearby, your Google listing is usually the first thing they see. We keep it honest and current, not half-finished or forgotten.",
     items: [
-      "Get your listing set up right and kept accurate",
-      "Current photos, honest hours, leftover pins cleaned up",
-      "We watch reviews and help you respond thoughtfully",
-      "Simple check-ins on how you're showing up locally",
+      "We help you claim it if it isn't yet, then keep your hours, phone, and address right.",
+      "Current photos, plus a post when something real happens.",
+      "Leftover pins and wrong details we spot get cleaned up, or flagged to Google when they aren't yours to change.",
+      "A short note each month on what we checked and changed.",
     ],
     icon: "map" as const,
   },
   {
     title: "Website Care",
+    tag: "Standard Care and Premium Care",
     description:
-      "Your website shouldn't be one more thing on your plate. We quietly keep it healthy, updated, and ready for customers, while you run the business.",
+      "Your website shouldn't be one more thing on your plate. We walk it every month and keep it telling the truth while you run the business.",
     items: [
-      "Keep things secure, loading fast, and up to date",
-      "Small text or design tweaks when you need them",
-      "Backups and a quick fix if something breaks",
-      "A plain-English check-in on site health every quarter",
+      "Every month we check links, hours, phone, and anything that's stopped being true.",
+      "We look at it on a phone, the way a lot of your customers will.",
+      "Then we make one fix or small improvement you can see.",
     ],
     icon: "desktop" as const,
   },
   {
     title: "Local eyes",
+    tag: "Strongest on Premium Care",
     description:
-      "Getting found is nice. Getting chosen by the right people nearby is the goal. We help more of the right locals find you, and actually reach out.",
+      "Most of what goes wrong online happens quietly. A stranger edits your hours, a second listing pops up, an old address hangs around. We keep watch, so you hear it from us first.",
     items: [
-      "Help more local customers find you online",
-      "Simple ideas that help the right neighbors find you",
-      "Keep an eye on what similar businesses are doing",
-      "Adjust based on what's actually working in your area",
+      "On every plan, we keep an eye out for wrong hours, stray listings, and old addresses.",
+      "On Premium Care, each month we tell you about one thing we caught before you did, and what we did about it.",
+      "Once a quarter on Premium Care, we take a real look at what's working, as a half-hour call or a one-page sheet.",
     ],
     icon: "chart" as const,
   },
@@ -84,12 +88,12 @@ export const steps = [
   {
     num: "03",
     title: "We handle the work",
-    body: "Monthly care on the listing, the site, leftover pins. Month after month, so you don't have to.",
+    body: "If you want us to keep tending, pick a plan. Every plan covers your Google listing. Standard Care and Premium Care add your website.",
   },
   {
     num: "04",
     title: "Simple check-ins",
-    body: "A plain note on what we tended. Not a strategy deck. Call if you want, message if you prefer.",
+    body: "A plain note each month on what we tended. Not a strategy deck. Email us anytime. On Premium Care, you can text us too.",
   },
 ] as const;
 
@@ -218,7 +222,7 @@ export const values = [
   },
   {
     title: "Reaching further",
-    body: "We help your business become the obvious choice in your community.",
+    body: "We make sure what neighbors find online matches the shop they'll walk into.",
     icon: "arrow" as const,
   },
 ] as const;
