@@ -39,7 +39,7 @@ export function Services() {
                 <h3 className="font-display mb-3 text-xl font-semibold text-cream sm:text-2xl">
                   {service.title}
                 </h3>
-                <p className="mb-6 flex-grow text-sm leading-relaxed text-cream-dim">
+                <p className="mb-6 text-sm leading-relaxed text-cream-dim">
                   {service.description}
                 </p>
                 <ul className="check-list space-y-3 text-sm text-cream-muted">

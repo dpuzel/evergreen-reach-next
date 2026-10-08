@@ -31,8 +31,8 @@ export function Story() {
               marketing agency. That&apos;s not the vision. Evergreen Reach is
               about being the reliable digital caretaker for businesses who
               don&apos;t have time or know-how to handle their Google Business
-              Profile, basic website upkeep, and getting more local eyes on
-              them.
+              Profile, basic website upkeep, and keeping an eye on how they
+              show up online.
             </p>
             <p>
               It&apos;s practical help from people who show up, not just running
