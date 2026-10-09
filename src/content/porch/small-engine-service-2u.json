@@ -1,0 +1,19 @@
+{
+  "slug": "small-engine-service-2u",
+  "business": "Small Engine Service 2U",
+  "town": "El Cajon, CA",
+  "website": "https://nextdoor.com/pages/small-engine-service-2u-el-cajon-ca/",
+  "phone": "(619) 518-8980",
+  "generated": "2026-10-09",
+  "prospectId": "1791562612401-o7gg9k6",
+  "headline": "We could not find a Google Maps card for Small Engine Service 2U under the business name, Small Engine Mobile Service, Tod Aubin, or (619) 518-8980.",
+  "summary": "Small Engine Service 2U is Tod Aubin's mobile small engine repair out of El Cajon, a service that, in its own Nextdoor post, \"brings the repair shop to your home, field or barn.\" Neighbors in El Cajon and Lakeside pass your number along on Nextdoor, where you were a Neighborhood Favorite in 2024 and 2025. The leftover is Google: we searched Maps for the business name, Small Engine Mobile Service, Tod Aubin, and your phone number and found no card, so a neighbor who searches Google for mobile mower repair sees other shops instead.",
+  "signals": [
+    {"id": "found", "lamp": "out", "note": "On Google Maps we searched Small Engine Service 2U, Small Engine Service 2U El Cajon, Small Engine Mobile Service El Cajon CA, Tod Aubin, Tod Aubin small engine, and (619) 518-8980. None turned up a card for your business. The El Cajon searches showed other lawn mower and repair shops in the area instead.", "next": "Set up a free Google Business Profile as a service-area business, so you can show the area you cover without listing a home address."},
+    {"id": "call", "lamp": "lit", "note": "Your Nextdoor page lists (619) 518-8980 and smallengineservice2u@gmail.com, and neighbors pass along the same number in their recommendations.", "next": "Use the same phone and inbox on a Google card when you make one."},
+    {"id": "hours", "lamp": "out", "note": "Nextdoor does not list hours or the days you take calls, and there is no Google card to show them.", "next": "Add the days and hours you take calls, so people know when to expect a callback."},
+    {"id": "photos", "lamp": "dim", "note": "Your Nextdoor page has a photo gallery. Without a Google card, none of those photos show up in a Google search.", "next": "Put a few of those photos on a Google card once it is set up."},
+    {"id": "site", "lamp": "out", "note": "We did not find a website for Small Engine Service 2U. Nextdoor is the main page, with your story, the Neighborhood Favorite awards, and an Aug 2025 review you answered. Your newest activity post there is from Nov 2021.", "next": "A Google card can act as a simple home page for now. A fresh Nextdoor post now and then shows you are still out on calls."},
+    {"id": "nap", "lamp": "dim", "note": "Nextdoor lists you as Small Engine Service 2U in El Cajon. A 2020 post there spells it Small Engine Service 2 U, and neighbors recommend you as Small Engine Mobile Service or by your name.", "next": "Pick one spelling and use it everywhere, including on a new Google card."}
+  ]
+}

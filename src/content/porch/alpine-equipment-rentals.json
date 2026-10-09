@@ -1,0 +1,19 @@
+{
+  "slug": "alpine-equipment-rentals",
+  "business": "Alpine Equipment & Party Rentals",
+  "town": "Alpine, CA",
+  "website": "https://www.alpinerents.com/",
+  "phone": "(619) 445-6214",
+  "generated": "2026-10-09",
+  "prospectId": "1791562606263-mzspajy",
+  "headline": "The footer on every page of your site ends with \"Changed Off Template Miranda Wythe\", which reads like a note from the build that went live.",
+  "summary": "Alpine Equipment & Party Rentals has been family owned at 2110 Alpine Blvd since 1991, and woman owned and operated since 2016, run by Kelli Thomas and her daughter Miranda Wythe. The site has a page for each kind of gear, from skid steers and trenchers to tables, canopies, and dance floors, plus your hours, a rental request form, and blog posts from Miranda. Google Maps has a solid card with the address, phone, website, hours, and photos. The leftover is in the footer: on all 36 pages we checked, it ends \"© 2024 by Alpine Equipment Rentals. Designed by Tech by Dimitri. Changed Off Template Miranda Wythe\".",
+  "signals": [
+    {"id": "found", "lamp": "lit", "note": "You show up on Google Maps as Alpine Equipment & Party Rentals, Equipment rental agency, 2110 Alpine Blvd, Alpine, with alpinerents.com, (619) 445-6214, hours, photos, customer reviews, and the Identifies as women-owned tag.", "next": "A short thank you under new reviews keeps the card feeling lived in."},
+    {"id": "call", "lamp": "lit", "note": "619-445-6214 and alpinerentals@att.net are in the footer of every page and on the Contact page, and the phone matches Google. There is also a rental request form on the Contact page.", "next": "Keep the phone and inbox the same on every listing."},
+    {"id": "hours", "lamp": "lit", "note": "The Contact page lists Mon - Fri: 7:00 AM to 5:00 PM and Saturday: 8:00 AM to 3:00 PM. Google showed 7 AM to 5 PM on the day we checked. They match.", "next": "Keep Google in step for holidays."},
+    {"id": "photos", "lamp": "lit", "note": "Google has photos on your card, and the site has a page for each kind of equipment and party rental.", "next": "Add a few shots of the yard and recent event setups to Google now and then."},
+    {"id": "site", "lamp": "dim", "note": "alpinerents.com is full and current, with blog posts from Miranda in March. The footer on every page we checked ends \"Changed Off Template Miranda Wythe\". Most page titles, the name that shows on a browser tab and often in search results, are cut off at Alpine Equipment Re, for example Contact | Alpine Equipment Re and About Us | Alpine Equipment Re.", "next": "Trim the footer to the copyright line, and finish the business name in the page titles."},
+    {"id": "nap", "lamp": "lit", "note": "Name, street, and phone match on the site and Google, and Google links straight to alpinerents.com.", "next": "Keep the name and address exactly like this on every listing."}
+  ]
+}
