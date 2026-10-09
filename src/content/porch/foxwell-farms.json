@@ -1,0 +1,49 @@
+{
+  "slug": "foxwell-farms",
+  "business": "Foxwell Farms",
+  "town": "Alpine, CA",
+  "website": "https://www.foxwellfarmsalpine.com/",
+  "phone": "(619) 322-9001",
+  "generated": "2026-10-09",
+  "prospectId": "1791563885205-5s1l3oc",
+  "headline": "Your Google card has the address, phone, website, and hours, but no photos yet.",
+  "summary": "Foxwell Farms is Charlie and Brandy's family farm at 5523 Willows Rd in Alpine, on property that \"has been in the family since 1986\". The farm stand, The Pantry at Foxwell Farms, sells eggs, produce, baked goods, sourdough starter, and jams, and your Instagram posts weekend pop-up meals and what is fresh. Google Maps has a card for Foxwell Farms with the address, phone, website, and hours. The leftover is pictures: the card has no photos and shows an Add a photo prompt, while your Instagram is full of the stand, the beds, and the animals.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Foxwell Farms, Farm, 5523 Willows Rd, Alpine, CA 91901, with foxwellfarmsalpine.com, (619) 322-9001, and hours. Google showed Open, closes 7 PM, when we checked.",
+      "next": "Ask a few regulars to leave a short review on the card."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The site has a Get in Touch form but does not print a phone number or email address. Google lists (619) 322-9001, and the Loving Life Alpine directory lists the same phone with hello@foxwellfarmsalpine.com.",
+      "next": "Add the phone and hello@foxwellfarmsalpine.com to the site, so people can reach you without the form."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Your Instagram posts say \"Open daily 9am to dusk\". Google showed 9 AM to 7 PM on the day we checked.",
+      "next": "Pick one closing time for Google, or note on the card that the stand closes at dusk."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The Google card has no photos and shows an Add a photo prompt. Your Instagram has plenty, from the stand and champagne grapes to the Kune Kune pigs.",
+      "next": "Add a handful of stand and produce photos to the Google card."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "foxwellfarmsalpine.com has your story, a few products, and your Instagram feed. The shop section says \"Items here on our website will be coming soon!\", and the address and stand hours only show up inside the Instagram posts on the page. The footer reads \"© 2024 by MWPHAFF\".",
+      "next": "Put the stand address and hours in plain text near the top of the home page."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Google and your Instagram posts agree on 5523 Willows Rd and the Foxwell Farms name, and Google links to your site. The Loving Life Alpine directory lists you only as Farmstand, with no farm name.",
+      "next": "Rename the Loving Life Alpine listing to Foxwell Farms so it matches Google."
+    }
+  ]
+}
