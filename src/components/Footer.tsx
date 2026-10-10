@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { IconFacebook } from "@/components/Icons";
 import { site } from "@/lib/site";
 
 export function Footer() {
@@ -52,6 +53,15 @@ export function Footer() {
               className="transition-colors hover:text-cream"
             >
               Email
+            </a>
+            <a
+              href={site.facebook}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center transition-colors hover:text-cream"
+              aria-label="Facebook"
+            >
+              <IconFacebook />
             </a>
           </div>
         </div>

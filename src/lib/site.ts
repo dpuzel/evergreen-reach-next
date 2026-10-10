@@ -5,6 +5,7 @@ export const site = {
   tagline: "For the businesses that build communities.",
   url: "https://www.evergreen-reach.com",
   email: "hello@evergreen-reach.com",
+  facebook: "https://www.facebook.com/profile.php?id=61595454471213",
   phone: "(208) 269-5369",
   phoneHref: "tel:2082695369",
   hours: "Mon–Fri, 8am–5pm Pacific",
