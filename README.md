@@ -50,7 +50,7 @@ topic: "Google listing"
 Write in plain markdown. Headings, lists, quotes, and links all work.
 ```
 
-Commit and push. The `/notes` index, homepage teaser, sitemap, and `/notes/rss.xml` pick it up automatically. Set `draft: true` in frontmatter to keep a note off the shelf.
+Commit and push. The `/notes` index, homepage teaser, sitemap, and `/notes/rss.xml` pick it up automatically. Set `draft: true` in frontmatter to keep a note off the shelf. Set `pinned: true` to keep one note at the top of `/notes` and the homepage shelf with a quiet Start here label. If more than one is pinned, the newest date wins. RSS stays newest-first.
 
 ### Front Porch Reports
 

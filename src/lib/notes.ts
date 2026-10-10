@@ -8,6 +8,7 @@ export type NoteMeta = {
   summary: string;
   date: string;
   topic: string;
+  pinned: boolean;
 };
 
 export type Note = NoteMeta & { content: string };
@@ -31,8 +32,25 @@ function parseNote(filename: string): Note | null {
     summary: String(data.summary),
     date: String(data.date),
     topic: String(data.topic),
+    pinned: data.pinned === true,
     content: content.trim(),
   };
+}
+
+function toMeta(note: Note): NoteMeta {
+  return {
+    slug: note.slug,
+    title: note.title,
+    summary: note.summary,
+    date: note.date,
+    topic: note.topic,
+    pinned: note.pinned,
+  };
+}
+
+function byDateThenTitle(a: NoteMeta, b: NoteMeta) {
+  if (a.date !== b.date) return a.date < b.date ? 1 : -1;
+  return a.title.localeCompare(b.title);
 }
 
 export function getNotes(): NoteMeta[] {
@@ -43,17 +61,22 @@ export function getNotes(): NoteMeta[] {
     .filter(isNoteFile)
     .map(parseNote)
     .filter((note): note is Note => note !== null)
-    .sort((a, b) => {
-      if (a.date !== b.date) return a.date < b.date ? 1 : -1;
-      return a.title.localeCompare(b.title);
-    })
-    .map((note) => ({
-      slug: note.slug,
-      title: note.title,
-      summary: note.summary,
-      date: note.date,
-      topic: note.topic,
-    }));
+    .map(toMeta)
+    .sort(byDateThenTitle);
+}
+
+/** Pinned note first (newest pin wins). Everyone else stays newest-first. */
+export function getShelfNotes(): NoteMeta[] {
+  const notes = getNotes();
+  const winner = notes.find((note) => note.pinned);
+  if (!winner) return notes;
+
+  return [
+    { ...winner, pinned: true },
+    ...notes
+      .filter((note) => note.slug !== winner.slug)
+      .map((note) => ({ ...note, pinned: false })),
+  ];
 }
 
 export function getRelatedNotes(slug: string, limit = 2): NoteMeta[] {

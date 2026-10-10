@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { SiteShell } from "@/components/SiteShell";
 import { fieldNotes, site } from "@/lib/site";
-import { formatNoteDate, getNotes } from "@/lib/notes";
+import { formatNoteDate, getShelfNotes } from "@/lib/notes";
 
 export const metadata: Metadata = {
   title: "Field Notes",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 };
 
 export default function FieldNotesPage() {
-  const notes = getNotes();
+  const notes = getShelfNotes();
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -97,6 +97,14 @@ export default function FieldNotesPage() {
                     className="group block py-8 transition-colors"
                   >
                     <p className="mb-3 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs tracking-wide text-sage">
+                      {note.pinned ? (
+                        <>
+                          <span>Start here</span>
+                          <span aria-hidden className="text-sage/40">
+                            ·
+                          </span>
+                        </>
+                      ) : null}
                       <time dateTime={note.date}>{formatNoteDate(note.date)}</time>
                       <span aria-hidden className="text-sage/40">
                         ·

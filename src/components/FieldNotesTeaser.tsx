@@ -1,10 +1,10 @@
 import Link from "next/link";
 import { Reveal } from "@/components/Reveal";
 import { fieldNotes } from "@/lib/site";
-import { formatNoteDate, getNotes } from "@/lib/notes";
+import { formatNoteDate, getShelfNotes } from "@/lib/notes";
 
 export function FieldNotesTeaser() {
-  const notes = getNotes().slice(0, 3);
+  const notes = getShelfNotes().slice(0, 3);
   if (notes.length === 0) return null;
 
   return (
@@ -30,6 +30,14 @@ export function FieldNotesTeaser() {
                   className="group block py-6 transition-colors"
                 >
                   <p className="mb-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs tracking-wide text-sage">
+                    {note.pinned ? (
+                      <>
+                        <span>Start here</span>
+                        <span aria-hidden className="text-sage/40">
+                          ·
+                        </span>
+                      </>
+                    ) : null}
                     <time dateTime={note.date}>{formatNoteDate(note.date)}</time>
                     <span aria-hidden className="text-sage/40">
                       ·
