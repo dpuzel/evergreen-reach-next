@@ -1,0 +1,49 @@
+{
+  "slug": "bee-removal-logics",
+  "business": "Bee Removal Logics",
+  "town": "El Cajon, CA",
+  "website": "https://beeremovallogics.com/",
+  "phone": "(619) 654-6461",
+  "generated": "2026-10-10",
+  "prospectId": "1791650208490-m5vnv7u",
+  "headline": "Your Google card is up with your phone and site, but its map pin sits out in the desert, about 55 miles east of El Cajon.",
+  "summary": "Bee Removal Logics is Fernando Valdez and his three sons, rescuing live bees and relocating them instead of exterminating them. Neighbors in El Cajon, Santee, Lakeside, and La Mesa recommend you on Nextdoor, and the Google card shows the same (619) 654-6461 and beeremovallogics.com. The leftover is the map: the Google icon on your site opens your card, and the card's pin sits in Imperial County, about 55 miles east of El Cajon, so the map opens far from the neighborhoods you serve.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "dim",
+      "note": "Google Maps has a card for Bee Removal Logics, Bee relocation service, with beeremovallogics.com and (619) 654-6461. The card's map pin sits at about 33.02, -116.04, in Imperial County, roughly 55 miles east of El Cajon. The Google icon in your site's footer opens the same card, centered near Rockhouse Canyon Road in the desert of eastern San Diego County.",
+      "next": "Check the location or service area settings on your Google profile so the pin lands near El Cajon."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Google, your site, and your Nextdoor page all ring the same (619) 654-6461. beeremovallogics@gmail.com is on your Contact page and your Nextdoor page.",
+      "next": "Nothing to change. Keep the one number everywhere."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google shows Saturday 7 AM to 7:30 PM. Your Nextdoor page lists Saturday 7:00 AM to 5:00 PM. The site does not list hours.",
+      "next": "Pick one set of Saturday hours and match Google and Nextdoor."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The Google card has a photo gallery, and your Nextdoor page has a full photo gallery too.",
+      "next": "Add a fresh hive rescue photo now and then to keep the card lively."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "beeremovallogics.com is live with services, areas served, reviews, FAQs, and a call request form. One small typo on the home page: \"hep relocate them\".",
+      "next": "Fix the typo to read help relocate them."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Google, your site, and Nextdoor agree on the Bee Removal Logics name, phone, and website. Your Nextdoor page is still unclaimed, and some neighbors write the name as Bee Removal Logistics.",
+      "next": "Claim the Nextdoor page so you can keep its hours and details in step with Google."
+    }
+  ]
+}
