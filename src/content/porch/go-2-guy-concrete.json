@@ -1,0 +1,49 @@
+{
+  "slug": "go-2-guy-concrete",
+  "business": "Go 2 Guy Concrete",
+  "town": "Ramona, CA",
+  "website": "https://nextdoor.com/pages/go-2-guy-concrete-ramona-ca/",
+  "phone": "(760) 703-5724",
+  "generated": "2026-10-12",
+  "prospectId": "1791821728698-vldpydn",
+  "headline": "We could not find a Google Maps card for Go 2 Guy Concrete under the business name, the owner's name, or (760) 703-5724.",
+  "summary": "Go 2 Guy Concrete is a small family owned concrete contractor out of Ramona doing patios, driveways, sidewalks, slabs, foundations, steps, and stamped and decorative work. On Nextdoor you were a Neighborhood Favorite in 2024, and a neighbor wrote that \"he is a great guy\" and \"yes he is legit.\" The leftover is Google: we searched Maps for Go 2 Guy Concrete, the name with Ramona, Go2Guys Concrete, Jesus Tello concrete, and your phone number, and found no card for your business, so someone who searches Google for a concrete contractor near Ramona sees other companies instead.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "On Google Maps we searched Go 2 Guy Concrete, Go 2 Guy Concrete Ramona CA, Go 2 Guys Concrete Ramona, Go2Guys Concrete, Jesus Tello Concrete Ramona, (760) 703-5724, and concrete contractors around Ramona. None turned up a card for your business. The searches showed other companies, including a Go2Guys concrete company in Chino Hills.",
+      "next": "Set up a free Google Business Profile as a service-area business, so you can show the area you cover without listing a home address."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your Nextdoor page lists (760) 703-5724 and go2guysconcrete@gmail.com, and the neighbor who recommended you passed along the same number.",
+      "next": "Use the same phone and inbox on a Google card when you make one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Nextdoor lists Monday to Saturday 6:00 AM to 6:00 PM, Sunday closed. With no Google card, those hours do not show up in a Google search.",
+      "next": "Copy the same hours onto a Google card."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Your Nextdoor page has a photo gallery of your work. Without a Google card, none of those photos show up in a Google search.",
+      "next": "Put a few of your best pours on a Google card once it is set up."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "We did not find a website for Go 2 Guy Concrete. Nextdoor is the main page, with your story, services, hours, and the Neighborhood Favorite award.",
+      "next": "A Google card can act as a simple home page for now."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Nextdoor and your state contractor license both show Go 2 Guy Concrete in Ramona with (760) 703-5724. Your inbox spells it go2guys, with an s.",
+      "next": "Use Go 2 Guy Concrete as the name on a new Google card so it matches your license."
+    }
+  ]
+}

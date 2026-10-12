@@ -1,0 +1,49 @@
+{
+  "slug": "carters-hay-and-grain",
+  "business": "Carter's Hay & Grain",
+  "town": "Lakeside, CA",
+  "website": "https://cartershay.com/",
+  "phone": "(619) 561-0631",
+  "generated": "2026-10-12",
+  "prospectId": "1791821721124-q44br9g",
+  "headline": "Your Lakeside Google card is complete. Your Nextdoor page still links to a web address that does not exist.",
+  "summary": "Carter's Hay & Grain has been on Palm Row in Lakeside since 1970, when Mike's parents bought the store, and the family still runs it alongside the Encinitas location. Nextdoor named the Lakeside store a Neighborhood Favorite in 2023 and 2024. Google Maps has a full card for the Lakeside store with the address, phone, cartershay.com, hours, and photos. The leftover is on Nextdoor: the page lists cartershayandgrain.com as your website, and that address does not exist, so the link goes nowhere. The page also shows Claim page, so nobody on your side can edit it yet.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "Google Maps shows Carter's Hay & Grain, Animal feed store, 10227 Palm Row Dr, Lakeside, CA 92040, with cartershay.com, (619) 561-0631, hours, and photos.",
+      "next": "Nothing to change on the card."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Google, your site, and Nextdoor all list (619) 561-0631 for Lakeside. Nextdoor also lists famous.2468@yahoo.com. The site itself prints phone numbers but no email address.",
+      "next": "If you want email from the site, add one inbox to the Locations or About page."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "Your site and Nextdoor both list Mon to Fri 8:30 AM to 6:00 PM, Sat 8:30 AM to 5:00 PM, Sun 9:00 AM to 3:00 PM for Lakeside. Google showed the same 6 PM weekday close when we checked.",
+      "next": "Nothing to change."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The Google card for the Lakeside store has photos.",
+      "next": "Add a fresh shot now and then, like chick season or a new hay load."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "cartershay.com is live and lists both stores at the top of every page. On the home page, the Lakeside Get Directions button opens a plain map pin for the building at 10227 Palm Row Dr, while the Encinitas button opens the Carter's Hay & Grain card.",
+      "next": "Point the Lakeside Get Directions button at the Carter's Hay & Grain Lakeside card, the same way the Encinitas one works."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name, address, and phone match across Google, your site, and Nextdoor. Your Nextdoor page lists cartershayandgrain.com as the website, and that address does not exist. The page also shows Claim page, so it is not claimed yet.",
+      "next": "Claim the Nextdoor page and change the website to cartershay.com."
+    }
+  ]
+}
