@@ -1,0 +1,48 @@
+{
+  "slug": "carls-boot-and-leather-shop",
+  "business": "Carl's Boot & Leather Shop",
+  "town": "El Cajon, CA",
+  "phone": "(619) 442-3027",
+  "generated": "2026-10-13",
+  "prospectId": "1791908001064-4ywispi",
+  "headline": "Your Google card is up with your address, phone, and hours. The website linked from Nextdoor no longer exists.",
+  "summary": "Carl's Boot & Leather Shop at 862 N 2nd St in El Cajon repairs boots, shoes, saddles, and tack, does custom leather work, and keeps a small counter of boots and tack. Nextdoor named the shop a Neighborhood Favorite in 2024 and 2025. Google Maps has a card with your address, phone, and hours. The leftover is the website: your Nextdoor page links carlsbootandleathershop.com, and that address no longer exists, so the link goes nowhere. Your Google card has no website at all and shows an Add website prompt.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "Google Maps shows Carl's Boot & Leather Shop, Shoe repair shop, 862 N 2nd St, El Cajon, CA 92021, with (619) 442-3027 and hours. Google showed Open, closes 5 PM, when we checked.",
+      "next": "Nothing to change on the basics."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Google and Nextdoor both list (619) 442-3027. Nextdoor also lists gleisch@cox.net.",
+      "next": "Nothing to change."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "Google showed Tuesday 9 AM to 5 PM when we checked, the same as Nextdoor. Nextdoor lists Monday to Friday 9:00 AM to 5:00 PM, Saturday 9:00 AM to 2:00 PM, and Sunday closed. An online directory lists Monday as closed.",
+      "next": "Make sure Google and Nextdoor show Monday the way you want it."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The Google card has photos.",
+      "next": "Add a fresh shot of a finished saddle or boot repair now and then."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "Your Nextdoor page links carlsbootandleathershop.com. That address no longer exists, so the link goes nowhere. The Google card has no website and shows an Add website prompt.",
+      "next": "Either bring the site back or point Nextdoor to the Google card, and remove the dead link."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name, address, and phone match on Google and Nextdoor. Only the website link is out of date.",
+      "next": "Update the website field on Nextdoor once you decide where it should point."
+    }
+  ]
+}

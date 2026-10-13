@@ -1,0 +1,49 @@
+{
+  "slug": "brian-the-arborist",
+  "business": "Brian L. Humble, Certified Arborist",
+  "town": "Alpine, CA",
+  "website": "https://www.brianthearborist.com/",
+  "phone": "(619) 838-5694",
+  "generated": "2026-10-13",
+  "prospectId": "1791908007225-eamf7jy",
+  "headline": "We could not find a Google Maps card for Brian L. Humble or Brian the Arborist, and the newest testimonial on your site is from 2018.",
+  "summary": "Brian L. Humble is a third generation tree worker who holds two certifications through the International Society of Arboriculture. Your site, brianthearborist.com, lists your phone, your inbox, and certification WE-10314AT. The leftover is Google: we searched Maps for Brian L. Humble Certified Arborist, Brian the Arborist, your phone number, and your web address, and found no card for your business, so someone searching Google for an arborist near Alpine sees other tree services instead.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "On Google Maps we searched Brian L. Humble Certified Arborist, Brian the Arborist, Brian the Arborist Alpine, (619) 838-5694, and brianthearborist.com. None turned up a card for your business. The closest name match, Brian Tree Service L.L.C., is a different company in Washington state.",
+      "next": "Set up a free Google Business Profile as a service-area business, so you can show the area you cover without listing a home address."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your site lists 619-838-5694 and BRIANTHEARBORIST@GMAIL.COM, with a mailto link that fills in the subject TREE SERVICE.",
+      "next": "Use the same phone and inbox on a Google card when you make one."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "Your site does not list hours or days, and there is no Google card to show them.",
+      "next": "Add the days you take calls and give estimates."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Your site has a media section. Without a Google card, none of your job photos show up in a Google search.",
+      "next": "Put a few before and after shots on a Google card once it is set up."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "brianthearborist.com is live. The newest testimonial on the home page is dated Sep 8, 2018, and the page shows a Top Pro 2018 badge.",
+      "next": "Add a few recent reviews so the page looks as current as your work."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The site title says San Diego, CA, while your About page says you are \"stationed out of Alpine, Ca\" and work eastern San Diego county.",
+      "next": "Pick the town you want to be known for and use it in the site title and on a new Google card."
+    }
+  ]
+}
