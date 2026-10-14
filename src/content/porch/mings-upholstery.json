@@ -1,0 +1,19 @@
+{
+  "slug": "mings-upholstery",
+  "business": "Ming's Upholstery",
+  "town": "Poway, CA",
+  "website": "https://mingsupholstery.com/",
+  "phone": "(858) 486-3268",
+  "generated": "2026-10-14",
+  "prospectId": "1791993613508-p5j6a5e",
+  "headline": "Your Google card is up with your address, phone, and hours, but its website link opens a page on another site instead of mingsupholstery.com.",
+  "summary": "Ming's Upholstery at 12319 Poway Rd has been reupholstering furniture, cushions, and auto, boat, and RV interiors for the greater San Diego area for, in your words, \"over 35 years\". Google Maps has a card with your address, phone, hours, and photos. The leftover is the website link on that card: it lists mings-upholstery.poi.place, which forwards to a listing page on mings-upholstery.edan.io, not your own site. Your own site also prints Poway, CA 92604 in both address blocks, while Poway is 92064.",
+  "signals": [
+    {"id": "found", "lamp": "lit", "note": "Google Maps shows Ming's Upholstery, Upholstery shop, 12319 Poway Rd, Poway, CA 92064, with (858) 486-3268, hours, and photos. Google showed Open, closes 5 PM, when we checked.", "next": "Nothing to change on the basics."},
+    {"id": "call", "lamp": "lit", "note": "Google and your site both list (858) 486-3268, and your site prints mingsupholstery@att.net.", "next": "Nothing to change."},
+    {"id": "hours", "lamp": "lit", "note": "Your site lists Monday to Friday 9 to 5, Saturday 9 to 3, closed Sunday. Google showed the same 5 PM weekday close.", "next": "Nothing to change. The site prints the hours twice in a row in two formats; one line is enough."},
+    {"id": "photos", "lamp": "lit", "note": "The Google card has photos.", "next": "Add a before and after of a recent piece now and then."},
+    {"id": "site", "lamp": "dim", "note": "The website on your Google card is mings-upholstery.poi.place. It forwards to mings-upholstery.edan.io, a listing page with its own write-up and reviews, not mingsupholstery.com.", "next": "Change the website on your Google card to https://mingsupholstery.com/."},
+    {"id": "nap", "lamp": "dim", "note": "Both address blocks on mingsupholstery.com print Poway, CA 92604. Google shows Poway, CA 92064.", "next": "Fix the ZIP on the site to 92064."}
+  ]
+}

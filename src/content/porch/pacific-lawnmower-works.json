@@ -1,0 +1,19 @@
+{
+  "slug": "pacific-lawnmower-works",
+  "business": "Pacific Lawnmower Works",
+  "town": "Santee, CA",
+  "website": "https://www.pacificlawnmowerworks.com/",
+  "phone": "(619) 583-8797",
+  "generated": "2026-10-14",
+  "prospectId": "1791993622254-vmxl3cz",
+  "headline": "Your site shows (619) 583-8797, but tapping that number dials (619) 393-4824.",
+  "summary": "Pacific Lawnmower Works repairs and sells lawn and garden equipment, and after \"more than 90 years in San Diego\" the shop has moved to 9565 Pathway St, Suite A, in Santee. Google Maps has a card for Pacific Lawn Mower Works with the new address, (619) 583-8797, hours, and your website. The leftover is the phone link on your site: the number on the page reads (619) 583-8797, but the tap-to-call link behind it dials (619) 393-4824, so someone calling from a phone may reach a different line.",
+  "signals": [
+    {"id": "found", "lamp": "lit", "note": "Google Maps shows Pacific Lawn Mower Works, Lawn mower store, 9565 Pathway St suite a, Santee, CA 92071, with pacificlawnmowerworks.com and (619) 583-8797. Google showed Open, closes 5 PM, when we checked.", "next": "Nothing to change on the basics."},
+    {"id": "call", "lamp": "dim", "note": "Every page shows (619) 583-8797, but the tap-to-call link on that number dials (619) 393-4824. Google lists 583-8797.", "next": "Point the tap-to-call link at (619) 583-8797 so it matches the number on the page."},
+    {"id": "hours", "lamp": "dim", "note": "Your site lists Mon to Fri 8:00 am to 5:00 pm and Sat to Sun closed, then adds \"We are closed the last Saturday of each month. October - February we are closed every Saturday.\"", "next": "Say plainly which Saturdays you are open, and match Google to it."},
+    {"id": "photos", "lamp": "lit", "note": "The Google card has photos.", "next": "Add a fresh shop or repair shot now and then."},
+    {"id": "site", "lamp": "lit", "note": "pacificlawnmowerworks.com is live with the new Santee address, brand pages, and a contact form. The site does not print an email address.", "next": "Add paclawn@yahoo.com or another inbox to the Contact page so people can write without the form."},
+    {"id": "nap", "lamp": "lit", "note": "Google and your site agree on 9565 Pathway St in Santee. Google spells the name Pacific Lawn Mower Works, your site uses Pacific Lawnmower Works.", "next": "Pick one spelling and use it on Google and the site."}
+  ]
+}
