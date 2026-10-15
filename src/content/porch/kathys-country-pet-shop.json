@@ -1,0 +1,19 @@
+{
+  "slug": "kathys-country-pet-shop",
+  "business": "Kathy's Country Pet Shop",
+  "town": "Ramona, CA",
+  "website": "https://nextdoor.com/pages/kathys-country-pet-shop-ramona-ca/",
+  "phone": "(760) 789-6272",
+  "generated": "2026-10-15",
+  "prospectId": "1792080486787-hr5kxv6",
+  "headline": "Your Google card is up with your address, phone, and hours, but its website link opens a pet directory page instead of anything of yours.",
+  "summary": "Kathy's Country Pet Shop at 1520 Main St in Ramona does grooming and carries pet supplies, and neighbors on Nextdoor point each other to it with lines like \"Ask Kathy\". Nextdoor named the shop a Neighborhood Favorite in 2017, 2018 and 2019. Google Maps has a card with your address, (760) 789-6272, hours, and photos. The leftover is the website on that card: it lists kathyspetshop.top, which forwards to a Dog Ecomify directory page with its own write-up about the shop, not to your Facebook page or Nextdoor.",
+  "signals": [
+    {"id": "found", "lamp": "lit", "note": "Google Maps shows Kathy's Country Pet Shop, Pet groomer, 1520 Main St A, Ramona, CA 92065, with (760) 789-6272, hours, and photos.", "next": "Nothing to change on the basics."},
+    {"id": "call", "lamp": "lit", "note": "Google and Nextdoor both list (760) 789-6272, and Nextdoor lists calicogrl@aol.com.", "next": "Nothing to change."},
+    {"id": "hours", "lamp": "lit", "note": "Google showed 9:30 AM to 4 PM on the day we checked, the same as Nextdoor. Nextdoor lists Tuesday, Thursday, Friday and Saturday 9:30 AM to 4:00 PM, closed Sunday, Monday and Wednesday.", "next": "Nothing to change."},
+    {"id": "photos", "lamp": "lit", "note": "The Google card has photos.", "next": "Add a fresh groom or shop shot now and then."},
+    {"id": "site", "lamp": "out", "note": "The website on your Google card is kathyspetshop.top. It forwards to dog.ecomify.net, a pet directory page with a long generated write-up about the shop. We did not find a website of your own; Facebook and Nextdoor carry the shop online.", "next": "Change the website on your Google card to your Facebook page, or remove it."},
+    {"id": "nap", "lamp": "lit", "note": "Google and Nextdoor agree on the Kathy's Country Pet Shop name, 1520 Main St, and (760) 789-6272.", "next": "Nothing to change."}
+  ]
+}
