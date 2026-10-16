@@ -1,0 +1,49 @@
+{
+  "slug": "cookie-crunchers",
+  "business": "Cookie Crunchers",
+  "town": "Alpine, CA",
+  "website": "https://cookiecrunchers.com/",
+  "phone": "(760) 791-4040",
+  "generated": "2026-10-16",
+  "prospectId": "1792166419984-p9i9qon",
+  "headline": "We could not find a Google Maps card for Cookie Crunchers in Alpine. Searching the name brings up a Cookie Crunchers in Belgium.",
+  "summary": "Cookie Crunchers bakes and ships cookies from Alpine, with seven flavors on cookiecrunchers.com starting at $14.99 and delivery the day after you order. The leftover is Google: on Google Maps, Cookie Crunchers and cookiecrunchers.com both lead to a business with the same name in Antwerp, Belgium, and Cookie Crunchers Alpine CA shows other bakeries and cookie shops. A local directory, Loving Life Alpine, lists you as Open 24 hours every day.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "On Google Maps we searched Cookie Crunchers Alpine CA, Cookie Crunchers, cookiecrunchers.com, (760) 791-4040, and 1425 Louise Dr. None turned up a card for your bakery. The name search opened a Cookie Crunchers in Antwerp, Belgium; the phone search returned nothing; the address showed a plain pin.",
+      "next": "Set up a free Google Business Profile. A delivery or service-area profile can show where you deliver without listing a home address."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "Your site does not print a phone number. MapQuest lists (760) 791-4040. Your Privacy Policy lists cookiecrunchers1@gmail.com.",
+      "next": "Show the phone or the inbox you want orders to come through on the site and on a Google card."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Loving Life Alpine lists Cookie Crunchers as Open 24 hours, every day of the week. Your site says orders are \"Delivered/Shipped the day after you order unless future date requested\".",
+      "next": "Ask Loving Life Alpine to swap the hours for a line about ordering online, or the hours you take orders."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Every flavor on your site has its own photo, and you link Facebook, Instagram, and TikTok.",
+      "next": "Reuse those cookie photos on a Google card once it is up."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "cookiecrunchers.com is live on Shopify with seven flavors, prices, online ordering, and a Privacy Policy updated July 9, 2026.",
+      "next": "Nothing big."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your home page says \"Bakery in San Diego, California\", while your Privacy Policy and MapQuest list 1425 Louise Drive, Alpine. MapQuest also says cookies start at $12.99; your site shows $14.99.",
+      "next": "Mention Alpine on the site, and ask MapQuest to refresh its description."
+    }
+  ]
+}

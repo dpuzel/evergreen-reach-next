@@ -1,0 +1,49 @@
+{
+  "slug": "tnt-welding",
+  "business": "TNT Welding (TNTWFM Mobile Welding)",
+  "town": "Alpine, CA",
+  "website": "https://tntwfm.com/",
+  "phone": "(619) 402-0120",
+  "generated": "2026-10-16",
+  "prospectId": "1792166413477-0yuvmx3",
+  "headline": "Your site says \"Call Now for 24/7 Welding Solutions\", but your Google card shows you open 7 AM to 5 PM.",
+  "summary": "TNT Welding is Peter Tarantino's mobile welding and fabrication outfit in Alpine, licensed C60 (#1113061), AWS certified, and insured. Your Google card is up as TNT Mobile Welding INC. with your phone, your website, and photos. The leftover is hours: when we checked, the card showed open 7 AM to 5 PM with \"Closes 5 PM\", while your site leads with \"Call Now for 24/7 Welding Solutions\" and \"24-Hour Mobile Welding San Diego\". Someone with an evening emergency who checks Google first may think you are closed.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "Searching TNT Welding Alpine CA on Google Maps opens your card, TNT Mobile Welding INC., listed as a Welder. Searching your phone number opens the same card.",
+      "next": "Nothing needed here."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The card shows (619) 402-0120, the same number on your site and your Nextdoor page.",
+      "next": "Nothing needed here."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "When we checked, the card showed open 7 AM to 5 PM with \"Closes 5 PM\". Your site says \"Call Now for 24/7 Welding Solutions\".",
+      "next": "If you take emergency calls around the clock, set the card to open 24 hours, or add a note on the card that emergency calls are answered after hours."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The card has photos, and your site shows project shots and your Instagram feed.",
+      "next": "Add a few recent gate and handrail jobs to the card now and then."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "tntwfm.com is live with your license number, services, and phone. The Google Maps icon in the footer points to an older listing, TNT Mobile welding-Fabricating & Machining, which now opens an empty map instead of your current card.",
+      "next": "Point the footer icon at your current TNT Mobile Welding INC. card."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The business shows up as TNT Welding on Nextdoor, TNTWFM on your site, and TNT Mobile Welding INC. on Google. Nextdoor lists kelly@tntwfm.com, which your site does not print; the site has a phone and a contact form.",
+      "next": "Pick one name to lead with, and add your inbox to the site if you want email."
+    }
+  ]
+}
