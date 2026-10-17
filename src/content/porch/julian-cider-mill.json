@@ -1,0 +1,49 @@
+{
+  "slug": "julian-cider-mill",
+  "business": "The Julian Cider Mill",
+  "town": "Julian, CA",
+  "website": "https://www.juliancidermill.com/",
+  "phone": "(760) 765-1430",
+  "generated": "2026-10-17",
+  "prospectId": "1792253160694-eh93gwj",
+  "headline": "Your Google card lines up with your site. The one leftover is your Events page, which still says \"2025 Season Started October 16th!\"",
+  "summary": "The Julian Cider Mill has pressed cider from Julian apples on Main Street since 1975, alongside home made fudge, classic preserves, nostalgic candies, and local honey. Your Google card has your address, phone, website, and photos, and when we checked, the hours it showed for that day matched your site. The leftover is on your own Events page: it still reads \"First pressing was on October 16th 2025!\" and \"2025 Season Started October 16th!\", while your home page says \"Raw Fresh Apple Cider In Stock Now!\"",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "Searching Julian Cider Mill on Google Maps opens your card, listed as a Cider mill at 2103 Main St, Julian.",
+      "next": "Nothing needed here."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The card shows (760) 765-1430, the same number printed on every page of your site.",
+      "next": "Nothing needed here."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "When we checked, the card showed 9:30 AM to 5:30 PM, matching your site's weekend hours of 9:30am to 5:30pm. Your Shipping page says \"Call 7 days a week 9:30 AM - 5 PM\".",
+      "next": "Nothing big. Keep the card in step with the site when hours change for the holidays."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The card has photos.",
+      "next": "Add a few cider-pressing and caramel apple shots in the fall."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "The Events page still says \"First pressing was on October 16th 2025!\" and \"2025 Season Started October 16th!\" The home page heading reads \"Welcome to \\The Julian Cider Mill!\" with a stray backslash, and a Health & Safety note still reads \"We are following CDC & San Diego County guidelines on sanitation.\"",
+      "next": "Update the season date on the Events page, and tidy the heading and the older health note when you are in there."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Name, 2103 Main Street address, and (760) 765-1430 match between your site and your Google card. The card's website link uses juliancidermillinc.com, which forwards to juliancidermill.com.",
+      "next": "Nothing needed here."
+    }
+  ]
+}
