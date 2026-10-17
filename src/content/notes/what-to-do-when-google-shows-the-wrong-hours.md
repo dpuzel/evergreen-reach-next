@@ -1,5 +1,5 @@
 ---
-title: "What to do when Google shows the wrong hours"
+title: "What to do when Google shows inaccurate business hours"
 summary: "If Google says you're open when you're not, neighbors drive over to a locked door. Here's how to check your hours, fix them, and keep them right."
 date: "2026-10-04"
 topic: "Google listing"
