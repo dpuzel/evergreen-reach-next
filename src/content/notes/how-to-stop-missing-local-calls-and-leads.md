@@ -1,5 +1,5 @@
 ---
-title: "How to Stop Missing Local Calls & Leads"
+title: "How to stop missing business calls (and the leads behind them)"
 summary: "Getting found does not help if the call rings out or the form goes nowhere."
 date: "2026-08-16"
 topic: "Local leads"
