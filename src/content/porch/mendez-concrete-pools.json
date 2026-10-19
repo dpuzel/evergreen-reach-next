@@ -1,0 +1,49 @@
+{
+  "slug": "mendez-concrete-pools",
+  "business": "Mendez Concrete & Pools (Mendez Concrete Works Solutions)",
+  "town": "Ramona, CA",
+  "website": "https://sites.google.com/view/mendez-concrete-pools",
+  "phone": "(619) 540-1601",
+  "generated": "2026-10-19",
+  "prospectId": "1792426719390-wtp2a8u",
+  "headline": "Google sends people to your new site, but your Nextdoor page still points them to Instagram.",
+  "summary": "Mendez Concrete & Pools is Fernando Mendez Garcia's concrete and pool contractor in Ramona, licensed C-8 Concrete and C53 Swimming Pool (CSLB #1089745, current and active). Your Google card is up as MENDEZ CONCRETE & POOLS with your phone, hours, photos, and a link to your Google Site, and you answer neighbors' concrete requests on Nextdoor yourself. The leftover is your Nextdoor page: its website link still goes to an Instagram share link instead of the site your Google card uses.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "Searching Mendez Concrete Works Solutions, Mendez Concrete Ramona, or (619) 540-1601 on Google Maps opens your card, MENDEZ CONCRETE & POOLS, listed as a Concrete contractor.",
+      "next": "Nothing needed here."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The card, your site, Nextdoor, and your CSLB record all show (619) 540-1601.",
+      "next": "Nothing needed here."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "When we checked, the card showed 7 AM to 5 PM, matching the 7:00 AM to 5:00 PM hours on Nextdoor.",
+      "next": "Nothing needed here. Your site does not list hours, if you want to add them."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The card has photos, and your Nextdoor page has a photo gallery.",
+      "next": "Add a recent driveway or pool deck now and then."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "Your Google Site lists your concrete and pool services, your email, your phone, and your license number. Your Nextdoor page links to instagram.com/mendez_concrete_works instead of this site.",
+      "next": "Swap the Nextdoor website link to https://sites.google.com/view/mendez-concrete-pools."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your license is under Mendez Concrete Works Solutions, Google and your site say MENDEZ CONCRETE & POOLS, the Nextdoor page title is CONCRETE & POOLS, and Yelp says Mendez Concrete Works.",
+      "next": "Pick the name you want neighbors to search for and use it everywhere."
+    }
+  ]
+}
