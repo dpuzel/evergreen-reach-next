@@ -4,46 +4,46 @@
   "town": "Ramona, CA",
   "website": "https://jmmaintenanceandrepair.godaddysites.com/",
   "phone": "(619) 948-1756",
-  "generated": "2026-10-19",
+  "generated": "2026-10-20",
   "prospectId": "1792426727580-do34bit",
   "headline": "Your Google card says you open at 8 AM. Your site says 07:00 am.",
-  "summary": "JM Maintenance and Repair is a veteran owned mobile repair outfit in Ramona: farm equipment and heavy machinery, small gas engines, welding and fabrication, trash enclosures, backflow cages, and gate repair. Your Google card is up with your phone and website. The leftover is hours: when we checked, the card showed 8 AM to 5 PM, while your site lists 07:00 am to 05:00 pm Monday through Friday. Someone checking Google before 8 may think you are not open yet.",
+  "summary": "JM Maintenance and Repair is a veteran owned mobile repair outfit based in Ramona, covering farm equipment and heavy machinery, small gas engines, welding and fabrication, custom trash enclosures, backflow and water main cages, and gate repair. Google Maps has a card for JM Maintenance and Repair, category Farm equipment repair service, with your phone and your site linked, and your site lays out every service, your weekday hours, your email, and a quote form. Name and phone agree between the two. The main leftover is the opening time: when we checked, the card showed 8 AM to 5 PM, while your site lists 07:00 am to 05:00 pm Monday through Friday. The rest are gentle polish items: photos on the card, your own web address, a dated footer, and a quiet Yelp page.",
   "signals": [
     {
       "id": "found",
       "lamp": "lit",
-      "note": "Searching JM Maintenance and Repair Ramona on Google Maps opens your card, listed as a Farm equipment repair service.",
-      "next": "Nothing needed here."
+      "note": "Searching JM Maintenance and Repair Ramona on Google Maps opens your card, listed as a Farm equipment repair service. Searching your phone number, (619) 948-1756, opens the same card. That is a solid start for a mobile shop with no storefront.",
+      "next": "Ask a few happy customers to leave a short Google review that mentions the job, like a tractor repair or a gate. Those words help the card come up when neighbors search for that kind of work."
     },
     {
       "id": "call",
       "lamp": "lit",
-      "note": "The card shows (619) 948-1756, the same number on your site.",
-      "next": "Nothing needed here."
+      "note": "The card shows (619) 948-1756, the same number at the top of your site and in your contact block. The site also invites people to call or text during business hours.",
+      "next": "Add a line to the Google card description that texting works too. Ranch customers often text a photo of the problem first."
     },
     {
       "id": "hours",
       "lamp": "dim",
-      "note": "When we checked, the card showed 8 AM to 5 PM. Your site lists 07:00 am to 05:00 pm Monday through Friday, Saturday by appointment, Sunday closed.",
-      "next": "Change the card's opening time to 7 AM, and add Saturday by appointment if Google allows it."
+      "note": "When we checked, the Google card showed 8 AM to 5 PM. Your site lists 07:00 am to 05:00 pm Monday through Friday, Saturday By Appointment, and Sunday Closed. Someone checking Google before 8 may think you are not open yet.",
+      "next": "Change the card's opening time to 7 AM so it matches the site. If Google lets you, add a note that Saturday is by appointment."
     },
     {
       "id": "photos",
       "lamp": "out",
-      "note": "The card has no photos yet; Google shows an Add a photo prompt.",
-      "next": "Add a few shots of the truck, a repair, and a gate or cage you built."
+      "note": "The Google card has no photos yet; it shows an Add a photo prompt. Your site already carries your JM logo and a photo, so there is material to start with.",
+      "next": "Add a handful of photos to the card: your truck, a repair in progress, and a finished gate, cage, or trash enclosure. Work photos tell a ranch owner more than any description."
     },
     {
       "id": "site",
-      "lamp": "lit",
-      "note": "Your site lists every service, your hours, your phone, your email, and a quote form.",
-      "next": "Nothing big."
+      "lamp": "dim",
+      "note": "Your site covers every service, your hours, and a quote form. It lives on the free address jmmaintenanceandrepair.godaddysites.com rather than a domain of your own, and the footer still reads \"Copyright © 2024 JM Maintenance and Repair\".",
+      "next": "When it suits you, a short domain of your own is easier to say over the phone and print on the truck. Updating the footer year is a quick edit in the GoDaddy builder."
     },
     {
       "id": "nap",
       "lamp": "lit",
-      "note": "Name and phone match between your site and your Google card, and the card links to your site.",
-      "next": "Nothing needed here."
+      "note": "Your name and phone match between your site and your Google card, and the card links straight to your site. When we looked, your Yelp listing for JM Maintenance and Repair was claimed but had no reviews yet.",
+      "next": "Keep the name and number exactly the same everywhere. Asking one or two regulars to post on Yelp too would give that page some life."
     }
   ]
 }
