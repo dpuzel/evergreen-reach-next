@@ -1,0 +1,48 @@
+{
+  "slug": "think-cute-bakes",
+  "business": "Think Cute Bakes",
+  "town": "Lakeside, CA",
+  "website": "https://thinkcuteboutique.com/",
+  "generated": "2026-10-21",
+  "prospectId": "1792596360743-c8j1ete",
+  "headline": "Google shows Think Cute Boutique in La Mesa, but the bakery you are building is in Lakeside.",
+  "summary": "Think Cute Bakes is a cottage bakery in Lakeside making slow-fermented sourdough and small-batch baked goods with organic ingredients, from loaves and English muffins to cookies, scones, and cinnamon rolls. It lives inside the Think Cute Boutique site, which also sells clothing and accessories, and new bakery customers join The List for menu releases and pickup details. That waitlist approach suits a small batch bakery. The main leftover is that Google Maps shows a Think Cute Boutique card at 4695 Date Ave in La Mesa with no phone, and nothing for the Lakeside bakery. The rest is small site cleanup.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "dim",
+      "note": "Google Maps has a card for Think Cute Boutique at 4695 Date Ave, La Mesa, with your site linked. A search for Think Cute Bakes in Lakeside lands on that La Mesa card, not the bakery.",
+      "next": "Decide whether the bakery should get its own card (service area, Lakeside pickup) or update the existing card's category and area."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The site lists support@thinkcuteboutique.com, and the Google card shows no phone number. Someone who finds the card has no quick way to ask about an order.",
+      "next": "Add a phone or a clear 'email us to order' line to the Google card."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The bakery section explains that items sell out and The List gets first access, but no pickup days or times are shown. Customers who are not on The List yet cannot tell when bread is ready.",
+      "next": "Add a pickup window line, even a general one, to the bakery page and Google."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The site carries product and brand imagery, and Instagram and Facebook are linked. The Google card does not show the bakery side yet.",
+      "next": "Add a few loaf and pastry photos to the Google card so bread searchers see the bakery side."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "A banner at the top reads \"UNDER CONSTRUCTION\". The footer Facebook and Instagram links are missing their https, so they open pages on your own shop address instead of the social sites.",
+      "next": "Fix the two social links and take down the banner once the bakery collection is set."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The site says the bakery is in Lakeside, while Google lists La Mesa, and the site prints no street or phone. A customer could reasonably wonder which town to pick up in.",
+      "next": "Pick one public location story, Lakeside pickup or La Mesa, and use it on both."
+    }
+  ]
+}

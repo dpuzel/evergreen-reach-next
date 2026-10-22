@@ -1,0 +1,49 @@
+{
+  "slug": "way-of-the-horse-farrier",
+  "business": "Way of the Horse Farrier Services",
+  "town": "San Diego County, CA",
+  "website": "https://www.wayofthehorsefarrier.com/",
+  "phone": "(316) 806 0620",
+  "generated": "2026-10-21",
+  "prospectId": "1792596351013-fwly09e",
+  "headline": "Horse owners in Lakeside, Jamul, and Alpine won't find you on Google Maps yet.",
+  "summary": "Way of the Horse Farrier Services is Tyler Joseph, a farrier trained at Heartland Horseshoeing School under Chris Gregory, working with horses, ponies, minis, mules, and donkeys with varying behavioral issues. The site lists East County first in its service areas (Lakeside, Jamul, Alpine, El Cajon, Rancho San Diego), then South and North County, with online booking and a New Client Intake Form. That is a tidy setup for a mobile shop. The main gap is Google Maps, where we found no card under your name, so barn owners searching for a farrier see others first. The rest is small, mostly about the phone and where you are based.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "A Google Maps search for Way of the Horse Farrier Services showed other San Diego farriers and tack shops, but no card for you. Barn owners who search Maps first will call someone else.",
+      "next": "Set up a free Google Business Profile as a service area business and list the East County towns from your site."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The site shows (316) 806 0620 and wothfarrier@gmail.com with working links. 316 is a Kansas area code, which can make a San Diego horse owner pause before calling.",
+      "next": "Keep the number if it works for you, and add a line near it saying you are based in San Diego County."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "The site states \"Hours: 7am - 2pm\" right above the service areas, which is clear for a mobile farrier. That lets owners plan a trim before the day heats up.",
+      "next": "Put the same hours on the Google profile once it is set up."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "There is a Portfolio section on the site, and Instagram, Facebook, and TikTok are linked, but no Google card to carry photos. Your Portfolio already shows the kind of careful work horse owners want to see, so putting a few of those shots on Google would help them choose you.",
+      "next": "Add five or six before and after hoof photos to the new Google profile."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "wayofthehorsefarrier.com loads, explains your approach, lists service areas, and has online booking plus an intake form. It reads like a careful, professional mobile shop.",
+      "next": "Add a short FAQ on trim and shoe cycles so new clients know what to expect."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The site gives the business name and service areas but no home base town, and there is no Google card to match. Google needs a base or service area to show you in local searches.",
+      "next": "Name your base town on the site and use the exact business name on Google."
+    }
+  ]
+}

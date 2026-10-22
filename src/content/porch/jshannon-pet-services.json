@@ -1,0 +1,49 @@
+{
+  "slug": "jshannon-pet-services",
+  "business": "JShannon Pet Services",
+  "town": "Ramona, CA",
+  "website": "https://www.jshannonpetservices.com/",
+  "phone": "1-760-394-8324",
+  "generated": "2026-10-21",
+  "prospectId": "1792596344817-wttetdz",
+  "headline": "Neighbors searching for in-home pet care in Ramona won't find you on Google Maps yet.",
+  "summary": "JShannon Pet Services is Josephine Shannon, RVT, a Navy Veteran who has worked in the veterinary field since 2016 and brings vet tech care into homes in Ramona and the surrounding areas. The site covers pet sitting with daily pictures, limited grooming, medication administration, and subcutaneous fluids, with prices posted for each. That is a rare and useful mix for pet owners. The one big gap is Google Maps: we could not find a card for the business, so a search for pet sitting in Ramona shows other shops instead. The rest is small polish on the site.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "We searched Google Maps for JShannon Pet Services in Ramona and found no card for the business. The results showed other Ramona pet boarding, grooming, and vet listings.",
+      "next": "Create a free Google Business Profile as a service area business covering Ramona, so you can list without showing a home address."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The phone 1-760-394-8324 and jshannonpetservices@gmail.com sit at the top of every page, and there is a Contact page and Get in Touch buttons under each service. That makes it easy for a pet owner to reach you the moment they need a sitter.",
+      "next": "Put the same phone and email on the Google profile once it is set up so all three match."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The site lists services and prices but no availability, like which days you take visits or how far ahead to book. Pet owners planning a trip usually want to know that before they reach out.",
+      "next": "Add one line on booking lead time and visit windows; it saves back and forth messages."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The pages we read lean on text, and there are no photos on Google because there is no Google card yet. Pet owners like to see the person who will be in their home with their animals.",
+      "next": "Add a few photos of you with client pets (with permission) to the site and to the new Google profile."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "The site is clear: who you are, your RVT license, services, and posted prices including travel and medication fees. The Testimonials page gives neighbors a reason to trust you.",
+      "next": "Add a short line naming the towns you cover past Ramona, since the travel fee runs up to 30 miles."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The site gives the name and Ramona but no street or service area list, and there is no Google card to compare against. That is fine for a home based service, but Google will need a service area to show you in local results.",
+      "next": "When you build the Google profile, use JShannon Pet Services exactly as on the site and list the towns you serve."
+    }
+  ]
+}

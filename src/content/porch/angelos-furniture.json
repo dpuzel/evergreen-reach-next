@@ -1,0 +1,49 @@
+{
+  "slug": "angelos-furniture",
+  "business": "Angelo's Furniture Refinishing & Repair",
+  "town": "Lakeside, CA",
+  "website": "https://www.angelosfurniture.com/",
+  "phone": "(619) 390-9718",
+  "generated": "2026-10-21",
+  "prospectId": "1792615138084-bztxgkk",
+  "headline": "Google shows different open days and a different opening time than your site and Nextdoor.",
+  "summary": "Angelo's Furniture Refinishing & Repair is a family-owned wood furniture shop in Lakeside that refinishes antiques and full dining and bedroom sets, makes missing or broken parts, and does hand and sheet caning, pool table refinishing, gold leafing, and insurance estimates, with pickup and delivery. Neighbors on Nextdoor named you a Neighborhood Favorite in 2024 and point others your way for antique chairs, saying the repaired pieces are hard to tell from the originals. Google Maps has a card at 11355 Santa Maria Ave in Lakeside with your phone and angelosfurniture.com linked, but it is thin, with no photos of your work and Furniture maker as the category. The leftovers are mostly about that Google card and your hours, plus two different email addresses in circulation and an unclaimed Nextdoor page.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "dim",
+      "note": "You show up on Google Maps as Angelo's Furniture Refinishing & Repair at 11355 Santa Maria Ave, Lakeside, with your phone and website. The category is Furniture maker, so the card may not come up when someone searches for furniture refinishing or antique restoration, and it carries only a single review.",
+      "next": "Switch the main category to a repair or restoration one (for example Furniture repair shop) and ask a few of the Nextdoor neighbors who recommend you to leave a line on Google."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "(619) 390-9718 matches on the site, Google, and Nextdoor, and the site has a tap-to-call link. The email differs by place: the site lists angelosfurn@cox.net and Nextdoor lists angelosfurn@gmail.com.",
+      "next": "Choose one email and use it on the site, Nextdoor, and Google, so photo quote requests land in the inbox you actually check."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google shows Tuesday to Friday 8 AM to 5 PM and closed Saturday through Monday. The site and Nextdoor say Monday to Friday 9 AM to 5 PM, and the site adds Saturday by appointment.",
+      "next": "Pick your real hours and set Google, the site, and Nextdoor to match, including Saturday by appointment if that still holds."
+    },
+    {
+      "id": "photos",
+      "lamp": "out",
+      "note": "In the Google Maps view we checked, the card showed only Street View imagery and no photos of your work. For refinishing, before-and-after pictures are what convince people to call.",
+      "next": "Upload a few before-and-after pieces to Google, like a set of refinished dining chairs or an antique you're proud of, and add new ones as jobs finish."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "angelosfurniture.com loads and lists every service, with your phone, email, and hours, plus links to Facebook and Yelp. The browser tab reads Angelo's Furniture Refinishing & Restoration while the name everywhere else is Refinishing & Repair, and the services list appears twice with slightly different items.",
+      "next": "Match the page title to the business name and merge the two services lists into one."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The name and phone match on Google, Nextdoor, and the site. The site gives no street address (it says Serving All of San Diego County), Google puts you on Santa Maria Ave, and the Nextdoor page still shows Is this your business?, so it has not been claimed.",
+      "next": "Claim the free Nextdoor business page so you can fix its details and thank the neighbors who recommend you."
+    }
+  ]
+}

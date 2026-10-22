@@ -1,0 +1,49 @@
+{
+  "slug": "air-flohs",
+  "business": "Air Flohs",
+  "town": "Poway, CA",
+  "website": "https://airflohshvac.com/",
+  "phone": "(858) 748-6437",
+  "generated": "2026-10-21",
+  "prospectId": "1792615109869-kb5gs4a",
+  "headline": "Neighbors keep recommending you on Nextdoor, but your Google card shows no hours and no photos.",
+  "summary": "Air Flohs is a second-generation, family-owned heating and air conditioning business that has worked out of Poway for over 25 years, maintaining, installing, and repairing home systems plus light commercial work. Nextdoor named you a Neighborhood Favorite every year from 2021 through 2025, and neighbors there were still recommending you in October 2026, describing the team as reliable and honest. Google Maps has a card for Air Flohs at 16232 Martincoit Rd with your phone and airflohshvac.com linked, and your CSLB license (#724414, C20) is listed through June 2027. The leftovers are mostly about the Google card looking thin next to that word of mouth: no hours, no photos of your own, and an air conditioning only category. The website and Nextdoor page could also point to each other.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Air Flohs, Air conditioning contractor, at 16232 Martincoit Rd in Poway, with (858) 748-6437 and airflohshvac.com on the card. Someone searching for AC help near Poway can find you and tap to call.",
+      "next": "Add a heating category (such as Heating contractor or HVAC contractor) next to Air conditioning contractor, since you do heaters and furnaces too and the card only names air conditioning."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "(858) 748-6437 is the same on Google, Nextdoor, and the top of the website, and the site opens with a Contact us for a quote line. Your Nextdoor page also lists airflohshvac@gmail.com.",
+      "next": "Add that email to the website too, so someone reading at night can send a quick note and photos instead of waiting to call in the morning."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "The Google card shows no hours at all. Nextdoor lists Monday to Friday, 8:30 AM to 5:00 PM, and the website pages we read print no hours.",
+      "next": "Add the same Monday to Friday 8:30 to 5:00 hours to the Google profile and one line on the website, so people know when someone will pick up."
+    },
+    {
+      "id": "photos",
+      "lamp": "out",
+      "note": "In the Google Maps view we checked, the card showed only Street View imagery and no photos added by the business. The website leans on a stock photo, so a neighbor never sees your trucks, your team, or a finished install.",
+      "next": "Upload a handful of real photos to Google, like the work van, a finished condenser or furnace install, and your crew on a job, then reuse one or two on the home page."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "airflohshvac.com loads with your family story, your license number on the About page, and a careers link. The pages we read show no email, no hours, and no list of the towns you cover, and your Nextdoor page does not link to the website at all.",
+      "next": "Add a short services and service area section on the home page, and add the website link to your Nextdoor business page so neighbors can click through."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "The name Air Flohs, 16232 Martincoit Rd, and (858) 748-6437 match on Google and Nextdoor, and the site gives Poway, CA with the same phone. That consistency helps Google trust the card.",
+      "next": "Keep the name and phone exactly like this everywhere, and invite happy Nextdoor neighbors to leave a line on Google too so the card catches up with your reputation."
+    }
+  ]
+}

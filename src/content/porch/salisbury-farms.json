@@ -1,0 +1,49 @@
+{
+  "slug": "salisbury-farms",
+  "business": "Salisbury Farms",
+  "town": "Lakeside, CA",
+  "website": "https://salisburyfarms.net/",
+  "phone": "(619) 848-3466",
+  "generated": "2026-10-21",
+  "prospectId": "1792596341227-kie4fzd",
+  "headline": "Your site asks people to text (619) 848-3466, but Google rings (619) 723-6202.",
+  "summary": "Salisbury Farms is a privately owned ranch at 13530 Willow Rd in Lakeside, running a riding academy for all ages, a horse training program, boarding for training clients, and Equine Assisted Psychotherapy with Dr. Amy Oleson. The facility has 4 working arenas, 4 round pens, and easy trail access, and the site lays that out clearly with a $400 boarding rate. Google Maps has a card for Salisbury Farms, category Horseback riding service, at the same address with your website linked. The leftovers are mostly about which number people reach, since the site header and Google point to two different phones, plus a few small site tidy ups.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Salisbury Farms, Horseback riding service, 13530 Willow Rd, Lakeside, with salisburyfarms.net linked. Someone searching riding lessons near Lakeside can find the ranch and get directions.",
+      "next": "Post a lesson or arena photo to the Google card every month or two so it reads as an active barn."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "The site header says \"Text or Call us at (619) 848-3466 | (Text Is preferred)\". Google lists (619) 723-6202, which is the number the Boarding & Training page gives for training. A parent tapping call on Google reaches a different line than the one you ask people to text.",
+      "next": "Pick the number you want new families to reach first and put that one on Google, with the other kept on the site for training."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google showed 8 AM to 8 PM on the day we checked. The home and Boarding & Training pages we read print no hours or lesson times.",
+      "next": "Add a short hours or visiting times line to the Contact page that matches Google."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The site carries ranch photos and has its own Gallery page, and the Instagram account is linked from the footer. That gives families a real feel for the ranch before they visit.",
+      "next": "Swap in one or two current lesson photos on the home page so new riders see the arenas as they are now."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "salisburyfarms.net loads and explains every program, with a blog on riding and horse care. The footer still reads © 2023, and the farm name is misspelled once in the home page welcome line.",
+      "next": "Update the footer year and give the welcome line a quick spelling pass."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "The name and 13530 Willow Rd, Lakeside, CA 92040 match on the site and Google, and Google links straight to salisburyfarms.net. That match is a big part of why a family searching for riding lessons near Lakeside can find the ranch and get directions so easily.",
+      "next": "Keep the name and address exactly like this on every listing."
+    }
+  ]
+}

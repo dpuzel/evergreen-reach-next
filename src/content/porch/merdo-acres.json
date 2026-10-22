@@ -1,0 +1,49 @@
+{
+  "slug": "merdo-acres",
+  "business": "Merdo Acres Wood Design Studio",
+  "town": "Julian, CA",
+  "website": "https://www.merdoacres.com/",
+  "phone": "(760) 803-2006",
+  "generated": "2026-10-21",
+  "prospectId": "1792615131622-jyev6jk",
+  "headline": "Your home page title says 4470 Julian Rd, but your Contact page and Google say the studio is inside C Street and Main.",
+  "summary": "Merdo Acres Wood Design Studio is Molly and Brian's handmade woodworking studio in Julian, making cutting boards, charcuterie boards, serving trays, lazy susans, and ocean-inspired beach epoxy wine glasses and mugs with food-safe epoxy. The retail studio opened in Julian in December 2019, is open seasonally on weekends or by appointment, and the site doubles as an online shop with clear product pages and a press list. Google Maps has a card for Merdo Acres Wood Design Studio, category Woodworker, with your phone, merdoacres.com linked, photos, and Friday to Sunday hours. The leftovers are about where to find you: the home page title and the Contact page give two different locations, and the Google address line reads a little oddly. The rest is small, like posting your hours on the site.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Merdo Acres Wood Design Studio, category Woodworker, in Julian, with 760-803-2006 and merdoacres.com on the card. Visitors in town can find the studio and get directions.",
+      "next": "Add Gift shop as a second category, so you come up when day-trippers search for gifts in Julian and not only for woodworkers."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "760-803-2006 is the same on the Contact page and Google, and the Contact page has a working email link to merdoacres@yahoo.com. The home page itself shows no phone or email.",
+      "next": "Add the phone and email to the footer, so shoppers looking at a board can ask about custom orders without hunting for the Contact page."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google lists Friday and Saturday 11 AM to 5 PM and Sunday 1 to 5 PM. The site says the studio is open seasonally on the weekends but doesn't print the hours.",
+      "next": "Add the same weekend hours to the Contact or About page, and update Google whenever the season changes."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The site is full of clear product photos across boards, trays, glasses, and mugs, and Google has photos on your card. That is exactly what a gift shopper wants to see before driving up.",
+      "next": "Add a photo of the studio entrance to Google, so first-time visitors know which door to look for."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "merdoacres.com loads quickly with a shop, product categories, an FAQ, and an About page listing your press, from SD Voyager to Canvas Rebel. It reads like a real maker's studio, not a template.",
+      "next": "Feature one or two of the newest pieces on the home page, and link a favorite press article from there so visitors see it without digging."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The home page title reads 4470 Julian Rd, Julian, CA 92036. The Contact and About pages say the studio is inside C Street and Main in downtown Julian, and the Google address line reads \"C Street and, Main St\".",
+      "next": "Pick the current studio address and use it in the page title, on the Contact page, and on Google so all three agree."
+    }
+  ]
+}

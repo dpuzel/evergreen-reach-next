@@ -1,0 +1,49 @@
+{
+  "slug": "antonellis-deli",
+  "business": "Antonelli's Deli",
+  "town": "El Cajon, CA",
+  "website": "https://www.antonellisfamilydeli.com/",
+  "phone": "(619) 440-8460",
+  "generated": "2026-10-21",
+  "prospectId": "1792615123557-x6lu98m",
+  "headline": "Your Nextdoor page links antonellisdeli.com, and that address does not load.",
+  "summary": "Antonelli's Deli is a family-run East Coast style deli on N Magnolia Ave in El Cajon, open since the summer of 1984 with roots in New Jersey in the 1960s, known for bread baked fresh daily and big subs. Neighbors on Nextdoor named it a Neighborhood Favorite in 2021, 2023, 2024 and 2025, and longtime customers there still tell newcomers to phone their order in ahead. Google Maps has a solid card with the right phone, your website, and hours that match the site. The one real leftover is on Nextdoor: the website listed there is antonellisdeli.com, which does not load, while your working site is antonellisfamilydeli.com. The rest is small naming and address tidy up across listings.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Antonelli's Deli, category Deli, at 1354 Magnolia Ave, El Cajon, with antonellisfamilydeli.com linked and (619) 440-8460. Nextdoor, Tripadvisor, Yelp and Uber Eats all list you too, so people searching for a sub in East County find you easily.",
+      "next": "Reply to a few recent Google reviews now and then; regulars read the replies and new customers see a deli that is paying attention."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The site, Google and Nextdoor all give (619) 440-8460, and the site asks people to call rather than email orders. Neighbors on Nextdoor say the same thing, that phoning ahead saves a 30 to 45 minute wait.",
+      "next": "Put a short \"call ahead to skip the wait\" line on the Google card description too, since that is where most first timers look."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "The site lists Tuesday to Friday 7 am to 4 pm, Saturday 8 am to 4 pm, Sunday and Monday closed, and Google and Nextdoor match. Uber Eats shows earlier cutoffs for app orders, which is normal for delivery menus.",
+      "next": "Keep holiday closures posted on Google first, since that is the hours source most people check."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The site carries its own food and storefront photos, and Google has customer and owner photos on the card. Food photos are what make a passerby stop in for a sub.",
+      "next": "Add a fresh photo of a #8 or #22 on the Google card now and then so the signature subs stay at the top."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "antonellisfamilydeli.com loads with the full menu, online ordering, gift cards, and the Find Us block. The Party Subs tab shows sizes and prices that look mislabeled, and the footer reads SpotOn ©2024.",
+      "next": "Have SpotOn recheck the Party Subs sizes and prices, since that is the tab catering customers read most closely."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Nextdoor lists the website as antonellisdeli.com, and that domain does not resolve; the name servers refused the lookup when we checked. Google shows the name as Antonelli's Deli and drops the N from N Magnolia Ave, while the site uses Antonelli's Family Deli.",
+      "next": "Change the Nextdoor website to antonellisfamilydeli.com, and add the N to the Google street line so every listing reads the same."
+    }
+  ]
+}

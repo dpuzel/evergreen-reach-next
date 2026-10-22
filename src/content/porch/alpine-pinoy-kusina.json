@@ -1,0 +1,49 @@
+{
+  "slug": "alpine-pinoy-kusina",
+  "business": "Alpine Pinoy Kusina",
+  "town": "Alpine, CA",
+  "website": "https://lovinglifealpine.com/alpine_directory/alpine-pinoy-kusina/",
+  "phone": "(510) 779-4449",
+  "generated": "2026-10-21",
+  "prospectId": "1792596355463-9t5wsx3",
+  "headline": "Neighbors searching for Filipino food in Alpine won't find you on Google Maps yet.",
+  "summary": "Alpine Pinoy Kusina cooks authentic, home-cooked Filipino dishes in Alpine and is known for crispy Pork and Chicken Lumpia, with pickup, free delivery around Alpine, and party trays ordered a day ahead. You were a food vendor at December Nights 2025 in Balboa Park, which is a real local credential. Right now the main place to find you online is the Loving Life Alpine directory. We found no Google Maps card and no website, so anyone searching for Filipino food or lumpia near Alpine sees other places first. The rest is about making the menu easy to find.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "A Google Maps search for Alpine Pinoy Kusina at 1750 Arnold Way returned only the bare street address, with no business card. Neighbors searching for Filipino food or lumpia near Alpine see other places first.",
+      "next": "Create a free Google Business Profile; you can list as a service area business for pickup and delivery around Alpine."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The Loving Life Alpine listing gives (510) 779-4449 and alpinepinoykusina@gmail.com with Call Now and Send Email buttons. Both buttons work, so people can reach you either way.",
+      "next": "Use the same phone and email on Google once your card is up."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The Loving Life Alpine listing posts order hours, but one day reads 9:00 am to 12:00 am, which looks like a typo for noon or 6 PM. It also asks for 30 minutes to 2 hours on small orders and a day ahead for party trays.",
+      "next": "Fix the odd closing time on the directory and post the same hours on Google once your card is up."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The directory listing is mostly text, and there is no Google card to carry food photos. For home cooked food, pictures are what get people to order.",
+      "next": "Add lumpia and party tray photos to the Google profile; food photos do most of the selling."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "There is no website, and the directory says \"Message us for menu.\" Anyone who wants to browse first has to wait on a reply.",
+      "next": "A one page menu on the Google profile or a simple free page would let people order without asking first."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The directory lists 1750 Arnold Way, Alpine with the phone and email, and there is nothing on Google to compare against. Once a Google card exists, the details should match the directory exactly.",
+      "next": "Use the exact name Alpine Pinoy Kusina everywhere, and decide whether to show the street or list as service area only."
+    }
+  ]
+}

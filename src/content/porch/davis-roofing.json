@@ -1,0 +1,49 @@
+{
+  "slug": "davis-roofing",
+  "business": "Davis Roofing",
+  "town": "Lakeside, CA",
+  "website": "https://www.davisfamilyroofing.com/",
+  "phone": "(619) 440-0373",
+  "generated": "2026-10-21",
+  "prospectId": "1792615116911-6n45a8f",
+  "headline": "Your site says Lakeside with a ZIP that isn't Lakeside's, and Google pins you on Ablette Rd in Santee.",
+  "summary": "Davis Roofing is a family-owned roofer that has worked across San Diego County for more than 40 years, handling shingle, tile, and flat roofs for homes and commercial buildings, with free estimates. The site puts your C39 license (#670538), BBB accreditation, and liability coverage up front, and its reviews come from neighbors in La Mesa, Santee, and El Cajon. Google Maps has a well-reviewed card for Davis Roofing, category Roofing contractor, at 8527 Ablette Rd in Santee, with your phone, website, and photos. The leftovers are about where and when: the site lists Lakeside with a ZIP that belongs somewhere else, Google shows Santee, and the posted hours don't match. The rest is small site tidy up.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Davis Roofing, Roofing contractor, at 8527 Ablette Rd, Santee, with davisfamilyroofing.com linked, photos, and a strong run of customer reviews. Someone searching for a roofer in East County can find you and call.",
+      "next": "Keep replying to reviews, and add a recent before-and-after roof photo each season so the card shows current work."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "(619) 440-0373 is the same in the site header, on the Contact page, and on Google, and the site shows davisfamilyroofing@gmail.com right beside it. Anyone can reach you by phone or email.",
+      "next": "Make the email a tap-to-send link on the Contact page, so homeowners on a phone can send photos of their roof in one tap."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The site says Mon - Sat 8:00AM - 5:00PM. Google shows a 7 AM opening on weekdays and Saturday ending at noon. Someone calling early or on a Saturday afternoon gets two different answers.",
+      "next": "Pick the real hours and set the site and Google to match, Saturday included."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Google has photos on your card, and the site carries its own images plus a Reviews page. Recent job photos show homeowners the kind of work you do.",
+      "next": "Add a fresh finished-roof photo to Google now and then, with the town in the caption, so the card keeps looking current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "davisfamilyroofing.com loads and covers your services, license, insurance, and reviews. A few loose ends: the page includes a link to a shopping cart, which a roofing site doesn't need, and there are two separate Contact pages (contact-us and contact-us-1) with slightly different content.",
+      "next": "Hide the cart link and retire the duplicate Contact page so every Contact button lands in one place."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The home and Contact pages say Lakeside, CA with a ZIP that isn't Lakeside's (Lakeside is 92040). Google places you at 8527 Ablette Rd in Santee. A customer comparing the two may wonder which town you work from.",
+      "next": "Decide which address you want public, then put the same town and ZIP on the site and on Google."
+    }
+  ]
+}
