@@ -1,0 +1,49 @@
+{
+  "slug": "barn-animal-buddies",
+  "business": "Barn Animal Buddies",
+  "town": "Lakeside, CA",
+  "website": "https://barnanimalbuddies.com/",
+  "phone": "(619) 245-3083",
+  "generated": "2026-10-24",
+  "prospectId": "1792868612437-ogqpu12",
+  "headline": "Your Google card still shows Claim this business, with no barn photos on it yet.",
+  "summary": "Barn Animal Buddies is a small family farm in Lakeside that brings bunnies to birthday parties, runs a mobile petting zoo with a goat, a sheep, a chicken, and bunnies, and hosts semi-private one hour barn visits where families pet and hold the animals. The site spells out every option with clear prices, deposits, and travel fees, and it has a Photos at the Barn gallery. Google has a card for you in Lakeside with your website and (619) 245-3083 on it. The leftovers sit on that card, which still shows a Claim this business link and an Add photos & videos prompt, and on the site, where no hours or service area are printed.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "dim",
+      "note": "Google has a card for Barn Animal Buddies in Lakeside, CA 92040 with barnanimalbuddies.com linked. The card's category reads Ranch while your site calls you a petting zoo, and it still shows a Claim this business link. A family searching for a bunny party or petting zoo near Lakeside gets a card that does not say what you do.",
+      "next": "Claim the card, then set the category to a petting zoo or party service so it matches what families are searching for."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Google and the site both give (619) 245-3083, and the barn visit page names Bianca and Brian as the people to call or text. The home page also lists (619) 561-8508, and the booking pages list (619) 905-7747. A family can reach a real person from any page.",
+      "next": "Add one short line saying which number is best for texting and which for calls, so every family starts with the same one."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google showed open until 6 PM, with 7 AM to 6 PM listed for the day we checked. None of the pages we read on the site print hours or visiting times, and barn visits are booked by calling or texting for a date and time. A parent has to call just to learn when a visit is possible.",
+      "next": "Add one line to the home page such as barn visits by appointment, call or text to book, and set the Google hours to match once the card is claimed."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Your site has a Photos at the Barn gallery full of real family and animal shots, plus Facebook, Instagram, and Yelp icons. The Google card showed only a placeholder image with an Add photos & videos prompt when we looked. For a petting zoo, seeing the bunnies is what makes a family pick up the phone.",
+      "next": "Add six to ten of your best bunny and barn photos to the Google card, starting with the ones from the site gallery and your Yelp page."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "barnanimalbuddies.com loads cleanly with a 2026 footer and pages for barn visits, bunny parties, the mobile petting zoo, and photos. Prices, deposits, add ons, and travel fees are all spelled out. Your email address shows up only on the Mobile Bunny Parties page.",
+      "next": "Add the email address to the home page next to the phone numbers so every page offers the same ways to reach you."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The name matches on the site and Google. Google lists Lakeside, CA 92040, while the site says only Lakeside, Ca. with no ZIP. Neither prints a street address, which suits a family farm, but the site never says what area you serve beyond a travel fee table by miles from the ranch.",
+      "next": "Add a short service area line, such as the Lakeside area and the towns you travel to, on the site and on the Google card once it is claimed."
+    }
+  ]
+}
