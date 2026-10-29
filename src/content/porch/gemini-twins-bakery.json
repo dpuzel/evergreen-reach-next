@@ -1,0 +1,49 @@
+{
+  "slug": "gemini-twins-bakery",
+  "business": "Gemini Twins Bakery",
+  "town": "La Mesa, CA",
+  "website": "https://www.geminitwinsbakery.com/",
+  "phone": "(619) 565-0128",
+  "generated": "2026-10-28",
+  "prospectId": "1793202185919-iyix14t",
+  "headline": "Neighbors all over La Mesa call you a Nextdoor Fave, but Google shows only two short windows a week to find you.",
+  "summary": "Gemini Twins Bakery is a home-based sourdough bakery in La Mesa run by Megan Loney with her wife Crystal Palmer, baking naturally fermented loaves, cookies, scones and seasonal treats under a county cottage food permit. Nextdoor neighbors have named you a Neighborhood Favorite in 19 neighborhoods across La Mesa, Lemon Grove and nearby San Diego, you won in 2025 too, and Times of San Diego featured the bakery in October 2026. Your website and Nextdoor page share the same phone and GTBakery619@outlook.com, and your Google card has that phone and links straight to geminitwinsbakery.com. The main leftover is the schedule: Google shows you open only Tuesday and Friday from 4 to 6 PM, Nextdoor says Thursday to Saturday 8 AM to 7 PM, and the real rhythm of driveway pop-ups, farmers markets and weekly preorders isn't written down in one place. Someone who finds you on Google may think there are only two short pickup windows a week and never learn about the markets or the preorder drops.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Gemini Twins Bakery, a Bakery at 7360 Cornell Ave in La Mesa, with your phone and website on the card. Someone searching for sourdough in La Mesa can find you.",
+      "next": "Add a short description on the card that mentions driveway pop-ups, farmers markets and weekly preorders, so people know how to buy before they drive over."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "(619) 565-0128 and GTBakery619@outlook.com are printed on your website and Nextdoor page, and both appear in the Times of San Diego feature. People who want to order or ask a question can reach you easily.",
+      "next": "Add your Hotplate preorder link to the Google card and Nextdoor page too, so a neighbor can jump straight to the weekly drop instead of hunting for it."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google shows only Tuesday and Friday from 4 to 6 PM, Nextdoor shows Thursday to Saturday from 8 AM to 7 PM, and the recent feature describes first and third Saturday driveway pop-ups plus several weekly markets. A customer checking Google could easily miss the markets and pop-ups entirely.",
+      "next": "Set Google hours to your real pickup windows, and add your market days as Google posts or in the description. Update Nextdoor to match, and use Google's special hours for each pop-up Saturday."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The Google card has only a handful of photos, and the website home page uses a stock bread photo rather than your own loaves. Your real bakes are the best thing you have to show.",
+      "next": "Upload real photos of your bestsellers, like the roasted jalapeño cheddar and cinnamon rolls, plus your market booth and that pastel green flag, so people recognize you at a market."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "geminitwinsbakery.com loads with your About story, email and phone, and points people to Hotplate to order. It doesn't list your markets or pop-up dates, and a separate Online Ordering page on the site also takes orders, so it's not clear which way to order.",
+      "next": "Add a simple Where to find us section with your regular markets and pop-up Saturdays, and pick one ordering path, Hotplate or the site's own order page, so customers aren't choosing between two."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "The name Gemini Twins Bakery, (619) 565-0128 and 7360 Cornell Ave match on Google, Nextdoor and your order page. That consistency helps Google trust the card.",
+      "next": "Keep the name and phone exactly the same on Instagram, Facebook and Hotplate, and invite happy Nextdoor neighbors to leave a line on Google so the card catches up with your reputation."
+    }
+  ]
+}
