@@ -1,0 +1,49 @@
+{
+  "slug": "floorworx",
+  "business": "Floorworx",
+  "town": "Santee, CA",
+  "website": "",
+  "phone": "(619) 665-9572",
+  "generated": "2026-10-28",
+  "prospectId": "1793219507884-aaw0ym8",
+  "headline": "Neighbors love your floors, but Google has two separate Floorworx cards with your number and no website on either.",
+  "summary": "Floorworx is a Santee flooring contractor run by Aaron Day, a fourth-generation flooring pro who installs and refinishes hardwood, lays luxury vinyl and takes on larger commercial and sports floors. Nextdoor neighbors named Floorworx a Neighborhood Favorite, and recommendations there describe Aaron as meticulous and someone who does what he says he will do, which is the best kind of word of mouth a trade can have. Your phone is the same everywhere we looked, and floorworxsandiego@gmail.com is listed on Nextdoor, so people who find you can reach you. The main leftover is on Google. There are two separate Floorworx cards using (619) 665-9572, one pinned to Strathmore Drive and one set up as a service area, with their photos and categories split between them, and neither links to a website. The address floorworxsd.com still shows up in search results but no longer loads, so anyone who clicks it hits a dead end, and both Google cards say you're open 7 to 5 every day of the week.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "dim",
+      "note": "Google shows two Floorworx cards with your phone number, one at 10351 Strathmore Dr in Santee and one as a service area. Two cards split your photos and any reviews, and Google may show the weaker one.",
+      "next": "Sign in to the card you manage and ask Google to merge or remove the duplicate, so everything lands on one card with hardwood, refinishing and vinyl categories all in one place."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The same phone, (619) 665-9572, is on both Google cards and Nextdoor, and your Nextdoor story invites people to call or text for a free estimate. floorworxsandiego@gmail.com is listed on Nextdoor too.",
+      "next": "Add a line on Google and Nextdoor inviting people to text a photo of the floor with their question, so you can size up a refinish or install before driving out."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Both Google cards say open 7 AM to 5 PM every day of the week. If you don't take calls or jobs on weekends, customers may expect an answer when you're off.",
+      "next": "Set the hours you really keep on the one card you keep. If estimates are by appointment, say Call or text to schedule in the description."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Each Google card has only a few photos, split between the two. Flooring is very visual, and before-and-after refinishing shots are exactly what convinces people.",
+      "next": "Once the cards are merged, add before-and-after photos of a few recent jobs, like a refinished oak floor or a new LVT kitchen, with a short caption naming the town."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "floorworxsd.com still shows up in search results with your Santee flooring page, but the address no longer loads. Neither Google card links to a website, so there's no place for people to see your work outside Nextdoor.",
+      "next": "If you still want the site, check whether floorworxsd.com can be renewed. If not, link your best other page, like Nextdoor or a photo gallery, on the Google card so people have somewhere to look."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your name and phone match on Google and Nextdoor, but Google shows the business twice, once with the Strathmore Dr address and once as a service area. That kind of split makes it harder for Google to trust either card.",
+      "next": "After merging, decide whether to show the street or a service area and use the same choice on Nextdoor, with the name written exactly Floorworx everywhere."
+    }
+  ]
+}
