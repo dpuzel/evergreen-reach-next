@@ -1,0 +1,49 @@
+{
+  "slug": "jamul-trails-ranch",
+  "business": "Jamul Trails Ranch",
+  "town": "Jamul, CA",
+  "website": "https://jamultrailsranch.com/",
+  "phone": "(619) 787-7139",
+  "generated": "2026-10-28",
+  "prospectId": "1793202171471-3z3yphm",
+  "headline": "Your Google card looks great, but your hours read three different ways depending on where people look.",
+  "summary": "Jamul Trails Ranch is a family-owned horse ranch on Echo Valley Road in Jamul, run by Kim Dillon and farmer Pat since 2015 on a property built in 1992, with horse boarding, a petting zoo and farm photo sessions. Your Google card is in good shape: it has the right address and phone, links to jamultrailsranch.com, and is full of photos of the horses and the farm. Your own website tells the story of the ranch and prints your email and phone, so a boarder or a family planning a visit can reach you directly. The main leftover is hours. The website says office hours are 7 AM to 7 PM every day, Google says 7 AM to 8 PM every day, and a page that mirrors your Facebook shows weekdays 9 to 5, so a family planning an evening visit could get three different answers. Google also lists the ranch only as a Farm, which may keep it out of searches from horse owners looking for boarding nearby.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Jamul Trails Ranch at 2865 Echo Valley Rd in Jamul, with (619) 787-7139 and your website on the card. Someone searching for the ranch by name can find you and get directions.",
+      "next": "Add Horse boarding stable as a category next to Farm, so horse owners searching for boarding in Jamul and East County see you too, not just people who already know your name."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The same phone is on your website and Google, and JamulTrailsRanch@gmail.com is printed on both the home and contact pages of the site. That makes it easy for a boarder or a parent to reach you.",
+      "next": "Add one line saying the best way to book a visit or photo session, call or email, so people pick the one you prefer and you get fewer missed calls."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "The website lists office hours of 7 AM to 7 PM every day, Google shows 7 AM to 8 PM every day, and a page mirroring your Facebook shows Monday to Friday 9 to 5. Three answers to the same question can send a family out at the wrong time.",
+      "next": "Pick one set of hours and put it on Google, the website and Facebook. If visits or photo sessions are by appointment, say so in all three places, and use Google's special hours for holidays and events."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Your Google card has a large set of photos, and the website is full of horses and farm life. That is exactly what families and boarders want to see before they drive out.",
+      "next": "Keep adding a few fresh photos each season, such as new animals, the boarding area, and a photo-session setup, so the card always looks current."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "jamultrailsranch.com loads with your story, office hours, email and phone, and shows a 2026 copyright, so it reads as current. It covers both the boarding side and the family farm side in one place.",
+      "next": "Make sure boarding details, like what's included and how to ask about openings, sit near the top of the home page, so horse owners can tell quickly whether there's room."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "The name Jamul Trails Ranch, 2865 Echo Valley Road and (619) 787-7139 match on your website and Google. That consistency helps Google trust the card.",
+      "next": "Use the exact same name, address and phone on Facebook and any horse boarding directories, and update the hours there too so every listing agrees."
+    }
+  ]
+}
