@@ -1,0 +1,49 @@
+{
+  "slug": "fabrication-solutions",
+  "business": "Fabrication Solutions",
+  "town": "Ramona, CA",
+  "website": "https://www.sdfabricationsolutions.com/",
+  "phone": "(858) 888-2968",
+  "generated": "2026-10-28",
+  "prospectId": "1793219493033-fc14su3",
+  "headline": "Your Google card has the shop, the phone and the website, but no hours at all.",
+  "summary": "Fabrication Solutions is a Ramona mobile welding and custom metal fabrication shop on Maple Street, run by Wylie Weldy since 2014 under Shop Dog Fabrication, building gates, fences and rails and doing on-site repairs on trailers, tractors and equipment. Your Google card is in good shape on the basics: it shows the Maple Street shop, your phone and your website, and it is listed under four welding and fabrication categories, so people searching for a welder near Ramona can find you. Your website explains the mobile repair service, shows starting prices and prints your license number, which is exactly what a homeowner or rancher wants to see before calling. The main leftover is hours. Google shows no hours at all for the shop, so anyone checking before they drive over or call cannot tell whether you are working, and Google tends to show cards with hours more often. A smaller point is that the business goes by a few names, Fabrication Solutions on the site, Shop Dog Fabrication in the fine print, and a long combined name on Google, which can make it harder for people to be sure they have found the right shop.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps at 538 Maple St in Ramona under Metal fabricator, Aluminum welder, Steel fabricator and Welder. Someone searching for a welder or fabricator nearby can find the shop and get directions.",
+      "next": "Add Mobile welding or Gate and fence work to your Google description in plain words, so people searching for on-site repairs see right away that you come to them."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The same phone, (858) 888-2968, is on your website, Google and Nextdoor, and info@sdfabricationsolutions.com is printed on your contact page. A customer can call or write with photos of the job.",
+      "next": "Add one line asking people to email a photo or two of the gate, trailer or part with their question, so you can quote faster and skip a wasted trip."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "Google shows no hours for the shop, and none are easy to find on the website either. Anyone checking before they call or drive over has no idea when you are working.",
+      "next": "Add your regular hours to the Google card, even if most work is by appointment or on site. If so, say Mobile, call to schedule in the description so people know what to expect."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Your Google card has a small set of photos. Welding and fabrication work sells itself in pictures, and gates, rails and repaired trailers show what you can do better than words.",
+      "next": "Add a few photos of finished jobs to Google every month or two: a new gate, a set of rails, a trailer repair. Short captions like Custom gate, Ramona help people picture their own job."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "sdfabricationsolutions.com loads with your services, mobile repair prices, license number and contact page, and Google links to it. It does its job for a shop this size.",
+      "next": "The footer still reads 2022 and the job post page looks older, so a quick refresh of the year and any listings you no longer need will make the site look as active as the shop is."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your street and phone match across the website, Google and Nextdoor, but the name changes: Fabrication Solutions on the site, Shop Dog Fabrication in the job post, and Fabrication Solutions - Mobile Welding & Custom Metal Fabrication on Google.",
+      "next": "Pick the one name customers know you by and use it the same way on Google, Nextdoor and the website. Keep the service words in the description instead of the name."
+    }
+  ]
+}
