@@ -1,0 +1,49 @@
+{
+  "slug": "clicker-garage-door",
+  "business": "Clicker Garage Door Service & Sales",
+  "town": "Poway, CA",
+  "website": "https://clickergaragedoorservice.com/",
+  "phone": "(858) 666-6722",
+  "generated": "2026-10-28",
+  "prospectId": "1793202178958-39lt49c",
+  "headline": "Two Nextdoor pages and a closed Saturday are blurring the message for a 24/7 garage door shop.",
+  "summary": "Clicker Garage Door Service & Sales is a family-owned Poway company on Pomerado Road that sells, repairs and installs garage doors, gates and fences, and offers same-day, 24/7 emergency repair. Your site prints your CSLB license number in the footer, and Nextdoor neighbors named you a Neighborhood Favorite in 2023 and 2025. Google Maps has a card for you at 12925 Pomerado Rd Ste G with your phone, your website and a good set of photos. The leftovers are mostly about consistency: there are two separate Nextdoor pages for Clicker with different emails, and one of them lists Suite B and hours that read 8:00 AM to 8:00 AM. Google and both Nextdoor pages also show Saturday as closed, which sits oddly next to the 24/7 promise on your site, and the Google card names you only as a Garage door supplier rather than a repair service.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as Clicker Garage Door Service & Sales Inc at 12925 Pomerado Rd Ste G in Poway, with (858) 666-6722 and your website on the card. The only category on the card is Garage door supplier.",
+      "next": "Add repair categories such as Garage door repair service and Gate repair service, so the card matches the emergency and repair searches that most homeowners type when a door gets stuck."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "(858) 666-6722 is the same on the website, Google and BBB, and the site repeats it at the top with a same-day, 24/7 line. The site itself shows a request form and phone but no email address.",
+      "next": "Add service@clickergaragedoorservice.com to the website contact section, so customers who prefer email, or want to send a photo of the problem, have a direct way in."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google shows open 24 hours every day except Saturday, which is listed as closed, and both Nextdoor pages also show Saturday closed. One Nextdoor page reads 8:00 AM to 8:00 AM most days and midnight to 8:00 AM on Thursday, which looks like a data entry slip.",
+      "next": "If you take emergency calls on Saturdays, update Google and Nextdoor to show it; if not, add a line on the site explaining when 24/7 service applies. Then fix the 8:00 AM to 8:00 AM entry on Nextdoor."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "The Google card has a good set of photos, and the website links to a portfolio of doors and gates. Real job photos help a homeowner picture the result before calling.",
+      "next": "Keep adding a few fresh before-and-after job photos to Google every month or two, especially gates and fences, so the card shows the full range of work and not just doors."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "clickergaragedoorservice.com loads with services, an About page, a request form, your license number and a long list of the neighborhoods you serve. It mentions your Nextdoor award and BBB rating, which builds trust quickly.",
+      "next": "Add your hours, or a short note on how 24/7 emergency calls work, plus your email, so the site answers the two questions people ask before they pick up the phone."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Google, BBB and the website list 12925 Pomerado Rd Ste G, but one Nextdoor page lists Suite B. There are also two Nextdoor pages for the same shop, one named Clicker Garage Door Service & Sales Inc and one named Clicker Garage Doors & Gates, with different emails.",
+      "next": "Claim both Nextdoor pages and ask Nextdoor to merge them or close the extra one. Make sure the page that stays shows Suite G, the same hours as Google, and one email."
+    }
+  ]
+}
