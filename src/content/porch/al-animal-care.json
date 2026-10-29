@@ -1,0 +1,49 @@
+{
+  "slug": "al-animal-care",
+  "business": "A.L. Animal Care",
+  "town": "Poway, CA",
+  "website": "https://www.alanimalcare.com/",
+  "phone": "(858) 688-1648",
+  "generated": "2026-10-28",
+  "prospectId": "1793219486501-itxro8d",
+  "headline": "Your website and Nextdoor say 7 to 7 every day, but Google tells people you close earlier.",
+  "summary": "A.L. Animal Care is a family-run pet care home on Golden Way in Poway, where Laura Lewis, a certified animal hygienist, and Allan Lewis offer dog and cat grooming, boarding, day sitting, training, medical-needs care and pickup and delivery. Your Google card is in good shape on the basics: it has the right street, phone and website, and it lists you as both a pet groomer and a boarding service, so people searching for either can find you. Your website lays out every service with clear starting prices and prints your email, and Nextdoor neighbors have named you a Neighborhood Favorite three years running. The main leftover is hours. Your website and Nextdoor both say 7 AM to 7 PM every day, while Google shows 7 to 6 on weekdays, 8 to 5 on one weekend day and a short late-afternoon window on the other, so a pet owner checking Google could think you are closed when you are open. Google also shows only a handful of photos, which is thin for a place people trust with their animals overnight.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You show up on Google Maps as A L Animal Care at 13035 Golden Way in Poway, listed as a pet groomer and a pet boarding service. Someone searching for grooming or boarding near Poway can find you and get directions.",
+      "next": "Consider adding Pet sitter or Dog day care as extra categories if those services are a big part of your week, so people searching for day sitting land on your card too."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The same phone, (858) 688-1648, is on your website, Google and Nextdoor, and alewisanimalcare@gmail.com is printed on the site and on Nextdoor. A pet owner has two easy ways to reach you.",
+      "next": "Add one line near the top of the site saying whether you prefer a call or an email for new bookings, so first-time clients reach you the way that works best for you."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Your website and Nextdoor both say 7 AM to 7 PM every day. Google shows 7 to 6 on weekdays, 8 to 5 on one weekend day and only 3 to 5 PM on the other, so the hours people see depend on where they look.",
+      "next": "Pick the hours you really keep and set them the same on Google, the website and Nextdoor. If drop-off and pickup times differ from when you answer the phone, say that in one short line in all three places."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Your Google card shows only a few photos. People leaving a dog or cat overnight like to see where their pet will stay before they call.",
+      "next": "Add a handful of real photos to Google: the grooming area, the boarding space, a happy freshly groomed dog and the outside of the property. A few new ones each season keeps the card looking current."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "alanimalcare.com loads with your services, starting prices, team page and contact details, and Google links to it. It reads like a real family business, which is exactly what pet owners look for.",
+      "next": "Put your hours and a simple how-to-book line on the home page itself, so a visitor doesn't have to click around to know when to call."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Your street, 13035 Golden Way, and phone match on the website, Google and Nextdoor. The only difference is small: the site writes A.L. Animal Care while Google shows A L Animal Care.",
+      "next": "When you next touch the Google card, match the name to A.L. Animal Care exactly as it appears on your website, so every listing reads the same."
+    }
+  ]
+}
