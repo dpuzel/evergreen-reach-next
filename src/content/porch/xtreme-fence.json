@@ -1,0 +1,49 @@
+{
+  "slug": "xtreme-fence",
+  "business": "Xtreme Fence",
+  "town": "El Cajon, CA",
+  "website": "",
+  "phone": "(619) 654-0446",
+  "generated": "2026-10-28",
+  "prospectId": "1793219512523-anptxsa",
+  "headline": "Neighbors pick you for fencing, but Google files you under plain Contractor.",
+  "summary": "Xtreme Fence is an El Cajon fence contractor run by Ray Gonzalez, building and repairing fences for homeowners around East County, with a state fencing license going back to 2006. Nextdoor neighbors named Xtreme Fence a Neighborhood Favorite, and on threads where people complain about unlicensed fence crews leaving cards on doorsteps, you are the kind of established outfit they are hoping to find. Your Google card is in decent shape: it shows your phone, weekday hours of 8 to 4 and a good set of photos. The main leftover is how Google files you. The card's only category is the generic Contractor, not Fence contractor, so someone searching for a fence company near El Cajon may never see you even though neighbors recommend you. There is also no website on Google or Nextdoor, and your Nextdoor page is still unclaimed, so the only place people can learn about your work is the photos on Google.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "dim",
+      "note": "You show up on Google Maps as Xtreme Fence, but the only category is Contractor. People searching for fence contractor, fence repair or gate installation near El Cajon are matched by category first, so you can be skipped.",
+      "next": "Set Fence contractor as the main category on your Google card and add Gate installer or Fence supply if they fit. It takes a couple of minutes and is the biggest single change for being found."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your phone, (619) 654-0446, is on Google and Nextdoor, and rayxtremefence1@gmail.com is listed on Nextdoor. A neighbor who finds you can reach you directly.",
+      "next": "Add a line on Google inviting people to text a photo of the old fence or the yard with rough measurements, so you can give a ballpark before the first visit."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "Google shows clear weekday hours of 8 AM to 4 PM and closed on weekends. That's simple and easy to trust.",
+      "next": "Copy the same hours onto your Nextdoor page once you claim it, and use Google's special hours around holidays so nobody calls into a closed office."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Your Google card has a good set of photos. For a business with no website, those photos are doing the job a website would, showing people what you build.",
+      "next": "Keep adding a few finished jobs every month or two, with short captions like Chain link and gate, Lakeside, so people can see work near their own street."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "There's no website on Google or Nextdoor, so there's no place that explains your fencing types, your license or how to get an estimate. People have to call to learn anything.",
+      "next": "Even without a full site, fill in the Google description with what you build, the areas you cover and that you're licensed and insured. That gives searchers the basics in one spot."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your name and phone match on Google and Nextdoor, but neither shows a town or address you serve from, and the Nextdoor page hasn't been claimed. Google has less to confirm where you work.",
+      "next": "Claim your Nextdoor page, and on Google list the towns you serve, like El Cajon, Santee, Lakeside and Alpine, using the name Xtreme Fence exactly the same way in both places."
+    }
+  ]
+}
