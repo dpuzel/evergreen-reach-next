@@ -1,0 +1,49 @@
+{
+  "slug": "fox-cottage-bread-and-bakes",
+  "business": "Fox Cottage Bread and Bakes",
+  "town": "Alpine, CA",
+  "website": "",
+  "phone": "(619) 981-3262",
+  "generated": "2026-10-28",
+  "prospectId": "1793202164669-wb5h6os",
+  "headline": "Neighbors across the backcountry call you a Nextdoor Fave, but Google has no listing for Fox Cottage at all.",
+  "summary": "Fox Cottage Bread and Bakes is a small Alpine micro-bakery run by Cori, baking long-fermented organic sourdough and other bakes and selling them from a stand at the corner of Anderson Rd and Zumbrota Rd on Fridays and Saturdays. On Nextdoor you have earned a Neighborhood Fave award, with fave neighborhoods reaching from Boulevard and Descanso to Pine Valley, Campo and Julian, and neighbors were still posting about you in October 2026. Your Nextdoor page carries your story, your email, your phone and a note to text for availability, so a neighbor who already knows you can reach you easily. The big gap is Google: when we searched Google Maps for Fox Cottage Bread and Bakes, and for sourdough in Alpine, no listing for you came up. That means anyone who hears about the stand and looks it up on Google, or asks their phone for directions, finds other bakeries instead. A free Google Business Profile with the stand location and your weekend hours would let all that word of mouth turn into directions.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "We searched Google Maps for Fox Cottage Bread and Bakes, Fox Cottage Bread, and sourdough bakery Alpine CA, and no listing for you came up. Other Alpine and backcountry bakeries and cafes appear instead, so a neighbor who hears about your bread may land somewhere else.",
+      "next": "Create a free Google Business Profile for Fox Cottage Bread and Bakes with the Bakery category. If you'd rather not show your home address, set it up as a service-area business or pin the stand corner, then add your Friday and Saturday hours."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your Nextdoor page lists (619) 981-3262 and foxcottagebreadandbakes@gmail.com, and your story invites neighbors to text for availability. Anyone who finds the page has two easy ways to reach you.",
+      "next": "Put the same number and email on the Google profile once it exists, and mention in the description that a text is welcome, so new customers know the easiest way to check what's left."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Your Nextdoor story says Fridays 2 to 6 PM and Saturdays 10 AM to 6 PM, or until sold out, while the hours grid on the same page says Friday 2 to 7 PM and Saturday 10 AM to 7 PM. A neighbor driving out at 6:30 could find the stand already closed.",
+      "next": "Pick one set of hours, update the Nextdoor hours grid to match your story, and use the same hours on Google. A short 'or until sold out' line covers the days the bread goes early."
+    },
+    {
+      "id": "photos",
+      "lamp": "out",
+      "note": "Google shows no photos of your bread, because there is no listing to hold them. For a bakery, a picture of a fresh loaf is often what gets someone in the car.",
+      "next": "Once the profile is up, add a few real photos: a crusty loaf, the stand at the corner, and a weekly bake lineup. A fresh photo every few weeks keeps the listing looking alive."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "Fox Cottage has no website, so your Nextdoor page is the only home online we could verify. Nextdoor works well for neighbors who already use it, but it only reaches people who go looking there.",
+      "next": "You don't need a full website to start. A free Google profile works like a simple one-page site, and later a small page with hours, the stand location and how to order would give you one link to share anywhere."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your Nextdoor page shows a street address in Alpine, while your story points people to the stand at Anderson Rd and Zumbrota Rd. With no Google listing, there is nothing else for search engines to match your name, phone and location against.",
+      "next": "Choose one public spot, most likely the stand corner, and use it the same way on Nextdoor and the new Google profile. Keep the name written exactly as Fox Cottage Bread and Bakes everywhere."
+    }
+  ]
+}
