@@ -1,0 +1,49 @@
+{
+  "slug": "reds-whites-and-brews",
+  "business": "Reds Whites & Brews",
+  "town": "Ramona",
+  "website": "http://www.redswhitesandbrews.wine/",
+  "phone": "(760) 440-9305",
+  "generated": "2026-10-31",
+  "prospectId": "1793463967151-badygf3",
+  "headline": "A Main Street landmark that neighbors keep voting for, with a website link that has quietly expired",
+  "summary": "Reds Whites & Brews has the kind of story most bars would love to have: an 1883 general store on Ramona's Main Street, a hay barn stage out back and years of Nextdoor Neighborhood Favorite wins. Your Google listing is in good shape on the basics. It shows as open, the category is right, the phone number works from the listing and there are photos up. The one thing worth a look is the website. The link on Google goes to a Squarespace page that now says the site has expired, so anyone tapping through for the music lineup or wine list lands on an error page. It's a small fix, and the free page below walks through it, plus a few easy ways to keep everything else in good shape.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "Searching the bar's name in Ramona brings up the Google listing right away, marked as a wine bar on Main Street with the correct address.",
+      "next": "Keep the category as is and consider adding secondary ones like beer bar or live music venue so people searching for those find you too. A short business description that mentions the 1883 building and the barn stage gives Google more to match on. Check it once a season so nothing drifts."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "The listing shows (760) 440-9305, and it matches the number on Nextdoor.",
+      "next": "Keep that one number everywhere so calls never split across old lines. If someone else books the music, a booking email in the listing's description can save the bar line from scheduling calls. Turning on Google messaging is optional and only worth it if someone can answer."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google shows a full week of hours. Other pages, like Nextdoor, are worth a quick look to make sure they show the same times.",
+      "next": "Make sure the hours read the same on Google and on your Nextdoor page. Add special hours ahead of holidays and music nights that run late so Google does not show you closed. A quick check every couple of months keeps both in step."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Your Google listing has photos up, so people get a look at the place before they come.",
+      "next": "Add a few fresh shots of what makes the bar different: the old dry goods counter, the barn stage during a jam and the patio with dogs. Photos of the building front help first timers find the door on Main Street. A couple of new ones each season keeps the gallery current."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "The website on Google, redswhitesandbrews.wine, opens a Squarespace page that says the website has expired.",
+      "next": "Renewing the Squarespace plan, or pointing the domain at a simple one page site, brings the link back to life. If neither is worth it right now, swap the Google website link to the Nextdoor or Facebook page so visitors land somewhere useful. Make sure the domain itself is still renewed so nobody else can pick it up."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Name, address and phone match between Google and Nextdoor. The Nextdoor page looks like it has not been claimed yet.",
+      "next": "Claiming the free Nextdoor business page lets you keep the details current and answer the neighbors who keep recommending you. Writing the name the same way everywhere, with the ampersand or with the word and, helps directories tie the listings together. Check Yelp and Apple Maps once for the same details."
+    }
+  ]
+}
