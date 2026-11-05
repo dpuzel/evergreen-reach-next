@@ -1,0 +1,49 @@
+{
+  "slug": "true-shine-landscape",
+  "business": "True Shine Landscape",
+  "town": "El Cajon",
+  "website": "https://trueshinelandscape.com/",
+  "phone": "(619) 852-5873",
+  "generated": "2026-11-04",
+  "prospectId": "1793827588605-7o22543",
+  "headline": "A family crew neighbors love, going by three different names.",
+  "summary": "True Shine Landscape is a family-run landscaping and garden maintenance business in El Cajon that has been caring for yards since 2007, and the website tells that story in the owners' own words. Neighbors named it a Nextdoor Neighborhood Favorite in 2025. A lot is already working well: the Google listing is open, it links to your website, your phone number matches on Google, the website and Nextdoor, and the hours on Google match the hours on your site, which many small businesses miss. There are real photos of your work on Google, too. The main leftover is your name. On Nextdoor the business is called True Shine Garden Maintenance, on Google and the website it's True Shine Landscape, and the photos on your Google listing are posted under a third name, True Shine Building Services. To a neighbor that may look like three different companies, and search engines can have trouble connecting your Nextdoor reputation to your Google listing. Picking one name and using it everywhere is a quick fix. Two smaller touches would round it out: your Nextdoor page has no website link or hours, and the team page on your website is empty, which is a natural spot to introduce the family behind the work. If you hold a contractor's license, showing the number on the site is a simple trust signal too.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "Your Google listing is live, marked open and links to trueshinelandscape.com, so people searching landscapers around El Cajon can find you and click through. That's the foundation, and it's in place. The name difference with Nextdoor is the only thing holding it back a little.",
+      "next": "Keep the Google listing as True Shine Landscape and post a photo or short update every month or so. Ask a few long-time customers to mention the name when they leave a review, so the reputation stays tied to one name."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (619) 852-5873, is the same on Google, your website and Nextdoor. Whichever one a customer finds first, they reach you. Nothing to fix here, just something to protect.",
+      "next": "Keep (619) 852-5873 exactly as-is on every listing, including any new ones like Yelp or a city directory. If you add a second line for the crew, list it as extra rather than swapping the main number."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "The hours on Google match the hours on your website, which is a detail a lot of small businesses miss. Your Nextdoor page doesn't show hours at all, though. Neighbors who find you there have to guess when to call.",
+      "next": "Add the same hours from your website to your Nextdoor business page. If your hours change for the season, update all three places on the same day."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "There are real photos of your work on the Google listing, posted by you, which helps people picture what their yard could look like. They're posted under the name True Shine Building Services, though, which doesn't match the business name. Keeping photos tied to the main name makes them work harder.",
+      "next": "Check which Google account posted the photos and make sure it's the owner account for True Shine Landscape, or add new ones from that account. Keep adding a fresh before-and-after now and then, especially after big installs."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "trueshinelandscape.com tells your family story, lists your services, phone, email and hours, and matches Google. The team page is empty, and we didn't see a contractor license number anywhere on the site. Those are two small trust details customers look for before letting a crew into the yard.",
+      "next": "Add a short team page with a family photo and a line about each person, or remove the empty page from the menu. If you hold a CSLB license, add the number to the footer."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your phone and town match everywhere, but the name doesn't: True Shine Garden Maintenance on Nextdoor, True Shine Landscape on Google and the website, and True Shine Building Services on the Google photos. Search engines use matching names to connect reviews and listings. Right now your Nextdoor reputation may not be counted toward your Google listing.",
+      "next": "Pick one name, most likely True Shine Landscape, and update the Nextdoor business page to match, adding your website link while you're there. Then check the Google account name the photos post under."
+    }
+  ]
+}
