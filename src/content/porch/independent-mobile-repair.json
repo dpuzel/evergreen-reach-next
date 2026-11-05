@@ -1,0 +1,49 @@
+{
+  "slug": "independent-mobile-repair",
+  "business": "Independent Mobile Repair",
+  "town": "Ramona",
+  "website": "https://independentmobilerepair.com/",
+  "phone": "(760) 429-3673",
+  "generated": "2026-11-04",
+  "prospectId": "1793810815419-w2uygle",
+  "headline": "A master tech who comes to you, with three different clocks online.",
+  "summary": "Independent Mobile Repair is a Ramona mobile mechanic run by an ASE Certified Master Technician, serving Southern California since 1993 and working on cars, trucks, RVs, generators, equipment and even fire apparatus. That's a wide range for a small mobile shop, and neighbors on Nextdoor have pointed people your way when they need a mechanic who comes to them. The basics are in good shape: your Google listing is up and marked open, your phone number matches on Google, your website and Nextdoor, and your website links straight from Google. The one thing that stands out is hours. Your website says Monday to Saturday 6 AM to 9 PM, Nextdoor says 7 AM to 7 PM, and Google says 8 AM to 6 PM, so a customer checking at 7 in the morning or 7 at night gets a different answer depending on where they look. Picking one set and copying it to all three is usually a ten-minute job. Beyond that, the Google listing has only a few photos, and the website relies on a contact form with no email address or town named, so a few small additions would help people feel sure you're the right local mechanic before they call.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "Your Google listing shows up as Independent Mobile Repair, marked open, listed as a car repair and maintenance service with your website linked. That's the most important piece, and it's in place. People searching for a mechanic around Ramona can find you.",
+      "next": "Check that the Google category and service area cover the mobile work you do, like RVs, generators and equipment, not just cars. Adding those as services on the profile helps Google match you to those searches."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "(760) 429-3673 matches on Google, your website and Nextdoor, so callers land in the right place no matter where they start. For a mobile mechanic, the phone is the front door. It's working well.",
+      "next": "Keep (760) 429-3673 as the single number on every listing. If you add a text option, mention it on the website and Google so customers know they can text a photo of the problem."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Your hours read three different ways: Monday to Saturday 6 AM to 9 PM on your website, 7 AM to 7 PM on Nextdoor, and 8 AM to 6 PM on Google. All three agree that Sunday is closed. A customer checking early in the morning or in the evening could decide you're closed when you're actually working, or the other way around.",
+      "next": "Pick the hours you actually want to take calls and put that one set on Google, Nextdoor and the website. If your hours are flexible by appointment, a short line saying so on all three keeps expectations clear."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "The Google listing has only a few photos. For a mobile mechanic, pictures of the service truck and real jobs, like an RV or a piece of equipment being worked on in someone's driveway, show what makes you different from a regular shop. A handful more would make the listing feel lived-in.",
+      "next": "Add 5 to 10 photos to Google: the truck, your tools, a few jobs on site, and maybe you at work. One new photo every month or two keeps the listing looking current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "independentmobilerepair.com clearly says what you do and shows your hours, phone and repair dealer number. It offers a contact form but no email address, and the homepage doesn't name Ramona or the nearby towns you cover. People like to see that a mobile mechanic actually serves their area before they call.",
+      "next": "Add a line like serving Ramona and nearby areas near the top, and print your email next to the contact form. Then make the hours there match the set you choose for Google."
+    },
+    {
+      "id": "nap",
+      "lamp": "lit",
+      "note": "Your business name and phone match across Google, your website and Nextdoor, which is a solid base. Google shows your Brazos Street address, while the website and Nextdoor don't show a street. For a mobile business that's fine, as long as the name and phone stay the same everywhere.",
+      "next": "Keep the name exactly Independent Mobile Repair on every listing. If you'd rather not show the Brazos Street address on Google, you can switch the profile to a service-area business and hide it."
+    }
+  ]
+}
