@@ -1,0 +1,49 @@
+{
+  "slug": "pp-cut-n-shave-barbershop",
+  "business": "PP Cut 'N' Shave Barbershop",
+  "town": "Poway",
+  "website": "",
+  "phone": "(858) 422-7442",
+  "generated": "2026-11-04",
+  "prospectId": "1793827600584-fxlzn5t",
+  "headline": "Poway's favorite fades. The booking link just needs a signpost.",
+  "summary": "PP Cut 'N' Shave Barbershop is a family-run Poway barbershop on Poway Road, owned by Chris Phan and Vee Pham since January 2023, with the name taken from their last names. Neighbors named it a Nextdoor Neighborhood Favorite in 2025 and praise the fades, the friendly service and the shoulder massage at the end of every cut. A lot is already working: the Google listing is open and set up as a barber shop, your phone number matches on Google and Nextdoor, the hours on Google are complete, and there are plenty of photos from both you and your customers. The main leftover is booking. You take appointments online through Booksy, with clear prices and a kind note about being on time, but neither your Google listing nor your Nextdoor page links to it, and Google shows no website at all. A neighbor who finds you on Maps can call, but can't tap straight through to book, which is how a lot of people prefer to grab a haircut slot. Adding the Booksy link as the website or booking link on Google, and on Nextdoor, is a quick fix. Two smaller touches would help: your Nextdoor page doesn't show hours, and the photos on Google are posted under two slightly different spellings of the shop name. None of this takes long, and it makes it easier for the neighbors who already love the shop to send friends your way.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "Your Google listing is live, marked open, at your Poway Road address and set up as a barber shop, so people searching barbers near Poway can find you on Maps. That's the most important piece, and it's in place. A booking link would make it even more useful.",
+      "next": "Post a short update or a fresh photo on the Google listing every few weeks, like a new fade or a kids' cut. Reply to a few recent reviews with a quick thank-you, which shows people the shop is active."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (858) 422-7442, is the same on Google and Nextdoor, so callers reach the shop wherever they find you. For a barbershop where people call to ask about wait times, that matters. Nothing to fix, just keep it consistent.",
+      "next": "Keep (858) 422-7442 exactly as-is everywhere, including on Booksy. If you ever add a text line for appointments, list it as an extra number."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Your Google listing shows full hours for every day, including the day you're closed. Your Nextdoor page doesn't show hours at all. A neighbor who finds you on Nextdoor has to look elsewhere to know if you're open.",
+      "next": "Copy the hours from Google onto your Nextdoor business page. When hours change for holidays, update Google, Nextdoor and Booksy together."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "There are lots of photos on your Google listing, from you and from happy customers, which is exactly what people want to see before trying a new barber. Your own photos post under two slightly different spellings of the shop name. That's minor, but one consistent name looks more polished.",
+      "next": "Keep adding photos of fresh cuts and the shop, ideally from the main owner account for PP Cut 'N' Shave Barbershop. A new one every couple of weeks keeps the listing looking busy and current."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "You don't have your own website, and that's fine for a busy barbershop, because your Booksy page already does the job with services, prices and online booking. The trouble is that Google shows no website or booking link, and Nextdoor doesn't link to Booksy either. People who'd rather book than call can't get there in one tap.",
+      "next": "In your Google Business Profile, add your Booksy page as the website and as the appointment link. Add the same link to your Nextdoor business page."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your name, address and phone line up on Google and Nextdoor, which is the most important part. The Nextdoor page shows the name in all capital letters, and Google photos appear under two spellings, PP Cut 'N' Shave and PP Cut&Shave. Small differences like these can make it harder for search engines to tie everything together.",
+      "next": "Use PP Cut 'N' Shave Barbershop the same way on Google, Nextdoor and Booksy, in normal capitalization. Check the name on the Google account that posts photos so it matches too."
+    }
+  ]
+}
