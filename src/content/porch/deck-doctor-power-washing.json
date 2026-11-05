@@ -1,0 +1,49 @@
+{
+  "slug": "deck-doctor-power-washing",
+  "business": "Deck Doctor Power Washing",
+  "town": "La Mesa",
+  "website": "https://deckdoctorca.com/",
+  "phone": "(619) 356-4564",
+  "generated": "2026-11-04",
+  "prospectId": "1793827595139-mow8n4x",
+  "headline": "Three decades of clean decks, split across two sets of details.",
+  "summary": "Deck Doctor Power Washing is a family-owned La Mesa business that has been cleaning and refinishing decks since 1995, along with gutter cleaning, wood garage door refinishing and trash can cleaning. Neighbors named it a Nextdoor Neighborhood Favorite in 2025 and have recommended it on Nextdoor more than once. Your current website, deckdoctorca.com, is clear and complete: it lists your services, your phone, your email and your hours, and it has a gallery. The phone number on the website matches Nextdoor. The main leftover is that Google seems to know an older version of the business. When we searched Google's business listings, there was no listing at your La Mesa address. Instead, Google shows a Deck Doctor Power Wash listing in Lemon Grove with a different phone number, a link to an older website that shows yet another number, and hours of early morning to evening every day, while your current site says weekdays 8 to 5. If that Lemon Grove listing is yours, updating it to match your current site would send every Google searcher to the right number and the right site. If it isn't yours, it's worth knowing a similar name is out there. Either way, getting one name, one phone and one website across Google, Nextdoor and the web is the single change most likely to bring in more of the calls your reputation has already earned.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "dim",
+      "note": "We didn't find a Google listing at your La Mesa address. Google does show a Deck Doctor Power Wash listing in Lemon Grove, marked open, with different contact details. People searching deck cleaning near La Mesa may land there instead of reaching your current number.",
+      "next": "Search Google Maps for Deck Doctor Power Wash and check whether you can manage that listing. If it's yours, update the address or set it as a service-area business, and change the phone and website to your current ones. If it isn't, create your own free profile for Deck Doctor Power Washing."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "Your website and Nextdoor both show (619) 356-4564, which is good. The Google listing in Lemon Grove shows a different number, and the older website it links to shows a third. A caller who starts on Google may reach a line you no longer answer.",
+      "next": "Put (619) 356-4564 on the Google listing and anywhere else the business appears. If the older numbers still ring to you, that's fine for now, but keep the current one as the main number everywhere."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Your website lists weekdays 8 to 5 and closed on weekends. The Google listing shows early morning to evening every day of the week. Someone calling on a weekend because Google says you're open may get voicemail and move on.",
+      "next": "Once you're managing the Google listing, change the hours to match deckdoctorca.com. Add your hours to your Nextdoor page too, so all three agree."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Your website has a gallery, which is exactly what people want to see for deck and gutter work. Because the Google listing doesn't line up with your current business, those before-and-after photos aren't showing where most people first look. Photos on Google are a big part of how people choose between local services.",
+      "next": "When the Google listing is sorted out, add a handful of your best before-and-after shots from the website gallery. Adding a new one after a standout job keeps the listing fresh."
+    },
+    {
+      "id": "site",
+      "lamp": "lit",
+      "note": "deckdoctorca.com is up to date and clear: services, phone, email, hours and a gallery are all there. It names La Mesa and explains your specialties. This is the version of the business you want everyone to see.",
+      "next": "Use deckdoctorca.com as the website link on Google and Nextdoor. If you still control deckdoctorpowerwash.com, point it to the new site so old links don't lead to outdated details."
+    },
+    {
+      "id": "nap",
+      "lamp": "out",
+      "note": "Right now the business shows up with two names, two addresses, three phone numbers and two websites across Google, Nextdoor and the web. Search engines rely on matching details to trust a listing and connect reviews to it. Your Nextdoor reputation may not be helping your Google results as much as it could.",
+      "next": "Choose one name, one address or service area, one phone and one website, and update Google, Nextdoor and any older pages to match. A quick search of your old phone numbers will show where else outdated details are listed."
+    }
+  ]
+}
