@@ -6,32 +6,32 @@
   "phone": "(619) 884-6303",
   "generated": "2026-11-04",
   "prospectId": "1793810801532-m6gzzpa",
-  "headline": "Neighbors already know McNeil's. Google doesn't yet.",
-  "summary": "McNeil's Tree Service has been taking care of trees around Lakeside and Santee since 1983, and the neighbors have noticed: the shop was a Nextdoor Neighborhood Favorite in both 2024 and 2025. The phone number is the same everywhere we looked, the website is up with clear services and weekday hours, and Yelp and Nextdoor both point people to the same street in Lakeside. The one big gap is Google. When we searched Google's business listings for McNeil's Tree Service and for Sean McNeil Tree Service, nothing came up, so someone who types \"tree service Lakeside\" into Maps has no way to find you there, even though your neighbors are recommending you by name. A free Google Business Profile, set up as a service-area business so your home street stays private, would let your hours, phone, photos and reviews show up right where most people start looking. A few smaller things would tidy up behind it: the shop name reads a little differently on Yelp than on your site, the website talks about Santee while the shop is in Lakeside, and the site only offers a contact form. None of this is urgent, and all of it is the kind of quiet fix that tends to keep paying off for years.",
+  "headline": "Neighbors already know McNeil's. Google just uses a longer name and a later close.",
+  "summary": "McNeil's Tree Service has been taking care of trees around Lakeside and Santee since 1983, and the neighbors have noticed: the shop was a Nextdoor Neighborhood Favorite in both 2024 and 2025. The phone number is the same everywhere we looked, the website is up with clear services and weekday hours, Yelp and Nextdoor both point people to the same street in Lakeside, and your Google listing is up with the website linked. The one thing that stands out is the Google card. It lists the shop as McNeils Tree Service ISA Certified Arborist and shows weekday hours of 9 to 6, while your website says McNeil's Tree Service and Monday to Friday 9 to 5. Matching the name and the closing time on Google to the site keeps search and callers looking at the same shop. A few smaller things would tidy up behind it: the shop name reads a little differently on Yelp than on your site, and the website talks about Santee while the shop is in Lakeside. None of this is urgent, and all of it is the kind of quiet fix that tends to keep paying off for years.",
   "signals": [
     {
       "id": "found",
-      "lamp": "out",
-      "note": "We searched Google's business listings for McNeil's Tree Service and for Sean McNeil Tree Service and found no listing for either name. That means Maps searches like tree service near Lakeside can't show you at all. Neighbors on Nextdoor named you a Neighborhood Favorite in 2024 and 2025, so the word of mouth is there; Google just isn't carrying it.",
-      "next": "Create a free Google Business Profile as a service-area business (Lakeside, Santee, El Cajon and nearby), so the street address stays hidden. Google will mail or text a verification code; once it's in, add your hours, phone and website."
+      "lamp": "lit",
+      "note": "Your Google listing is up as McNeils Tree Service ISA Certified Arborist, marked open, with your website and phone linked. People searching for a tree service can land on you. Neighbors on Nextdoor named you a Neighborhood Favorite in 2024 and 2025, so the word of mouth is there; Google is carrying it under a longer name.",
+      "next": "In Google Business Profile, set the public name to match the site (McNeil's Tree Service) if you want one name everywhere, and set weekday hours to the same 9 to 5 the site prints, unless 9 to 6 is the real door time."
     },
     {
       "id": "call",
       "lamp": "lit",
-      "note": "Your number, (619) 884-6303, matches on your website, Nextdoor and Yelp, so anyone who finds you can reach you. That consistency is worth protecting. When the Google listing goes up, it should use this exact same number.",
-      "next": "Use (619) 884-6303 on the new Google profile and keep it as the one number everywhere. If you ever add a second line, list it as additional rather than replacing this one."
+      "note": "Your number, (619) 884-6303, matches on your website, Nextdoor and Yelp, so anyone who finds you can reach you. That consistency is worth protecting. The Google listing should keep using this exact same number.",
+      "next": "Keep (619) 884-6303 as the one number everywhere, including Google. If you ever add a second line, list it as additional rather than replacing this one."
     },
     {
       "id": "hours",
       "lamp": "dim",
-      "note": "Your website clearly lists Monday through Friday 9:00am to 5:00pm, closed weekends. Without a Google listing, though, those hours only show to people who already found your site. Most people check hours right on Maps before they call.",
-      "next": "Add the same Monday to Friday 9 to 5 hours to the Google profile when you set it up, and mark weekends closed. If you take storm calls after hours, Google lets you add a short note about that."
+      "note": "Your website clearly lists Monday through Friday 9:00am to 5:00pm, closed weekends. Google currently shows 9 to 6 on weekdays. Most people check hours right on Maps before they call.",
+      "next": "Pick the real weekday close, 5 or 6, and use that same set on the site and on Google. Mark weekends closed on both. If you take storm calls after hours, Google lets you add a short note about that."
     },
     {
       "id": "photos",
       "lamp": "dim",
-      "note": "Tree work sells on before-and-after pictures, and you have over four decades of jobs behind you. Right now there is no Google listing for photos to live on, so people deciding between tree services can't see your crew, truck or finished work in Maps.",
-      "next": "Once the profile is live, add 5 to 10 real photos: the truck and bucket, a removal in progress, a clean yard after a stump grind. Adding a fresh one every month or two keeps the listing looking active."
+      "note": "Tree work sells on before-and-after pictures, and you have over four decades of jobs behind you. The Google listing is live, so there's already a place for crew, truck and finished-work photos.",
+      "next": "Add 5 to 10 real photos to the profile: the truck and bucket, a removal in progress, a clean yard after a stump grind. Adding a fresh one every month or two keeps the listing looking active."
     },
     {
       "id": "site",
@@ -42,8 +42,8 @@
     {
       "id": "nap",
       "lamp": "dim",
-      "note": "Your street and phone match across your site, Nextdoor and Yelp, which is a good base. Yelp lists the shop as Sean McNeil Tree Service, while your site and Nextdoor say McNeil's Tree Service. Small name splits like that make it harder for search engines to tell the listings are all the same business.",
-      "next": "Pick one name, most likely McNeil's Tree Service, and use it on Yelp, Nextdoor and the new Google profile. Yelp lets the owner request a name edit from the business account."
+      "note": "Your street and phone match across your site, Nextdoor and Yelp, which is a good base. Google uses McNeils Tree Service ISA Certified Arborist, Yelp lists the shop as Sean McNeil Tree Service, and your site and Nextdoor say McNeil's Tree Service. Small name splits like that make it harder for search engines to tell the listings are all the same business.",
+      "next": "Pick one name, most likely McNeil's Tree Service, and use it on Yelp, Nextdoor and Google. Yelp lets the owner request a name edit from the business account."
     }
   ]
 }
