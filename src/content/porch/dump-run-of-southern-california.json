@@ -6,32 +6,32 @@
   "phone": "(213) 590-2738",
   "generated": "2026-11-04",
   "prospectId": "1793827583015-a0b9a1c",
-  "headline": "Neighbors already vouch for you. Google can't point people to you yet.",
-  "summary": "Dump Run of Southern California is a local junk removal and hauling service working out of the El Cajon area, handling household and commercial cleanouts and yard cleanups, with same-day service and text-for-a-quote right on the website. Neighbors named it a Nextdoor Neighborhood Favorite in 2025, and recent neighbor posts recommend you by name, which is about the best recommendation a hauler can get. Your phone number is the same on the website and on Nextdoor, and the site makes it clear what you haul and how to reach you. The biggest leftover is Google. When we searched Google's business listings for Dump Run of Southern California, nothing came up, so the many people who search junk removal on Google Maps never see you, even though your neighbors already vouch for you. A free Google Business Profile set up as a service-area business would fix that without showing a street address. A few smaller touches would help too: the website shows hours of 8 to 6 while Nextdoor shows 8 to 8 every day, the website names San Diego while Nextdoor names El Cajon, and the site only offers a contact form, so adding the Gmail address you already use on Nextdoor gives people one more easy way to reach you. Once those line up, the reputation you've built by word of mouth has a place to show up online.",
+  "headline": "Neighbors already vouch for you. The hours just don't agree yet.",
+  "summary": "Dump Run of Southern California is a local junk removal and hauling service working out of the El Cajon area, handling household and commercial cleanouts and yard cleanups, with same-day service and text-for-a-quote right on the website. Neighbors named it a Nextdoor Neighborhood Favorite in 2025, and recent neighbor posts recommend you by name, which is about the best recommendation a hauler can get. Your phone number is the same on the website and on Nextdoor, your Google listing is up with the website linked, and the site makes it clear what you haul and how to reach you. The biggest leftover is hours. Your website shows 8 to 6, Google shows 8 to 7 every day, and Nextdoor shows 8 to 8 every day, so a neighbor checking one place and calling later in the evening can get a different answer than they expected. Picking one set and using it on the site, Google and Nextdoor keeps callers from guessing. A few smaller touches would help too: the website names San Diego while Nextdoor names El Cajon, and the site only offers a contact form, so adding the Gmail address you already use on Nextdoor gives people one more easy way to reach you. Once those line up, the reputation you've built by word of mouth has a place to show up online.",
   "signals": [
     {
       "id": "found",
-      "lamp": "out",
-      "note": "We searched Google's business listings for Dump Run of Southern California and for Dump Run of SoCal and found no listing, only other haulers. People who search junk removal near El Cajon or La Mesa on Google Maps can't see you. Your Nextdoor reputation is strong, so a listing would give that word of mouth somewhere to land.",
-      "next": "Create a free Google Business Profile as a service-area business so no street address shows, and list the towns you cover. After verification, add your phone, website, hours and a few photos, then ask a handful of happy customers to leave a review."
+      "lamp": "lit",
+      "note": "Your Google listing is up as Dump Run of Southern California, marked open, with your website linked. People searching junk removal can land on you. Your Nextdoor reputation is strong, so keeping the Google profile matched to the site and Nextdoor keeps that word of mouth easy to find.",
+      "next": "Keep the Google profile claimed and make sure the hours and main phone there match the site and Nextdoor. After any change, ask a handful of happy customers to leave a review."
     },
     {
       "id": "call",
       "lamp": "lit",
       "note": "Your number, (213) 590-2738, is the same on your website and on Nextdoor, and the site also offers 855-855-DUMP and a text-for-a-quote option. Callers have no trouble reaching you, which is the door that matters most. The only thing to watch is keeping one main number in front.",
-      "next": "When you set up Google, use (213) 590-2738 as the main number so it matches Nextdoor and the site. You can list 855-855-DUMP as an additional number on the profile."
+      "next": "Keep (213) 590-2738 as the main number on Google so it matches Nextdoor and the site. You can list 855-855-DUMP as an additional number on the profile."
     },
     {
       "id": "hours",
       "lamp": "dim",
-      "note": "Your website shows 8 to 6, while your Nextdoor page shows 8 to 8 every day. A customer who checks one and calls at seven in the evening may get a different answer than they expected. Matching hours also make a new Google listing look more trustworthy.",
-      "next": "Decide which hours you really keep and use the same ones on the website, Nextdoor and the new Google profile. If you take later jobs by arrangement, add a short line saying so."
+      "note": "Your website shows 8 to 6, Google shows 8 to 7 every day, and your Nextdoor page shows 8 to 8 every day. A customer who checks one and calls at seven in the evening may get a different answer than they expected.",
+      "next": "Decide which hours you really keep and use the same ones on the website, Nextdoor and Google. If you take later jobs by arrangement, add a short line saying so."
     },
     {
       "id": "photos",
       "lamp": "dim",
-      "note": "With no Google listing, there's no place on Maps for people to see your truck or a before-and-after cleanout. For junk removal, those photos do a lot of the selling, because people want to see that the crew is real and leaves a place tidy. They're also easy to collect on every job.",
-      "next": "Snap a before and after on your next few jobs, plus a clear photo of the truck, and add them when the Google profile goes live. A fresh photo every couple of weeks keeps the listing looking active."
+      "note": "The Google listing is live, so there's already a place on Maps for people to see your truck or a before-and-after cleanout. For junk removal, those photos do a lot of the selling, because people want to see that the crew is real and leaves a place tidy. They're also easy to collect on every job.",
+      "next": "Snap a before and after on your next few jobs, plus a clear photo of the truck, and add them to the Google profile. A fresh photo every couple of weeks keeps the listing looking active."
     },
     {
       "id": "site",
@@ -42,8 +42,8 @@
     {
       "id": "nap",
       "lamp": "dim",
-      "note": "Your name and phone match on the website and Nextdoor, which is a good base. The town and hours don't: San Diego and 8 to 6 on the site, El Cajon and 8 to 8 on Nextdoor. When a Google listing is added, it will help a lot if all three say the same thing.",
-      "next": "Pick one town to lead with, one set of hours and one main number, and use them on the website, Nextdoor and Google. A quick side-by-side check after setup keeps them matched."
+      "note": "Your name and phone match on the website and Nextdoor, and Google is up too. The town and hours still don't: San Diego and 8 to 6 on the site, El Cajon and 8 to 8 on Nextdoor, and 8 to 7 on Google.",
+      "next": "Pick one town to lead with, one set of hours and one main number, and use them on the website, Nextdoor and Google. A quick side-by-side check after the change keeps them matched."
     }
   ]
 }
