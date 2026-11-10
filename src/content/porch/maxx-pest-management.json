@@ -7,31 +7,31 @@
   "generated": "2026-11-04",
   "prospectId": "1793810809827-mpi9urg",
   "headline": "Neighbors trust Joel. A couple of doors online are stuck.",
-  "summary": "Maxx Pest Management is a family-owned pest control service out of Alpine, handling common household pests along with rats and mice, gopher treatment and humane wildlife trapping. Neighbors on Nextdoor named it a Neighborhood Favorite in 2024 and 2025 and describe Joel as very knowledgeable, professional and kind, which is exactly the reputation a small pest company wants. The phone number is the same on the website and Nextdoor, and the website clearly explains what you do. Two things are quietly working against all that goodwill. First, the email address printed in the Contact section of your website has a small spelling slip in the part after the @, and that address can't receive mail, so anyone who writes to you from the site is likely never reaching you. The correct Gmail address is already on Nextdoor, so this is a quick copy-and-paste fix. Second, when we searched Google's business listings for Maxx Pest Management, nothing came up, so people searching for pest control around Alpine on Google Maps can't find you there. A free Google Business Profile, set up as a service-area business, would put your phone, hours and reviews where most people start looking. A couple of small website touch-ups, like replacing a leftover sample quote and naming the towns you serve, would round it out.",
+  "summary": "Maxx Pest Management is a family-owned pest control service out of Alpine, handling common household pests along with rats and mice, gopher treatment and humane wildlife trapping. Neighbors on Nextdoor named it a Neighborhood Favorite in 2024 and 2025 and describe Joel as very knowledgeable, professional and kind, which is exactly the reputation a small pest company wants. The phone number is the same on the website and Nextdoor, the website clearly explains what you do, and your Google listing is up with the website and phone linked. The leftover that still hurts is the Contact email on the site: the address printed there has a small spelling slip in the part after the @, and that address can't receive mail, so anyone who writes to you from the site is likely never reaching you. The correct Gmail address is already on Nextdoor, so this is a quick copy-and-paste fix. A couple of small website touch-ups, like replacing a leftover sample quote and naming the towns you serve, would round it out.",
   "signals": [
     {
       "id": "found",
-      "lamp": "out",
-      "note": "We searched Google's business listings for Maxx Pest Management and found no listing. People who search pest control near Alpine or El Cajon on Google Maps can't see you at all. Your Nextdoor reputation is strong, so a Google listing would give that word of mouth somewhere to land.",
-      "next": "Create a free Google Business Profile as a service-area business so no street address shows, and list the towns you cover. After verification, add your phone, website and hours, then ask a few happy customers to leave a review."
+      "lamp": "lit",
+      "note": "Your Google listing is up as Maxx Pest Management, marked open, with maxxpestmanagement.com and (619) 212-1595. People searching pest control around Alpine can land on you. Your Nextdoor reputation is strong, so keeping the Google profile matched keeps that word of mouth easy to find.",
+      "next": "Keep the Google hours and phone matched to whatever you post on the site and Nextdoor once those go up. After any change, ask a few happy customers to leave a review."
     },
     {
       "id": "call",
       "lamp": "lit",
-      "note": "Your number, (619) 212-1595, is the same on your website and on Nextdoor, so callers reach the right place. That's the most important door, and it's working. Keep it identical on any new listing.",
-      "next": "Use (619) 212-1595 exactly as-is on the new Google profile. If you ever add a text line or a second number, list it as additional rather than swapping this one out."
+      "note": "Your number, (619) 212-1595, is the same on your website and on Nextdoor, so callers reach the right place. That's the most important door, and it's working. Keep it identical on Google too.",
+      "next": "Use (619) 212-1595 exactly as-is on the Google profile. If you ever add a text line or a second number, list it as additional rather than swapping this one out."
     },
     {
       "id": "hours",
       "lamp": "dim",
-      "note": "We didn't find business hours posted on your website or your Nextdoor page. For a service business that's common, but customers often check hours before calling to see whether they'll get a person or voicemail. Even rough hours help set expectations.",
+      "note": "We didn't find business hours posted on your website or your Nextdoor page. Google currently shows Monday to Friday 8 to 6, weekends closed. Customers often check hours before calling to see whether they'll get a person or voicemail. Even rough hours on the site help set expectations.",
       "next": "Add your usual working hours to the website footer and to Nextdoor, and use the same hours on the Google profile. If you work by appointment, say so in one short line."
     },
     {
       "id": "photos",
       "lamp": "dim",
-      "note": "With no Google listing, there's no place on Maps for people to see your truck, your gear or you on the job. Photos are a big part of why people pick one small pest company over another. They help a new customer feel like they know who's coming to the door.",
-      "next": "When the Google profile is live, add a handful of real photos: the truck, Joel on a job, a set trap or a gopher treatment. A new photo every month or two keeps the listing fresh."
+      "note": "The Google listing is live, so there's already a place on Maps for people to see your truck, your gear or you on the job. Photos are a big part of why people pick one small pest company over another. They help a new customer feel like they know who's coming to the door.",
+      "next": "Add a handful of real photos to the profile: the truck, Joel on a job, a set trap or a gopher treatment. A new photo every month or two keeps the listing fresh."
     },
     {
       "id": "site",
@@ -42,7 +42,7 @@
     {
       "id": "nap",
       "lamp": "dim",
-      "note": "Nextdoor lists you in Alpine, while the website just says San Diego Area. Your phone matches in both places, but the email addresses differ because of the site's spelling slip. Search engines trust a business more when the name, town, phone and email line up everywhere.",
+      "note": "Nextdoor lists you in Alpine, while the website just says San Diego Area. Your phone matches in both places and on Google, but the email addresses differ because of the site's spelling slip. Search engines trust a business more when the name, town, phone and email line up everywhere.",
       "next": "Name Alpine and the nearby towns you serve on the website, and use the same email on the site, Nextdoor and Google. A quick check of both pages after the change keeps them matched."
     }
   ]
