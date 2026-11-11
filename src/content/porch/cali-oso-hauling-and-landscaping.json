@@ -1,0 +1,49 @@
+{
+  "slug": "cali-oso-hauling-and-landscaping",
+  "business": "Cali Oso Hauling and Landscaping",
+  "town": "Alpine, CA",
+  "website": "",
+  "phone": "(619) 916-1122",
+  "generated": "2026-11-11",
+  "prospectId": "1794416237005-65w46qx",
+  "headline": "Neighbors keep recommending Patrick. Google can't point people to you yet.",
+  "summary": "Cali Oso Hauling and Landscaping is an owner-run hauling and yard service in Alpine, CA, handling weed abatement, monthly yard maintenance, junk hauling and cleanouts, and pressure washing for houses, driveways and sidewalks. Neighbors have named it a Nextdoor Neighborhood Favorite three years running, in 2023, 2024 and 2025, and recent recommendations include one from a neighbor in La Mesa about a job at an Alpine house, and one from a neighbor in El Cajon for pressure washing, with that neighbor writing that \"Patrick is timely, personable and reasonable.\" You keep your Nextdoor page active with fresh posts, and the same phone number shows up everywhere, so the people who already know you can reach you easily. The biggest leftover is Google. When we searched Google's business listings for Cali Oso Hauling and Landscaping, including service-area businesses that don't show a street address, we couldn't find a listing, so people who search for yard cleanup or junk hauling on Google Maps don't see you, even though your neighbors already vouch for you. A free Google Business Profile set up as a service-area business would fix that without showing a home address. A few smaller touches would help too: there's no website yet, so Nextdoor is carrying everything; the Nextdoor page lists the town as Alpine, CA, with the street hidden, but it doesn't list the towns you cover, and the page URL still says El Cajon; and the hours read 6 AM to 11 PM, which looks more like a placeholder than the hours you actually keep. Once a Google listing is in place with the same name, number and hours, the reputation you've built by word of mouth has a place to show up online.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "We searched Google's business listings for Cali Oso Hauling and Landscaping, including service-area businesses that don't show an address, and couldn't find a listing; only other landscapers and haulers came up. People who search yard cleanup, weed abatement or junk hauling near Alpine, CA on Google Maps can't see you. Your Nextdoor reputation is strong, so a listing would give that word of mouth somewhere to land.",
+      "next": "Create a free Google Business Profile as a service-area business so no street address shows, and list the towns you cover. After verification, add your phone, hours and a few job photos, then ask a handful of happy customers to leave a review."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (619) 916-1122, is on your Nextdoor page and in your own posts, and neighbors pass it along when they recommend you. That makes the phone the easiest door into your business, which is exactly what a hauling and yard service needs. The only thing to watch is keeping that one number in front everywhere you add a listing.",
+      "next": "Use (619) 916-1122 as the main number on Google and on any future website so every listing matches. If you prefer texts for quotes, say so right next to the number."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Your Nextdoor page lists 6 AM to 11 PM on six days, with the seventh day left blank. Those hours read more like a default setting than the hours you actually take calls or work jobs. A customer who calls late in the evening based on that page may be surprised.",
+      "next": "Decide which hours you really keep, even if it's something like early morning to early evening, and put the same hours on Nextdoor and on the new Google profile. If you take later calls by text, add a short line saying so."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Your Nextdoor posts include job photos, which is a great start, but with no Google listing there's no place on Maps for people to see a cleared lot, a clean driveway or a hauled-away pile. For yard and hauling work, before and after photos do a lot of the selling. They're also easy to collect on every job.",
+      "next": "Save a before and after from your next few jobs, plus a clear photo of the truck or trailer, and add them when the Google profile goes live. A fresh photo every couple of weeks keeps the listing looking active."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "We couldn't find a website for Cali Oso Hauling and Landscaping; your Nextdoor page is carrying the whole online presence. That works well for neighbors already on Nextdoor, but people outside it have nowhere to read about your services. A website isn't urgent while Google is still missing, but it's a good second step.",
+      "next": "Start with the free Google profile, which gives you a basic presence right away. Later, a simple one-page site with your services, the towns you cover, your number and your email would round things out."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your name and phone are clear on Nextdoor, and the town line prints Alpine, CA, with the street hidden. The page doesn't list the towns you serve, the page URL still says El Cajon, and the name shows up two ways: Cali Oso Hauling and Landscaping on the page and Cali oso landscaping and hauling in your posts. When a Google listing is added, it helps a lot if the name, number and service area all match. Small differences like word order can make listings look like two different businesses.",
+      "next": "Pick one version of the name and use it on Nextdoor, Google and anywhere else you list the business. Add the towns you cover to the Nextdoor page. The town line already reads Alpine, CA, and the page URL still says El Cajon."
+    }
+  ]
+}
