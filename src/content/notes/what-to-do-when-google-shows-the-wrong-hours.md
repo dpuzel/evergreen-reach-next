@@ -40,6 +40,8 @@ Google has a separate spot for special hours. Use it for holidays, inventory day
 
 It takes a minute, and it saves someone a wasted drive on the one day they finally made time to come see you.
 
+For holiday dates and shorter winter days, see our [guide to setting holiday hours on Google](/notes/set-your-holiday-hours-on-google).
+
 ## How do I keep my hours right after that?
 
 Pick one small habit and stick to it.
