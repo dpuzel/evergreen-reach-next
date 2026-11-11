@@ -36,7 +36,7 @@ If you haven't claimed your listing yet, that's the first step. Until you do, an
 
 ## What about holidays and special hours?
 
-Google has a separate spot for special hours. Use it for holidays, inventory days, a family event, or the week you're closed for vacation. Special hours show up for just those dates, and your regular hours come back on their own afterward.
+Google has a separate spot for special hours. Use it for holidays, inventory days, a family event, or another change lasting up to six days in a row. Special hours show up for just those dates, and your regular hours come back on their own afterward. If you'll be closed for seven days or more, use Temporarily closed instead and switch back when you reopen.
 
 It takes a minute, and it saves someone a wasted drive on the one day they finally made time to come see you.
 
