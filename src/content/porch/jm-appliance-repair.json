@@ -4,46 +4,46 @@
   "town": "Spring Valley",
   "website": "",
   "phone": "(619) 536-7937",
-  "generated": "2026-11-04",
+  "generated": "2026-11-11",
   "prospectId": "1793827576823-f0m632q",
-  "headline": "Neighbors trust the repairs. The website link leads nowhere.",
-  "summary": "JM Appliance Repair is a Spring Valley appliance repair service that comes to the house, and its Nextdoor story describes more than 15 years of hands-on work with brands like LG, Samsung and Whirlpool. Neighbors named it a Nextdoor Neighborhood Favorite in 2025, and a neighbor was recommending it by name in the summer of 2025, which is the kind of word of mouth a small repair business lives on. The basics are in good shape: there is an open Google listing, and the phone number on Google matches the one on Nextdoor, so callers reach you. The biggest leftover is the website. The address listed on your Nextdoor page, jm-appliance.com, currently opens a parked domain page instead of anything about your business, so a neighbor who taps it sees a placeholder and may wonder if you're still around. Either point that domain at a simple one-page site or take the link off until there is one. A few smaller touches would tighten things up: your Google listing and Nextdoor show slightly different starting times on weekdays, the Google listing uses a general service category instead of appliance repair, the business name on Google is in all capital letters, and there is only one photo on the Google listing. None of these are big jobs, and together they make the strong reputation you already have easier to find and easier to trust.",
+  "headline": "Neighbors trust the repairs. Google is showing two listings for the same shop.",
+  "summary": "JM Appliance Repair is a Spring Valley appliance repair service that comes to the house, and its Nextdoor story describes more than 15 years of hands-on work with brands like LG, Samsung and Whirlpool. Neighbors named it a Nextdoor Neighborhood Favorite in 2025, and a neighbor was recommending it by name in the summer of 2025, which is the kind of word of mouth a small repair business lives on. The basics are in good shape on the service-area Google listing: it is open, the name is JM Appliance Repair LLC in normal capitalization, the phone number (619) 536-7937 matches Nextdoor, there are 10 photos added by the business and 9 reviews, and the hours are Monday through Friday 8:00 AM to 5:00 PM and Saturday 8:00 AM to 1:30 PM. The biggest leftover is that Google is also showing a second card for the same shop, with different hours, photos, reviews and website fields, which can split how you show up. The service-area listing is the more complete one to keep, and we can help sort out the extra card. A few smaller touches would help too: the website listed on your Nextdoor page, jm-appliance.com, isn't loading, so the straightforward fix is to take that link off; the service-area Google card lists jmappliancerepair.com, but that address also doesn't currently load a shop page, so if that domain is yours, point it at a real page or take it off the card until it works; and both Google cards still use a general service category instead of appliance repair.",
   "signals": [
     {
       "id": "found",
       "lamp": "lit",
-      "note": "Your Google listing is live and marked open, so people searching for appliance repair around Spring Valley can find you on Maps. The listing uses a general service category, though, so Google has less to go on when deciding which searches to show you for. Picking the right category is one of the strongest signals a small listing has.",
-      "next": "In your Google Business Profile, set the primary category to Appliance repair service and add any close secondary ones that fit, like Washer and dryer repair service. Then check that the service area covers the towns you actually drive to."
+      "note": "Your service-area Google listing is live and marked open, so people searching for appliance repair around Spring Valley can find you on Maps. There is also a second Google card for the same shop, and both cards still use a general service category, so Google has less to go on when deciding which searches to show you for.",
+      "next": "Use the service-area Google listing as the main one, and set its primary category to Appliance repair service, plus any close secondary ones that fit, like Washer and dryer repair service. Then check that the service area covers the towns you actually drive to. We can help sort out the extra card."
     },
     {
       "id": "call",
       "lamp": "lit",
-      "note": "Your number, (619) 536-7937, is the same on Google and Nextdoor, so a caller lands in the right place whichever one they find first. That's the door that matters most for a repair business, and it's working. Keep it identical everywhere as you add or fix listings.",
+      "note": "Your number, (619) 536-7937, is the same on both Google cards and on Nextdoor, so a caller lands in the right place whichever one they find first. That's the door that matters most for a repair business, and it's working.",
       "next": "Use (619) 536-7937 exactly as-is on any new website or listing. If you add a text-friendly line later, list it as an extra number rather than replacing this one."
     },
     {
       "id": "hours",
       "lamp": "dim",
-      "note": "Google and Nextdoor both show weekday hours, but the start times don't match: Google opens half an hour earlier than Nextdoor. It's a small gap, but a customer who calls early based on one listing and gets voicemail may move on. Matching hours also help Google trust the listing.",
-      "next": "Pick the hours you really keep and enter the same ones on Google and Nextdoor. If you do emergency or after-hours calls, say so in one short line on both."
+      "note": "The two Google cards do not agree on hours. The service-area listing shows Monday through Friday 8:00 AM to 5:00 PM and Saturday 8:00 AM to 1:30 PM, while the other card starts weekdays earlier and is closed Saturday, so a customer who goes by the wrong card may call at a time you aren't taking jobs.",
+      "next": "Pick the hours you really keep, including whether you take Saturday jobs, and put the same hours on the service-area Google listing and on Nextdoor. If you do emergency or after-hours calls, say so in one short line on both."
     },
     {
       "id": "photos",
-      "lamp": "dim",
-      "note": "Your Google listing has a single photo, and it was posted by a customer rather than by you. People choosing someone to come into their kitchen like to see the person and the work first. A few real photos make a home-visit business feel known before the knock on the door.",
-      "next": "Add five or six of your own photos to the Google profile: your work vehicle, you at work on a washer or fridge, and a tidy finished job. Adding a new one every month or two keeps the listing looking active."
+      "lamp": "lit",
+      "note": "Your service-area Google listing already has 10 photos, all added by JM Appliance Repair LLC. The other Google card still has only one photo, posted by a customer, which is another reason the service-area listing is the one to keep.",
+      "next": "Keep those photos on the service-area listing you stay with. Adding a new one every month or two keeps the listing looking active."
     },
     {
       "id": "site",
       "lamp": "out",
-      "note": "The website listed on your Nextdoor page, jm-appliance.com, opens a parked domain page instead of your business. Anyone who taps it from Nextdoor hits a dead end, and your Google listing has no website at all. This is the one leftover most likely to cost you a call.",
-      "next": "If you own jm-appliance.com, point it at a simple one-page site with your services, phone, hours and service area, then add that link to Google. If you don't plan to use it, remove the link from Nextdoor so neighbors don't land on the placeholder."
+      "note": "The website listed on your Nextdoor page, jm-appliance.com, isn't loading, so anyone who taps it hits a dead end. The straightforward fix is to take that link off Nextdoor. Your service-area Google card lists jmappliancerepair.com, but that address also doesn't currently load a shop page.",
+      "next": "Remove the jm-appliance.com link from Nextdoor. If you own jmappliancerepair.com, point it at a real page or take it off the Google card until it works."
     },
     {
       "id": "nap",
       "lamp": "dim",
-      "note": "Your name, town and phone line up on Google and Nextdoor, which is a good start. The name on Google is in all capital letters, and the website field doesn't match: Nextdoor points to the parked domain while Google has none. Search engines reward businesses that look the same everywhere.",
-      "next": "Change the Google name to JM Appliance Repair in normal capitalization, which Google allows as long as it's your real name. Once the website question is settled, use the same link, or no link, on both Google and Nextdoor."
+      "note": "Your name, phone and town line up, but Google is currently showing two cards for the same shop, with different hours, photos, reviews and website fields. Neither website URL is loading a shop page right now, and having two listings can split how you show up.",
+      "next": "Keep the service-area Google listing, and we can help merge or remove the extra card. Once you have a working website, use the same link, or no link, on Google and Nextdoor."
     }
   ]
 }
