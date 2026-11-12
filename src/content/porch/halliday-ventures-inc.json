@@ -1,0 +1,49 @@
+{
+  "slug": "halliday-ventures-inc",
+  "business": "Halliday Ventures Inc.",
+  "town": "Lemon Grove",
+  "website": "",
+  "phone": "(619) 971-3380",
+  "generated": "2026-11-12",
+  "prospectId": "1794502698124-ou9ryvy",
+  "headline": "Neighbors keep naming you a favorite. Your Google hours tell a different story than Nextdoor.",
+  "summary": "Halliday Ventures Inc., also known to neighbors as Katya's Cleaning Services, is an insured, owner-operated cleaning business based in Lemon Grove, cleaning homes, vacation rentals and commercial spaces across East County. Katya Halliday personally completes every job, and neighbors have noticed: Nextdoor named the business a Neighborhood Favorite in 2025 and again in 2026, across neighborhoods from Lemon Grove and La Mesa to El Cajon, Santee, Spring Valley and Alpine. Recent recommendations describe the work plainly, with one neighbor writing that \"Katya is reliable, honest and precise.\" You keep your Nextdoor page active with your own posts, and the same phone number shows up on Nextdoor and on your Google listing, so the basics are in good shape. The biggest leftover is your hours. Google lists you as open 8:30 AM to 10 PM or later every day, while your Nextdoor page says 8 AM to 5 PM every day, so a new customer could call late in the evening expecting an answer. A few smaller touches would help too: the Google listing has no website link and only a couple of photos, the business goes by two names (Halliday Ventures Inc. on Google and Nextdoor, Katya's Cleaning Services in your Nextdoor link and Fave voting posts), and the Nextdoor page shows a license line with nothing after it. Once the hours match and the listing has a few more photos and a link to a page about your services, the word of mouth you've earned has a clearer place to land.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "When we searched Google's business listings, Halliday Ventures Inc. came up as an open, active listing with your phone number, set up as a service-area business so no home address shows. That's a solid foundation that many solo cleaners never get to. People who hear about you from a neighbor and look you up can confirm you're real and reach you.",
+      "next": "Keep the listing fresh by replying to every Google review, even with a short thank-you, and adding a Google post now and then (a seasonal deep-clean reminder works well). If customers know you as Katya's Cleaning Services, mention that name in the listing description so both searches lead to you."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (619) 971-3380, is the same on Nextdoor, on your Google listing and in your own posts, where you sign off with your name and number. Consistent contact details make it easy for a referred customer to reach you on the first try. For a solo cleaning business, that phone is the front door.",
+      "next": "Keep (619) 971-3380 as the one number everywhere you list the business. If you prefer texts for quotes or scheduling, say so right next to the number on Google and Nextdoor."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google shows you open every day from 8:30 AM until 10 PM, and until 10:30 PM later in the week. Your Nextdoor page lists 8 AM to 5 PM every day. When two listings disagree like this, customers aren't sure when to call, and Google may treat the information as less reliable.",
+      "next": "Decide on the hours you actually take calls and book cleanings, then set the same hours on Google and Nextdoor. If you're flexible for move-outs or vacation rental turnovers, you can mention that in the description instead of stretching the posted hours."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "Your Google listing shows only a couple of photos. For a cleaning business, photos do a lot of the convincing: a sparkling kitchen, a freshly made-up vacation rental, a clean bathroom after a move-out. Neighbors already praise how spaces look afterward, and photos let new customers see it for themselves.",
+      "next": "With the client's permission, take a quick before and after on your next few jobs and add them to your Google listing. Adding a fresh photo every few weeks also helps the listing look active."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "We couldn't find a website for Halliday Ventures Inc. or Katya's Cleaning Services, and the Google listing has no website link. Right now Nextdoor carries your whole story, which works for neighbors already there but leaves Google searchers with very little to read. A simple page would give people one place to see your services, the areas you cover and how to book.",
+      "next": "As a quick first step, add your Nextdoor page as the website link on Google so searchers can read your recommendations. Later, a simple one-page site with your services, service area, insurance and contact details would round things out."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your Google listing and Nextdoor page both use Halliday Ventures Inc., but your Nextdoor link and Fave voting posts use Katya's Cleaning Services, and neighbors often just say Katya. The Nextdoor page also shows a license line (\"Lic. CA\") with no number after it. Small inconsistencies like these can make a business look like two different listings and raise questions you don't need.",
+      "next": "Pick how you want to be known, for example Halliday Ventures Inc. with \"Katya's Cleaning Services\" in the description, and use it the same way on Google and Nextdoor. Either add the license or registration number to that Nextdoor field or clear it so the empty line doesn't show."
+    }
+  ]
+}
