@@ -1,0 +1,49 @@
+{
+  "slug": "kevin-mclin",
+  "business": "Kevin McLin",
+  "town": "Escondido",
+  "website": "",
+  "phone": "(858) 207-7922",
+  "generated": "2026-11-12",
+  "prospectId": "1794502704057-zbb9eb2",
+  "headline": "Five years of Nextdoor Faves. Google can't point people to you yet.",
+  "summary": "Kevin McLin is an independent plumber in Escondido who handles the everyday jobs homeowners need done right: leaks, water heaters, valve replacements and irrigation pipe repairs. Neighbors have named him a Nextdoor Neighborhood Favorite five years running, from 2021 through 2025, and they keep passing his name and number along whenever someone asks for a plumber, including recommendations from mid-2026. One neighbor wrote that Kevin \"is knowledgeable, conducts his work in a professional manner, and offers fair pricing without any pressure to purchase additional services.\" Another put it simply: \"He is honest and so helpful.\" The same phone number shows up in every recommendation, so the people who already know you can reach you. The biggest leftover is Google. When we searched Google's business listings, including service-area businesses that don't show a street address, we couldn't find a listing for you, so someone in Escondido searching for a plumber on Google Maps won't see you, even though your neighbors already vouch for you. A free Google Business Profile set up as a service-area business would fix that without showing a home address. A few smaller touches would help too: your Nextdoor page lists one day as open 24 hours and the other six as closed, which makes it look like you only work one day a week; there's no website, so Nextdoor carries everything; and the business has no name beyond your own, which is fine as long as it's used the same way everywhere. Once a Google listing is in place with the same name, number and real hours, the reputation you've built by word of mouth has a place to show up when people search.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "We searched Google's business listings for Kevin McLin, including service-area businesses that don't show an address, and couldn't find a listing; only other Escondido plumbing companies came up. That means someone searching plumber near Escondido on Google Maps sees the companies that have listings, not the plumber their neighbors keep recommending. Your Nextdoor reputation is strong, so a listing would give it somewhere to land.",
+      "next": "Create a free Google Business Profile as a service-area business so no street address shows, with Plumber as the main category and the towns you cover. Once it's verified, add your phone, real hours and a few photos, then ask a handful of longtime customers to leave a review."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (858) 207-7922, is on your Nextdoor page and in nearly every neighbor recommendation, often written out in full so others can call you. That's exactly how a referral business should work: people hear your name and get your number in the same breath. The one thing to protect is keeping that single number everywhere you list yourself.",
+      "next": "Use (858) 207-7922 as the main number on Google and any future website so every listing matches what neighbors already share. If texting a photo of the problem is the easiest way to get a quote, say so right next to the number."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "Your Nextdoor page shows one day of the week as open 24 hours and the other six days as closed. Anyone who checks before calling could reasonably think you only work one day a week, or that the page is out of date. For plumbing, where people often need help soon, clear hours matter.",
+      "next": "Update the Nextdoor hours to the days and times you actually take calls, even if it's a simple weekday schedule. Use the same hours on the new Google listing, and add a line if you sometimes take urgent calls outside them."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "With no Google listing, there's no place on Maps for people to see your work, your truck or you. Photos help a solo tradesperson most, because they show a real, careful person behind the name. A neat water heater install or a clean under-sink repair tells a new customer a lot.",
+      "next": "Snap a quick photo after your next few jobs, with the homeowner's OK, plus a photo of your work vehicle, and add them when the Google profile goes live. A fresh photo every few weeks keeps the listing looking active."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "We couldn't find a website for Kevin McLin; your Nextdoor page is carrying your whole online presence. That works for neighbors already on Nextdoor, but people outside it have nowhere to read about what you do. A website isn't urgent while Google is still missing, but it's a good second step.",
+      "next": "Start with the free Google profile, which gives you a basic presence right away. Later, a simple one-page site listing your services, the areas you cover, your number and your email would round things out."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Neighbors know you simply as Kevin McLin, and your Nextdoor page uses just your name with the categories Plumber and Water heater service. That's fine, but the page doesn't say which towns you serve beyond Escondido. When a Google listing is added, matching the name, number and service area across both helps people and Google recognize it's the same plumber.",
+      "next": "Pick one way to show your name, for example Kevin McLin Plumbing or just Kevin McLin, Plumber, and use it the same way on Nextdoor and Google. Add the towns you actually cover to both, starting with Escondido."
+    }
+  ]
+}
