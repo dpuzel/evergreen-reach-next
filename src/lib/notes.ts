@@ -85,6 +85,21 @@ export function getRelatedNotes(slug: string, limit = 2): NoteMeta[] {
     .slice(0, limit);
 }
 
+export function topicSlug(topic: string) {
+  return topic
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+/** Unique topics from published notes, A–Z by label. */
+export function getNoteTopics(): string[] {
+  const seen = new Set<string>();
+  for (const note of getNotes()) seen.add(note.topic);
+  return [...seen].sort((a, b) => a.localeCompare(b));
+}
+
 export function xmlEscape(value: string) {
   return value
     .replace(/&/g, "&amp;")

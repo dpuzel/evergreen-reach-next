@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { NotesShelf } from "@/components/NotesShelf";
 import { SiteShell } from "@/components/SiteShell";
 import { fieldNotes, site } from "@/lib/site";
-import { formatNoteDate, getShelfNotes } from "@/lib/notes";
+import { getNoteTopics, getShelfNotes } from "@/lib/notes";
 
 export const metadata: Metadata = {
   title: "Field Notes",
@@ -21,8 +22,16 @@ export const metadata: Metadata = {
   },
 };
 
-export default function FieldNotesPage() {
+type FieldNotesPageProps = {
+  searchParams: Promise<{ topic?: string }>;
+};
+
+export default async function FieldNotesPage({
+  searchParams,
+}: FieldNotesPageProps) {
   const notes = getShelfNotes();
+  const topics = getNoteTopics();
+  const { topic } = await searchParams;
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -89,38 +98,7 @@ export default function FieldNotesPage() {
               </p>
             </div>
           ) : (
-            <ul className="divide-y divide-sage/10 border-y border-sage/10">
-              {notes.map((note) => (
-                <li key={note.slug}>
-                  <Link
-                    href={`${fieldNotes.path}/${note.slug}`}
-                    className="group block py-8 transition-colors"
-                  >
-                    <p className="mb-3 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs tracking-wide text-sage">
-                      {note.pinned ? (
-                        <>
-                          <span>Start here</span>
-                          <span aria-hidden className="text-sage/40">
-                            ·
-                          </span>
-                        </>
-                      ) : null}
-                      <time dateTime={note.date}>{formatNoteDate(note.date)}</time>
-                      <span aria-hidden className="text-sage/40">
-                        ·
-                      </span>
-                      <span>{note.topic}</span>
-                    </p>
-                    <h2 className="font-display mb-2 text-2xl font-semibold tracking-tight text-cream transition-colors group-hover:text-sage-light sm:text-[1.65rem]">
-                      {note.title}
-                    </h2>
-                    <p className="max-w-xl text-[1.0625rem] leading-relaxed text-cream-dim">
-                      {note.summary}
-                    </p>
-                  </Link>
-                </li>
-              ))}
-            </ul>
+            <NotesShelf notes={notes} topics={topics} selected={topic} />
           )}
         </section>
       </main>
