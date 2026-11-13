@@ -1,0 +1,49 @@
+{
+  "slug": "genesis-landscaping",
+  "business": "GÉNESIS Landscaping",
+  "town": "Poway",
+  "website": "",
+  "phone": "(858) 360-0783",
+  "generated": "2026-11-13",
+  "prospectId": "1794588805406-oznxarz",
+  "headline": "Neighbors made you a favorite two years running. Google hasn't met you yet.",
+  "summary": "GÉNESIS Landscaping takes care of yards and irrigation around Poway: weekly or monthly maintenance, weed clearing, planting, and irrigation repair from valves and drip lines to timers and broken pipes. Neighbors have noticed. Nextdoor named the business a Neighborhood Favorite in 2024 and again in 2025, and you keep showing up where it counts, answering neighbors who ask for a gardener or need help with their sprinklers. That kind of steady, personal presence is exactly what builds a local business, and it's already working on Nextdoor. The biggest leftover is Google. We couldn't find a Google listing for GÉNESIS Landscaping at all, so anyone who hears about you and searches the name, or searches for irrigation repair in Poway, won't find you. A free Google Business Profile set up as a service-area business, with no home address shown, would change that. A few smaller touches would help too: your Nextdoor page name has the phone number typed into it, and the page link shows 0683 where your real number ends in 0783, so the name reads a little cluttered and the link could confuse someone. We also found a second live Nextdoor page under a different name, Dav's LANDSCAPING, with the same phone. There are no hours posted either. Clean up the name, pick one business name and either hide the address on the older Dav's page or close it, post your hours, and give Google a listing, and the reputation you've earned with neighbors will have a clear place to land.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "When we searched Google's business listings for GÉNESIS Landscaping in Poway and for your phone number, nothing came back for you, only unrelated landscapers with similar names in other states. Your Nextdoor page is clearly working, with Neighborhood Favorite awards two years running. But customers who aren't on Nextdoor have no way to find you.",
+      "next": "Set up a free Google Business Profile as a service-area business, so your home address stays private, and list the areas you cover, like Poway and nearby San Diego neighborhoods. Choose categories that match what you do most, such as landscaper and irrigation, so searches for those services can bring people to you."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (858) 360-0783, is on your Nextdoor page and in every reply you leave for neighbors, and you invite both calls and texts. Being that easy to reach is a big reason referrals turn into jobs. Someone who needs a sprinkler fixed can reach you in one step.",
+      "next": "Keep (858) 360-0783 as the single number everywhere, including a new Google listing. Keep saying \"call or text\" next to it, since many homeowners prefer to text a photo of the problem first."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "We didn't see any business hours on your Nextdoor page. Without them, people aren't sure whether it's a good time to call, and some will move on to the next name. Hours are one of the first things people look for on a listing.",
+      "next": "Add the hours you usually take calls and do work to your Nextdoor page now, and use the same hours on Google once the listing is up. If you answer texts outside those hours, a short note like \"texts welcome anytime\" covers it."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "You've shared examples of your work on Nextdoor before, which is great, but without a Google listing there's no place for searchers to see what your yards look like after a visit. For yard care and irrigation, photos do much of the convincing. A clean bed or a newly fixed drip line tells people more than a description.",
+      "next": "Keep taking quick before and after photos on jobs, with the homeowner's okay. Add the best ones to your Google listing once it exists, and post a fresh one every few weeks so the listing looks active."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "We didn't find a website for GÉNESIS Landscaping. For a hands-on yard business that's normal, but it means Nextdoor is your only home online, and people outside Nextdoor never see your awards or how quickly you answer. A Google listing can cover most of what a small website would.",
+      "next": "Start with the Google listing and use your Nextdoor page as its website link, so searchers can see your Favorite awards. If you later want a simple one-page site, list your services, the areas you cover and your phone number."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "We found two live Nextdoor pages for the same phone, (858) 360-0783: GÉNESIS Landscaping and an older page named Dav's LANDSCAPING. The GÉNESIS page name also includes the phone number, and its link ends in 0683 even though your number ends in 0783, so the name and the listings don't quite line up.",
+      "next": "Pick one business name and either hide the address on the older Dav's LANDSCAPING page or close that page. Shorten the GÉNESIS page name to just GÉNESIS Landscaping, keep the phone in the phone field, and use that same name, number and Poway service area on Google too."
+    }
+  ]
+}
