@@ -1,0 +1,49 @@
+{
+  "slug": "travis-lortscher",
+  "business": "Travis Lortscher",
+  "town": "Lakeside",
+  "website": "",
+  "phone": "(619) 480-9880",
+  "generated": "2026-11-13",
+  "prospectId": "1794588800350-5rrq6ud",
+  "headline": "Neighbors pass your number around. Google doesn't know you yet.",
+  "summary": "Travis Lortscher handles yard work and weed clearing around Lakeside, and neighbors have made him a Nextdoor Neighborhood Favorite in 2024 and again in 2025. The recommendations tell the story plainly: one Lakeside neighbor wrote, \"I called Travis and he was here the same day,\" and another from El Cajon said, \"Travis responded rapidly, price was very reasonable, was here rapidly & did a great job!!! I will continue to use his services.\" When a neighbor asks who can knock down the weeds, someone answers with your number, and your own posts keep that number in front of people. That word of mouth is the hard part, and it's already working. The biggest leftover is Google. We couldn't find any Google listing for you, so a neighbor who hears your name and searches for it, or someone new to the area searching for weed clearing near Lakeside, comes up empty. A free Google Business Profile set up as a service-area business (no home address shown) would fix that. A couple of smaller touches would help too: your Nextdoor hours show 10 AM to 12 PM every day, which probably undersells when you actually pick up, and there's no second place online that shows your work. Once Google knows you exist, the recommendations you've earned have somewhere to send people.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "When we searched Google's business listings for your name, your phone number and weed clearing around Lakeside, nothing came back for you. Your Nextdoor page is doing real work, with Neighborhood Favorite awards two years running, but anyone outside Nextdoor has no way to find you. Many customers check Google first, even after a neighbor gives them a name.",
+      "next": "Set up a free Google Business Profile as a service-area business so your home address stays private, and list the towns you cover, like Lakeside and El Cajon. Use a clear name such as Travis Lortscher Yard Work so people searching for the service can find you, not just people who already know your name."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (619) 480-9880, is on your Nextdoor page and in every post you write, and neighbors pass it along in referral threads. That's exactly how a solo yard business should work. A referred customer can reach you on the first try.",
+      "next": "Keep (619) 480-9880 as the one number everywhere, including a new Google listing. Since you invite texts, say \"call or text\" right next to the number on every listing so shy customers know a text is welcome."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Your Nextdoor page lists 10 AM to 12 PM every day of the week. Neighbors describe you showing up the same day they call, so a two-hour window probably doesn't match when you really take calls or work. Short posted hours can make people think they've missed you.",
+      "next": "Set the hours to when you actually answer calls and texts, on Nextdoor now and on Google once the listing is up. If your schedule changes week to week, posting a wider window and a note like \"text anytime, I'll get back to you\" works well."
+    },
+    {
+      "id": "photos",
+      "lamp": "out",
+      "note": "Without a Google listing, there's no place for searchers to see what a cleared lot or tidy yard looks like after you've been there. Weed clearing is a very visual job, and before and after pictures do a lot of the convincing. Right now your words and your neighbors' words are carrying it all.",
+      "next": "On your next few jobs, snap a quick before and after from the same spot. Add them to Nextdoor posts now and to your Google listing once it exists; a few fresh photos each season keeps things looking active."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "We didn't find a website for you, and that's fine for a one-person yard business. The catch is that Nextdoor is your only home online, so people who aren't on Nextdoor never see your awards or recommendations. A Google listing can do most of what a small website would.",
+      "next": "Start with the Google listing and use your Nextdoor page as its website link, so searchers can read what neighbors say. A simple one-page site can wait until you want it."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your name, phone and Lakeside location match everywhere we looked, which is good. The gap is that you show up in exactly one place, under your personal name only, with no words like yard work or weed clearing in the name. That makes it hard for anyone searching by service to land on you.",
+      "next": "Pick one simple business name that says what you do, and use the same name, number and service area on Nextdoor and Google. Keeping those three details identical everywhere helps Google trust the listing."
+    }
+  ]
+}
