@@ -1,0 +1,49 @@
+{
+  "slug": "artisan-pro-handyman-service",
+  "business": "Artisan Pro Handyman Service",
+  "town": "Santee",
+  "website": "",
+  "phone": "(619) 327-3125",
+  "generated": "2026-11-18",
+  "prospectId": "1795020643018-mzykte8",
+  "headline": "Neighbors already recommend you. Google hasn't met you yet.",
+  "summary": "Artisan Pro Handyman Service is an owner-operator shop in Santee, the kind of local handyman neighbors pass along when they need drywall, painting, carpentry, or general home repairs. On Nextdoor you were named a Neighborhood Favorite in 2025, and an April 2025 review says a drywall repair was on time and the work was great. The biggest leftover is Google. We couldn't find a Google listing for Artisan Pro Handyman Service at all, so anyone who searches Google for a Santee handyman or painter finds other shops instead. A free Google Business Profile, set up as a service-area business so a home address stays private, would give that reputation a clear place to land.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "When we searched Google's business listings for Artisan Pro Handyman Service in Santee, nothing came back for you. Other handyman shops showed up, but they were different businesses. Your Nextdoor page is clearly working, including a Neighborhood Favorite nod in 2025. Customers who aren't on Nextdoor have no way to find you.",
+      "next": "Set up a free Google Business Profile as a service-area business, so a home address stays private, and list Santee and the nearby areas you cover. Use the name you want to be known by, and pick categories that match the work you actually take on."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (619) 327-3125, is on your Nextdoor page, and that's a solid place for neighbors to reach you. A referred customer can call you on the first try.",
+      "next": "Keep (619) 327-3125 as the single number everywhere, including a new Google listing."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "Your Nextdoor page doesn't list hours, so people may not know when it's a good time to call.",
+      "next": "Add the hours you usually take calls to your Nextdoor page, and use the same hours on Google once the listing is up."
+    },
+    {
+      "id": "photos",
+      "lamp": "out",
+      "note": "Without a Google listing, there's no place for searchers to see examples of your work. For drywall, painting, and other home repairs, a few clear photos do a lot of the convincing.",
+      "next": "On your next few jobs, with the homeowner's okay, snap a couple of photos and add them to the Google listing once it exists."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "We didn't find a website for Artisan Pro Handyman Service. For a one-person handyman shop that's normal, but it means Nextdoor is your only home online. A Google listing can cover most of what a small website would.",
+      "next": "Start with the Google listing and use your Nextdoor page as its website link, so searchers can see what neighbors say. A simple one-page site can wait until you want it."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your phone and Santee location are consistent on Nextdoor, and no street address is printed there. That's a good start. With no Google listing yet, there isn't a second public listing to compare against.",
+      "next": "Set the Google listing up as a service-area business so a home address stays private, and keep the same name, number, and service area in both places."
+    }
+  ]
+}
