@@ -1,0 +1,49 @@
+{
+  "slug": "junk-n-haul",
+  "business": "Junk N haul",
+  "town": "Santee",
+  "website": "https://www.junknhaulsandiego.com/",
+  "phone": "(619) 396-1559",
+  "generated": "2026-11-18",
+  "prospectId": "1795020648106-fiih5fr",
+  "headline": "Neighbors already know where to find you. Google points them to other haulers.",
+  "summary": "Junk N haul is an owner-run junk removal, hauling, and delivery shop out of Santee, the kind of local hauler that takes the big and small jobs franchises often don't have time for. On Nextdoor you were named a Neighborhood Favorite in 2025, and you've been answering neighbor requests, including a recent one from El Cajon, plus neighbors in Spring Valley and Lemon Grove. The biggest leftover is Google. We couldn't find a Google listing for Junk N haul at all, so anyone who searches for junk removal around Santee sees other haulers instead. A free Google Business Profile, set up as a service-area business so a home address stays private, would give people a clear place to find you. Your Nextdoor hours are already posted, 6 AM to 6 PM Monday through Saturday and 6 AM to 5 PM Sunday, so those can carry over to Google once the listing is up.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "When we searched Google's business listings for Junk N haul in Santee, nothing came back for you. Other haulers showed up, but they were different businesses. Your Nextdoor page is clearly working, including a Neighborhood Favorite nod in 2025. Customers who search Google first have no way to find you there.",
+      "next": "Set up a free Google Business Profile as a service-area business, so a home address stays private, and list Santee and the nearby areas you cover. Use the name you want to be known by, and pick a junk removal or hauling category that matches the work you actually take on."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (619) 396-1559, is on your Nextdoor page, and that's a solid place for neighbors to reach you. A referred customer can call you on the first try.",
+      "next": "Keep (619) 396-1559 as the single number everywhere, including a new Google listing."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "Your Nextdoor page already lists hours: 6 AM to 6 PM Monday through Saturday, and 6 AM to 5 PM Sunday. That's helpful. A neighbor can tell when it's a good time to call.",
+      "next": "Use the same hours on your Google listing once it is up. Your website currently lists 7 AM to 6 PM Monday through Saturday and does not list Sunday, which does not match Nextdoor, so pick one set and use it everywhere."
+    },
+    {
+      "id": "photos",
+      "lamp": "out",
+      "note": "Without a Google listing, there's no place for searchers to see examples of a finished job. For junk removal and hauling, a few clear photos of a clean jobsite do a lot of the convincing.",
+      "next": "On your next few jobs, with the customer's okay, snap a couple of photos and add them to the Google listing once it exists."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "You already have a website at junknhaulsandiego.com, and it uses the same phone number as your Nextdoor page. A Google listing is still missing, so people who search Google for junk removal around Santee still land on other haulers. Linking that site from a Google profile would give searchers a clear place to go.",
+      "next": "When you set up the Google listing, use junknhaulsandiego.com as the website link, and keep the same phone number in both places."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your phone and Santee location are consistent on Nextdoor, and no street address is printed there. That's a good start. The name itself isn't quite settled: the page writes it Junk N haul in one place and Junk N Haul in another. With no Google listing yet, there isn't a second public listing to compare against.",
+      "next": "Pick one spelling of the name and use it everywhere, including Google. Set the Google listing up as a service-area business so a home address stays private, and keep the same name, number, and service area in both places."
+    }
+  ]
+}
