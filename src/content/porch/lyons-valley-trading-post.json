@@ -1,0 +1,49 @@
+{
+  "slug": "lyons-valley-trading-post",
+  "business": "Lyons Valley Trading Post",
+  "town": "Jamul",
+  "website": "http://lyonsvalleytradingpost.com",
+  "phone": "(619) 468-3172",
+  "generated": "2026-11-16",
+  "prospectId": "1794847734724-raitz99",
+  "headline": "The trading post is easy to find. The website isn't.",
+  "summary": "Lyons Valley Trading Post is a rural stop in Jamul: groceries, beer and local wine, alfalfa and bermuda hay, livestock feed, propane, and fresh produce, with a coffee cart on site. You've got a live Google listing, which is a strong start, and the address and phone are easy to find. The biggest leftover is your own website. When we tried lyonsvalleytradingpost.com, the page didn't load, and the secure version didn't connect either. Nextdoor and Yellow Pages both send people to that address, so a neighbor who clicks through gets a dead page instead of your hours or how to reach you. A couple of smaller leftovers would help too. The website link on your Google listing points to an old mobile Facebook page, not your own domain. And the hours don't quite agree: Google has you closing at 8 PM Monday through Friday, while Nextdoor shows a 7 PM close. Get the site loading again, or point every listing at a page that actually opens, and line up the hours, and the rest of the listing is already in good shape.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You have a Google listing for Lyons Valley Trading Post in Jamul, with your address and phone. That's the right foundation. The weak spot is the website field, which points to an old mobile Facebook link instead of your own site.",
+      "next": "Once your own site is loading again, or you've chosen another page that works, update the website link on Google to match. Keep the listing category close to what people come in for, so the rest of the card stays accurate."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (619) 468-3172, shows up on Google and in the directories we saw, and it matches. A neighbor who needs to call about hay, propane, or hours can reach you on the first try.",
+      "next": "Keep (619) 468-3172 as the one number on Google, Nextdoor, and your website when it's back up."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Google lists Monday through Friday from 10 AM to 8 PM, and Saturday and Sunday from 8 AM to 8 PM. Nextdoor shows a 7 PM close, so the two don't agree. A neighbor who trusts the wrong one might show up after you've locked the door.",
+      "next": "Pick the hours you actually keep, then set the same hours on Google, Nextdoor, and your website so every listing matches."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Your Google listing already has photos, which helps a first-time visitor know what to expect before they drive out to Lyons Valley. That's a solid start.",
+      "next": "Add a fresh photo now and then, especially of the things people come for, like hay, produce, or the front of the store, so the listing looks current."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "When we tried lyonsvalleytradingpost.com, the page didn't load, and the https version didn't connect. Nextdoor and Yellow Pages both send people to that address, so a click from either one lands on a dead page. Your Google listing points to an old mobile Facebook page instead.",
+      "next": "Get the site loading again if you still want it, or change the links on Nextdoor and Yellow Pages to a page that actually opens. Then point Google at the same place, so every listing sends people to one working page."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The name and phone match across Google and the directories we saw, and the Jamul location is consistent. That's good. The leftover is the website field: some places send people to your own domain, and Google sends them to an old Facebook link, and the hours don't match either.",
+      "next": "Keep the same name, phone, and address everywhere, then make the website link and the hours match too."
+    }
+  ]
+}
