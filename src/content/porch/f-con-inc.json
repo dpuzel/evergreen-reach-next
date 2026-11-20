@@ -1,0 +1,49 @@
+{
+  "slug": "f-con-inc",
+  "business": "F-con inc",
+  "town": "Ramona",
+  "website": "",
+  "phone": "(760) 504-6444",
+  "generated": "2026-11-20",
+  "prospectId": "1795193975414-x6b0yee",
+  "headline": "Your Google listing points to a site that doesn't load.",
+  "summary": "F-con inc is a Ramona roofing and general contracting shop, the kind of local outfit neighbors pass along when they need a roof or a broader project. On Nextdoor you were named a Neighborhood Favorite in 2025, and you already have a Google listing, which is a strong start. The biggest leftover is the website on that listing. The main Google listing links to f-con.us, but that site doesn't load right now, so anyone who taps Website from Google hits a dead end. A second leftover: we found two listings that share the same phone number. The main one, F-CON Roofing & General Contracting, is a service-area card. The second, Roofing & General Contracting | F-CON, is based in Ramona and is a thinner card with no website. Get the site loading again, or take the dead link off the listing, and then clear or merge the second card so neighbors land in one place.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You have a Google listing for F-con inc in Ramona, and in fact we found two that share the same phone number. The main one, F-CON Roofing & General Contracting, is a service-area card. The second, Roofing & General Contracting | F-CON, is based in Ramona and is a thinner card with no website. Your Nextdoor page is also working, including a Neighborhood Favorite nod in 2025.",
+      "next": "Keep one Google listing as the public face, and merge or remove the second card so neighbors land in one place. Use the name you want to be known by on the listing you keep."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (760) 504-6444, shows up on both Google listings and on your Nextdoor page, and it matches. A referred customer can call you on the first try.",
+      "next": "Keep (760) 504-6444 as the single number everywhere, including the one Google listing you keep."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "With two Google listings up, the hours a neighbor sees should be the hours you actually keep, and they should match what you post on Nextdoor.",
+      "next": "Put the hours you actually keep on the one listing you want people to use, and use the same hours on Nextdoor."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "A few photos on the one Google listing you keep will help a first-time customer know what to expect.",
+      "next": "Keep a few fresh photos on the listing you want people to find, and don't leave a thinner second card sitting out there as a first impression."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "The main Google listing links to f-con.us, but that address doesn't load right now, so anyone who taps Website hits a dead end. The second listing and your Nextdoor page don't list a website.",
+      "next": "Renew or replace the site and update the link on the listing you keep, or remove the link from Google until there's a working one."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The phone is consistent across both Google listings and Nextdoor. That's good. One Google card is set up as a service-area listing, and the other is based in Ramona. The name isn't quite settled: F-con inc, F-CON, and F-Con all show up, and the two Google cards use different titles.",
+      "next": "Pick one spelling of the name and use it on the one Google listing you keep, on Nextdoor, and anywhere else. Keep the same name and number in both places, and decide whether that listing should stay a service-area card or show that you're based in Ramona."
+    }
+  ]
+}
