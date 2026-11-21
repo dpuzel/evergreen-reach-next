@@ -24,15 +24,17 @@ None of this means you did anything wrong. It just means nobody has looked in a 
 
 ## How do I fix my hours on Google?
 
-If you've claimed your listing, sign in with the Google account that manages it. Search your business name on Google or open it in Google Maps, and you should see the option to edit your profile. Your hours are in there.
+Sign in with the Google account that manages your listing. Search your business name on Google, or open the Google Maps app and tap **Business** at the bottom right. Then choose **Edit profile**, then **Hours**.
 
-A few things to check while you're in there:
+While you're in there, check:
 
 - Every day of the week, including the days you're closed.
 - Lunch breaks, if you close for one. You can set more than one time block in a day.
 - Any changes Google or a customer has suggested. Accept the right ones and turn down the wrong ones.
 
-If you haven't claimed your listing yet, that's the first step. Until you do, anyone's suggestion carries about as much weight as yours.
+Save, and give it a little time. Google reviews changes before they show up on your listing, so don't panic if it doesn't flip right away. Most updates show in about ten minutes. Some can take longer, up to 30 days, and that's still normal.
+
+If you haven't claimed your listing yet, that's the first step. Until you do, anyone's suggestion carries about as much weight as yours. Not sure which account holds the keys? Our note on [who set up your Google listing](/notes/who-set-up-your-google-listing) walks through the check.
 
 ## What about holidays and special hours?
 
@@ -41,6 +43,14 @@ Google has a separate spot for special hours. Use it for holidays, inventory day
 It takes a minute, and it saves someone a wasted drive on the one day they finally made time to come see you.
 
 For holiday dates and shorter winter days, see our [guide to setting holiday hours on Google](/notes/set-your-holiday-hours-on-google).
+
+## What does "hours might differ" mean?
+
+On certain holidays, Google may show a warning on your listing that tells customers your hours might differ that day. Google keeps the list of those holidays on its help page, About holidays on Google. The fix lives in the same spot. Set the date under Special hours ahead of time, even if you're keeping your normal hours that day. Google's own help page suggests confirming holiday hours even when they're the same, so customers can trust what they see.
+
+## What if Google calls to ask about your hours?
+
+Now and then, Google may send an automated call or text to the number on your listing to confirm details like your hours. That's real, and an honest answer helps keep your listing right. Google says it will never ask for payment, card numbers, or passwords on those calls. If a caller wants money to keep you on Google, it isn't Google. Hang up.
 
 ## How do I keep my hours right after that?
 
