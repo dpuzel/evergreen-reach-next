@@ -34,6 +34,7 @@ git push origin main
 | Section layout | `src/components/*` |
 | Colors & UI chrome | `src/app/globals.css` |
 | SEO / fonts | `src/app/layout.tsx` |
+| Favicon / apple-touch | generated from `public/assets/logo-dark.png` at build |
 
 ### Adding a Field Note
 

@@ -2,6 +2,7 @@
 title: "Why answering a short Google review still matters"
 summary: "A two-word review with no reply can make a shop look unattended. Here's why short replies matter, what to say, and how to keep up in five minutes a week."
 date: "2026-10-18"
+updated: "2026-11-21"
 topic: "Google listing"
 ---
 
@@ -15,7 +16,7 @@ A reply fixes that, and it doesn't have to be long.
 
 Because the reply is for the next person, too.
 
-When someone is deciding between you and the place down the road, they look for signs that a real person is behind the listing. Honest hours help. [Photos that look like the place this month](/notes/why-your-google-photos-matter-more-than-you-think) help. A short "Thanks, Linda, good to see you again" under a review says someone is home and paying attention.
+When someone is deciding between you and the place down the road, they look for signs that a real person is behind the listing. [Honest hours](/notes/what-to-do-when-google-shows-the-wrong-hours) help. [Photos that look like the place this month](/notes/why-your-google-photos-matter-more-than-you-think) help. A short "Thanks, Linda, good to see you again" under a review says someone is home and paying attention.
 
 It also tells the person who wrote it that you noticed. People who take a minute to say something kind usually like hearing that it landed.
 

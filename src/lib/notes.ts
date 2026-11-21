@@ -104,10 +104,47 @@ export function getShelfNotes(): NoteMeta[] {
   ];
 }
 
-export function getRelatedNotes(slug: string, limit = 2): NoteMeta[] {
-  return getNotes()
-    .filter((note) => note.slug !== slug)
-    .slice(0, limit);
+const RELATED_BOOST = new Set([
+  "what-to-do-when-google-shows-the-wrong-hours",
+  "how-to-stop-missing-local-calls-and-leads",
+]);
+
+function relatedRank(a: NoteMeta, b: NoteMeta) {
+  const boost = Number(RELATED_BOOST.has(b.slug)) - Number(RELATED_BOOST.has(a.slug));
+  if (boost) return boost;
+  return byDateThenTitle(a, b);
+}
+
+/** Same topic first, boosted hours/calls notes, then newest. */
+export function getRelatedNotes(slug: string, limit = 3): NoteMeta[] {
+  const all = getNotes();
+  const current = all.find((note) => note.slug === slug);
+  const rest = all.filter((note) => note.slug !== slug);
+  const picked: NoteMeta[] = [];
+  const used = new Set<string>();
+
+  const take = (list: NoteMeta[], max = limit) => {
+    for (const note of list) {
+      if (picked.length >= max || picked.length >= limit) return;
+      if (used.has(note.slug)) continue;
+      used.add(note.slug);
+      picked.push(note);
+    }
+  };
+
+  const same = current
+    ? rest.filter((note) => note.topic === current.topic).sort(relatedRank)
+    : [];
+  const others = (current
+    ? rest.filter((note) => note.topic !== current.topic)
+    : rest
+  ).sort(relatedRank);
+
+  take(same, Math.min(2, limit));
+  take(others.filter((note) => RELATED_BOOST.has(note.slug)));
+  take(same);
+  take(others);
+  return picked;
 }
 
 export function topicSlug(topic: string) {

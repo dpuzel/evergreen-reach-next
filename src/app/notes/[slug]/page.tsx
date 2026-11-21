@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { NoteBody } from "@/components/NoteBody";
 import { SiteShell } from "@/components/SiteShell";
-import { absoluteUrl, fieldNotes, shareImage, site } from "@/lib/site";
+import { absoluteUrl, fieldNotes, homeUrl, shareImage, site } from "@/lib/site";
 import {
   formatNoteDate,
   getNote,
@@ -74,12 +74,12 @@ export default async function NotePage({ params }: NotePageProps) {
   const note = getNote(slug);
   if (!note) notFound();
 
-  const related = getRelatedNotes(note.slug, 2);
+  const related = getRelatedNotes(note.slug, 3);
   const noteUrl = `${site.url}${fieldNotes.path}/${note.slug}`;
   const imageUrl = absoluteUrl(noteShareImage(note));
   const modified = noteLastmod(note);
   const notesUrl = `${site.url}${fieldNotes.path}`;
-  const homeUrl = `${site.url}/`;
+  const facebookShare = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(noteUrl)}`;
 
   const articleLd = {
     "@context": "https://schema.org",
@@ -179,13 +179,24 @@ export default async function NotePage({ params }: NotePageProps) {
           <div className="mb-10 h-px w-16 bg-gradient-to-r from-sage/60 to-transparent" />
 
           <NoteBody content={note.content} />
+
+          <p className="mt-10">
+            <a
+              href={facebookShare}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-sage transition-colors hover:text-cream"
+            >
+              Share on Facebook
+            </a>
+          </p>
         </article>
 
         <section className="relative mx-auto max-w-2xl px-5 pb-28 sm:px-6">
           {related.length > 0 ? (
             <div className="mb-12">
               <div className="soft-divider mb-8" />
-              <p className="eyebrow mb-5">Also on the shelf</p>
+              <p className="eyebrow mb-5">Related notes</p>
               <ul className="space-y-3">
                 {related.map((item) => (
                   <li key={item.slug}>

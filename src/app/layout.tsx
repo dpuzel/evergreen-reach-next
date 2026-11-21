@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { DM_Sans, Fraunces } from "next/font/google";
 import { Analytics } from "@/components/Analytics";
-import { shareImage } from "@/lib/site";
+import { homeUrl, shareImage } from "@/lib/site";
 import "./globals.css";
 
 const dmSans = DM_Sans({
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   description:
     "We're not another marketing agency. Evergreen Reach is the reliable digital caretaker for small and rural businesses — Google Business Profile, website care, and local visibility. Practical help from people who show up.",
   applicationName: "Evergreen Reach",
-  authors: [{ name: "Evergreen Reach", url: "https://www.evergreen-reach.com" }],
+  authors: [{ name: "Evergreen Reach", url: homeUrl }],
   creator: "Evergreen Reach",
   publisher: "Evergreen Reach",
   category: "business",
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     title: "Evergreen Reach • Digital Care for Small & Rural Businesses",
     description:
       "Practical digital care for small and rural businesses. Google Business Profile, website upkeep, and getting more local eyes on you — no agency fluff.",
-    url: "https://www.evergreen-reach.com/",
+    url: homeUrl,
     siteName: "Evergreen Reach",
     locale: "en_US",
     type: "website",
@@ -78,8 +78,11 @@ export const metadata: Metadata = {
     images: [shareImage.path],
   },
   icons: {
-    icon: [{ url: "/assets/logo-main.jpg", type: "image/jpeg" }],
-    apple: [{ url: "/assets/logo-main.jpg" }],
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/icon-32.png", type: "image/png", sizes: "32x32" },
+    ],
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180" }],
   },
 };
 

@@ -2,6 +2,7 @@
 title: "Who set up your Google listing, and can you still get in?"
 summary: "A quick check to make sure you can manage your shop's Google listing, and where to start if someone else holds the keys."
 date: "2026-11-15"
+updated: "2026-11-21"
 topic: "Google listing"
 ---
 
@@ -42,7 +43,7 @@ To see who has access:
 2. Go to **More**, then **Business Profile settings**, then **People and access**.
 3. Look at the list. Is everyone on it someone you still know and trust? Is your own name on it as an owner?
 
-If the old web guy or a former employee is still listed and you don't need them anymore, an owner can remove them from that same page. If you'd like a backup person, like a spouse or a trusted manager, you can add them there too. Give them "Manager" if they only need to update hours, photos, and replies. Keep "Owner" for people who should be able to add or remove others.
+If the old web guy or a former employee is still listed and you don't need them anymore, an owner can remove them from that same page. If you'd like a backup person, like a spouse or a trusted manager, you can add them there too. Give them "Manager" if they only need to update hours, photos, and replies. Keep "Owner" for people who should be able to add or remove others. Once you're in, a good first job is checking your hours. Here's [what to do when Google shows inaccurate business hours](/notes/what-to-do-when-google-shows-the-wrong-hours).
 
 One small heads-up from Google's own help page: someone who just became an owner has to wait 7 days before doing a few bigger things, like removing other owners, deleting or undeleting the profile, or transferring primary ownership. The same 7-day wait applies to newly added managers. So if you're cleaning house, add yourself first, then come back the next week to tidy up.
 

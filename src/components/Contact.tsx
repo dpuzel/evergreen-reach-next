@@ -4,6 +4,7 @@ import { FormEvent, useState } from "react";
 import Link from "next/link";
 import { Reveal } from "@/components/Reveal";
 import { IconArrowRight, IconMail, IconPhone } from "@/components/Icons";
+import { trackEvent } from "@/lib/gtag";
 import { site } from "@/lib/site";
 
 export function Contact() {
@@ -23,6 +24,7 @@ export function Contact() {
         headers: { Accept: "application/json" },
       });
       if (res.ok) {
+        trackEvent("generate_lead", { method: "contact_form" });
         setStatus("success");
         form.reset();
       } else {

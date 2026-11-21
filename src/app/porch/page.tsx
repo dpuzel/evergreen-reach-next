@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { PorchSheet } from "@/components/PorchSheet";
 import { SiteShell } from "@/components/SiteShell";
 import { getPorchReport } from "@/lib/porch";
-import { site } from "@/lib/site";
+import { shareOpenGraphImages, site } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Front Porch Report",
@@ -16,6 +16,7 @@ export const metadata: Metadata = {
       "A caretaker-voiced visibility scan we can put in someone's hand. No jargon. No dashboard.",
     url: `${site.url}/porch`,
     type: "website",
+    images: shareOpenGraphImages,
   },
 };
 

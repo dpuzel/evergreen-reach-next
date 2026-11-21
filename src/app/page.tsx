@@ -7,10 +7,9 @@ import { Services } from "@/components/Services";
 import { SiteShell } from "@/components/SiteShell";
 import { Stories } from "@/components/Stories";
 import { Story } from "@/components/Story";
-import { absoluteUrl, site } from "@/lib/site";
+import { absoluteUrl, homeUrl, site } from "@/lib/site";
 
 export default function Home() {
-  const homeUrl = `${site.url}/`;
   const jsonLd = [
     {
       "@context": "https://schema.org",

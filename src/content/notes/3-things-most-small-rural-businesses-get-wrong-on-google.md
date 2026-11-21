@@ -2,6 +2,7 @@
 title: "3 Things Most Small Rural Businesses Get Wrong on Google"
 summary: "It is usually not a fancy SEO problem. It is a listing that looks forgotten."
 date: "2026-08-16"
+updated: "2026-11-21"
 topic: "Google listing"
 ---
 
@@ -28,7 +29,7 @@ If you are not sure who owns the listing, that is the first job. You cannot take
 
 ## 2. The details went stale and nobody noticed
 
-Hours that say you close at 5 when you stay till 6. A phone number that rings a cell nobody carries anymore. Holiday hours that never got updated. A photo of a truck you sold last year. If the number is wrong, they do not leave a review. They just leave. We wrote more about [how those missed calls actually leak](/notes/how-to-stop-missing-local-calls-and-leads).
+Hours that say you close at 5 when you stay till 6. A phone number that rings a cell nobody carries anymore. Holiday hours that never got updated. A photo of a truck you sold last year. If the number is wrong, they do not leave a review. They just leave. We wrote more about [how those missed calls actually leak](/notes/how-to-stop-missing-local-calls-and-leads). And if it's the hours that went stale, here's [what to do when Google shows inaccurate business hours](/notes/what-to-do-when-google-shows-the-wrong-hours).
 
 In a small town, people already know you. They still check Google before they drive over. If the listing says closed, they go somewhere else. If the number is wrong, they assume you are gone.
 

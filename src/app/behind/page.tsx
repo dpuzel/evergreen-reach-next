@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { IconArrowRight } from "@/components/Icons";
 import { SiteShell } from "@/components/SiteShell";
-import { behind, site } from "@/lib/site";
+import { behind, shareOpenGraphImages, site } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: behind.heading,
@@ -14,6 +14,7 @@ export const metadata: Metadata = {
     description: behind.paragraphs[0],
     url: `${site.url}${behind.path}`,
     type: "website",
+    images: shareOpenGraphImages,
   },
 };
 

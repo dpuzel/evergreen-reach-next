@@ -20,6 +20,18 @@ export const shareImage = {
   alt: "Evergreen Reach — digital care for small and rural businesses",
 } as const;
 
+/** Homepage canonical is the host with no trailing slash, matching sitemap loc. */
+export const homeUrl = site.url;
+
+export const shareOpenGraphImages = [
+  {
+    url: shareImage.path,
+    width: shareImage.width,
+    height: shareImage.height,
+    alt: shareImage.alt,
+  },
+];
+
 export function absoluteUrl(path: string) {
   if (/^https?:\/\//i.test(path)) return path;
   return `${site.url}${path.startsWith("/") ? path : `/${path}`}`;

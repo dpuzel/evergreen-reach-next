@@ -49,3 +49,8 @@ next-env.d.ts
 !/public/assets/logo-dark.png
 !/public/assets/logo-main.jpg
 !/public/assets/logo-portrait.png
+
+# Favicons generated from logo-dark.png at prebuild
+/public/favicon.ico
+/public/icon-32.png
+/public/apple-touch-icon.png

@@ -2,6 +2,7 @@
 title: "Why your Google photos matter more than you think"
 summary: "A stranger does not read your about page first. They look at the pictures, and decide if the shop still looks alive."
 date: "2026-09-06"
+updated: "2026-11-21"
 topic: "Google listing"
 ---
 
@@ -73,7 +74,7 @@ Then once a month, add one more real picture when something actually happens. A 
 
 ## The listing should look like the shop
 
-Hours, phone, and category still have to tell the truth. Pictures will not save a number that rings out, or a pin that sends people to the old suite. They will make a tended listing look tended.
+Hours, phone, and category still have to tell the truth. Pictures will not save a number that rings out, or a pin that sends people to the old suite. They will make a tended listing look tended. If the hours are the part that's off, start with [what to do when Google shows inaccurate business hours](/notes/what-to-do-when-google-shows-the-wrong-hours).
 
 If you want the whole walk, not just the camera roll, that is what a [Front Porch Report](/porch) is for. Six lamps. One of them is whether the photos still look like the place. A [clean, simple presence](/notes/what-a-clean-simple-online-presence-looks-like) is the rest of the house matching that porch.
 

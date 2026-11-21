@@ -3,7 +3,14 @@ import Link from "next/link";
 import { Reveal } from "@/components/Reveal";
 import { IconArrowRight } from "@/components/Icons";
 import { SiteShell } from "@/components/SiteShell";
-import { addOns, plans, plansPage, plansPath, site } from "@/lib/site";
+import {
+  addOns,
+  plans,
+  plansPage,
+  plansPath,
+  shareOpenGraphImages,
+  site,
+} from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Plans",
@@ -14,6 +21,7 @@ export const metadata: Metadata = {
     description: plansPage.intro,
     url: `${site.url}${plansPath}`,
     type: "website",
+    images: shareOpenGraphImages,
   },
 };
 
