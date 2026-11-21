@@ -50,7 +50,7 @@ topic: "Google listing"
 Write in plain markdown. Headings, lists, quotes, and links all work.
 ```
 
-Commit and push. The `/notes` index, homepage teaser, sitemap, and `/notes/rss.xml` pick it up automatically. Set `draft: true` in frontmatter to keep a note off the shelf. Set `pinned: true` to keep one note at the top of `/notes` and the homepage shelf with a quiet Start here label. If more than one is pinned, the newest date wins. RSS stays newest-first. The `/notes` shelf can filter by the `topic` line (`/notes?topic=google-listing`); no extra tags.
+Commit and push. The `/notes` index, homepage teaser, sitemap, and `/notes/rss.xml` pick it up automatically. Set `draft: true` in frontmatter to keep a note off the shelf. Set `pinned: true` to keep one note at the top of `/notes` and the homepage shelf with a quiet Start here label. If more than one is pinned, the newest date wins. RSS stays newest-first. The `/notes` shelf can filter by the `topic` line (`/notes?topic=google-listing`); no extra tags. Optional `updated: "YYYY-MM-DD"` stamps sitemap lastmod and `dateModified` without moving the note on the shelf. Optional `image: /path.jpg` sets a per-note share image; otherwise notes use `/og-image.jpg`.
 
 ### Front Porch Reports
 

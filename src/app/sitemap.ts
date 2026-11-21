@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getNotes } from "@/lib/notes";
+import { getNotes, noteLastmod } from "@/lib/notes";
 import { fieldNotes, site } from "@/lib/site";
 
 export const dynamic = "force-static";
@@ -51,7 +51,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   try {
     const notes = getNotes().map((note) => ({
       url: `${site.url}${fieldNotes.path}/${note.slug}`,
-      lastModified: safeDate(note.date),
+      lastModified: safeDate(noteLastmod(note)),
       changeFrequency: "monthly" as const,
       priority: 0.7,
     }));

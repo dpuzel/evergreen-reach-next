@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { NotesShelf } from "@/components/NotesShelf";
 import { SiteShell } from "@/components/SiteShell";
-import { fieldNotes, site } from "@/lib/site";
+import { fieldNotes, shareImage, site } from "@/lib/site";
 import { getNoteTopics, getShelfNotes } from "@/lib/notes";
 
 export const metadata: Metadata = {
@@ -19,6 +19,20 @@ export const metadata: Metadata = {
     description: fieldNotes.intro,
     url: `${site.url}${fieldNotes.path}`,
     type: "website",
+    images: [
+      {
+        url: shareImage.path,
+        width: shareImage.width,
+        height: shareImage.height,
+        alt: shareImage.alt,
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Field Notes • Evergreen Reach",
+    description: fieldNotes.intro,
+    images: [shareImage.path],
   },
 };
 

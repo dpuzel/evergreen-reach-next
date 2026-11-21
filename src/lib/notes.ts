@@ -9,6 +9,8 @@ export type NoteMeta = {
   date: string;
   topic: string;
   pinned: boolean;
+  updated?: string;
+  image?: string;
 };
 
 export type Note = NoteMeta & { content: string };
@@ -17,6 +19,17 @@ const NOTES_DIR = path.join(process.cwd(), "src/content/notes");
 
 function isNoteFile(name: string) {
   return name.endsWith(".md") && !name.startsWith("_");
+}
+
+function isIsoDate(value: unknown): value is string {
+  return typeof value === "string" && /^\d{4}-\d{2}-\d{2}$/.test(value);
+}
+
+function parseShareImage(value: unknown): string | undefined {
+  if (typeof value !== "string") return undefined;
+  const trimmed = value.trim();
+  if (trimmed.startsWith("/") || /^https:\/\//i.test(trimmed)) return trimmed;
+  return undefined;
 }
 
 function parseNote(filename: string): Note | null {
@@ -33,6 +46,8 @@ function parseNote(filename: string): Note | null {
     date: String(data.date),
     topic: String(data.topic),
     pinned: data.pinned === true,
+    updated: isIsoDate(data.updated) ? data.updated : undefined,
+    image: parseShareImage(data.image),
     content: content.trim(),
   };
 }
@@ -45,7 +60,17 @@ function toMeta(note: Note): NoteMeta {
     date: note.date,
     topic: note.topic,
     pinned: note.pinned,
+    updated: note.updated,
+    image: note.image,
   };
+}
+
+export function noteLastmod(note: Pick<NoteMeta, "date" | "updated">) {
+  return note.updated || note.date;
+}
+
+export function noteShareImage(note: Pick<NoteMeta, "image">) {
+  return note.image || "/og-image.jpg";
 }
 
 function byDateThenTitle(a: NoteMeta, b: NoteMeta) {

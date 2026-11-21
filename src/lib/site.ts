@@ -13,6 +13,18 @@ export const site = {
   gaId: "G-3DYZH734MD",
 } as const;
 
+export const shareImage = {
+  path: "/og-image.jpg",
+  width: 1200,
+  height: 630,
+  alt: "Evergreen Reach — digital care for small and rural businesses",
+} as const;
+
+export function absoluteUrl(path: string) {
+  if (/^https?:\/\//i.test(path)) return path;
+  return `${site.url}${path.startsWith("/") ? path : `/${path}`}`;
+}
+
 export const navLinks = [
   { href: "/#story", label: "Story" },
   { href: "/#services", label: "What We Do" },

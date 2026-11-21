@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { DM_Sans, Fraunces } from "next/font/google";
 import { Analytics } from "@/components/Analytics";
+import { shareImage } from "@/lib/site";
 import "./globals.css";
 
 const dmSans = DM_Sans({
@@ -62,10 +63,10 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/og-image.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Evergreen Reach — digital care for small and rural businesses",
+        url: shareImage.path,
+        width: shareImage.width,
+        height: shareImage.height,
+        alt: shareImage.alt,
       },
     ],
   },
@@ -74,7 +75,7 @@ export const metadata: Metadata = {
     title: "Evergreen Reach • Digital Care for Small & Rural Businesses",
     description:
       "Practical digital care for small and rural businesses. No agency fluff. Just reliable help that shows up.",
-    images: ["/og-image.jpg"],
+    images: [shareImage.path],
   },
   icons: {
     icon: [{ url: "/assets/logo-main.jpg", type: "image/jpeg" }],

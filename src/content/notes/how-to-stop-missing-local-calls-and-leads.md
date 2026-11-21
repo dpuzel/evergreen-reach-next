@@ -2,6 +2,7 @@
 title: "How to stop missing business calls (and the leads behind them)"
 summary: "How to stop missing business calls without living on your phone: a plain setup for the phone, the voicemail, the callback habit, your Google listing, and one simple weekly check."
 date: "2026-08-16"
+updated: "2026-11-20"
 topic: "Local leads"
 ---
 

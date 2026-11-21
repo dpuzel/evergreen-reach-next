@@ -3,8 +3,15 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { NoteBody } from "@/components/NoteBody";
 import { SiteShell } from "@/components/SiteShell";
-import { fieldNotes, site } from "@/lib/site";
-import { formatNoteDate, getNote, getNotes, getRelatedNotes } from "@/lib/notes";
+import { absoluteUrl, fieldNotes, shareImage, site } from "@/lib/site";
+import {
+  formatNoteDate,
+  getNote,
+  getNotes,
+  getRelatedNotes,
+  noteLastmod,
+  noteShareImage,
+} from "@/lib/notes";
 
 type NotePageProps = {
   params: Promise<{ slug: string }>;
@@ -24,6 +31,9 @@ export async function generateMetadata({
   if (!note) return { title: "Note" };
 
   const url = `${site.url}${fieldNotes.path}/${note.slug}`;
+  const imagePath = noteShareImage(note);
+  const imageUrl = absoluteUrl(imagePath);
+  const modified = noteLastmod(note);
 
   return {
     title: note.title,
@@ -40,6 +50,21 @@ export async function generateMetadata({
       url,
       type: "article",
       publishedTime: note.date,
+      modifiedTime: modified,
+      images: [
+        {
+          url: imageUrl,
+          width: shareImage.width,
+          height: shareImage.height,
+          alt: note.image ? note.title : shareImage.alt,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${note.title} • Evergreen Reach`,
+      description: note.summary,
+      images: [imageUrl],
     },
   };
 }
@@ -51,63 +76,76 @@ export default async function NotePage({ params }: NotePageProps) {
 
   const related = getRelatedNotes(note.slug, 2);
   const noteUrl = `${site.url}${fieldNotes.path}/${note.slug}`;
+  const imageUrl = absoluteUrl(noteShareImage(note));
+  const modified = noteLastmod(note);
+  const notesUrl = `${site.url}${fieldNotes.path}`;
+  const homeUrl = `${site.url}/`;
 
-  const jsonLd = [
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      headline: note.title,
-      description: note.summary,
-      datePublished: note.date,
-      articleSection: note.topic,
-      author: {
-        "@type": "Organization",
-        name: site.name,
-        url: site.url,
+  const articleLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: note.title,
+    description: note.summary,
+    datePublished: note.date,
+    dateModified: modified,
+    image: imageUrl,
+    articleSection: note.topic,
+    author: {
+      "@type": "Organization",
+      name: site.name,
+      url: homeUrl,
+    },
+    publisher: {
+      "@type": "Organization",
+      name: site.name,
+      url: homeUrl,
+      logo: {
+        "@type": "ImageObject",
+        url: absoluteUrl("/assets/logo-main.jpg"),
       },
-      publisher: {
-        "@type": "Organization",
-        name: site.name,
-        url: site.url,
+    },
+    mainEntityOfPage: noteUrl,
+    isPartOf: {
+      "@type": "CollectionPage",
+      name: "Field Notes",
+      url: notesUrl,
+    },
+  };
+
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: homeUrl,
       },
-      mainEntityOfPage: noteUrl,
-      isPartOf: {
-        "@type": "CollectionPage",
+      {
+        "@type": "ListItem",
+        position: 2,
         name: "Field Notes",
-        url: `${site.url}${fieldNotes.path}`,
+        item: notesUrl,
       },
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "BreadcrumbList",
-      itemListElement: [
-        {
-          "@type": "ListItem",
-          position: 1,
-          name: "Home",
-          item: site.url,
-        },
-        {
-          "@type": "ListItem",
-          position: 2,
-          name: "Field Notes",
-          item: `${site.url}${fieldNotes.path}`,
-        },
-        {
-          "@type": "ListItem",
-          position: 3,
-          name: note.title,
-          item: noteUrl,
-        },
-      ],
-    },
-  ];
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: note.title,
+        item: noteUrl,
+      },
+    ],
+  };
 
   return (
     <SiteShell>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
       />
       <main className="relative overflow-hidden">
         <div className="pointer-events-none absolute inset-0" aria-hidden>
@@ -128,12 +166,16 @@ export default async function NotePage({ params }: NotePageProps) {
           <h1 className="font-display mb-5 text-[2.15rem] font-semibold leading-[1.15] tracking-tight text-cream sm:text-5xl">
             {note.title}
           </h1>
-          <time
-            dateTime={note.date}
-            className="mb-10 block text-sm text-sage/80"
-          >
-            {formatNoteDate(note.date)}
-          </time>
+          <div className="mb-10">
+            <time dateTime={note.date} className="block text-sm text-sage/80">
+              {formatNoteDate(note.date)}
+            </time>
+            {note.updated && note.updated !== note.date ? (
+              <p className="mt-1 text-sm text-sage/80">
+                Updated {formatNoteDate(note.updated)}
+              </p>
+            ) : null}
+          </div>
           <div className="mb-10 h-px w-16 bg-gradient-to-r from-sage/60 to-transparent" />
 
           <NoteBody content={note.content} />
