@@ -1,0 +1,49 @@
+{
+  "slug": "gregs-sharpening-service",
+  "business": "Greg's Sharpening Service",
+  "town": "La Mesa",
+  "website": "",
+  "phone": "(619) 469-9019",
+  "generated": "2026-11-25",
+  "prospectId": "1795625948111-vvjuxvm",
+  "headline": "The website link on your Nextdoor page doesn't go to the shop.",
+  "summary": "Greg's Sharpening Service is a family-owned sharpening shop in La Mesa, the kind of local shop neighbors pass along when they need knives, scissors, garden tools, or shears sharpened, with same-day work on many items. You're already on Google, as Greg's Sharpening & Cutlery Service, with photos and a phone number people can call, and you have a Nextdoor page too. The leftover that stood out is the website link on that Nextdoor page. It goes to epicureanexperience.com, which does not load the shop (the domain is listed for sale), so a neighbor who taps it never reaches the shop. Your Google listing has no website, which is fine for a shop like this, but that also means the Nextdoor link is the one people might follow. Taking that link down, or pointing it at something that's actually yours, would stop customers from ending up in the wrong place. A smaller thing to settle when you have a minute: the name shows up two ways, Greg's Sharpening Service on Nextdoor and Greg's Sharpening & Cutlery Service on Google. Picking one and using it in both places keeps things consistent. Your hours already match on Google and Nextdoor: 9 AM to 5 PM Tuesday through Friday, 9 AM to 4 PM Saturday, and closed Sunday and Monday.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You have a Google listing for Greg's Sharpening & Cutlery Service in La Mesa, and a Nextdoor page for Greg's Sharpening Service. That's a solid start. Neighbors already know where to send each other.",
+      "next": "Keep the Google listing in good shape as the place a new customer will look you up, and use the same shop name on Google and on Nextdoor."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (619) 469-9019, is on your Google listing and on your Nextdoor page. A referred customer can call you on the first try.",
+      "next": "Keep (619) 469-9019 as the single number on Google, on Nextdoor, and on any website link you add later."
+    },
+    {
+      "id": "hours",
+      "lamp": "lit",
+      "note": "Your hours already match on Google and Nextdoor: 9 AM to 5 PM Tuesday through Friday, 9 AM to 4 PM Saturday, and closed Sunday and Monday.",
+      "next": "If the hours ever change, update Google and Nextdoor together so they stay in sync."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Your Google listing already has photos, which helps a first-time customer know what to expect.",
+      "next": "Keep a few fresh photos on the listing when you can, so the page still looks like the shop people walk into."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "The website link on your Nextdoor page goes to epicureanexperience.com, which does not load the shop (the domain is listed for sale). A neighbor who taps it never reaches the shop. Your Google listing has no website, which is normal for a shop like this, but that means the broken Nextdoor link is the one people might follow.",
+      "next": "Take the website link off your Nextdoor page, or point it at a page that is actually yours. You can leave the website field on Google empty until you have one you want people to use."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "The La Mesa location is consistent on Google and Nextdoor, and we left the street off this page. The name isn't quite settled: Nextdoor says Greg's Sharpening Service, and Google says Greg's Sharpening & Cutlery Service.",
+      "next": "Pick one spelling of the name and use it on Google, on Nextdoor, and anywhere else, and keep the same name and number in both places."
+    }
+  ]
+}
