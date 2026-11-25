@@ -1,0 +1,49 @@
+{
+  "slug": "farm-fun-for-dogs",
+  "business": "Farm Fun for Dogs",
+  "town": "Jamul",
+  "website": "https://farmfunfordogs.com",
+  "phone": "(949) 285-5286",
+  "generated": "2026-11-25",
+  "prospectId": "1795625949909-6wadzx2",
+  "headline": "Your farm stay is easy to find. A few details could line up better.",
+  "summary": "Farm Fun for Dogs is a farm-stay dog boarding shop in Jamul, the kind of place neighbors pass along by word of mouth. You were named a Nextdoor Neighborhood Favorite in 2024, and you already have a Google listing with photos and a few reviews, which is a strong start. As we looked around, we noticed a few small things that don't quite match from place to place. The phone number on Google is (949) 285-5286, while Nextdoor shows (619) 202-5415, and your own site lists two numbers. The website link on Nextdoor doesn't seem to lead to your site. And the tab title on your site can show up as a placeholder. None of this is a big deal. Lining it up would make it easier for a dog owner to reach you on the first try and feel good about leaving their pup with you.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "lit",
+      "note": "You have a Google listing, Farm Fun for Dogs Boarding, listed as a pet boarding service and showing as open for business. You also have a Nextdoor page with a Neighborhood Favorite nod from 2024, and your own site with boarding and day care details.",
+      "next": "Keep that Google listing as the main front door, and keep Nextdoor and your site pointing the same direction."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "Google shows (949) 285-5286. Nextdoor shows (619) 202-5415, and your own site lists 619-361-4964 and 949-285-5286. A neighbor calling from Nextdoor may reach a different line than the one on Google.",
+      "next": "Pick the number you want people to call and use it on Google, Nextdoor, and your site. If you keep two lines on purpose, say so on the site so it's clear which is which."
+    },
+    {
+      "id": "hours",
+      "lamp": "dim",
+      "note": "Nextdoor shows Monday through Friday, 8 AM to 6 PM, and closed Saturday and Sunday. Google shows Monday through Friday 9 AM to 6 PM, Saturday 9 AM to 5 PM, and Sunday 9 AM to 4 PM. The weekday start time differs, and the weekend hours don't match.",
+      "next": "Check the hours you actually keep and set the same ones on Google and Nextdoor, including weekends. If drop-off times differ from open hours, a short line on the site helps."
+    },
+    {
+      "id": "photos",
+      "lamp": "lit",
+      "note": "Your Google listing already has photos, which helps a dog owner picture the farm stay before they call.",
+      "next": "Add a fresh photo or two now and then, like the play yards or a happy guest, so the listing keeps looking lived in."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "Your site at farmfunfordogs.com lays out boarding, day care, and the play yards, which is helpful. The tab title can show up as a placeholder, and the website link on your Nextdoor page doesn't seem to lead to your site.",
+      "next": "Change the tab title to your shop name, and update the Nextdoor website link to farmfunfordogs.com so a neighbor who clicks it lands in the right place."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your name and town match from place to place, but the phone number and the hours don't line up (weekday start time and weekend days). Your own site says the address is available on request, while Google and Nextdoor each show a street, and we left the street off this page.",
+      "next": "Use one phone number and one set of hours everywhere, and decide whether you want a street address shown publicly."
+    }
+  ]
+}
