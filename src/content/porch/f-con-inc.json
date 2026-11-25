@@ -6,8 +6,8 @@
   "phone": "(760) 504-6444",
   "generated": "2026-11-20",
   "prospectId": "1795193975414-x6b0yee",
-  "headline": "Your Google listing points to a site that doesn't load.",
-  "summary": "F-con inc is a Ramona roofing and general contracting shop, the kind of local outfit neighbors pass along when they need a roof or a broader project. On Nextdoor you were named a Neighborhood Favorite in 2025, and you already have a Google listing, which is a strong start. The biggest leftover is the website on that listing. The main Google listing links to f-con.us, but that site doesn't load right now, so anyone who taps Website from Google hits a dead end. A second leftover: we found two listings that share the same phone number. The main one, F-CON Roofing & General Contracting, is a service-area card. The second, Roofing & General Contracting | F-CON, is based in Ramona and is a thinner card with no website. Get the site loading again, or take the dead link off the listing, and then clear or merge the second card so neighbors land in one place.",
+  "headline": "A Learn more link on your Google listing points to a site that doesn't load.",
+  "summary": "F-con inc is a Ramona roofing and general contracting shop, the kind of local outfit neighbors pass along when they need a roof or a broader project. On Nextdoor you were named a Neighborhood Favorite in 2025, and you already have a Google listing, which is a strong start. The biggest leftover is a Learn more link in a From the owner post on that listing. That link points to f-con.us, but that site doesn't load right now, so anyone who taps it from Google hits a dead end. A second leftover: we found two listings that share the same phone number. The main one, F-CON Roofing & General Contracting, is a service-area card. The second, Roofing & General Contracting | F-CON, is based in Ramona and is a thinner card with no website. Get the site loading again, or take that Learn more link off the post, and then clear or merge the second card so neighbors land in one place.",
   "signals": [
     {
       "id": "found",
@@ -36,8 +36,8 @@
     {
       "id": "site",
       "lamp": "out",
-      "note": "The main Google listing links to f-con.us, but that address doesn't load right now, so anyone who taps Website hits a dead end. The second listing and your Nextdoor page don't list a website.",
-      "next": "Renew or replace the site and update the link on the listing you keep, or remove the link from Google until there's a working one."
+      "note": "A post in the From the owner section of your Google listing has a Learn more link that points to f-con.us, but that address doesn't load right now, so anyone who taps it hits a dead end. The website field on both Google listings is empty, and your Nextdoor page doesn't list a website either.",
+      "next": "Renew or replace the site and update that Learn more link, or take the link off the From the owner post until there's a working one."
     },
     {
       "id": "nap",
