@@ -1,0 +1,49 @@
+{
+  "slug": "spilman-landscaping",
+  "business": "Spilman Landscaping",
+  "town": "Ramona",
+  "website": "",
+  "phone": "(760) 270-5678",
+  "generated": "2026-11-27",
+  "prospectId": "1795798283043-flfwfmr",
+  "headline": "Neighbors already recommend you. Google hasn't met you yet.",
+  "summary": "Spilman Landscaping is a small irrigation shop in Ramona, the kind of local trade neighbors pass along when they need annual backflow testing, valve and manifold repair, or help with sprinkler leaks and resets. On Nextdoor you were named a Neighborhood Favorite in 2022, 2023, and 2024, and you still jump into Ramona irrigation threads with practical advice. The biggest leftover is Google. We couldn't find a Google listing for Spilman Landscaping at all, so anyone who searches Google for backflow testing in Ramona finds other shops instead. A free Google Business Profile would give people a clear place to find you. We didn't find a website, and your Nextdoor page doesn't list hours, so Nextdoor is the only home we can point people to right now.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "When we searched Google's business listings for Spilman Landscaping in Ramona, nothing came back for you. Other shops showed up, but they were different businesses. Your Nextdoor page is clearly working, including Neighborhood Favorite nods in 2022, 2023, and 2024. Customers who aren't on Nextdoor have no way to find you on Maps.",
+      "next": "Set up a free Google Business Profile for Spilman Landscaping in Ramona, and pick categories that match the irrigation and backflow work you actually take on."
+    },
+    {
+      "id": "call",
+      "lamp": "lit",
+      "note": "Your number, (760) 270-5678, is on your Nextdoor page, and that's a solid place for neighbors to reach you. A referred customer can call you on the first try.",
+      "next": "Keep (760) 270-5678 as the single number everywhere, including a new Google listing."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "Your Nextdoor page doesn't list hours, so people may not know when it's a good time to call.",
+      "next": "Add the hours you usually take calls to your Nextdoor page, and use the same hours on Google once the listing is up."
+    },
+    {
+      "id": "photos",
+      "lamp": "out",
+      "note": "Without a Google listing, there's no place for searchers to see examples of your work. For irrigation and backflow jobs, a few clear photos do a lot of the convincing.",
+      "next": "On your next few jobs, with the customer's okay, snap a couple of photos and add them to the Google listing once it exists."
+    },
+    {
+      "id": "site",
+      "lamp": "out",
+      "note": "We didn't find a website for Spilman Landscaping. For a small irrigation shop that's normal, but it means Nextdoor is your only home online. A Google listing can cover most of what a small website would.",
+      "next": "Start with the Google listing and use your Nextdoor page as its website link, so searchers can see what neighbors say. A simple one-page site can wait until you want it."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "Your phone and Ramona location are consistent on Nextdoor, and we left the street off this page. That's a good start. With no Google listing yet, there isn't a second public listing to compare against.",
+      "next": "Keep the same name and number on the new Google listing that you already use on Nextdoor. You can choose whether the listing shows a street or is set up as a service-area business."
+    }
+  ]
+}
