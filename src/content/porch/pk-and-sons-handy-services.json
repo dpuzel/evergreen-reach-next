@@ -1,0 +1,49 @@
+{
+  "slug": "pk-and-sons-handy-services",
+  "business": "Pk And Son's Handy Services",
+  "town": "Ramona",
+  "website": "http://www.facebook.com/pkandsonshandyservices",
+  "phone": "(760) 443-2542",
+  "generated": "2026-11-27",
+  "prospectId": "1795798289388-xekgndq",
+  "headline": "A neighbor searching Google for a Ramona handyman won't find you.",
+  "summary": "Pk And Son's Handy Services is a family handyman outfit in Ramona, the kind of local shop neighbors pass along when they need help with doors, drywall, flooring, light plumbing and electrical, or lighting. You're already on Nextdoor, where neighbors recommend you, and you were a Nextdoor Neighborhood Favorite in 2024 and 2025. You also have a Facebook page. The leftover that stood out is that we couldn't find a Google listing for the shop. A Ramona neighbor searching Maps for a handyman won't see you, and they may run into similarly named businesses instead, including a different shop in El Cajon. Adding a Google listing under the name you actually use, with your number and the area you cover, would give a new customer a clear way to find you. A smaller thing for later: your only website right now is Facebook. That's a fine place to post, but a simple page with your services and service area would give people a place to land that isn't only Facebook. We didn't find posted hours on this pass.",
+  "signals": [
+    {
+      "id": "found",
+      "lamp": "out",
+      "note": "We looked for a Google listing for Pk And Son's Handy Services in Ramona and didn't find one. A neighbor searching Maps for a handyman in town won't see you, even though you already have a Nextdoor page neighbors use to recommend you.",
+      "next": "Add a Google listing for the shop, so a Ramona neighbor searching for a handyman can find you on Maps."
+    },
+    {
+      "id": "call",
+      "lamp": "dim",
+      "note": "Your number, (760) 443-2542, is on your Nextdoor page, so a neighbor who already found you there can call. It isn't on Google yet, because there's no listing.",
+      "next": "Once you have a Google listing, put (760) 443-2542 on it too, and keep that as the single number everywhere."
+    },
+    {
+      "id": "hours",
+      "lamp": "out",
+      "note": "We didn't find posted hours on this pass, and there's no Google listing to show them on yet.",
+      "next": "When you add a Google listing, put the hours you actually keep on it, and use the same hours on Nextdoor if you post them there."
+    },
+    {
+      "id": "photos",
+      "lamp": "dim",
+      "note": "There's no Google listing yet, so there's no photo on Maps for a first-time customer to see. Your Nextdoor page has a photo gallery, so neighbors who already found you there can see the work. Those photos just aren't on Maps yet.",
+      "next": "When you add a Google listing, put a few photos of real jobs on it, so a neighbor can see the kind of work you do."
+    },
+    {
+      "id": "site",
+      "lamp": "dim",
+      "note": "Your Nextdoor page lists a Facebook page, facebook.com/pkandsonshandyservices, and we didn't find a shop website of your own. Facebook is a fine place to post, but a neighbor who isn't on Facebook may not have a simple page that lists your services and the area you cover.",
+      "next": "A simple page with your services, the Ramona area you cover, and your number would give people a place to land that isn't only Facebook. You can add that later on the Google listing too."
+    },
+    {
+      "id": "nap",
+      "lamp": "dim",
+      "note": "A similarly named business, PK Handy Construction in El Cajon, can show up in the same kind of search. That's a different shop with a different number, and it can make it harder for a Ramona neighbor to tell you apart, especially while you're missing from Google. We left the street off this page.",
+      "next": "A Google listing under the name you actually use, with your number and the Ramona area you cover, would make it easier for a local customer to pick you out from the lookalikes."
+    }
+  ]
+}
